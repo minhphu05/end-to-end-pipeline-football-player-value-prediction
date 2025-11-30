@@ -1,0 +1,544 @@
+,Name,Club,Age,Height,National,Positions
+0,Benjamin Bourigeaud,Rennes,31 years old (14-01-1994),178cm,France,"Midfielder (Centre, Left, Right)"
+1,Logan Costa,Villarreal,24 years old (01-04-2001),190cm,France,Defender (Centre)
+2,Ousmane Dembélé,Paris Saint-Germain,27 years old (15-05-1997),178cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+3,Ismail Jakobs,Galatasaray,25 years old (17-08-1999),184cm,Senegal,"Defender (Left), Midfielder (Left)"
+4,Amine Gouiri,Marseille,25 years old (16-02-2000),180cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+5,Mika Biereth,Monaco,22 years old (08-02-2003),187cm,,Forward
+6,Mason Greenwood,Marseille,23 years old (01-10-2001),181cm,Jamaica,"Attacking Midfielder (Centre, Left, Right), Forward"
+7,Rayan Cherki,Lyon,21 years old (17-08-2003),180cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+8,Andrey Santos,Strasbourg,20 years old (03-05-2004),180cm,Brazil,Defensive Midfielder (C)
+9,Achraf Hakimi,Paris Saint-Germain,26 years old (04-11-1998),181cm,Morocco,"Defender (Left, Right), Midfielder (Right)"
+10,Bradley Barcola,Paris Saint-Germain,22 years old (02-09-2002),182cm,France,"Attacking Midfielder (Left, Right), Forward"
+11,Gaëtan Perrin,Auxerre,28 years old (07-06-1996),169cm,France,"Attacking Midfielder (Centre, Left, Right)"
+12,Jonathan Clauss,Nice,32 years old (25-09-1992),178cm,France,"Defender (Right), Midfielder (Left, Right)"
+13,Désiré Doué,Paris Saint-Germain,19 years old (03-06-2005),181cm,France,"Attacking Midfielder (Centre, Left, Right)"
+14,Jérémy Jacquet,Rennes,19 years old (13-07-2005),188cm,France,Defender (Centre)
+15,João Neves,Paris Saint-Germain,20 years old (27-09-2004),174cm,Portugal,Defensive Midfielder (C)
+16,Evann Guessand,Nice,23 years old (01-07-2001),185cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+17,Dilane Bakwa,Strasbourg,22 years old (26-08-2002),180cm,France,"Midfielder (Centre, Left, Right)"
+18,Khvicha Kvaratskhelia,Paris Saint-Germain,24 years old (12-02-2001),183cm,Georgia,"Attacking Midfielder (Centre, Left, Right), Forward"
+19,Ludovic Blas,Rennes,27 years old (31-12-1997),180cm,France,"Midfielder (Centre, Left, Right), Forward"
+20,Corentin Tolisso,Lyon,30 years old (03-08-1994),181cm,France,"Defender (Right), Midfielder (Centre, Right)"
+21,Lee Kang-In,Paris Saint-Germain,24 years old (19-02-2001),173cm,South Korea,"Midfielder (Centre, Left, Right), Forward"
+22,Théo De Percin,Auxerre,24 years old (02-02-2001),185cm,France,Goalkeeper
+23,Benjamin André,Lille,34 years old (03-08-1990),180cm,France,"Defender (Right), Midfielder (Centre, Left, Right)"
+24,Jubal,Auxerre,31 years old (29-08-1993),190cm,Brazil,Defender (Centre)
+25,Djordje Petrovic,Strasbourg,25 years old (08-10-1999),194cm,Serbia,Goalkeeper
+26,Diego Moreira,Strasbourg,20 years old (06-08-2004),179cm,Portugal,"Defender (Left), Midfielder (Left)"
+27,Adrien Rabiot,Marseille,30 years old (03-04-1995),188cm,France,"Midfielder (Centre, Left)"
+28,Moses Simon,Nantes,29 years old (12-07-1995),168cm,Nigeria,"Midfielder (Centre, Left, Right), Forward"
+29,Lilian Brassier,Rennes,25 years old (02-11-1999),186cm,France,"Defender (Centre, Left)"
+30,Pierre-Emile Højbjerg,Marseille,29 years old (05-08-1995),185cm,Denmark,Midfielder (Centre)
+31,Ludovic Ajorque,Brest,31 years old (25-02-1994),197cm,France,Forward
+32,Edon Zhegrova,Lille,26 years old (31-03-1999),181cm,,Attacking Midfielder (Right)
+33,Maghnes Akliouche,Monaco,23 years old (25-02-2002),183cm,France,"Attacking Midfielder (Centre, Right)"
+34,Valentín Barco,Strasbourg,20 years old (23-07-2004),170cm,Argentina,"Defender (Left), Midfielder (Centre, Left)"
+35,Kevin Danso,Tottenham,26 years old (19-09-1998),190cm,Austria,Defender (Centre)
+36,Gaëtan Laborde,Nice,30 years old (03-05-1994),181cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+37,Luis Henrique,Marseille,23 years old (14-12-2001),181cm,Brazil,"Midfielder (Left, Right)"
+38,Emmanuel Agbadou,Wolves,27 years old (17-06-1997),192cm,Ivory Coast,"Defender (Centre, Right), Defensive Midfielder (C)"
+39,Lamine Camara,Monaco,21 years old (01-01-2004),173cm,Senegal,Midfielder (Centre)
+40,Yehvann Diouf,Reims,25 years old (16-11-1999),188cm,France,Goalkeeper
+41,Djaoui Cissé,Rennes,21 years old (31-01-2004),188cm,France,Midfielder (Centre)
+42,Hamed Traoré,Auxerre,25 years old (16-02-2000),184cm,Ivory Coast,"Attacking Midfielder (Centre, Left, Right)"
+43,Jonathan David,Lille,25 years old (14-01-2000),175cm,Canada,"Attacking Midfielder (Centre), Forward"
+44,Hicham Boudaoui,Nice,25 years old (23-09-1999),175cm,Algeria,"Midfielder (Centre, Right)"
+45,Przemyslaw Frankowski,Galatasaray,30 years old (12-04-1995),175cm,Poland,"Defender (Right), Midfielder (Centre, Left, Right)"
+46,Vitinha,Paris Saint-Germain,25 years old (13-02-2000),172cm,Portugal,Midfielder (Centre)
+47,Denis Zakaria,Monaco,28 years old (20-11-1996),191cm,Switzerland,"Defender (Centre), Defensive Midfielder (C)"
+48,Vanderson,Monaco,23 years old (21-06-2001),173cm,Brazil,"Defender (Right), Midfielder (Right)"
+49,Marco Asensio,Aston Villa,29 years old (21-01-1996),182cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+50,Emanuel Emegha,Strasbourg,22 years old (03-02-2003),195cm,Netherlands,Forward
+51,Thilo Kehrer,Monaco,28 years old (21-09-1996),186cm,Germany,"Defender (Centre, Left, Right), Midfielder (Right)"
+52,Junya Ito,Reims,32 years old (09-03-1993),176cm,Japan,"Midfielder (Left, Right), Forward"
+53,Nathan Zézé,Nantes,19 years old (18-06-2005),190cm,,Defender (Centre)
+54,Nicolás Tagliafico,Lyon,32 years old (31-08-1992),172cm,Argentina,"Defender (Centre, Left), Midfielder (Left)"
+55,Donovan Léon,Auxerre,32 years old (03-11-1992),187cm,France,Goalkeeper
+56,Karl-Johan Johnsson,Strasbourg,35 years old (28-01-1990),188cm,Sweden,Goalkeeper
+57,Nuno Mendes,Paris Saint-Germain,22 years old (19-06-2002),180cm,Portugal,"Defender (Left), Midfielder (Left)"
+58,Guéla Doué,Strasbourg,22 years old (17-10-2002),187cm,France,"Defender (Centre, Right)"
+59,Hákon Haraldsson,Lille,22 years old (10-04-2003),180cm,,"Attacking Midfielder (Centre, Left, Right), Forward"
+60,Charlie Cresswell,Toulouse,22 years old (17-08-2002),187cm,England,Defender (Centre)
+61,Youssouf Ndayishimiye,Nice,26 years old (27-10-1998),183cm,Burundi,"Defender (Centre), Defensive Midfielder (C)"
+62,Cristian Cásseres,Toulouse,25 years old (20-01-2000),176cm,Venezuela,"Midfielder (Centre, Right)"
+63,Mahdi Camara,Brest,26 years old (30-06-1998),178cm,France,"Defender (Centre, Right), Midfielder (Centre)"
+64,Patrik Carlgren,Nantes,33 years old (08-01-1992),188cm,Sweden,Goalkeeper
+65,Marquinhos,Paris Saint-Germain,30 years old (14-05-1994),183cm,Brazil,"Defender (Centre, Right), Defensive Midfielder (C)"
+66,Wilfried Singo,Monaco,24 years old (25-12-2000),190cm,Ivory Coast,"Defender (Centre, Right), Midfielder (Right)"
+67,Marcin Bulka,Nice,25 years old (04-10-1999),199cm,Poland,Goalkeeper
+68,Gideon Mensah,Auxerre,26 years old (18-07-1998),178cm,Ghana,"Defender (Left), Midfielder (Left)"
+69,Anthony Rouault,Rennes,23 years old (29-05-2001),186cm,France,Defender (Centre)
+70,Tiago Santos,Lille,22 years old (23-07-2002),175cm,,Defender (Right)
+71,Fabián Ruiz,Paris Saint-Germain,29 years old (03-04-1996),189cm,Spain,"Midfielder (Centre, Left)"
+72,Aleksandr Golovin,Monaco,28 years old (30-05-1996),178cm,Russia,"Midfielder (Centre, Left, Right)"
+73,Melvin Bard,Nice,24 years old (06-11-2000),173cm,France,"Defender (Centre, Left), Midfielder (Left)"
+74,Juma Bah,Lens,19 years old (11-04-2006),195cm,,Defender (Centre)
+75,Abdukodir Khusanov,Manchester City,21 years old (29-02-2004),186cm,Uzbekistan,Defender (Centre)
+76,Willian Pacho,Paris Saint-Germain,23 years old (16-10-2001),188cm,Ecuador,Defender (Centre)
+77,Mathew Ryan,Lens,33 years old (08-04-1992),184cm,Australia,Goalkeeper
+78,Yahia Fofana,Angers,24 years old (21-08-2000),194cm,Ivory Coast,Goalkeeper
+79,Zuriko Davitashvili,Saint-Etienne,24 years old (15-02-2001),175cm,Georgia,"Attacking Midfielder (Centre, Left, Right)"
+80,Gabriel Suazo,Toulouse,27 years old (09-08-1997),178cm,Chile,"Defender (Left), Midfielder (Left)"
+81,Azor Matusiwa,Rennes,27 years old (28-04-1998),173cm,Netherlands,Defensive Midfielder (C)
+82,Baptiste Santamaría,Nice,30 years old (09-03-1995),183cm,France,Defensive Midfielder (C)
+83,Lucas Perri,Lyon,27 years old (10-12-1997),197cm,Brazil,Goalkeeper
+84,Alexsandro Ribeiro,Lille,25 years old (09-08-1999),189cm,Brazil,Defender (Centre)
+85,Douglas Augusto,Nantes,28 years old (13-01-1997),173cm,Brazil,Defensive Midfielder (C)
+86,Alidu Seidu,Rennes,24 years old (04-06-2000),173cm,Ghana,"Defender (Centre, Right)"
+87,Ali Abdi,Nice,31 years old (20-12-1993),183cm,Tunisia,Midfielder (Left)
+88,Alexandre Lacazette,Lyon,33 years old (28-05-1991),175cm,France,"Midfielder (Centre, Left, Right), Forward"
+89,Morgan Sanson,Nice,30 years old (18-08-1994),180cm,France,"Midfielder (Centre, Left, Right)"
+90,Aron Dønnum,Toulouse,27 years old (20-04-1998),179cm,Norway,"Midfielder (Centre, Left, Right)"
+91,Adrien Thomasson,Lens,31 years old (10-12-1993),175cm,France,"Midfielder (Centre, Left, Right)"
+92,Hervé Koffi,Lens,28 years old (16-10-1996),186cm,Burkina Faso,Goalkeeper
+93,Eliesse Ben Seghir,Monaco,20 years old (16-02-2005),178cm,Morocco,"Attacking Midfielder (Centre, Left), Forward"
+94,Marshall Munetsi,Wolves,28 years old (22-06-1996),188cm,Zimbabwe,"Defender (Centre), Midfielder (Centre)"
+95,Ismaël Bennacer,Marseille,27 years old (01-12-1997),175cm,Algeria,Midfielder (Centre)
+96,Caio Henrique,Monaco,27 years old (31-07-1997),178cm,Brazil,"Defender (Left), Midfielder (Centre, Left)"
+97,Mory Gbane,Reims,24 years old (25-12-2000),188cm,Ivory Coast,"Defender (Centre), Defensive Midfielder (C)"
+98,Brice Samba,Rennes,31 years old (25-04-1994),187cm,France,Goalkeeper
+99,Gift Orban,Hoffenheim,22 years old (17-07-2002),178cm,Nigeria,Forward
+100,Tanguy Ndombélé,Nice,28 years old (28-12-1996),181cm,France,Midfielder (Centre)
+101,Leonardo Balerdi,Marseille,26 years old (26-01-1999),187cm,Argentina,Defender (Centre)
+102,Yanis Zouaoui,Le Havre,27 years old (28-04-1998),183cm,,Defender (Left)
+103,Gonçalo Ramos,Paris Saint-Germain,23 years old (20-06-2001),185cm,Portugal,"Attacking Midfielder (Centre), Forward"
+104,Mohammed Salisu,Monaco,26 years old (17-04-1999),191cm,Ghana,"Defender (Centre, Left)"
+105,Ismaily,Lille,35 years old (11-01-1990),177cm,Brazil,Defender (Left)
+106,Beraldo,Paris Saint-Germain,21 years old (24-11-2003),186cm,,"Defender (Centre, Left)"
+107,Lucas Stassin,Saint-Etienne,20 years old (29-11-2004),171cm,Belgium,Forward
+108,Adrien Truffert,Rennes,23 years old (20-11-2001),176cm,France,"Defender (Left), Midfielder (Left)"
+109,Neil El Aynaoui,Lens,23 years old (02-07-2001),185cm,France,Defensive Midfielder (C)
+110,Julien Le Cardinal,Brest,27 years old (03-08-1997),182cm,France,Defender (Centre)
+111,Arnaud Kalimuendo,Rennes,23 years old (20-01-2002),178cm,France,Forward
+112,Pierre Lees-Melou,Brest,31 years old (25-05-1993),185cm,France,"Midfielder (Centre, Left, Right)"
+113,Kenny Lala,Brest,33 years old (03-10-1991),178cm,France,"Defender (Left, Right), Midfielder (Right)"
+114,Gerónimo Rulli,Marseille,32 years old (20-05-1992),189cm,Argentina,Goalkeeper
+115,Clinton Mata,Lyon,32 years old (07-11-1992),180cm,Angola,"Defender (Centre, Right), Midfielder (Right)"
+116,Himad Abdelli,Angers,25 years old (17-11-1999),185cm,France,"Attacking Midfielder (Centre, Left), Forward"
+117,Joseph Okumu,Reims,27 years old (26-05-1997),193cm,Kenya,Defender (Centre)
+118,Milan Skriniar,Fenerbahce,30 years old (11-02-1995),188cm,Slovakia,Defender (Centre)
+119,Keito Nakamura,Reims,24 years old (28-07-2000),180cm,,Attacking Midfielder (Left)
+120,Pierre Ekwah,Saint-Etienne,23 years old (15-01-2002),189cm,France,Defensive Midfielder (C)
+121,Vincent Sierro,Toulouse,29 years old (08-10-1995),185cm,Switzerland,Midfielder (Centre)
+122,Sebastian Nanasi,Strasbourg,22 years old (16-05-2002),178cm,Sweden,"Attacking Midfielder (Centre, Left), Forward"
+123,Malick Fofana,Lyon,20 years old (31-03-2005),169cm,Belgium,Midfielder (Left)
+124,Lorenz Assignon,Rennes,24 years old (22-06-2000),179cm,France,"Defender (Right), Midfielder (Right)"
+125,Brice Samba,Rennes,31 years old (25-04-1994),187cm,France,Goalkeeper
+126,Brendan Chardonnet,Brest,30 years old (22-12-1994),181cm,France,Defender (Centre)
+127,Abdoulaye Touré,Le Havre,31 years old (03-03-1994),188cm,France,Defensive Midfielder (C)
+128,Gautier Lloris,Le Havre,29 years old (18-07-1995),191cm,France,Defender (Centre)
+129,Clément Akpa,Auxerre,23 years old (24-11-2001),181cm,,Defender (Centre)
+130,Bafodé Diakité,Lille,24 years old (06-01-2001),185cm,France,"Defender (Centre, Right)"
+131,Thomas Meunier,Lille,33 years old (12-09-1991),190cm,Belgium,"Defender (Right), Midfielder (Right)"
+132,Lucas Chevalier,Lille,23 years old (06-11-2001),189cm,France,Goalkeeper
+133,Duje Caleta-Car,Lyon,28 years old (17-09-1996),192cm,Croatia,Defender (Centre)
+134,Téji Savanier,Montpellier,33 years old (22-12-1991),172cm,France,Midfielder (Centre)
+135,Jonathan Gradit,Lens,32 years old (24-11-1992),180cm,France,"Defender (Centre, Right)"
+136,Abdoulaye Ndiaye,Brest,23 years old (10-04-2002),185cm,Senegal,Defender (Centre)
+137,Christopher Opéri,Istanbul Basaksehir,28 years old (29-04-1997),183cm,France,"Defender (Left), Midfielder (Left)"
+138,Lassine Sinayoko,Auxerre,25 years old (08-12-1999),186cm,Mali,"Attacking Midfielder (Left, Right), Forward"
+139,Kévin Danois,Auxerre,20 years old (28-06-2004),183cm,France,Midfielder (Centre)
+140,Cédric Kipré,Reims,28 years old (09-12-1996),193cm,France,Defender (Centre)
+141,Amir Murillo,Marseille,29 years old (11-02-1996),184cm,Panama,"Defender (Centre, Left, Right), Midfielder (Right)"
+142,Al Musrati,Monaco,29 years old (06-04-1996),189cm,Libya,Defensive Midfielder (C)
+143,Arnaud Nordin,Mainz 05,26 years old (17-06-1998),170cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+144,Warren Zaïre-Emery,Paris Saint-Germain,19 years old (08-03-2006),178cm,France,"Defender (Right), Defensive Midfielder (C), Midfielder (Right)"
+145,Ruben Aguilar,Lens,32 years old (26-04-1993),172cm,France,"Defender (Right), Midfielder (Right)"
+146,Rasmus Nicolaisen,Toulouse,28 years old (16-03-1997),191cm,Denmark,Defender (Centre)
+147,Issa Soumaré,Le Havre,24 years old (10-10-2000),182cm,Senegal,"Attacking Midfielder (Left), Forward"
+148,Sinaly Diomandé,Auxerre,24 years old (09-04-2001),184cm,Ivory Coast,"Defender (Centre, Right)"
+149,Valentin Rongier,Marseille,30 years old (07-12-1994),172cm,France,"Defender (Right), Midfielder (Centre)"
+150,Romain Del Castillo,Brest,29 years old (29-03-1996),172cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+151,Mamadou Sarr,Strasbourg,19 years old (29-08-2005),194cm,France,Defender (Centre)
+152,Habib Diarra,Strasbourg,21 years old (03-01-2004),179cm,France,"Midfielder (Centre, Left, Right)"
+153,Geoffrey Kondogbia,Marseille,32 years old (15-02-1993),188cm,Central African Rep.,"Defender (Centre), Defensive Midfielder (C)"
+154,Andrew Omobamidele,Strasbourg,22 years old (23-06-2002),188cm,Ireland,Defender (Centre)
+155,Joshua King,Toulouse,33 years old (15-01-1992),180cm,Norway,"Attacking Midfielder (Centre, Left, Right), Forward"
+156,Mathias Pereira Lage,Brest,28 years old (30-11-1996),180cm,France,"Midfielder (Centre, Left, Right)"
+157,Saïdou Sow,Nantes,22 years old (04-07-2002),187cm,Guinea,Defender (Centre)
+158,Matthis Abline,Nantes,22 years old (28-03-2003),176cm,France,"Attacking Midfielder (Left, Right), Forward"
+159,Florent Hanin,Angers,35 years old (04-02-1990),177cm,France,"Defender (Left), Midfielder (Left)"
+160,Leo Østigård,Hoffenheim,25 years old (28-11-1999),182cm,Norway,Defender (Centre)
+161,Farid El Melali,Angers,27 years old (13-07-1997),168cm,Algeria,"Defender (Right), Midfielder (Left, Right)"
+162,Amine Harit,Marseille,27 years old (18-06-1997),180cm,Morocco,"Attacking Midfielder (Centre, Left, Right), Forward"
+163,Jordan Lefort,Angers,31 years old (09-08-1993),184cm,France,"Defender (Centre, Left)"
+164,Matvey Safonov,Paris Saint-Germain,26 years old (25-02-1999),192cm,Russia,Goalkeeper
+165,Mohamed Abdelmonem,Nice,26 years old (01-02-1999),183cm,Egypt,Defender (Centre)
+166,Félix Lemaréchal,Strasbourg,21 years old (07-08-2003),180cm,France,Midfielder (Centre)
+167,Beres Owusu,Quevilly,21 years old (19-09-2003),,France,Defender
+168,Ainsley Maitland-Niles,Lyon,27 years old (29-08-1997),177cm,England,"Defender (Left, Right), Midfielder (Centre, Left, Right)"
+169,Rémy Cabella,Lille,35 years old (08-03-1990),171cm,France,"Midfielder (Centre, Left, Right), Forward"
+170,Haris Belkebla,Angers,31 years old (28-01-1994),177cm,Algeria,Defensive Midfielder (C)
+171,Gianluigi Donnarumma,Paris Saint-Germain,26 years old (25-02-1999),196cm,Italy,Goalkeeper
+172,Gabriel Osho,Auxerre,26 years old (14-08-1998),185cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+173,Mohamed-Ali Cho,Nice,21 years old (19-01-2004),181cm,France,"Attacking Midfielder (Centre, Right), Forward"
+174,Valentin Atangana Edoa,Reims,19 years old (25-08-2005),173cm,France,Defensive Midfielder (C)
+175,Jean-Eudes Aholou,Angers,31 years old (20-03-1994),186cm,Ivory Coast,Defensive Midfielder (C)
+176,Mathieu Gorgelin,Le Havre,34 years old (05-08-1990),187cm,France,Goalkeeper
+177,Takumi Minamino,Monaco,30 years old (16-01-1995),172cm,Japan,"Attacking Midfielder (Centre, Left, Right), Forward"
+178,Sofiane Diop,Nice,24 years old (09-06-2000),175cm,France,"Attacking Midfielder (Centre, Left, Right)"
+179,Yann Gboho,Toulouse,24 years old (14-01-2001),178cm,Ivory Coast,"Attacking Midfielder (Centre, Left), Forward"
+180,Mitchel Bakker,Lille,24 years old (20-06-2000),185cm,Netherlands,"Defender (Left), Midfielder (Left, Right)"
+181,Sam Amo-Ameyaw,Strasbourg,18 years old (18-07-2006),174cm,,Forward
+182,Djibril Sidibé,Toulouse,32 years old (29-07-1992),182cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+183,Moussa Niakhaté,Lyon,29 years old (08-03-1996),190cm,Senegal,"Defender (Centre, Left)"
+184,Chuba Akpom,Lille,29 years old (09-10-1995),183cm,England,"Attacking Midfielder (Centre, Right), Forward"
+185,Osame Sahraoui,Lille,23 years old (11-06-2001),170cm,Norway,Attacking Midfielder (Left)
+186,Justin Bourgault,Brest,19 years old (14-09-2005),,France,Defender
+187,Facundo Medina,Lens,25 years old (28-05-1999),184cm,Argentina,"Defender (Centre, Left)"
+188,Yaya Fofana,Reims,20 years old (12-06-2004),180cm,Mali,Midfielder (Centre)
+189,Elisha Owusu,Auxerre,27 years old (07-11-1997),182cm,France,Defensive Midfielder (C)
+190,Junior Mwanga,Le Havre,21 years old (11-05-2003),184cm,France,Defensive Midfielder (C)
+191,Gautier Larsonneur,Saint-Etienne,28 years old (23-02-1997),181cm,France,Goalkeeper
+192,Sergio Akieme,Reims,27 years old (16-12-1997),175cm,Equatorial Guinea,"Defender (Left), Midfielder (Left)"
+193,Amadou Koné,Reims,19 years old (14-05-2005),185cm,,Defensive Midfielder (C)
+194,Nicolas Pallois,Nantes,37 years old (19-09-1987),190cm,,Defender (Centre)
+195,Breel Embolo,Monaco,28 years old (14-02-1997),187cm,Switzerland,"Attacking Midfielder (Centre, Right), Forward"
+196,Florian Sotoca,Lens,34 years old (25-10-1990),187cm,France,"Midfielder (Centre, Right), Forward"
+197,Ki-Jana Hoever,Auxerre,23 years old (18-01-2002),183cm,Netherlands,"Defender (Left, Right), Midfielder (Right)"
+198,Arouna Sangante,Le Havre,23 years old (12-04-2002),189cm,Senegal,"Defender (Centre, Right)"
+199,Kévin Pedro,Saint-Etienne,19 years old (21-02-2006),183cm,France,Defender
+200,Mark McKenzie,Toulouse,26 years old (25-02-1999),184cm,USA,Defender (Centre)
+201,Georges Mikautadze,Lyon,24 years old (31-10-2000),176cm,Georgia,Forward
+202,Christian Mawissa,Monaco,20 years old (18-04-2005),185cm,France,"Defender (Centre, Left)"
+203,Ismaël Doukouré,Strasbourg,21 years old (24-07-2003),183cm,France,"Defender (Centre), Defensive Midfielder (C)"
+204,Jhoanner Chávez,Lens,23 years old (25-04-2002),182cm,Ecuador,"Defender (Left), Midfielder (Left)"
+205,Josué Casimir,Le Havre,23 years old (24-09-2001),178cm,Guadeloupe,"Midfielder (Left, Right), Forward"
+206,Soungoutou Magassa,Monaco,21 years old (08-10-2003),188cm,France,"Defender (Centre), Defensive Midfielder (C)"
+207,Dante,Nice,41 years old (18-10-1983),188cm,Brazil,Defender (Centre)
+208,Jordan Siebatcheu,Reims,29 years old (26-04-1996),190cm,USA,Forward
+209,Philipp Köhn,Monaco,27 years old (02-04-1998),190cm,Switzerland,Goalkeeper
+210,Matias Fernandez-Pardo,Lille,20 years old (03-02-2005),183cm,,"Attacking Midfielder (Left), Forward"
+211,Léo Pétrot,Saint-Etienne,28 years old (15-04-1997),188cm,France,"Defender (Centre, Left)"
+212,Mousa Al Ta'mari,Rennes,27 years old (10-06-1997),175cm,Jordan,"Midfielder (Left, Right), Forward"
+213,Quentin Merlin,Marseille,22 years old (16-05-2002),174cm,France,"Defender (Left), Midfielder (Left)"
+214,Abner Vinícius,Lyon,24 years old (27-05-2000),182cm,,"Defender (Left), Midfielder (Left)"
+215,Romain Faivre,Brest,26 years old (14-07-1998),180cm,France,"Attacking Midfielder (Centre, Left, Right)"
+216,Tino Kadewere,Nantes,29 years old (05-01-1996),183cm,Zimbabwe,"Attacking Midfielder (Centre, Left, Right), Forward"
+217,Alban Lafont,Nantes,26 years old (23-01-1999),193cm,France,Goalkeeper
+218,Rares Ilie,Catanzaro,22 years old (19-04-2003),185cm,Romania,Midfielder
+219,Kamory Doumbia,Brest,22 years old (18-02-2003),170cm,Mali,Attacking Midfielder (Centre)
+220,Seko Fofana,Rennes,29 years old (07-05-1995),183cm,Ivory Coast,Midfielder (Centre)
+221,Anthony Lopes,Nantes,34 years old (01-10-1990),184cm,Portugal,Goalkeeper
+222,Christopher Wooh,Rennes,23 years old (18-09-2001),191cm,Cameroon,Defender (Centre)
+223,Luck Zogbé,Brest,20 years old (24-03-2005),178cm,Ivory Coast,Defender (Right)
+224,Gabriel Gudmundsson,Lille,26 years old (29-04-1999),180cm,Sweden,"Defender (Centre, Left), Midfielder (Left, Right)"
+225,Radoslaw Majecki,Monaco,25 years old (16-11-1999),193cm,Poland,Goalkeeper
+226,Jordan James,Rennes,20 years old (02-07-2004),182cm,Wales,"Midfielder (Centre, Left)"
+227,Carlens Arcus,Angers,28 years old (28-06-1996),180cm,Haiti,Defender (Right)
+228,Tom Louchet,Nice,21 years old (04-05-2003),176cm,France,"Defender (Right), Midfielder (Right)"
+229,Ngal'ayel Mukau,Lille,20 years old (03-11-2004),188cm,,Midfielder (Centre)
+230,Albert Grønbæk,Southampton,23 years old (23-05-2001),176cm,Denmark,"Attacking Midfielder (Centre, Left)"
+231,Johann Lepenant,Nantes,22 years old (22-10-2002),176cm,France,Midfielder (Centre)
+232,Jérémie Boga,Nice,28 years old (03-01-1997),172cm,Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward"
+233,Ulisses Garcia,Marseille,29 years old (11-01-1996),182cm,Switzerland,"Defender (Centre, Left), Defensive Midfielder (C), Midfielder (Left)"
+234,Ernest Nuamah,Lyon,21 years old (01-11-2003),178cm,,"Attacking Midfielder (Left, Right)"
+235,Mikayil Faye,Rennes,20 years old (14-07-2004),186cm,,Defender (Centre)
+236,Deiver Machado,Lens,31 years old (02-09-1993),180cm,Colombia,"Defender (Left), Midfielder (Left)"
+237,Marco Bizot,Brest,34 years old (10-03-1991),193cm,Netherlands,Goalkeeper
+238,Saïd Benrahma,Lyon,29 years old (10-08-1995),172cm,Algeria,"Attacking Midfielder (Centre, Left, Right)"
+239,Hans Hateboer,Rennes,31 years old (09-01-1994),185cm,Netherlands,"Defender (Centre, Right), Midfielder (Right)"
+240,Randal Kolo Muani,Juventus,26 years old (05-12-1998),187cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+241,Zakaria Aboukhlal,Toulouse,25 years old (18-02-2000),179cm,Morocco,"Attacking Midfielder (Centre, Left, Right), Forward"
+242,Lucas Hernández,Paris Saint-Germain,29 years old (14-02-1996),184cm,France,"Defender (Centre, Left)"
+243,Mostafa Mohamed,Nantes,27 years old (28-11-1997),185cm,,Forward
+244,Irvin Cardona,Saint-Etienne,27 years old (08-08-1997),185cm,France,"Attacking Midfielder (Left, Right), Forward"
+245,Koka,Le Havre,32 years old (05-03-1993),191cm,Egypt,Forward
+246,Nemanja Matic,Lyon,36 years old (01-08-1988),194cm,Serbia,Defensive Midfielder (C)
+247,Akor Adams,Sevilla,25 years old (29-01-2000),190cm,Nigeria,Forward
+248,Moïse Bombito,Nice,25 years old (30-03-2000),190cm,Canada,Defender (Centre)
+249,Modibo Sagnan,Montpellier,26 years old (14-04-1999),187cm,France,Defender (Centre)
+250,Massadio Haïdara,Brest,32 years old (02-12-1992),179cm,Mali,"Defender (Centre, Left), Midfielder (Left)"
+251,Goduine Koyalipou,Lens,25 years old (15-02-2000),184cm,France,Forward
+252,Saël Kumbedi,Lyon,20 years old (26-03-2005),175cm,France,"Defender (Right), Midfielder (Right)"
+253,Senny Mayulu,Paris Saint-Germain,18 years old (17-05-2006),183cm,France,Midfielder (Centre)
+254,Badredine Bouanani,Nice,20 years old (08-12-2004),177cm,France,"Attacking Midfielder (Centre, Right)"
+255,Ayyoub Bouaddi,Lille,17 years old (02-10-2007),186cm,France,Defensive Midfielder (C)
+256,Amine Gouiri,Marseille,25 years old (16-02-2000),180cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+257,Kazeem Olaigbe,Rennes,22 years old (02-01-2003),178cm,Belgium,"Attacking Midfielder (Centre, Left, Right), Forward"
+258,Mama Baldé,Brest,29 years old (06-11-1995),176cm,Guinea-Bissau,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+259,Mousa Al Ta'mari,Rennes,27 years old (10-06-1997),175cm,Jordan,"Midfielder (Left, Right), Forward"
+260,Abdallah Sima,Brest,23 years old (17-06-2001),188cm,Senegal,"Attacking Midfielder (Left, Right), Forward"
+261,Pablo Rosario,Nice,28 years old (07-01-1997),188cm,Netherlands,"Defender (Centre, Right), Defensive Midfielder (C)"
+262,Thiago Almada,Lyon,24 years old (26-04-2001),171cm,Argentina,"Attacking Midfielder (Centre, Left, Right), Forward"
+263,Louis Leroux,Nantes,19 years old (23-01-2006),184cm,,Midfielder (Centre)
+264,Emmanuel Biumla,Angers,19 years old (08-05-2005),185cm,,Defender (Centre)
+265,Anass Zaroury,Lens,24 years old (07-11-2000),176cm,Morocco,"Attacking Midfielder (Centre, Left), Forward"
+266,Aïssa Mandi,Lille,33 years old (22-10-1991),184cm,Algeria,"Defender (Centre, Left, Right)"
+267,Rabby Nzingoula,Montpellier,19 years old (25-11-2005),183cm,,Defensive Midfielder (C)
+268,Kelvin Amian,Nantes,27 years old (08-02-1998),180cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+269,Nicolas Cozza,Nantes,26 years old (08-01-1999),178cm,France,"Defender (Centre, Left), Midfielder (Left)"
+270,Rémy Labeau Lascary,Lens,22 years old (03-03-2003),184cm,,Forward
+271,Maxence Caqueret,Como,25 years old (15-02-2000),174cm,France,Midfielder (Centre)
+272,Tanner Tessmann,Lyon,23 years old (24-09-2001),188cm,USA,Defensive Midfielder (C)
+273,Mickaël Nadé,Saint-Etienne,26 years old (04-03-1999),186cm,France,Defender (Centre)
+274,Mahamadou Diawara,Le Havre,20 years old (17-02-2005),187cm,France,Midfielder (Centre)
+275,Aurélio Buta,Reims,28 years old (10-02-1997),172cm,Portugal,"Defender (Right), Midfielder (Right)"
+276,Nikola Maksimovic,Montpellier,33 years old (25-11-1991),193cm,Serbia,"Defender (Centre, Right), Midfielder (Right)"
+277,Soumaïla Coulibaly,Brest,21 years old (14-10-2003),191cm,France,Defender (Centre)
+278,Jean-Kévin Duverne,Kortrijk,27 years old (12-07-1997),184cm,France,"Defender (Centre, Left, Right)"
+279,Enzo Tchato,Montpellier,22 years old (23-11-2002),182cm,Cameroon,"Defender (Right), Midfielder (Right)"
+280,Andy Diouf,Lens,21 years old (17-05-2003),187cm,France,Midfielder (Centre)
+281,Mahamadou Nagida,Rennes,19 years old (28-06-2005),176cm,Cameroon,Midfielder (Left)
+282,Yassine Kechta,Le Havre,23 years old (25-02-2002),174cm,Morocco,Midfielder (Centre)
+283,Benjamin Lecomte,Montpellier,34 years old (26-04-1991),186cm,France,Goalkeeper
+284,M'Bala Nzola,Lens,28 years old (18-08-1996),185cm,Angola,Forward
+285,Angelo Fulgini,Lens,28 years old (20-08-1996),183cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+286,Oumar Diakité,Reims,21 years old (20-12-2003),182cm,Ivory Coast,Forward
+287,Ismaël Koné,Rennes,22 years old (16-06-2002),188cm,Canada,Midfielder (Centre)
+288,Jean-Charles Castelletto,Nantes,30 years old (26-01-1995),186cm,Cameroon,"Defender (Centre, Right)"
+289,Lasso Coulibaly,Auxerre,22 years old (19-10-2002),186cm,Ivory Coast,Midfielder
+290,Angel Gomes,Lille,24 years old (31-08-2000),168cm,England,"Midfielder (Centre, Left), Forward"
+291,Ümit Akdag,Toulouse,21 years old (06-10-2003),192cm,Turkey,Defender (Centre)
+292,André Gomes,Lille,31 years old (30-07-1993),188cm,Portugal,"Midfielder (Centre, Left, Right)"
+293,Neal Maupay,Marseille,28 years old (14-08-1996),173cm,France,"Attacking Midfielder (Centre), Forward"
+294,Derek Cornelius,Marseille,27 years old (25-11-1997),188cm,Canada,Defender (Centre)
+295,Rafik Messali,Toulouse,22 years old (28-04-2003),177cm,,Midfielder (Right)
+296,Loïc Nego,Le Havre,34 years old (15-01-1991),181cm,Hungary,"Defender (Right), Midfielder (Centre, Right)"
+297,Dennis Appiah,Saint-Etienne,32 years old (09-06-1992),179cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+298,Arthur Desmas,Le Havre,31 years old (07-04-1994),196cm,France,Goalkeeper
+299,Yoann Salmier,Clermont Foot,32 years old (21-11-1992),188cm,France,"Defender (Centre, Right)"
+300,Jordan Veretout,Lyon,32 years old (01-03-1993),177cm,France,Midfielder (Centre)
+301,Estéban Lepaul,Angers,25 years old (18-04-2000),177cm,France,Forward
+302,Kiki Kouyaté,Montpellier,28 years old (15-04-1997),192cm,Mali,Defender (Centre)
+303,Hamzat Ojediran,Lens,21 years old (14-11-2003),172cm,Nigeria,Midfielder
+304,Mamadou Diakhon,Reims,19 years old (22-09-2005),180cm,France,Forward
+305,Antoine Joujou,Le Havre,22 years old (12-03-2003),189cm,France,Attacking Midfielder (Left)
+306,Elye Wahi,Eintracht Frankfurt,22 years old (02-01-2003),184cm,France,"Attacking Midfielder (Left), Forward"
+307,Dimitry Bertaud,Montpellier,26 years old (06-06-1998),180cm,France,Goalkeeper
+308,Cédric Hountondji,Angers,31 years old (19-01-1994),194cm,France,Defender (Centre)
+309,Antoine Mendy,Nice,20 years old (27-05-2004),187cm,France,"Defender (Centre, Right)"
+310,Hugo Magnetti,Brest,26 years old (30-05-1998),180cm,France,Defensive Midfielder (C)
+311,Lucas Mincarelli,Montpellier,21 years old (05-01-2004),180cm,,Defender (Left)
+312,Jonathan Rowe,Marseille,22 years old (30-04-2003),178cm,England,"Attacking Midfielder (Centre, Left, Right)"
+313,Marwann N'Zuzi,Saint-Etienne,20 years old (16-05-2004),175cm,France,Defender
+314,Folarin Balogun,Monaco,23 years old (03-07-2001),178cm,USA,Forward
+315,Lilian Raolisoa,Angers,24 years old (16-06-2000),178cm,France,Defender (Right)
+316,Malang Sarr,Lens,26 years old (23-01-1999),183cm,France,"Defender (Centre, Left)"
+317,Daler Kuzyaev,Le Havre,32 years old (15-01-1993),182cm,Russia,"Defender (Right), Midfielder (Centre, Left, Right)"
+318,Rayan Raveloson,BSC Young Boys,28 years old (16-01-1997),182cm,Madagascar,"Defender (Centre, Right), Defensive Midfielder (C)"
+319,Louis Mouton,Saint-Etienne,22 years old (03-06-2002),189cm,France,Midfielder (Centre)
+320,Timothée Pembélé,Le Havre,22 years old (09-09-2002),183cm,France,"Defender (Centre, Right), Midfielder (Right)"
+321,Yoram Zague,Paris Saint-Germain,18 years old (15-05-2006),168cm,,Defender
+322,Sorba Thomas,Nantes,26 years old (25-01-1999),185cm,Wales,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+323,Benjamin Bouchouari,Saint-Etienne,23 years old (13-11-2001),165cm,Netherlands,Midfielder (Centre)
+324,Jaydee Canvot,Toulouse,18 years old (29-07-2006),188cm,,Defensive Midfielder (C)
+325,Zinedine Ferhat,Angers,32 years old (01-03-1993),183cm,Algeria,"Midfielder (Left, Right)"
+326,Jordan Amavi,Brest,31 years old (09-03-1994),176cm,France,"Defender (Left), Midfielder (Left)"
+327,Abdoulaye Bamba,Angers,35 years old (25-04-1990),182cm,Ivory Coast,"Defender (Centre, Left, Right), Midfielder (Right)"
+328,Becir Omeragic,Montpellier,23 years old (20-01-2002),187cm,Switzerland,"Defender (Centre), Defensive Midfielder (C)"
+329,Augustine Boakye,Saint-Etienne,24 years old (03-11-2000),178cm,Ghana,Attacking Midfielder (Right)
+330,Florian Tardieu,Saint-Etienne,33 years old (22-04-1992),181cm,France,Defensive Midfielder (C)
+331,Glen Kamara,Al Shabab,29 years old (28-10-1995),181cm,Finland,Midfielder (Centre)
+332,Baptiste Santamaría,Nice,30 years old (09-03-1995),183cm,France,Defensive Midfielder (C)
+333,Ado Onaiwu,Auxerre,29 years old (08-11-1995),180cm,Japan,Forward
+334,Warren Kamanzi,Toulouse,24 years old (11-11-2000),177cm,Norway,"Defender (Right), Midfielder (Right)"
+335,Abakar Sylla,Strasbourg,22 years old (25-12-2002),188cm,Ivory Coast,Defender (Centre)
+336,Marcus Coco,Nantes,28 years old (24-06-1996),184cm,France,"Defender (Right), Midfielder (Left, Right), Forward"
+337,Théo Sainte-Luce,Montpellier,26 years old (20-10-1998),176cm,France,Defender (Left)
+338,Grégoire Coudert,Brest,26 years old (03-04-1999),188cm,France,Goalkeeper
+339,Dylan Batubinsika,Saint-Etienne,29 years old (15-02-1996),188cm,France,Defender (Centre)
+340,André Ayew,Le Havre,35 years old (17-12-1989),175cm,Ghana,"Midfielder (Centre, Left, Right), Forward"
+341,Ibrahim Salah,Brest,23 years old (30-08-2001),185cm,,"Attacking Midfielder (Left), Forward"
+342,Theo Bair,Auxerre,25 years old (27-08-1999),191cm,,"Attacking Midfielder (Centre, Right), Forward"
+343,Youssoufa Moukoko,Nice,20 years old (20-11-2004),179cm,Germany,Forward
+344,Rassoul Ndiaye,Le Havre,23 years old (11-12-2001),179cm,France,Midfielder (Centre)
+345,Han-Noah Massengo,Auxerre,23 years old (07-07-2001),178cm,France,Midfielder (Centre)
+346,Plamedi Nsingi,Nantes,24 years old (17-12-2000),189cm,France,Forward
+347,Pedro Chirivella,Nantes,27 years old (23-05-1997),178cm,Spain,Defensive Midfielder (C)
+348,Issiaga Sylla,Montpellier,31 years old (01-01-1994),180cm,Guinea,"Defender (Left, Right), Midfielder (Left)"
+349,Jordan Teze,Monaco,25 years old (30-09-1999),183cm,Netherlands,"Defender (Centre, Right)"
+350,Nampalys Mendy,Lens,32 years old (23-06-1992),168cm,Senegal,Midfielder (Centre)
+351,Amar Dedic,Marseille,22 years old (18-08-2002),180cm,Bosnia-Herzegovina,"Defender (Right), Midfielder (Right)"
+352,Fodé Ballo-Touré,Le Havre,28 years old (03-01-1997),182cm,Senegal,"Defender (Left), Midfielder (Left)"
+353,Guillaume Restes,Toulouse,20 years old (11-03-2005),188cm,France,Goalkeeper
+354,Malcolm Jeng,Reims,20 years old (09-03-2005),190cm,Sweden,Defender
+355,Assane Dioussé,Auxerre,27 years old (20-09-1997),175cm,Senegal,Defensive Midfielder (C)
+356,Hiroki Sekine,Reims,22 years old (11-08-2002),187cm,Japan,Defender (Right)
+357,Steve Mandanda,Rennes,40 years old (28-03-1985),187cm,France,Goalkeeper
+358,Ibrahim Mbaye,Paris Saint-Germain,17 years old (24-01-2008),185cm,France,Forward
+359,John Patrick,Reims,21 years old (24-09-2003),192cm,Spain,Defensive Midfielder (C)
+360,George Ilenikhena,Monaco,18 years old (16-08-2006),185cm,France,Forward
+361,Joris Chotard,Montpellier,23 years old (24-09-2001),179cm,France,Defensive Midfielder (C)
+362,Kjetil Haug,Toulouse,26 years old (12-06-1998),190cm,Norway,Goalkeeper
+363,Mathieu Cafaro,Paris FC,28 years old (25-03-1997),178cm,France,"Attacking Midfielder (Centre, Left, Right)"
+364,Hianga'a Mbock,Red Star,25 years old (28-12-1999),186cm,France,Defensive Midfielder (C)
+365,Robinio Vaz,Marseille,18 years old (17-02-2007),185cm,,Forward
+366,Tanguy Coulibaly,Montpellier,24 years old (18-02-2001),178cm,France,"Midfielder (Centre, Left, Right), Forward"
+367,Mohamed Meïté,Rennes,17 years old (11-10-2007),191cm,,Forward
+368,Khalil Fayad,Montpellier,20 years old (09-06-2004),172cm,France,"Midfielder (Centre, Left)"
+369,Henrik Meister,Pisa,21 years old (13-11-2003),192cm,Denmark,Forward
+370,Wesley Saïd,Lens,30 years old (19-04-1995),171cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+371,Ismaël Koné,Rennes,22 years old (16-06-2002),188cm,Canada,Midfielder (Centre)
+372,Oussama Targhalline,Feyenoord,22 years old (20-05-2002),186cm,France,Midfielder (Centre)
+373,Frank Magri,Toulouse,25 years old (04-09-1999),178cm,France,"Attacking Midfielder (Centre), Forward"
+374,Niklas Schmidt,Toulouse,27 years old (01-03-1998),184cm,Germany,"Midfielder (Centre), Forward"
+375,Ibrahim Sissoko,Saint-Etienne,29 years old (27-11-1995),192cm,Mali,Forward
+376,Nicolas Pays,Montpellier,21 years old (07-07-2003),180cm,,Forward
+377,Yunis Abdelhamid,Saint-Etienne,37 years old (28-09-1987),190cm,Morocco,Defender (Centre)
+378,Bilal Nadir,Marseille,21 years old (28-11-2003),172cm,France,Attacking Midfielder (Centre)
+379,Yassin Belkhdim,Angers,23 years old (14-02-2002),175cm,France,Midfielder (Centre)
+380,Paul Joly,Auxerre,24 years old (07-06-2000),182cm,France,Defender (Right)
+381,Jim Allevinah,Angers,30 years old (27-02-1995),172cm,Gabon,"Midfielder (Centre, Left, Right)"
+382,Eliot Matazo,Hull,23 years old (15-02-2002),170cm,Belgium,Defensive Midfielder (C)
+383,Étienne Youté,Le Havre,23 years old (14-01-2002),196cm,France,Defender (Centre)
+384,Francis Coquelin,Nantes,33 years old (13-05-1991),176cm,France,"Midfielder (Centre, Left, Right)"
+385,Edimilson Fernandes,Brest,29 years old (15-04-1996),186cm,Switzerland,"Defender (Centre, Right), Midfielder (Centre, Right)"
+386,Shavy Babicka,Toulouse,24 years old (01-06-2000),179cm,Gabon,"Attacking Midfielder (Centre), Forward"
+387,Andrés Gómez,Rennes,22 years old (12-09-2002),171cm,Colombia,Attacking Midfielder (Right)
+388,Thibault De Smet,Paris FC,26 years old (05-06-1998),183cm,Belgium,"Defender (Left), Midfielder (Left)"
+389,Mamadou Coulibaly,Monaco,21 years old (21-04-2004),180cm,France,Midfielder
+390,Théo Pellenard,Laval,31 years old (04-03-1994),184cm,France,Defender (Left)
+391,Yaël Nandjou,Nice,19 years old (06-07-2005),185cm,France,Defender
+392,Fredrik Oppegård,Auxerre,22 years old (07-08-2002),175cm,Norway,Defender (Left)
+393,Yael Mouanga,Montpellier,19 years old (23-07-2005),183cm,,Defender (Centre)
+394,Denis Genreau,Deportivo La Coruna,25 years old (21-05-1999),175cm,Australia,Attacking Midfielder (Centre)
+395,Herba Guirassy,Nantes,18 years old (29-08-2006),177cm,,Forward
+396,Krépin Diatta,Monaco,26 years old (25-02-1999),175cm,Senegal,"Defender (Left, Right), Midfielder (Centre, Left, Right), Forward"
+397,Meschack Elia,Nantes,27 years old (06-08-1997),173cm,DR Congo,"Attacking Midfielder (Right), Forward"
+398,Ethan Mbappé,Lille,18 years old (29-12-2006),176cm,France,Midfielder
+399,Teddy Teuma,Reims,31 years old (30-09-1993),176cm,Malta,Attacking Midfielder (Centre)
+400,Ibrahima Niane,Angers,26 years old (11-03-1999),187cm,Senegal,"Attacking Midfielder (Left), Forward"
+401,Amidou Doumbouya,Nice,17 years old (05-08-2007),182cm,,Defender
+402,Jota,Celtic,26 years old (30-03-1999),175cm,Portugal,"Attacking Midfielder (Left, Right)"
+403,Emmanuel Sabbi,Vancouver Whitecaps,27 years old (24-12-1997),178cm,USA,"Attacking Midfielder (Centre, Left, Right), Forward"
+404,Kassoum Ouattara,Monaco,20 years old (14-10-2004),176cm,France,"Defender (Left), Midfielder (Left)"
+405,Mohamed Bayo,Royal Antwerp,26 years old (04-06-1998),188cm,Guinea,Forward
+406,Abdoul Ouattara,Strasbourg,19 years old (22-10-2005),178cm,France,Midfielder
+407,Aïmen Moueffek,Saint-Etienne,24 years old (09-04-2001),179cm,France,Defensive Midfielder (C)
+408,Abdoul Koné,Reims,20 years old (22-04-2005),192cm,France,Defender
+409,Presnel Kimpembe,Paris Saint-Germain,29 years old (13-08-1995),182cm,France,Defender (Centre)
+410,Saïdou Sow,Nantes,22 years old (04-07-2002),187cm,Guinea,Defender (Centre)
+411,Pierrick Capelle,Angers,38 years old (15-04-1987),181cm,France,"Defender (Left), Midfielder (Centre, Left, Right)"
+412,Yvann Maçon,Saint-Etienne,26 years old (01-10-1998),176cm,France,"Defender (Left, Right), Midfielder (Right)"
+413,Jonas Martin,Brest,35 years old (09-04-1990),184cm,France,"Midfielder (Centre, Left)"
+414,Andy Delort,Montpellier,33 years old (09-10-1991),182cm,Algeria,"Attacking Midfielder (Right), Forward"
+415,Reda Khadra,Reims,23 years old (04-07-2001),180cm,Germany,"Attacking Midfielder (Centre, Left, Right), Forward"
+416,Pol Lirola,Marseille,27 years old (13-08-1997),183cm,Spain,"Defender (Centre, Right), Midfielder (Left, Right)"
+417,Wahbi Khazri,Montpellier,34 years old (08-02-1991),176cm,Tunisia,"Midfielder (Centre, Left, Right), Forward"
+418,Billal Brahimi,St.Truiden,25 years old (14-03-2000),183cm,Algeria,"Attacking Midfielder (Centre, Left, Right), Forward"
+419,Nordine Kandil,Amiens,23 years old (31-10-2001),167cm,France,Forward
+420,Dehmaine Tabibou,Nantes,20 years old (17-04-2005),181cm,France,Midfielder
+421,Valentín Carboni,Marseille,20 years old (05-03-2005),185cm,Argentina,Attacking Midfielder (Centre)
+422,Junior Mwanga,Le Havre,21 years old (11-05-2003),184cm,France,Defensive Midfielder (C)
+423,Ben Old,Saint-Etienne,22 years old (13-08-2002),173cm,,Midfielder
+424,Martín Satriano,Lens,24 years old (20-02-2001),187cm,Uruguay,Forward
+425,Jordan Ferri,Montpellier,33 years old (12-03-1992),173cm,France,Midfielder (Centre)
+426,Jacques Ekomié,Angers,21 years old (19-08-2003),179cm,France,Defender (Left)
+427,Jeremy Agbonifo,Lens,19 years old (24-10-2005),178cm,,Forward
+428,Ange Tia,Reims,18 years old (20-11-2006),178cm,,Midfielder
+429,Nhoa Sangui,Reims,19 years old (27-02-2006),178cm,France,Defender (Left)
+430,Bamba Dieng,Angers,25 years old (23-03-2000),178cm,Senegal,"Attacking Midfielder (Left), Forward"
+431,Rémy Descamps,Lyon,28 years old (25-06-1996),194cm,France,Goalkeeper
+432,Sékou Mara,Strasbourg,22 years old (30-07-2002),184cm,France,Forward
+433,Pape Diong,Strasbourg,18 years old (15-06-2006),190cm,Senegal,Midfielder
+434,Noah Edjouma,Toulouse,19 years old (04-10-2005),181cm,France,Forward
+435,Edhy Zuliani,Toulouse,20 years old (11-08-2004),175cm,,Midfielder
+436,Ousmane Touré,Valenciennes,20 years old (18-02-2005),187cm,France,Defender
+437,Wilfried Zaha,Charlotte FC,32 years old (10-11-1992),180cm,Ivory Coast,"Attacking Midfielder (Left, Right), Forward"
+438,Maxime Bernauer,Saint-Etienne,26 years old (01-07-1998),186cm,France,Defender (Centre)
+439,Nabil Bentaleb,Lille,30 years old (24-11-1994),187cm,Algeria,Midfielder (Centre)
+440,Warmed Omari,Lyon,25 years old (23-04-2000),188cm,France,Defender (Centre)
+441,Fabien Centonze,Nantes,29 years old (16-01-1996),182cm,France,"Defender (Right), Midfielder (Right)"
+442,Lucas Michal,Monaco,19 years old (22-06-2005),172cm,France,Forward
+443,Florian Ayé,Auxerre,28 years old (19-01-1997),184cm,France,Forward
+444,Caleb Wiley,Watford,20 years old (22-12-2004),180cm,USA,"Defender (Left), Midfielder (Left)"
+445,Mathis Amougou,Chelsea,19 years old (18-01-2006),177cm,France,Midfielder (Centre)
+446,Ben Viadère,Auxerre,19 years old (02-09-2005),176cm,France,Forward
+447,Rayan Fofana,Lens,19 years old (12-02-2006),182cm,,Forward
+448,Florent Mollet,Nantes,33 years old (19-11-1991),170cm,France,"Attacking Midfielder (Centre, Left, Right)"
+449,Younes Lachaab,Lille,20 years old (06-01-2005),185cm,France,Forward
+450,Prosper Peter,Angers,17 years old (09-08-2007),,,Forward
+451,Marvin Senaya,FC Lausanne-Sport,24 years old (28-01-2001),181cm,France,"Defender (Right), Midfielder (Right)"
+452,Mama Baldé,Brest,29 years old (06-11-1995),176cm,Guinea-Bissau,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+453,Victor Orakpo,Nice,19 years old (14-01-2006),194cm,Nigeria,Forward
+454,Yanis Issoufou,Montpellier,18 years old (28-10-2006),182cm,,Forward
+455,Birama Touré,Montpellier,32 years old (06-06-1992),183cm,Mali,Defensive Midfielder (C)
+456,Ignatius Ganago,New England Revolution,26 years old (16-02-1999),179cm,Cameroon,"Attacking Midfielder (Left, Right), Forward"
+457,Kyllian Antonio,Lens,17 years old (04-01-2008),183cm,,Defender
+458,Sékou Doucouré,Nantes,20 years old (26-04-2005),187cm,France,Defender
+459,Óscar Perea,Strasbourg,19 years old (27-09-2005),174cm,Colombia,Forward
+460,Lilian Brassier,Rennes,25 years old (02-11-1999),186cm,France,"Defender (Centre, Left)"
+461,Othmane Maamma,Montpellier,19 years old (06-10-2005),180cm,Morocco,Forward
+462,Miha Zajc,Toulouse,30 years old (01-07-1994),180cm,Slovenia,"Midfielder (Centre), Forward"
+463,Pierre Cornud,Saint-Etienne,28 years old (12-12-1996),177cm,France,Defender (Left)
+464,Jérémy Sebas,SC Bastia,22 years old (14-04-2003),187cm,France,Forward
+465,Igor Miladinovic,Saint-Etienne,21 years old (08-06-2003),166cm,,Midfielder
+466,Naatan Skyttä,Dunkerque,22 years old (07-05-2002),170cm,Finland,Midfielder
+467,Tom Pouilly,Lens,21 years old (18-06-2003),180cm,France,Midfielder
+468,Eduard Sobol,Strasbourg,30 years old (20-04-1995),186cm,Ukraine,"Defender (Left), Midfielder (Left)"
+469,Axel Gueguin,Montpellier,20 years old (24-03-2005),170cm,France,Forward
+470,Martin Adeline,Troyes,21 years old (02-12-2003),180cm,France,Midfielder
+471,Gabriel Barès,Burgos CF,24 years old (29-08-2000),187cm,Switzerland,Midfielder
+472,Justin-Noël Kalumba,Angers,20 years old (25-12-2004),180cm,France,Defender (Left)
+473,Terem Moffi,Nice,25 years old (25-05-1999),188cm,Nigeria,"Attacking Midfielder (Right), Forward"
+474,Keyliane Abdallah,Marseille,19 years old (05-04-2006),185cm,France,Forward
+475,David Costa,Portland Timbers,24 years old (05-01-2001),168cm,Portugal,"Attacking Midfielder (Centre, Left)"
+476,Luiz Felipe,Marseille,28 years old (22-03-1997),187cm,Italy,Defender (Centre)
+477,Amine Salama,Reims,24 years old (18-07-2000),192cm,France,Forward
+478,Hamidou Makalou,Brest,18 years old (15-07-2006),164cm,Mali,Midfielder
+479,Issiaga Camara,Nice,20 years old (02-02-2005),175cm,,Midfielder (Centre)
+480,Ayanda Sishuba,Rennes,20 years old (02-02-2005),169cm,Belgium,Midfielder
+481,Orel Mangala,Everton,27 years old (18-03-1998),178cm,Belgium,Midfielder (Centre)
+482,Samuel Grandsir,Caen,28 years old (14-08-1996),170cm,France,"Attacking Midfielder (Left, Right)"
+483,Gabriel Moscardo,Reims,19 years old (28-09-2005),185cm,Brazil,Defensive Midfielder (C)
+484,Axel Camblan,Valenciennes,21 years old (30-08-2003),168cm,France,Midfielder
+485,Lamine Fomba,Saint-Etienne,27 years old (26-01-1998),188cm,France,Defensive Midfielder (C)
+486,Falaye Sacko,Montpellier,29 years old (01-05-1995),180cm,Mali,"Defender (Centre, Left, Right), Midfielder (Right)"
+487,Steve Ngoura,Cercle Bruges,20 years old (22-02-2005),185cm,France,Forward
+488,Saliou Diop,Brest,19 years old (12-05-2005),193cm,Senegal,Forward
+489,Naouirou Ahamada,Rennes,23 years old (29-03-2002),183cm,France,Midfielder (Centre)
+490,Álex Domínguez,Toulouse,26 years old (30-07-1998),187cm,Spain,Goalkeeper
+491,Sidiki Cherif,Angers,18 years old (15-12-2006),185cm,France,Forward
+492,Yoann Cisse,Auxerre,20 years old (13-12-2004),175cm,France,Midfielder
+493,Jean-Philippe Gbamin,FC Zuerich,29 years old (25-09-1995),186cm,Ivory Coast,"Defender (Centre, Right), Defensive Midfielder (C)"
+494,Junior Ndiaye,Montpellier,20 years old (29-03-2005),180cm,U.A.E.,Forward
+495,Djylian N'Guessan,Saint-Etienne,16 years old (30-08-2008),180cm,,Forward
+496,Enzo Sternal,Marseille,17 years old (28-05-2007),174cm,,Forward
+497,Zinédine Ould Khaled,Angers,25 years old (14-01-2000),195cm,France,Defender
+498,Ilyes Housni,Le Havre,19 years old (14-05-2005),176cm,,Forward
+499,Bamo Meïté,Montpellier,23 years old (03-12-2001),183cm,,Defender (Centre)
+500,Mohamed Bamba,Gil Vicente,20 years old (08-10-2004),177cm,Ivory Coast,Defensive Midfielder (C)
+501,Hafiz Ibrahim,Reims,19 years old (20-12-2005),190cm,,Forward
+502,Gauthier Gallon,Rennes,32 years old (23-04-1993),186cm,France,Goalkeeper
+503,Jibril Othman,Saint-Etienne,21 years old (26-04-2004),177cm,Tunisia,Forward
+504,Jordan Lotomba,Feyenoord,26 years old (29-09-1998),177cm,Switzerland,"Defender (Left, Right), Midfielder (Right)"
+505,Thomas Delaine,Strasbourg,33 years old (24-03-1992),180cm,France,"Defender (Left), Midfielder (Left, Right)"
+506,Adryelson,Anderlecht,27 years old (23-03-1998),183cm,Brazil,Defender (Centre)
+507,Alexi Koum,Marseille,19 years old (05-02-2006),180cm,,Defender
+508,Anthony Briançon,Saint-Etienne,30 years old (29-11-1994),185cm,France,Defender (Centre)
+509,Loïs Diony,Angers,32 years old (20-12-1992),183cm,France,"Attacking Midfielder (Left), Forward"
+510,Mohamed Daramy,Reims,23 years old (07-01-2002),180cm,Denmark,"Attacking Midfielder (Left), Forward"
+511,Ibrahima Wadji,Saint-Etienne,29 years old (05-05-1995),175cm,Senegal,Forward
+512,Darryl Bakola,Marseille,17 years old (30-11-2007),178cm,France,Midfielder
+513,Milos Lukovic,SC Heerenveen,19 years old (18-11-2005),184cm,Serbia,Forward
+514,Jérémy Le Douaron,Palermo,27 years old (21-04-1998),189cm,France,"Attacking Midfielder (Left), Forward"
+515,Ayman Aiki,SC Bastia,19 years old (25-06-2005),178cm,France,Forward
+516,Ange-Loïc N’Gatta,Auxerre,21 years old (11-12-2003),175cm,,Defender
+517,Marius Courcoul,Angers,18 years old (01-01-2007),182cm,France,Defender
+518,Aaron Malouda,Nimes,19 years old (30-11-2005),183cm,France,Forward
+519,Aloïs Confais,Le Havre,28 years old (07-09-1996),174cm,France,"Defender (Right), Defensive Midfielder (C)"
+520,Kyogo Furuhashi,Rennes,30 years old (20-01-1995),170cm,Japan,Forward
+521,Rudy Matondo,Auxerre,17 years old (13-03-2008),,,Midfielder
+522,Gabin Capuano,Lens,19 years old (26-04-2006),185cm,France,Forward
+523,Kembo Diliwidi,Lens,19 years old (03-02-2006),180cm,,Forward
+524,Faris Moumbagna,Marseille,24 years old (01-07-2000),185cm,Cameroon,Forward
+525,Théo Chennahi,Montpellier,20 years old (06-02-2005),182cm,France,Midfielder
+526,Aristide Zossou,Auxerre,19 years old (14-06-2005),178cm,Ivory Coast,Midfielder
+527,Mathéo Bodmer,Le Havre,20 years old (06-05-2004),179cm,France,Midfielder
+528,Simon Cara,Montpellier,19 years old (31-05-2005),182cm,,Forward
+529,Wilfried Ndollo Bille,Montpellier,20 years old (15-04-2005),172cm,,Defender
+530,Saïmon Bouabré,Monaco,18 years old (01-06-2006),174cm,,Midfielder
+531,Stefan Dzodic,Montpellier,20 years old (15-03-2005),190cm,Serbia,Midfielder
+532,Niama Sissoko,Reims,19 years old (16-12-2005),186cm,Mali,Forward
+533,Eros Maddy,Auxerre,24 years old (05-02-2001),177cm,Netherlands,Forward
+534,Mahamadou Diawara,Le Havre,20 years old (17-02-2005),187cm,France,Midfielder (Centre)
+535,Ikechukwu Orazi,Reims,17 years old (11-06-2007),176cm,,Forward
+536,Karol Fila,FCV Dender EH,26 years old (13-06-1998),183cm,Poland,"Defender (Centre, Right), Midfielder (Right)"
+537,Kandet Diawara,Pau,25 years old (10-02-2000),180cm,France,Forward
+538,Bernard Nguene,Nice,18 years old (04-08-2006),178cm,Cameroon,Forward
+539,Paul Akouokou,Lyon,27 years old (20-12-1997),181cm,Ivory Coast,Defensive Midfielder (C)
+540,Bamo Meïté,Montpellier,23 years old (03-12-2001),183cm,,Defender (Centre)
+541,Élysée Logbo,Le Havre,20 years old (06-05-2004),188cm,France,Forward
+542,Zabi Gueu,Reims,18 years old (24-09-2006),191cm,,Midfielder

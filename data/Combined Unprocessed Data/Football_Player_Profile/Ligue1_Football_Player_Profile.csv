@@ -1,0 +1,587 @@
+,Player,Club,League,Age,Height_all,National,Positions,Main_position,Foot,Apps,Mins,Goals,Assists,Yel,Red,PS%,AerialsWon,MotM,Rating,Contract,Market_Value
+0,Benjamin Bourigeaud,Stade Rennais FC,Ligue1,31 years old (14-01-1994),178cm,France,"Midfielder (Centre, Left, Right)",,,1,81.0,1,-,-,-,85.7,2,-,7.99,,
+1,Logan Costa,Villarreal CF,Ligue1,24 years old (01-04-2001),190cm,France,Defender (Centre),,,1,90.0,-,-,-,-,83.3,4,-,7.73,,
+2,Ousmane Dembélé,Paris Saint-Germain,Ligue1,27 years old (15-05-1997),"1,78m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,both,19(9),1663.0,21,6,2,-,83.3,0.1,9,7.7,"Jun 30, 2028",€75.00m
+3,Ismail Jakobs,Galatasaray,Ligue1,25 years old (17-08-1999),184cm,Senegal,"Defender (Left), Midfielder (Left)",,,2,180.0,-,-,-,-,88.5,0.5,-,7.55,,
+4,Amine Gouiri,Olympique Marseille,Ligue1,25 years old (16-02-2000),"1,81m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,9(2),789.0,7,3,-,-,89.7,0.2,2,7.44,"Jun 30, 2029",€20.00m
+5,Mika Biereth,AS Monaco,Ligue1,22 years old (08-02-2003),"1,87m",,Forward,Centre-Forward,right,14,1149.0,13,2,1,-,62.7,1.4,4,7.41,"Jun 30, 2029",€25.00m
+6,Mason Greenwood,Olympique Marseille,Ligue1,23 years old (01-10-2001),"1,81m",Jamaica,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,both,29(2),2550.0,18,4,2,-,83.2,0.2,10,7.36,"Jun 30, 2029",€35.00m
+7,Rayan Cherki,Olympique Lyon,Ligue1,21 years old (17-08-2003),"1,77m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,both,20(7),1843.0,8,10,3,-,84.9,0.1,6,7.35,"Jun 30, 2026",€35.00m
+8,Andrey Santos,RC Strasbourg Alsace,Ligue1,20 years old (03-05-2004),"1,80m",Brazil,Defensive Midfielder (C),Central Midfield,right,29,2587.0,9,3,7,-,88.1,1.2,2,7.34,"Jun 30, 2025",€25.00m
+9,Achraf Hakimi,Paris Saint-Germain,Ligue1,26 years old (04-11-1998),"1,81m",Morocco,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,23(1),1978.0,4,6,4,-,91,0.4,-,7.33,"Jun 30, 2029",€65.00m
+10,Bradley Barcola,Paris Saint-Germain,Ligue1,22 years old (02-09-2002),"1,82m",France,"Attacking Midfielder (Left, Right), Forward",Left Winger,right,24(7),1976.0,13,10,2,-,83.8,0.4,4,7.27,"Jun 30, 2028",€70.00m
+11,Gaëtan Perrin,AJ Auxerre,Ligue1,28 years old (07-06-1996),"1,69m",France,"Attacking Midfielder (Centre, Left, Right)",Right Winger,right,28(3),2445.0,9,9,1,-,78.3,0.1,7,7.26,"Jun 30, 2026",€6.00m
+12,Jonathan Clauss,OGC Nice,Ligue1,32 years old (25-09-1992),"1,78m",France,"Defender (Right), Midfielder (Left, Right)",Right-Back,right,24(1),2047.0,3,8,7,-,78,0.6,3,7.25,"Jun 30, 2026",€6.00m
+13,Désiré Doué,Paris Saint-Germain,Ligue1,19 years old (03-06-2005),"1,81m",France,"Attacking Midfielder (Centre, Left, Right)",Left Winger,right,17(11),1599.0,6,6,1,-,85.8,0.3,2,7.23,"Jun 30, 2029",€60.00m
+14,Jérémy Jacquet,Stade Rennais FC,Ligue1,19 years old (13-07-2005),"1,90m",France,Defender (Centre),Centre-Back,right,9,778.0,-,1,-,-,86.2,2.1,2,7.2,"Jun 30, 2027",€5.00m
+15,João Neves,Paris Saint-Germain,Ligue1,20 years old (27-09-2004),"1,74m",Portugal,Defensive Midfielder (C),Defensive Midfield,right,20(7),1730.0,3,8,1,-,92.2,0.8,4,7.18,"Jun 30, 2029",€65.00m
+16,Evann Guessand,OGC Nice,Ligue1,23 years old (01-07-2001),"1,88m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,28(3),2435.0,11,7,2,-,78.1,0.9,5,7.16,"Jun 30, 2028",€25.00m
+17,Dilane Bakwa,RC Strasbourg Alsace,Ligue1,22 years old (26-08-2002),"1,80m",France,"Midfielder (Centre, Left, Right)",Right Winger,left,26(1),2270.0,5,8,4,-,80.8,0.4,5,7.16,"Jun 30, 2027",€18.00m
+18,Khvicha Kvaratskhelia,Paris Saint-Germain,Ligue1,24 years old (12-02-2001),"1,83m",Georgia,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,both,10(3),830.0,2,3,-,-,88.6,0.2,2,7.14,"Jun 30, 2029",€80.00m
+19,Ludovic Blas,Stade Rennais FC,Ligue1,27 years old (31-12-1997),"1,80m",France,"Midfielder (Centre, Left, Right), Forward",Right Winger,left,23(3),2051.0,6,7,6,-,81.3,0.5,2,7.11,"Jun 30, 2027",€18.00m
+20,Corentin Tolisso,Olympique Lyon,Ligue1,30 years old (03-08-1994),"1,81m",France,"Defender (Right), Midfielder (Centre, Right)",Central Midfield,right,26(4),2234.0,7,4,4,-,86,1.8,-,7.11,"Jun 30, 2027",€10.00m
+21,Lee Kang-In,Paris Saint-Germain,Ligue1,24 years old (19-02-2001),"1,74m",South Korea,"Midfielder (Centre, Left, Right), Forward",Right Winger,left,17(11),1533.0,6,6,1,-,91.8,0.1,2,7.1,"Jun 30, 2028",€30.00m
+22,Théo De Percin,AJ Auxerre,Ligue1,24 years old (02-02-2001),"1,85m",France,Goalkeeper,Goalkeeper,right,2,180.0,-,-,-,-,49.1,-,1,7.1,"Jun 30, 2028",€300k
+23,Benjamin André,LOSC Lille,Ligue1,34 years old (03-08-1990),"1,80m",France,"Defender (Right), Midfielder (Centre, Left, Right)",Defensive Midfield,right,28,2513.0,-,3,12,-,84,3.1,3,7.09,"Jun 30, 2026",€6.00m
+24,Jubal,AJ Auxerre,Ligue1,31 years old (29-08-1993),"1,90m",Brazil,Defender (Centre),Centre-Back,right,28,2463.0,6,-,6,-,86,2.6,2,7.09,"Jun 30, 2025",€2.00m
+25,Djordje Petrovic,RC Strasbourg Alsace,Ligue1,25 years old (08-10-1999),"1,90m",Serbia,Goalkeeper,Goalkeeper,right,28,2520.0,-,-,2,-,78.6,0.2,4,7.08,"Jun 30, 2025",€18.00m
+26,Diego Moreira,RC Strasbourg Alsace,Ligue1,20 years old (06-08-2004),"1,79m",Portugal,"Defender (Left), Midfielder (Left)",Left Winger,left,26(3),2382.0,2,7,4,1,81.2,0.9,4,7.07,"Jun 30, 2029",€10.00m
+27,Adrien Rabiot,Olympique Marseille,Ligue1,30 years old (03-04-1995),"1,91m",France,"Midfielder (Centre, Left)",Central Midfield,left,24(2),2213.0,7,3,4,-,87.5,1.1,1,7.06,"Jun 30, 2026",€25.00m
+28,Moses Simon,FC Nantes,Ligue1,29 years old (12-07-1995),"1,68m",Nigeria,"Midfielder (Centre, Left, Right), Forward",Left Winger,right,28(1),2359.0,7,9,2,-,74.9,0.2,4,7.06,"Jun 30, 2026",€12.00m
+29,Lilian Brassier,Stade Rennais FC,Ligue1,25 years old (02-11-1999),"1,86m",France,"Defender (Centre, Left)",Centre-Back,left,11,966.0,1,-,-,-,86.4,2.3,-,7.06,"Jun 30, 2025",€10.00m
+30,Pierre-Emile Højbjerg,Olympique Marseille,Ligue1,29 years old (05-08-1995),"1,85m",Denmark,Midfielder (Centre),Defensive Midfield,right,27,2396.0,2,3,5,-,92.6,0.8,1,7.06,"Jun 30, 2025",€20.00m
+31,Ludovic Ajorque,Stade Brestois 29,Ligue1,31 years old (25-02-1994),"1,96m",France,Forward,Centre-Forward,left,26(2),2253.0,12,2,5,-,69.2,4.2,2,7.06,"Jun 30, 2025",€4.00m
+32,Edon Zhegrova,LOSC Lille,Ligue1,26 years old (31-03-1999),"1,80m",,Attacking Midfielder (Right),Right Winger,left,12,986.0,4,1,1,-,86,0.3,1,7.05,"Jun 30, 2026",€25.00m
+33,Maghnes Akliouche,AS Monaco,Ligue1,23 years old (25-02-2002),"1,83m",France,"Attacking Midfielder (Centre, Right)",Right Winger,left,25(4),2229.0,4,8,2,-,85.1,0.1,3,7.04,"Jun 30, 2028",€40.00m
+34,Valentín Barco,RC Strasbourg Alsace,Ligue1,20 years old (23-07-2004),"1,70m",Argentina,"Defender (Left), Midfielder (Centre, Left)",Left-Back,left,11,913.0,-,2,2,-,84.4,0.6,-,7.03,"Jun 30, 2025",€8.00m
+35,Kevin Danso,Tottenham Hotspur,Ligue1,26 years old (19-09-1998),190cm,Austria,Defender (Centre),,,12,1080.0,-,-,3,-,86,3.4,2,7.02,,
+36,Gaëtan Laborde,OGC Nice,Ligue1,30 years old (03-05-1994),"1,81m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,left,18(7),1628.0,9,4,1,-,73.5,1.7,2,7.02,"Jun 30, 2026",€6.00m
+37,Luis Henrique,Olympique Marseille,Ligue1,23 years old (14-12-2001),"1,81m",Brazil,"Midfielder (Left, Right)",Right Winger,right,28(3),2505.0,7,6,-,-,84.6,-,3,7.02,"Jun 30, 2028",€18.00m
+38,Emmanuel Agbadou,Wolverhampton Wanderers,Ligue1,27 years old (17-06-1997),192cm,Ivory Coast,"Defender (Centre, Right), Defensive Midfielder (C)",,,14,1260.0,-,-,3,-,88.1,1.3,3,7.01,,
+39,Lamine Camara,AS Monaco,Ligue1,21 years old (01-01-2004),"1,73m",Senegal,Midfielder (Centre),Central Midfield,right,23(4),1899.0,2,6,8,1,87.1,0.9,2,7.01,"Jun 30, 2029",€20.00m
+40,Yehvann Diouf,Stade Reims,Ligue1,25 years old (16-11-1999),"1,90m",France,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,1,-,66.1,0.3,1,7.01,"Jun 30, 2027",€9.00m
+41,Djaoui Cissé,Stade Rennais FC,Ligue1,21 years old (31-01-2004),"1,88m",France,Midfielder (Centre),Central Midfield,right,11,898.0,1,-,4,-,88.5,0.4,-,7.01,"Jun 30, 2029",€5.00m
+42,Hamed Traoré,AJ Auxerre,Ligue1,25 years old (16-02-2000),"1,77m",Ivory Coast,"Attacking Midfielder (Centre, Left, Right)",Attacking Midfield,right,24,1967.0,10,2,5,-,77.8,0.5,3,7.0,"Jun 30, 2025",€18.00m
+43,Jonathan David,LOSC Lille,Ligue1,25 years old (14-01-2000),"1,78m",Canada,"Attacking Midfielder (Centre), Forward",Centre-Forward,both,25(4),2306.0,16,4,4,-,83,0.6,5,7.0,"Jun 30, 2025",€45.00m
+44,Hicham Boudaoui,OGC Nice,Ligue1,25 years old (23-09-1999),"1,75m",Algeria,"Midfielder (Centre, Right)",Central Midfield,right,24(2),2182.0,2,2,9,-,84.5,0.6,-,6.99,"Jun 30, 2027",€10.00m
+45,Przemyslaw Frankowski,Galatasaray,Ligue1,30 years old (12-04-1995),175cm,Poland,"Defender (Right), Midfielder (Centre, Left, Right)",,,16(2),1389.0,4,2,3,-,83.4,0.4,1,6.99,,
+46,Vitinha,Paris Saint-Germain,Ligue1,25 years old (13-02-2000),"1,72m",Portugal,Midfielder (Centre),Central Midfield,right,19(9),1946.0,5,1,1,-,94,-,1,6.99,"Jun 30, 2029",€60.00m
+47,Denis Zakaria,AS Monaco,Ligue1,28 years old (20-11-1996),"1,90m",Switzerland,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,22(1),1965.0,5,3,5,-,90.9,0.7,1,6.99,"Jun 30, 2028",€30.00m
+48,Vanderson,AS Monaco,Ligue1,23 years old (21-06-2001),"1,73m",Brazil,"Defender (Right), Midfielder (Right)",Right-Back,right,23(3),1991.0,1,3,4,1,79.6,0.8,2,6.99,"Jun 30, 2028",€20.00m
+49,Marco Asensio,Aston Villa,Ligue1,29 years old (21-01-1996),182cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward",,,8(4),620.0,2,4,-,-,90.2,0.1,-,6.98,,
+50,Emanuel Emegha,RC Strasbourg Alsace,Ligue1,22 years old (03-02-2003),"1,96m",Netherlands,Forward,Centre-Forward,right,26,2218.0,14,3,6,-,80.9,1,2,6.98,"Jun 30, 2028",€20.00m
+51,Thilo Kehrer,AS Monaco,Ligue1,28 years old (21-09-1996),"1,86m",Germany,"Defender (Centre, Left, Right), Midfielder (Right)",Centre-Back,both,26,2295.0,4,-,1,-,90.1,2,1,6.98,"Jun 30, 2028",€15.00m
+52,Junya Ito,Stade Reims,Ligue1,32 years old (09-03-1993),"1,76m",Japan,"Midfielder (Left, Right), Forward",Right Winger,right,30(1),2588.0,4,3,1,-,75.8,0.5,4,6.98,"Jun 30, 2026",€8.00m
+53,Nathan Zézé,FC Nantes,Ligue1,19 years old (18-06-2005),"1,90m",,Defender (Centre),Centre-Back,left,15,1315.0,-,-,4,-,86.1,1.8,1,6.96,"Jun 30, 2028",€12.00m
+54,Nicolás Tagliafico,Olympique Lyon,Ligue1,32 years old (31-08-1992),"1,71m",Argentina,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,19(2),1635.0,3,1,6,-,88.4,1.1,1,6.95,"Jun 30, 2025",€7.00m
+55,Donovan Léon,AJ Auxerre,Ligue1,32 years old (03-11-1992),"1,87m",France,Goalkeeper,Goalkeeper,right,29,2610.0,-,2,4,-,51.4,0.3,2,6.95,"Jun 30, 2027",€800k
+56,Karl-Johan Johnsson,RC Strasbourg Alsace,Ligue1,35 years old (28-01-1990),"1,88m",Sweden,Goalkeeper,Goalkeeper,right,3,270.0,-,-,-,-,79.6,0.3,-,6.93,"Jun 30, 2026",€400k
+57,Nuno Mendes,Paris Saint-Germain,Ligue1,22 years old (19-06-2002),"1,83m",Portugal,"Defender (Left), Midfielder (Left)",Left-Back,left,18(5),1586.0,1,2,3,-,88.4,0.7,1,6.93,"Jun 30, 2029",€55.00m
+58,Guéla Doué,RC Strasbourg Alsace,Ligue1,22 years old (17-10-2002),"1,87m",France,"Defender (Centre, Right)",Right-Back,right,27(2),2472.0,1,1,6,-,86.6,1.8,1,6.93,"Jun 30, 2029",€12.00m
+59,Hákon Haraldsson,LOSC Lille,Ligue1,22 years old (10-04-2003),"1,78m",,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,18(4),1539.0,5,3,3,-,82.5,0.1,2,6.93,"Jun 30, 2028",€15.00m
+60,Charlie Cresswell,FC Toulouse,Ligue1,22 years old (17-08-2002),"1,90m",England,Defender (Centre),Centre-Back,right,27(2),2413.0,3,1,4,-,83,3.3,1,6.92,"Jun 30, 2028",€7.00m
+61,Youssouf Ndayishimiye,OGC Nice,Ligue1,26 years old (27-10-1998),"1,83m",Burundi,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,22(1),1934.0,3,-,5,-,89.9,1.6,-,6.92,"Jun 30, 2027",€12.00m
+62,Cristian Cásseres,FC Toulouse,Ligue1,25 years old (20-01-2000),"1,76m",Venezuela,"Midfielder (Centre, Right)",Central Midfield,right,28(1),2435.0,1,3,9,-,81.7,0.7,2,6.91,"Jun 30, 2027",€5.00m
+63,Mahdi Camara,Stade Brestois 29,Ligue1,26 years old (30-06-1998),"1,78m",France,"Defender (Centre, Right), Midfielder (Centre)",Central Midfield,right,28(3),2402.0,5,2,5,-,87.8,0.6,2,6.91,"Jun 30, 2027",€10.00m
+64,Patrik Carlgren,FC Nantes,Ligue1,33 years old (08-01-1992),"1,89m",Sweden,Goalkeeper,Goalkeeper,right,4(1),416.0,-,-,-,-,60.6,-,1,6.91,"Jun 30, 2026",€800k
+65,Marquinhos,Paris Saint-Germain,Ligue1,30 years old (14-05-1994),"1,83m",Brazil,"Defender (Centre, Right), Defensive Midfielder (C)",Centre-Back,right,18(3),1651.0,1,-,3,-,94.9,1.5,-,6.91,"Jun 30, 2028",€40.00m
+66,Wilfried Singo,AS Monaco,Ligue1,24 years old (25-12-2000),"1,90m",Ivory Coast,"Defender (Centre, Right), Midfielder (Right)",Centre-Back,right,20(4),1823.0,1,2,4,-,86.5,2,1,6.91,"Jun 30, 2028",€25.00m
+67,Marcin Bulka,OGC Nice,Ligue1,25 years old (04-10-1999),"1,99m",Poland,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,-,-,77.5,0.4,2,6.9,"Jun 30, 2026",€20.00m
+68,Gideon Mensah,AJ Auxerre,Ligue1,26 years old (18-07-1998),"1,78m",Ghana,"Defender (Left), Midfielder (Left)",Left-Back,left,24(2),2094.0,-,1,2,-,82.2,0.6,-,6.9,"Jun 30, 2026",€3.50m
+69,Anthony Rouault,Stade Rennais FC,Ligue1,23 years old (29-05-2001),"1,86m",France,Defender (Centre),Centre-Back,right,8,703.0,-,-,-,-,90.4,2.9,-,6.9,"Jun 30, 2029",€10.00m
+70,Tiago Santos,LOSC Lille,Ligue1,22 years old (23-07-2002),"1,75m",,Defender (Right),Right-Back,right,4(3),405.0,-,-,1,-,83.1,1,-,6.9,"Jun 30, 2029",€15.00m
+71,Fabián Ruiz,Paris Saint-Germain,Ligue1,29 years old (03-04-1996),"1,89m",Spain,"Midfielder (Centre, Left)",Central Midfield,left,20(8),1834.0,4,4,1,-,91.4,0.1,2,6.9,"Jun 30, 2027",€35.00m
+72,Aleksandr Golovin,AS Monaco,Ligue1,28 years old (30-05-1996),"1,78m",Russia,"Midfielder (Centre, Left, Right)",Attacking Midfield,right,13(6),1155.0,3,-,1,-,79.2,0.5,1,6.9,"Jun 30, 2029",€25.00m
+73,Melvin Bard,OGC Nice,Ligue1,24 years old (06-11-2000),"1,73m",France,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,19(2),1672.0,2,-,2,2,80.9,1,1,6.89,"Jun 30, 2028",€12.00m
+74,Juma Bah,RC Lens,Ligue1,19 years old (11-04-2006),"1,95m",,Defender (Centre),Centre-Back,right,5(2),417.0,-,-,2,-,93.5,2.1,-,6.89,"Jun 30, 2025",€4.00m
+75,Abdukodir Khusanov,Manchester City,Ligue1,21 years old (29-02-2004),186cm,Uzbekistan,Defender (Centre),,,11(2),976.0,-,-,2,1,89,2.2,-,6.89,,
+76,Willian Pacho,Paris Saint-Germain,Ligue1,23 years old (16-10-2001),"1,87m",Ecuador,Defender (Centre),Centre-Back,left,22(5),2041.0,-,1,2,-,94.9,1,-,6.88,"Jun 30, 2029",€45.00m
+77,Mathew Ryan,RC Lens,Ligue1,33 years old (08-04-1992),"1,84m",Australia,Goalkeeper,Goalkeeper,right,11,990.0,-,-,-,-,67.5,0.4,2,6.87,"Jun 30, 2025",€2.50m
+78,Yahia Fofana,Angers SCO,Ligue1,24 years old (21-08-2000),"1,94m",Ivory Coast,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,4,-,63.2,0.3,1,6.87,"Jun 30, 2026",€6.00m
+79,Zuriko Davitashvili,AS Saint-Étienne,Ligue1,24 years old (15-02-2001),"1,75m",Georgia,"Attacking Midfielder (Centre, Left, Right)",Right Winger,right,29(1),2524.0,8,7,2,-,82.9,0.5,2,6.86,"Jun 30, 2028",€10.00m
+80,Gabriel Suazo,FC Toulouse,Ligue1,27 years old (09-08-1997),"1,78m",Chile,"Defender (Left), Midfielder (Left)",Left-Back,left,23(6),2141.0,-,6,-,-,82.6,0.5,1,6.86,"Jun 30, 2026",€4.00m
+81,Azor Matusiwa,Stade Rennais FC,Ligue1,27 years old (28-04-1998),"1,73m",Netherlands,Defensive Midfielder (C),Defensive Midfield,right,21(5),1905.0,1,2,3,-,87.1,1.2,1,6.86,"Jun 30, 2028",€10.00m
+82,Baptiste Santamaría,OGC Nice,Ligue1,30 years old (09-03-1995),"1,83m",France,Defensive Midfielder (C),Defensive Midfield,right,10(1),850.0,-,-,1,-,84.6,1.9,1,6.86,"Jun 30, 2025",€7.00m
+83,Lucas Perri,Olympique Lyon,Ligue1,27 years old (10-12-1997),"1,97m",Brazil,Goalkeeper,Goalkeeper,right,30,2700.0,-,-,1,-,73,0.5,2,6.86,"Jun 30, 2028",€10.00m
+84,Alexsandro Ribeiro,LOSC Lille,Ligue1,25 years old (09-08-1999),"1,91m",Brazil,Defender (Centre),Centre-Back,right,27,2430.0,1,1,9,-,91.2,2.1,2,6.85,"Jun 30, 2028",€15.00m
+85,Douglas Augusto,FC Nantes,Ligue1,28 years old (13-01-1997),"1,73m",Brazil,Defensive Midfielder (C),Central Midfield,left,26,2137.0,4,2,8,-,87,0.8,-,6.85,"Jun 30, 2027",€6.00m
+86,Alidu Seidu,Stade Rennais FC,Ligue1,24 years old (04-06-2000),"1,73m",Ghana,"Defender (Centre, Right)",Centre-Back,right,10(1),807.0,-,-,4,-,86.4,0.9,-,6.85,"Jun 30, 2029",€9.00m
+87,Ali Abdi,OGC Nice,Ligue1,31 years old (20-12-1993),"1,83m",Tunisia,Midfielder (Left),Left-Back,left,15(7),1257.0,4,2,2,-,79.5,0.9,3,6.85,"Jun 30, 2027",€3.00m
+88,Alexandre Lacazette,Olympique Lyon,Ligue1,33 years old (28-05-1991),"1,75m",France,"Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,22(6),1892.0,13,2,5,-,72.5,0.6,1,6.85,"Jun 30, 2025",€8.00m
+89,Morgan Sanson,OGC Nice,Ligue1,30 years old (18-08-1994),"1,80m",France,"Midfielder (Centre, Left, Right)",Central Midfield,right,1(2),109.0,2,-,-,-,77.1,0.3,-,6.85,"Jun 30, 2027",€5.00m
+90,Aron Dønnum,FC Toulouse,Ligue1,27 years old (20-04-1998),"1,78m",Norway,"Midfielder (Centre, Left, Right)",Left Midfield,left,29(1),2518.0,1,2,5,-,76.7,0.4,2,6.85,"Jun 30, 2028",€4.00m
+91,Adrien Thomasson,RC Lens,Ligue1,31 years old (10-12-1993),"1,75m",France,"Midfielder (Centre, Left, Right)",Attacking Midfield,right,28(2),2370.0,2,4,5,-,84,0.6,2,6.83,"Jun 30, 2026",€5.00m
+92,Hervé Koffi,RC Lens,Ligue1,28 years old (16-10-1996),"1,86m",Burkina Faso,Goalkeeper,Goalkeeper,right,5,450.0,-,-,2,-,67.9,0.2,-,6.83,"Jun 30, 2028",€1.50m
+93,Eliesse Ben Seghir,AS Monaco,Ligue1,20 years old (16-02-2005),"1,78m",Morocco,"Attacking Midfielder (Centre, Left), Forward",Left Winger,right,18(12),1648.0,6,3,-,-,82.3,0.5,2,6.83,"Jun 30, 2027",€30.00m
+94,Marshall Munetsi,Wolverhampton Wanderers,Ligue1,28 years old (22-06-1996),188cm,Zimbabwe,"Defender (Centre), Midfielder (Centre)",,,19,1694.0,4,2,5,-,69.7,2.2,-,6.83,,
+95,Ismaël Bennacer,Olympique Marseille,Ligue1,27 years old (01-12-1997),"1,75m",Algeria,Midfielder (Centre),Defensive Midfield,left,6(4),542.0,-,2,1,-,93.2,0.2,-,6.83,"Jun 30, 2025",€15.00m
+96,Caio Henrique,AS Monaco,Ligue1,27 years old (31-07-1997),"1,78m",Brazil,"Defender (Left), Midfielder (Centre, Left)",Left-Back,left,18(6),1663.0,-,5,3,-,78.5,0.4,-,6.83,"Jun 30, 2027",€15.00m
+97,Mory Gbane,Stade Reims,Ligue1,24 years old (25-12-2000),"1,88m",Ivory Coast,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,10,856.0,-,-,1,-,85.9,1.2,-,6.83,"Jun 30, 2029",€4.00m
+98,Brice Samba,Stade Rennais FC,Ligue1,31 years old (25-04-1994),"1,87m",France,Goalkeeper,Goalkeeper,left,14,1260.0,-,-,3,-,75.4,0.4,1,6.82,"Jun 30, 2029",€15.00m
+99,Gift Orban,TSG 1899 Hoffenheim,Ligue1,22 years old (17-07-2002),178cm,Nigeria,Forward,,,2(1),186.0,2,-,1,-,67.7,0.3,-,6.81,,
+100,Tanguy Ndombélé,OGC Nice,Ligue1,28 years old (28-12-1996),"1,81m",France,Midfielder (Centre),Central Midfield,right,12(6),1134.0,1,2,2,-,88.3,0.2,-,6.81,"Jun 30, 2026",€10.00m
+101,Leonardo Balerdi,Olympique Marseille,Ligue1,26 years old (26-01-1999),"1,87m",Argentina,Defender (Centre),Centre-Back,right,24,2006.0,-,-,6,1,94.1,1.5,-,6.81,"Jun 30, 2028",€20.00m
+102,Yanis Zouaoui,Le Havre AC,Ligue1,27 years old (28-04-1998),"1,83m",,Defender (Left),Left-Back,left,9(6),945.0,-,2,3,-,74.8,0.5,2,6.81,"Jun 30, 2027",€800k
+103,Gonçalo Ramos,Paris Saint-Germain,Ligue1,23 years old (20-06-2001),"1,85m",Portugal,"Attacking Midfielder (Centre), Forward",Centre-Forward,right,10(9),868.0,7,2,-,-,80.6,1,-,6.8,"Jun 30, 2028",€45.00m
+104,Mohammed Salisu,AS Monaco,Ligue1,26 years old (17-04-1999),"1,88m",Ghana,"Defender (Centre, Left)",Centre-Back,left,11(4),1021.0,1,-,2,-,85.4,2.4,-,6.8,"Jun 30, 2028",€15.00m
+105,Ismaily,LOSC Lille,Ligue1,35 years old (11-01-1990),"1,77m",Brazil,Defender (Left),Left-Back,left,8(6),754.0,-,1,3,-,88.8,0.7,-,6.8,"Jun 30, 2025",€1.50m
+106,Beraldo,Paris Saint-Germain,Ligue1,21 years old (24-11-2003),"1,86m",,"Defender (Centre, Left)",Centre-Back,left,20(2),1815.0,1,-,5,-,94.8,2,-,6.79,"Jun 30, 2028",€25.00m
+107,Lucas Stassin,AS Saint-Étienne,Ligue1,20 years old (29-11-2004),"1,83m",Belgium,Forward,Centre-Forward,right,23(5),1897.0,12,4,4,-,76.4,0.6,3,6.79,"Jun 30, 2028",€7.00m
+108,Adrien Truffert,Stade Rennais FC,Ligue1,23 years old (20-11-2001),"1,76m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,28(2),2485.0,2,1,3,-,84.2,1,1,6.79,"Jun 30, 2026",€15.00m
+109,Neil El Aynaoui,RC Lens,Ligue1,23 years old (02-07-2001),"1,85m",France,Defensive Midfielder (C),Central Midfield,right,14(7),1319.0,5,1,4,-,88.3,1,2,6.79,"Jun 30, 2027",€10.00m
+110,Julien Le Cardinal,Stade Brestois 29,Ligue1,27 years old (03-08-1997),"1,84m",France,Defender (Centre),Centre-Back,right,15(1),1379.0,-,1,3,-,87.2,1.8,-,6.79,"Jun 30, 2027",€1.50m
+111,Arnaud Kalimuendo,Stade Rennais FC,Ligue1,23 years old (20-01-2002),"1,75m",France,Forward,Centre-Forward,right,29(1),2380.0,14,3,2,-,80.7,0.7,2,6.79,"Jun 30, 2027",€20.00m
+112,Pierre Lees-Melou,Stade Brestois 29,Ligue1,31 years old (25-05-1993),"1,85m",France,"Midfielder (Centre, Left, Right)",Defensive Midfield,right,15(3),1360.0,2,2,5,-,85.6,0.2,1,6.79,"Jun 30, 2027",€7.00m
+113,Kenny Lala,Stade Brestois 29,Ligue1,33 years old (03-10-1991),"1,78m",France,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,26(1),2416.0,3,2,5,-,81.2,0.2,-,6.78,"Jun 30, 2027",€2.50m
+114,Gerónimo Rulli,Olympique Marseille,Ligue1,32 years old (20-05-1992),"1,89m",Argentina,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,1,-,86.2,0.3,2,6.77,"Jun 30, 2027",€8.00m
+115,Clinton Mata,Olympique Lyon,Ligue1,32 years old (07-11-1992),"1,80m",Angola,"Defender (Centre, Right), Midfielder (Right)",Right-Back,right,25(2),2258.0,-,3,4,-,89.9,0.8,1,6.77,"Jun 30, 2026",€4.00m
+116,Himad Abdelli,Angers SCO,Ligue1,25 years old (17-11-1999),"1,85m",France,"Attacking Midfielder (Centre, Left), Forward",Attacking Midfield,right,29,2583.0,6,1,4,-,84.8,0.5,-,6.77,"Jun 30, 2026",€7.00m
+117,Joseph Okumu,Stade Reims,Ligue1,27 years old (26-05-1997),"1,90m",Kenya,Defender (Centre),Centre-Back,right,17(2),1499.0,1,-,3,1,83.2,1.5,1,6.77,"Jun 30, 2028",€7.00m
+118,Milan Skriniar,Fenerbahce,Ligue1,30 years old (11-02-1995),188cm,Slovakia,Defender (Centre),,,4(1),381.0,-,-,1,-,96.5,1.4,-,6.77,,
+119,Keito Nakamura,Stade Reims,Ligue1,24 years old (28-07-2000),"1,80m",,Attacking Midfielder (Left),Left Winger,right,29(1),2482.0,11,2,4,-,77.7,0.2,1,6.77,"Jun 30, 2028",€10.00m
+120,Pierre Ekwah,AS Saint-Étienne,Ligue1,23 years old (15-01-2002),"1,89m",France,Defensive Midfielder (C),Defensive Midfield,left,26,2309.0,1,-,3,-,88.6,1.1,1,6.76,"Jun 30, 2025",€5.00m
+121,Vincent Sierro,FC Toulouse,Ligue1,29 years old (08-10-1995),"1,85m",Switzerland,Midfielder (Centre),Central Midfield,right,24(2),2140.0,5,1,4,-,80.7,1.1,-,6.76,"Jun 30, 2026",€4.00m
+122,Sebastian Nanasi,RC Strasbourg Alsace,Ligue1,22 years old (16-05-2002),"1,78m",Sweden,"Attacking Midfielder (Centre, Left), Forward",Left Midfield,right,25(3),1998.0,5,4,-,-,84.4,0.1,-,6.76,"Jun 30, 2029",€15.00m
+123,Malick Fofana,Olympique Lyon,Ligue1,20 years old (31-03-2005),"1,69m",Belgium,Midfielder (Left),Left Winger,right,13(13),1317.0,5,4,1,-,82.1,0.1,1,6.76,"Jun 30, 2028",€25.00m
+124,Lorenz Assignon,Stade Rennais FC,Ligue1,24 years old (22-06-2000),"1,81m",France,"Defender (Right), Midfielder (Right)",Right-Back,right,25(4),2155.0,3,4,8,-,81.7,1.1,2,6.76,"Jun 30, 2028",€9.00m
+125,Brice Samba,Stade Rennais FC,Ligue1,31 years old (25-04-1994),"1,87m",France,Goalkeeper,Goalkeeper,left,15,1350.0,-,-,1,-,78.9,-,1,6.76,"Jun 30, 2029",€15.00m
+126,Brendan Chardonnet,Stade Brestois 29,Ligue1,30 years old (22-12-1994),"1,81m",France,Defender (Centre),Centre-Back,right,26,2327.0,1,-,6,-,81.5,2.2,-,6.76,"Jun 30, 2027",€6.00m
+127,Abdoulaye Touré,Le Havre AC,Ligue1,31 years old (03-03-1994),"1,88m",France,Defensive Midfielder (C),Defensive Midfield,right,23(2),2061.0,8,1,5,-,83,1.3,2,6.76,"Jun 30, 2025",€3.00m
+128,Gautier Lloris,Le Havre AC,Ligue1,29 years old (18-07-1995),"1,91m",France,Defender (Centre),Centre-Back,left,30,2680.0,2,1,5,-,87.8,2.1,2,6.76,"Jun 30, 2026",€3.00m
+129,Clément Akpa,AJ Auxerre,Ligue1,23 years old (24-11-2001),"1,81m",,Defender (Centre),Centre-Back,left,26(2),2245.0,-,1,6,-,83.8,1.2,-,6.75,"Jun 30, 2027",€3.00m
+130,Bafodé Diakité,LOSC Lille,Ligue1,24 years old (06-01-2001),"1,84m",France,"Defender (Centre, Right)",Centre-Back,right,30,2677.0,4,1,6,1,93.2,2.1,2,6.75,"Jun 30, 2028",€25.00m
+131,Thomas Meunier,LOSC Lille,Ligue1,33 years old (12-09-1991),"1,91m",Belgium,"Defender (Right), Midfielder (Right)",Right-Back,right,18(9),1656.0,2,-,4,-,83.2,1,2,6.75,"Jun 30, 2026",€2.00m
+132,Lucas Chevalier,LOSC Lille,Ligue1,23 years old (06-11-2001),"1,89m",France,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,-,-,76.5,0.2,-,6.75,"Jun 30, 2027",€30.00m
+133,Duje Caleta-Car,Olympique Lyon,Ligue1,28 years old (17-09-1996),"1,93m",Croatia,Defender (Centre),Centre-Back,right,16(1),1428.0,1,-,8,-,91.5,2.2,-,6.75,"Jun 30, 2027",€8.00m
+134,Téji Savanier,Montpellier HSC,Ligue1,33 years old (22-12-1991),"1,72m",France,Midfielder (Centre),Attacking Midfield,right,26(2),2292.0,2,5,4,1,76.8,0.8,-,6.75,"Jun 30, 2026",€3.00m
+135,Jonathan Gradit,RC Lens,Ligue1,32 years old (24-11-1992),"1,80m",France,"Defender (Centre, Right)",Centre-Back,right,21(1),1846.0,-,-,4,-,85.2,2.7,1,6.74,"Jun 30, 2028",€4.00m
+136,Abdoulaye Ndiaye,Stade Brestois 29,Ligue1,23 years old (10-04-2002),"1,95m",Senegal,Defender (Centre),Centre-Back,left,16(3),1442.0,1,-,3,1,85.8,2.3,-,6.74,"Jun 30, 2025",€3.00m
+137,Christopher Opéri,Istanbul Basaksehir,Ligue1,28 years old (29-04-1997),183cm,France,"Defender (Left), Midfielder (Left)",,,13,1170.0,-,2,-,1,78.8,0.8,1,6.74,,
+138,Lassine Sinayoko,AJ Auxerre,Ligue1,25 years old (08-12-1999),"1,86m",Mali,"Attacking Midfielder (Left, Right), Forward",Left Winger,right,22(9),2046.0,3,7,5,-,78.8,0.8,-,6.73,"Jun 30, 2026",€3.50m
+139,Kévin Danois,AJ Auxerre,Ligue1,20 years old (28-06-2004),"1,83m",France,Midfielder (Centre),Central Midfield,right,16(6),1459.0,-,-,1,-,82.9,0.6,-,6.73,"Jun 30, 2028",€4.00m
+140,Cédric Kipré,Stade Reims,Ligue1,28 years old (09-12-1996),"1,93m",France,Defender (Centre),Centre-Back,right,23(2),1922.0,-,1,4,2,89.9,1.4,1,6.73,"Jun 30, 2027",€3.00m
+141,Amir Murillo,Olympique Marseille,Ligue1,29 years old (11-02-1996),"1,84m",Panama,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,24(3),2167.0,1,3,2,-,90.2,1.4,-,6.73,"Jun 30, 2028",€9.00m
+142,Al Musrati,AS Monaco,Ligue1,29 years old (06-04-1996),189cm,Libya,Defensive Midfielder (C),,,3(6),355.0,-,1,-,-,87.7,1.9,-,6.73,,
+143,Arnaud Nordin,1.FSV Mainz 05,Ligue1,26 years old (17-06-1998),170cm,France,"Attacking Midfielder (Centre, Left, Right), Forward",,,14(2),1172.0,4,1,2,-,75.9,0.8,1,6.73,,
+144,Warren Zaïre-Emery,Paris Saint-Germain,Ligue1,19 years old (08-03-2006),"1,78m",France,"Defender (Right), Defensive Midfielder (C), Midfielder (Right)",Central Midfield,right,21(5),1842.0,1,1,3,-,93,0.3,-,6.73,"Jun 30, 2029",€60.00m
+145,Ruben Aguilar,RC Lens,Ligue1,32 years old (26-04-1993),"1,72m",France,"Defender (Right), Midfielder (Right)",Right-Back,right,12(3),1050.0,1,1,4,-,83.1,0.7,-,6.73,"Jun 30, 2026",€4.00m
+146,Rasmus Nicolaisen,FC Toulouse,Ligue1,28 years old (16-03-1997),"1,91m",Denmark,Defender (Centre),Centre-Back,left,7,624.0,-,1,-,-,88,3,-,6.73,"Jun 30, 2025",€5.00m
+147,Issa Soumaré,Le Havre AC,Ligue1,24 years old (10-10-2000),"1,82m",Senegal,"Attacking Midfielder (Left), Forward",Left Winger,right,18(8),1635.0,4,3,-,-,65.9,3.2,1,6.72,"Jun 30, 2026",€1.50m
+148,Sinaly Diomandé,AJ Auxerre,Ligue1,24 years old (09-04-2001),"1,84m",Ivory Coast,"Defender (Centre, Right)",Centre-Back,right,19(1),1676.0,3,2,4,-,84.1,1.2,-,6.72,"Jun 30, 2027",€5.00m
+149,Valentin Rongier,Olympique Marseille,Ligue1,30 years old (07-12-1994),"1,72m",France,"Defender (Right), Midfielder (Centre)",Central Midfield,right,16(7),1429.0,3,1,5,-,90.6,0.6,-,6.72,"Jun 30, 2026",€9.00m
+150,Romain Del Castillo,Stade Brestois 29,Ligue1,29 years old (29-03-1996),"1,72m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,12(11),1096.0,5,3,-,-,76.4,0.3,1,6.71,"Jun 30, 2027",€8.00m
+151,Mamadou Sarr,RC Strasbourg Alsace,Ligue1,19 years old (29-08-2005),"1,94m",France,Defender (Centre),Centre-Back,right,24,2119.0,-,1,3,-,93.7,1,1,6.71,"Jun 30, 2029",€15.00m
+152,Habib Diarra,RC Strasbourg Alsace,Ligue1,21 years old (03-01-2004),"1,78m",France,"Midfielder (Centre, Left, Right)",Central Midfield,right,25(2),2160.0,4,3,5,-,86.8,0.3,1,6.71,"Jun 30, 2028",€20.00m
+153,Geoffrey Kondogbia,Olympique Marseille,Ligue1,32 years old (15-02-1993),"1,88m",Central African Rep.,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,left,21(3),1931.0,-,-,1,-,92.5,1.1,-,6.71,"Jun 30, 2027",€8.00m
+154,Andrew Omobamidele,RC Strasbourg Alsace,Ligue1,22 years old (23-06-2002),"1,88m",Ireland,Defender (Centre),Centre-Back,right,6(2),514.0,-,-,3,-,94.3,1,-,6.71,"Jun 30, 2025",€10.00m
+155,Joshua King,FC Toulouse,Ligue1,33 years old (15-01-1992),"1,80m",Norway,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,18(7),1444.0,5,2,2,-,74.7,1.3,2,6.7,"Jun 30, 2025",€2.00m
+156,Mathias Pereira Lage,Stade Brestois 29,Ligue1,28 years old (30-11-1996),"1,80m",France,"Midfielder (Centre, Left, Right)",Left Winger,right,15(11),1330.0,2,7,3,-,72.8,1.3,3,6.7,"Jun 30, 2025",€2.00m
+157,Saïdou Sow,FC Nantes,Ligue1,22 years old (04-07-2002),"1,87m",Guinea,Defender (Centre),Centre-Back,right,9,800.0,1,-,1,-,83.6,1.4,-,6.7,"Jun 30, 2025",€6.00m
+158,Matthis Abline,FC Nantes,Ligue1,22 years old (28-03-2003),"1,82m",France,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,30(1),2519.0,8,2,2,-,68.6,1.7,1,6.7,"Jun 30, 2028",€12.00m
+159,Florent Hanin,Angers SCO,Ligue1,35 years old (04-02-1990),"1,77m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,28(2),2418.0,1,2,2,-,81.5,0.6,-,6.69,"Jun 30, 2025",€350k
+160,Leo Østigård,TSG 1899 Hoffenheim,Ligue1,25 years old (28-11-1999),182cm,Norway,Defender (Centre),,,14(2),1228.0,1,-,5,-,84.8,3,-,6.69,,
+161,Farid El Melali,Angers SCO,Ligue1,27 years old (13-07-1997),"1,68m",Algeria,"Defender (Right), Midfielder (Left, Right)",Left Winger,both,22(7),1852.0,2,3,1,-,77.3,0.2,1,6.69,"Jun 30, 2025",€4.00m
+162,Amine Harit,Olympique Marseille,Ligue1,27 years old (18-06-1997),"1,80m",Morocco,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,8(4),503.0,2,3,1,1,87,0.1,-,6.69,"Jun 30, 2027",€10.00m
+163,Jordan Lefort,Angers SCO,Ligue1,31 years old (09-08-1993),"1,84m",France,"Defender (Centre, Left)",Centre-Back,left,31,2790.0,-,1,1,-,83.6,1.2,-,6.69,"Jun 30, 2026",€1.20m
+164,Matvey Safonov,Paris Saint-Germain,Ligue1,26 years old (25-02-1999),"1,92m",Russia,Goalkeeper,Goalkeeper,right,8(1),788.0,-,-,-,-,76.8,-,-,6.68,"Jun 30, 2029",€22.00m
+165,Mohamed Abdelmonem,OGC Nice,Ligue1,26 years old (01-02-1999),"1,83m",Egypt,Defender (Centre),Centre-Back,right,10(2),856.0,-,-,2,-,90.7,2.6,-,6.68,"Jun 30, 2028",€4.00m
+166,Félix Lemaréchal,RC Strasbourg Alsace,Ligue1,21 years old (07-08-2003),"1,80m",France,Midfielder (Centre),Attacking Midfield,right,17(7),1527.0,3,3,2,-,81.5,0.4,-,6.68,"Jun 30, 2029",€7.00m
+167,Beres Owusu,Quevilly,Ligue1,21 years old (19-09-2003),,France,Defender,,,1,90.0,-,-,-,-,60,2,-,6.68,,
+168,Ainsley Maitland-Niles,Olympique Lyon,Ligue1,27 years old (29-08-1997),"1,80m",England,"Defender (Left, Right), Midfielder (Centre, Left, Right)",Right-Back,right,17(12),1708.0,1,4,1,-,86.6,0.4,-,6.68,"Jun 30, 2027",€10.00m
+169,Rémy Cabella,LOSC Lille,Ligue1,35 years old (08-03-1990),"1,72m",France,"Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,11(10),899.0,-,2,1,-,87.2,-,2,6.68,"Jun 30, 2025",€3.00m
+170,Haris Belkebla,Angers SCO,Ligue1,31 years old (28-01-1994),"1,77m",Algeria,Defensive Midfielder (C),Central Midfield,right,21(1),1795.0,-,1,1,-,88.1,0.5,1,6.68,"Jun 30, 2026",€2.00m
+171,Gianluigi Donnarumma,Paris Saint-Germain,Ligue1,26 years old (25-02-1999),"1,96m",Italy,Goalkeeper,Goalkeeper,right,23,2002.0,-,-,2,-,85,0.2,-,6.67,"Jun 30, 2026",€35.00m
+172,Gabriel Osho,AJ Auxerre,Ligue1,26 years old (14-08-1998),"1,85m",England,"Defender (Centre, Right), Defensive Midfielder (C)",Centre-Back,right,19,1567.0,1,-,1,1,89.6,1.1,-,6.67,"Jun 30, 2025",€3.00m
+173,Mohamed-Ali Cho,OGC Nice,Ligue1,21 years old (19-01-2004),"1,82m",France,"Attacking Midfielder (Centre, Right), Forward",Right Winger,left,21(4),1618.0,3,4,2,-,77.5,0.6,-,6.67,"Jun 30, 2028",€15.00m
+174,Valentin Atangana Edoa,Stade Reims,Ligue1,19 years old (25-08-2005),"1,76m",France,Defensive Midfielder (C),Central Midfield,right,30(1),2599.0,1,-,7,-,88.1,1.5,-,6.67,"Jun 30, 2027",€9.00m
+175,Jean-Eudes Aholou,Angers SCO,Ligue1,31 years old (20-03-1994),"1,86m",Ivory Coast,Defensive Midfielder (C),Defensive Midfield,left,26,1978.0,2,-,7,-,84.7,1.5,2,6.67,"Jun 30, 2026",€2.00m
+176,Mathieu Gorgelin,Le Havre AC,Ligue1,34 years old (05-08-1990),"1,87m",France,Goalkeeper,Goalkeeper,left,13,1170.0,-,-,2,-,74,0.5,1,6.67,"Jun 30, 2025",€200k
+177,Takumi Minamino,AS Monaco,Ligue1,30 years old (16-01-1995),"1,72m",Japan,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,24(4),1987.0,5,3,4,-,74,0.6,1,6.67,"Jun 30, 2027",€15.00m
+178,Sofiane Diop,OGC Nice,Ligue1,24 years old (09-06-2000),"1,75m",France,"Attacking Midfielder (Centre, Left, Right)",Left Winger,right,8(17),980.0,6,3,3,-,80.6,0.1,1,6.66,"Jun 30, 2027",€12.00m
+179,Yann Gboho,FC Toulouse,Ligue1,24 years old (14-01-2001),"1,78m",Ivory Coast,"Attacking Midfielder (Centre, Left), Forward",Left Winger,right,24(4),2076.0,2,3,2,-,78.1,0.2,3,6.66,"Jun 30, 2026",€8.00m
+180,Mitchel Bakker,LOSC Lille,Ligue1,24 years old (20-06-2000),"1,89m",Netherlands,"Defender (Left), Midfielder (Left, Right)",Left-Back,left,13(9),1089.0,3,2,3,1,83.7,0.1,1,6.66,"Jun 30, 2025",€7.00m
+181,Sam Amo-Ameyaw,RC Strasbourg Alsace,Ligue1,18 years old (18-07-2006),"1,74m",,Forward,Right Winger,left,2(4),207.0,2,-,-,-,91.3,-,-,6.66,"Jun 30, 2025",€2.00m
+182,Djibril Sidibé,FC Toulouse,Ligue1,32 years old (29-07-1992),"1,83m",France,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,21(4),1854.0,-,2,1,-,81.6,0.7,-,6.66,"Jun 30, 2025",€1.20m
+183,Moussa Niakhaté,Olympique Lyon,Ligue1,29 years old (08-03-1996),"1,90m",Senegal,"Defender (Centre, Left)",Centre-Back,left,27(1),2455.0,-,-,-,-,91.6,1.2,1,6.66,"Jun 30, 2028",€15.00m
+184,Chuba Akpom,LOSC Lille,Ligue1,29 years old (09-10-1995),"1,83m",England,"Attacking Midfielder (Centre, Right), Forward",Centre-Forward,right,5(6),518.0,2,1,-,-,69.3,1.3,-,6.65,"Jun 30, 2025",€8.00m
+185,Osame Sahraoui,LOSC Lille,Ligue1,23 years old (11-06-2001),"1,70m",Norway,Attacking Midfielder (Left),Left Winger,right,10(17),1207.0,3,3,1,-,86.1,-,-,6.65,"Jun 30, 2029",€12.00m
+186,Justin Bourgault,Stade Brestois 29,Ligue1,19 years old (14-09-2005),"1,85m",France,Defender,Left-Back,left,2,123.0,1,-,-,-,73.3,0.5,-,6.65,"Jun 30, 2029",€300k
+187,Facundo Medina,RC Lens,Ligue1,25 years old (28-05-1999),"1,84m",Argentina,"Defender (Centre, Left)",Centre-Back,left,26,2277.0,-,1,10,1,88.6,1.2,-,6.65,"Jun 30, 2028",€25.00m
+188,Yaya Fofana,Stade Reims,Ligue1,20 years old (12-06-2004),"1,80m",Mali,Midfielder (Centre),Central Midfield,right,8(4),638.0,1,1,4,-,77,0.3,-,6.65,"Jun 30, 2029",€5.00m
+189,Elisha Owusu,AJ Auxerre,Ligue1,27 years old (07-11-1997),"1,82m",France,Defensive Midfielder (C),Defensive Midfield,right,26,2194.0,1,3,7,-,81.8,0.6,1,6.64,"Jun 30, 2027",€3.00m
+190,Junior Mwanga,Le Havre AC,Ligue1,21 years old (11-05-2003),"1,84m",France,Defensive Midfielder (C),Defensive Midfield,both,9,774.0,1,1,1,1,85.2,0.8,1,6.64,"Jun 30, 2025",€6.00m
+191,Gautier Larsonneur,AS Saint-Étienne,Ligue1,28 years old (23-02-1997),"1,81m",France,Goalkeeper,Goalkeeper,right,31,2790.0,-,-,5,-,61.1,0.4,-,6.63,"Jun 30, 2026",€3.50m
+192,Sergio Akieme,Stade Reims,Ligue1,27 years old (16-12-1997),"1,75m",Equatorial Guinea,"Defender (Left), Midfielder (Left)",Left-Back,left,26(1),2300.0,1,3,5,-,86.5,0.7,1,6.63,"Jun 30, 2028",€7.00m
+193,Amadou Koné,Stade Reims,Ligue1,19 years old (14-05-2005),-,,Defensive Midfielder (C),Defensive Midfield,left,14(7),1089.0,-,-,2,1,87.2,0.8,-,6.63,"Jun 30, 2028",€1.50m
+194,Nicolas Pallois,FC Nantes,Ligue1,37 years old (19-09-1987),"1,89m",,Defender (Centre),Centre-Back,left,21(3),1864.0,-,2,8,-,84.1,0.8,-,6.62,"Jun 30, 2025",€500k
+195,Breel Embolo,AS Monaco,Ligue1,28 years old (14-02-1997),"1,87m",Switzerland,"Attacking Midfielder (Centre, Right), Forward",Centre-Forward,right,18(9),1687.0,6,4,5,-,70.9,1.1,1,6.62,"Jun 30, 2026",€12.00m
+196,Florian Sotoca,RC Lens,Ligue1,34 years old (25-10-1990),"1,87m",France,"Midfielder (Centre, Right), Forward",Centre-Forward,right,22(7),1783.0,1,1,3,1,78.1,1.5,1,6.61,"Jun 30, 2026",€2.50m
+197,Ki-Jana Hoever,AJ Auxerre,Ligue1,23 years old (18-01-2002),"1,83m",Netherlands,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,25(3),2046.0,1,2,1,1,72.5,0.8,-,6.61,"Jun 30, 2025",€4.50m
+198,Arouna Sangante,Le Havre AC,Ligue1,23 years old (12-04-2002),"1,89m",Senegal,"Defender (Centre, Right)",Centre-Back,right,13,1008.0,2,-,4,1,86.6,2,-,6.61,"Jun 30, 2026",€10.00m
+199,Kévin Pedro,AS Saint-Étienne,Ligue1,19 years old (21-02-2006),183cm,France,Defender,,,0(1),9.0,-,-,-,-,57.1,-,-,6.61,,
+200,Mark McKenzie,FC Toulouse,Ligue1,26 years old (25-02-1999),"1,84m",USA,Defender (Centre),Centre-Back,right,27(1),2318.0,1,-,2,1,87.5,1.5,1,6.61,"Jun 30, 2027",€6.00m
+201,Georges Mikautadze,Olympique Lyon,Ligue1,24 years old (31-10-2000),"1,76m",Georgia,Forward,Centre-Forward,right,12(19),1318.0,10,6,2,-,79.2,0.4,2,6.61,"Jun 30, 2028",€20.00m
+202,Christian Mawissa,AS Monaco,Ligue1,20 years old (18-04-2005),"1,84m",France,"Defender (Centre, Left)",Centre-Back,left,15(4),1318.0,-,-,3,-,87,1.5,-,6.61,"Jun 30, 2029",€12.00m
+203,Ismaël Doukouré,RC Strasbourg Alsace,Ligue1,21 years old (24-07-2003),"1,83m",France,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,28,2388.0,1,1,7,-,88.7,0.9,-,6.6,"Jun 30, 2026",€15.00m
+204,Jhoanner Chávez,RC Lens,Ligue1,23 years old (25-04-2002),"1,82m",Ecuador,"Defender (Left), Midfielder (Left)",Left-Back,left,7(3),600.0,1,-,1,-,77.2,0.7,1,6.6,"Jun 30, 2028",€4.00m
+205,Josué Casimir,Le Havre AC,Ligue1,23 years old (24-09-2001),"1,78m",Guadeloupe,"Midfielder (Left, Right), Forward",Right Winger,right,20(4),1738.0,3,2,4,-,76.3,0.3,1,6.6,"Jun 30, 2025",€3.50m
+206,Soungoutou Magassa,AS Monaco,Ligue1,21 years old (08-10-2003),"1,90m",France,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,10(8),898.0,-,1,5,-,85.6,0.6,-,6.6,"Jun 30, 2029",€12.00m
+207,Dante,OGC Nice,Ligue1,41 years old (18-10-1983),"1,88m",Brazil,Defender (Centre),Centre-Back,left,20(2),1811.0,-,-,5,1,88.7,1.6,-,6.6,"Jun 30, 2026",€500k
+208,Jordan Siebatcheu,Stade Reims,Ligue1,29 years old (26-04-1996),"1,91m",USA,Forward,Centre-Forward,right,3(1),175.0,1,-,-,-,66.7,1.5,-,6.6,"Jun 30, 2027",€3.00m
+209,Philipp Köhn,AS Monaco,Ligue1,27 years old (02-04-1998),"1,90m",Switzerland,Goalkeeper,Goalkeeper,right,16,1440.0,-,-,1,-,73,0.2,-,6.6,"Jun 30, 2028",€4.00m
+210,Matias Fernandez-Pardo,LOSC Lille,Ligue1,20 years old (03-02-2005),"1,88m",,"Attacking Midfielder (Left), Forward",Centre-Forward,right,9(10),819.0,3,2,4,-,78.3,0.1,-,6.59,"Jun 30, 2029",€10.00m
+211,Léo Pétrot,AS Saint-Étienne,Ligue1,28 years old (15-04-1997),"1,88m",France,"Defender (Centre, Left)",Left-Back,left,26(2),2367.0,-,3,4,-,80.5,1.4,-,6.59,"Jun 30, 2025",€1.00m
+212,Mousa Al Ta'mari,Stade Rennais FC,Ligue1,27 years old (10-06-1997),"1,78m",Jordan,"Midfielder (Left, Right), Forward",Right Winger,left,12(3),1119.0,2,1,3,-,79.7,0.6,2,6.58,"Jun 30, 2028",€6.00m
+213,Quentin Merlin,Olympique Marseille,Ligue1,22 years old (16-05-2002),"1,74m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,20(4),1517.0,1,3,1,-,87,0.3,1,6.58,"Jun 30, 2028",€12.00m
+214,Abner Vinícius,Olympique Lyon,Ligue1,24 years old (27-05-2000),"1,81m",,"Defender (Left), Midfielder (Left)",Left-Back,left,12(6),1090.0,1,1,1,-,86.2,0.4,-,6.58,"Jun 30, 2029",€9.00m
+215,Romain Faivre,Stade Brestois 29,Ligue1,26 years old (14-07-1998),"1,80m",France,"Attacking Midfielder (Centre, Left, Right)",Right Midfield,left,10(10),900.0,3,2,2,-,86.2,0.4,-,6.58,"Jun 30, 2025",€7.00m
+216,Tino Kadewere,FC Nantes,Ligue1,29 years old (05-01-1996),"1,83m",Zimbabwe,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,6(5),508.0,1,2,1,-,75.9,1.4,1,6.58,"Jun 30, 2027",€3.00m
+217,Alban Lafont,FC Nantes,Ligue1,26 years old (23-01-1999),"1,96m",France,Goalkeeper,Goalkeeper,right,12,1080.0,-,-,1,-,65.2,0.4,2,6.58,"Jun 30, 2027",€4.00m
+218,Rares Ilie,Catanzaro,Ligue1,22 years old (19-04-2003),185cm,Romania,Midfielder,,,0(2),11.0,-,-,-,-,85.7,-,-,6.58,,
+219,Kamory Doumbia,Stade Brestois 29,Ligue1,22 years old (18-02-2003),"1,70m",Mali,Attacking Midfielder (Centre),Attacking Midfield,right,10(17),1104.0,2,2,1,-,84.9,0.3,-,6.57,"Jun 30, 2029",€5.00m
+220,Seko Fofana,Stade Rennais FC,Ligue1,29 years old (07-05-1995),"1,85m",Ivory Coast,Midfielder (Centre),Central Midfield,right,9(5),801.0,1,1,3,-,91.1,0.5,-,6.57,"Jun 30, 2029",€12.00m
+221,Anthony Lopes,FC Nantes,Ligue1,34 years old (01-10-1990),"1,84m",Portugal,Goalkeeper,Goalkeeper,left,15,1294.0,-,-,2,-,56,0.3,-,6.57,"Jun 30, 2025",€1.50m
+222,Christopher Wooh,Stade Rennais FC,Ligue1,23 years old (18-09-2001),"1,91m",Cameroon,Defender (Centre),Centre-Back,right,16(3),1401.0,-,-,5,1,87.5,2.1,-,6.57,"Jun 30, 2026",€7.00m
+223,Luck Zogbé,Stade Brestois 29,Ligue1,20 years old (24-03-2005),"1,78m",Ivory Coast,Defender (Right),Right-Back,right,7(6),637.0,-,-,2,-,83.5,0.9,-,6.57,"Jun 30, 2027",€3.00m
+224,Gabriel Gudmundsson,LOSC Lille,Ligue1,26 years old (29-04-1999),"1,80m",Sweden,"Defender (Centre, Left), Midfielder (Left, Right)",Left-Back,left,19(8),1671.0,2,-,3,-,85.3,0.4,-,6.57,"Jun 30, 2026",€9.00m
+225,Radoslaw Majecki,AS Monaco,Ligue1,25 years old (16-11-1999),"1,93m",Poland,Goalkeeper,Goalkeeper,right,15,1350.0,-,-,1,-,69.5,0.3,-,6.57,"Jun 30, 2028",€7.00m
+226,Jordan James,Stade Rennais FC,Ligue1,20 years old (02-07-2004),"1,82m",Wales,"Midfielder (Centre, Left)",Central Midfield,right,13(7),1079.0,-,1,4,-,87.4,0.4,-,6.57,"Jun 30, 2028",€8.00m
+227,Carlens Arcus,Angers SCO,Ligue1,28 years old (28-06-1996),"1,76m",Haiti,Defender (Right),Right-Back,right,22(3),1784.0,-,1,2,-,85.2,1.1,1,6.56,"Jun 30, 2026",€1.50m
+228,Tom Louchet,OGC Nice,Ligue1,21 years old (04-05-2003),"1,78m",France,"Defender (Right), Midfielder (Right)",Right Midfield,both,7(13),718.0,1,-,1,-,86.8,0.6,1,6.56,"Jun 30, 2027",€3.00m
+229,Ngal'ayel Mukau,LOSC Lille,Ligue1,20 years old (03-11-2004),"1,86m",,Midfielder (Centre),Defensive Midfield,left,13(6),1102.0,-,1,4,-,89.6,0.7,-,6.56,"Jun 30, 2028",€15.00m
+230,Albert Grønbæk,Southampton FC,Ligue1,23 years old (23-05-2001),176cm,Denmark,"Attacking Midfielder (Centre, Left)",,,9(7),819.0,2,1,1,-,68.7,0.3,1,6.56,,
+231,Johann Lepenant,FC Nantes,Ligue1,22 years old (22-10-2002),"1,76m",France,Midfielder (Centre),Defensive Midfield,right,22(5),1972.0,2,1,3,-,81.6,0.7,1,6.56,"Jun 30, 2025",€7.00m
+232,Jérémie Boga,OGC Nice,Ligue1,28 years old (03-01-1997),"1,72m",Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,12(8),1018.0,1,1,-,-,85.4,0.2,-,6.56,"Jun 30, 2027",€12.00m
+233,Ulisses Garcia,Olympique Marseille,Ligue1,29 years old (11-01-1996),"1,82m",Switzerland,"Defender (Centre, Left), Defensive Midfielder (C), Midfielder (Left)",Left-Back,left,8(10),771.0,2,2,1,-,88.2,0.8,-,6.56,"Jun 30, 2028",€4.00m
+234,Ernest Nuamah,Olympique Lyon,Ligue1,21 years old (01-11-2003),"1,78m",,"Attacking Midfielder (Left, Right)",Right Winger,left,13(10),1056.0,3,1,2,-,83.9,0.6,2,6.56,"Jun 30, 2028",€15.00m
+235,Mikayil Faye,Stade Rennais FC,Ligue1,20 years old (14-07-2004),"1,83m",,Defender (Centre),Centre-Back,left,7(4),693.0,-,-,1,1,88.9,1.3,-,6.56,"Jun 30, 2028",€8.00m
+236,Deiver Machado,RC Lens,Ligue1,31 years old (02-09-1993),"1,80m",Colombia,"Defender (Left), Midfielder (Left)",Left-Back,left,18(7),1648.0,1,4,4,2,87.2,0.6,1,6.56,"Jun 30, 2026",€3.50m
+237,Marco Bizot,Stade Brestois 29,Ligue1,34 years old (10-03-1991),"1,93m",Netherlands,Goalkeeper,Goalkeeper,right,29,2610.0,-,-,4,-,64.5,0.2,-,6.56,"Jun 30, 2026",€3.50m
+238,Saïd Benrahma,Olympique Lyon,Ligue1,29 years old (10-08-1995),172cm,Algeria,"Attacking Midfielder (Centre, Left, Right)",,,9(4),737.0,1,3,-,-,79.3,-,-,6.56,,
+239,Hans Hateboer,Stade Rennais FC,Ligue1,31 years old (09-01-1994),"1,87m",Netherlands,"Defender (Centre, Right), Midfielder (Right)",Right-Back,right,18(8),1681.0,-,-,3,-,87.9,1.6,-,6.56,"Jun 30, 2026",€3.00m
+240,Randal Kolo Muani,Juventus FC,Ligue1,26 years old (05-12-1998),187cm,France,"Attacking Midfielder (Centre, Left, Right), Forward",,,2(8),351.0,2,1,-,-,73.1,0.9,-,6.55,,
+241,Zakaria Aboukhlal,FC Toulouse,Ligue1,25 years old (18-02-2000),"1,79m",Morocco,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,both,22(2),1859.0,7,2,4,-,68.8,1,1,6.55,"Jun 30, 2026",€12.00m
+242,Lucas Hernández,Paris Saint-Germain,Ligue1,29 years old (14-02-1996),"1,84m",France,"Defender (Centre, Left)",Left-Back,left,8(6),740.0,-,-,2,-,91.9,0.7,-,6.55,"Jun 30, 2028",€30.00m
+243,Mostafa Mohamed,FC Nantes,Ligue1,27 years old (28-11-1997),"1,85m",,Forward,Centre-Forward,right,10(18),1126.0,5,-,3,-,65.4,1.8,-,6.55,"Jun 30, 2027",€6.00m
+244,Irvin Cardona,AS Saint-Étienne,Ligue1,27 years old (08-08-1997),"1,85m",France,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,10(2),850.0,4,2,2,-,72.6,0.6,1,6.55,"Jun 30, 2025",€2.00m
+245,Koka,Le Havre AC,Ligue1,32 years old (05-03-1993),191cm,Egypt,Forward,,,9(5),785.0,3,1,2,-,77.3,1.4,-,6.55,,
+246,Nemanja Matic,Olympique Lyon,Ligue1,36 years old (01-08-1988),"1,94m",Serbia,Defensive Midfielder (C),Defensive Midfield,left,23(3),1868.0,-,1,1,-,87.5,0.5,-,6.55,"Jun 30, 2026",€2.50m
+247,Akor Adams,Sevilla FC,Ligue1,25 years old (29-01-2000),190cm,Nigeria,Forward,,,13(2),1080.0,3,1,2,-,65.1,1.9,-,6.54,,
+248,Moïse Bombito,OGC Nice,Ligue1,25 years old (30-03-2000),"1,90m",Canada,Defender (Centre),Centre-Back,right,22(2),1925.0,-,-,1,1,90.2,1.8,-,6.54,"Jun 30, 2028",€10.00m
+249,Modibo Sagnan,Montpellier HSC,Ligue1,26 years old (14-04-1999),"1,87m",France,Defender (Centre),Centre-Back,left,24(2),2100.0,2,-,10,-,88.5,1.5,1,6.54,"Jun 30, 2028",€3.00m
+250,Massadio Haïdara,Stade Brestois 29,Ligue1,32 years old (02-12-1992),"1,79m",Mali,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,18(1),1509.0,-,-,1,2,80.3,1.2,-,6.54,"Jun 30, 2025",€1.80m
+251,Goduine Koyalipou,RC Lens,Ligue1,25 years old (15-02-2000),"1,84m",France,Forward,Centre-Forward,right,9(3),664.0,3,-,-,-,72.4,0.8,-,6.53,"Jun 30, 2028",€1.80m
+252,Saël Kumbedi,Olympique Lyon,Ligue1,20 years old (26-03-2005),"1,75m",France,"Defender (Right), Midfielder (Right)",Right-Back,right,12(2),956.0,-,-,3,-,86.3,0.2,-,6.53,"Jun 30, 2027",€6.00m
+253,Senny Mayulu,Paris Saint-Germain,Ligue1,18 years old (17-05-2006),"1,83m",France,Midfielder (Centre),Central Midfield,both,6(11),591.0,1,1,2,-,88.9,0.1,-,6.53,"Jun 30, 2027",€10.00m
+254,Badredine Bouanani,OGC Nice,Ligue1,20 years old (08-12-2004),"1,77m",France,"Attacking Midfielder (Centre, Right)",Right Winger,left,8(15),858.0,2,3,2,-,83,0.1,-,6.53,"Jun 30, 2029",€5.00m
+255,Ayyoub Bouaddi,LOSC Lille,Ligue1,17 years old (02-10-2007),"1,86m",France,Defensive Midfielder (C),Central Midfield,right,10(12),1045.0,-,1,2,-,89,0.4,1,6.53,"Jun 30, 2027",€30.00m
+256,Amine Gouiri,Olympique Marseille,Ligue1,25 years old (16-02-2000),"1,81m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,11(8),1036.0,3,2,2,-,80.1,0.4,1,6.53,"Jun 30, 2029",€20.00m
+257,Kazeem Olaigbe,Stade Rennais FC,Ligue1,22 years old (02-01-2003),"1,78m",Belgium,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,2(6),210.0,-,1,-,-,90.6,-,-,6.53,"Jun 30, 2029",€4.00m
+258,Mama Baldé,Stade Brestois 29,Ligue1,29 years old (06-11-1995),"1,76m",Guinea-Bissau,"Defender (Right), Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,12(13),1132.0,2,3,3,-,73.7,1.4,1,6.53,"Jun 30, 2027",€4.50m
+259,Mousa Al Ta'mari,Stade Rennais FC,Ligue1,27 years old (10-06-1997),"1,78m",Jordan,"Midfielder (Left, Right), Forward",Right Winger,left,6(3),483.0,1,-,1,-,85.2,0.2,-,6.53,"Jun 30, 2028",€6.00m
+260,Abdallah Sima,Stade Brestois 29,Ligue1,23 years old (17-06-2001),"1,88m",Senegal,"Attacking Midfielder (Left, Right), Forward",Left Winger,right,14(10),1173.0,7,2,2,-,73.2,1.5,1,6.53,"Jun 30, 2025",€10.00m
+261,Pablo Rosario,OGC Nice,Ligue1,28 years old (07-01-1997),"1,85m",Netherlands,"Defender (Centre, Right), Defensive Midfielder (C)",Defensive Midfield,right,19(8),1623.0,3,1,5,1,85.9,0.8,-,6.52,"Jun 30, 2026",€8.00m
+262,Thiago Almada,Olympique Lyon,Ligue1,24 years old (26-04-2001),"1,71m",Argentina,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,6(7),691.0,1,4,2,-,91.9,0.1,-,6.52,"Jun 30, 2025",€25.00m
+263,Louis Leroux,FC Nantes,Ligue1,19 years old (23-01-2006),"1,84m",,Midfielder (Centre),Attacking Midfield,left,6(7),608.0,1,1,1,-,82.4,0.3,-,6.52,"Jun 30, 2028",€2.00m
+264,Emmanuel Biumla,Angers SCO,Ligue1,19 years old (08-05-2005),"1,85m",,Defender (Centre),Centre-Back,right,15(1),1318.0,1,-,2,-,88.9,1.1,-,6.52,"Jun 30, 2027",€4.00m
+265,Anass Zaroury,RC Lens,Ligue1,24 years old (07-11-2000),"1,76m",Morocco,"Attacking Midfielder (Centre, Left), Forward",Attacking Midfield,right,15(10),1277.0,-,2,-,1,77.4,0.1,-,6.52,"Jun 30, 2028",€8.00m
+266,Aïssa Mandi,LOSC Lille,Ligue1,33 years old (22-10-1991),"1,86m",Algeria,"Defender (Centre, Left, Right)",Centre-Back,right,18(4),1557.0,-,-,3,-,89.2,0.6,-,6.51,"Jun 30, 2026",€1.50m
+267,Rabby Nzingoula,Montpellier HSC,Ligue1,19 years old (25-11-2005),"1,83m",,Defensive Midfielder (C),Defensive Midfield,right,18(7),1523.0,1,-,10,-,79.6,0.8,-,6.51,"Jun 30, 2025",€2.50m
+268,Kelvin Amian,FC Nantes,Ligue1,27 years old (08-02-1998),"1,80m",France,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,21(6),2004.0,1,-,5,-,81.6,0.6,-,6.51,"Jun 30, 2028",€2.50m
+269,Nicolas Cozza,FC Nantes,Ligue1,26 years old (08-01-1999),"1,78m",France,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,23(3),2027.0,1,-,3,1,77.6,0.6,-,6.51,"Jun 30, 2025",€3.50m
+270,Rémy Labeau Lascary,RC Lens,Ligue1,22 years old (03-03-2003),"1,84m",,Forward,Centre-Forward,right,6(8),635.0,2,1,5,-,78.9,0.4,1,6.51,"Jun 30, 2028",€2.50m
+271,Maxence Caqueret,Como 1907,Ligue1,25 years old (15-02-2000),174cm,France,Midfielder (Centre),,,6(3),571.0,-,-,1,-,81.8,0.1,-,6.5,,
+272,Tanner Tessmann,Olympique Lyon,Ligue1,23 years old (24-09-2001),"1,88m",USA,Defensive Midfielder (C),Defensive Midfield,right,11(11),1069.0,1,-,3,-,90.6,0.2,-,6.5,"Jun 30, 2029",€6.00m
+273,Mickaël Nadé,AS Saint-Étienne,Ligue1,26 years old (04-03-1999),"1,93m",France,Defender (Centre),Centre-Back,left,22(1),2035.0,1,2,2,-,89.5,1.2,-,6.5,"Jun 30, 2028",€1.50m
+274,Mahamadou Diawara,Le Havre AC,Ligue1,20 years old (17-02-2005),"1,87m",France,Midfielder (Centre),Central Midfield,left,6(6),562.0,-,1,-,-,85.1,0.2,-,6.5,"Jun 30, 2025",€2.50m
+275,Aurélio Buta,Stade Reims,Ligue1,28 years old (10-02-1997),"1,72m",Portugal,"Defender (Right), Midfielder (Right)",Right-Back,right,22(3),1838.0,-,1,5,-,85.3,0.4,-,6.49,"Jun 30, 2025",€5.00m
+276,Nikola Maksimovic,Montpellier HSC,Ligue1,33 years old (25-11-1991),"1,93m",Serbia,"Defender (Centre, Right), Midfielder (Right)",Centre-Back,right,7,583.0,-,-,2,-,93.2,1.1,-,6.49,-,€400k
+277,Soumaïla Coulibaly,Stade Brestois 29,Ligue1,21 years old (14-10-2003),"1,91m",France,Defender (Centre),Centre-Back,left,5(2),438.0,-,-,1,-,88.6,1.1,-,6.49,"Jun 30, 2025",€9.00m
+278,Jean-Kévin Duverne,Kortrijk,Ligue1,27 years old (12-07-1997),184cm,France,"Defender (Centre, Left, Right)",,,7(2),540.0,-,-,2,-,79.8,1,1,6.48,,
+279,Enzo Tchato,Montpellier HSC,Ligue1,22 years old (23-11-2002),"1,82m",Cameroon,"Defender (Right), Midfielder (Right)",Right-Back,right,18(6),1765.0,-,-,3,-,80,0.8,-,6.48,"Jun 30, 2027",€2.50m
+280,Andy Diouf,RC Lens,Ligue1,21 years old (17-05-2003),"1,87m",France,Midfielder (Centre),Central Midfield,left,24(7),1996.0,1,1,2,-,81.6,0.6,1,6.48,"Jun 30, 2028",€10.00m
+281,Mahamadou Nagida,Stade Rennais FC,Ligue1,19 years old (28-06-2005),"1,76m",Cameroon,Midfielder (Left),Left-Back,left,4(9),431.0,2,-,1,-,86.3,0.4,-,6.47,"Jun 30, 2028",€1.00m
+282,Yassine Kechta,Le Havre AC,Ligue1,23 years old (25-02-2002),"1,74m",Morocco,Midfielder (Centre),Central Midfield,left,22(6),1863.0,2,-,4,-,82.4,0.4,-,6.47,"Jun 30, 2026",€5.00m
+283,Benjamin Lecomte,Montpellier HSC,Ligue1,34 years old (26-04-1991),"1,86m",France,Goalkeeper,Goalkeeper,left,28,2520.0,-,-,-,-,63.6,0.1,1,6.47,"Jun 30, 2027",€2.00m
+284,M'Bala Nzola,RC Lens,Ligue1,28 years old (18-08-1996),"1,85m",Angola,Forward,Centre-Forward,left,16(5),1466.0,6,1,3,1,75.6,1.8,-,6.47,"Jun 30, 2025",€8.00m
+285,Angelo Fulgini,RC Lens,Ligue1,28 years old (20-08-1996),"1,82m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,11(12),1044.0,1,1,4,-,81.8,0.4,-,6.46,"Jun 30, 2027",€6.00m
+286,Oumar Diakité,Stade Reims,Ligue1,21 years old (20-12-2003),"1,85m",Ivory Coast,Forward,Centre-Forward,right,20(4),1614.0,4,1,6,-,83.4,1,-,6.46,"Jun 30, 2028",€7.00m
+287,Ismaël Koné,Stade Rennais FC,Ligue1,22 years old (16-06-2002),"1,88m",Canada,Midfielder (Centre),Central Midfield,right,2(8),296.0,1,1,-,-,86.1,0.2,-,6.46,"Jun 30, 2025",€10.00m
+288,Jean-Charles Castelletto,FC Nantes,Ligue1,30 years old (26-01-1995),"1,86m",Cameroon,"Defender (Centre, Right)",Centre-Back,both,27,2353.0,-,-,5,1,89,1.9,1,6.46,"Jun 30, 2028",€3.50m
+289,Lasso Coulibaly,AJ Auxerre,Ligue1,22 years old (19-10-2002),"1,76m",Ivory Coast,Midfielder,Right Winger,right,0(2),36.0,1,-,-,-,100,-,-,6.45,"Jun 30, 2028",€1.50m
+290,Angel Gomes,LOSC Lille,Ligue1,24 years old (31-08-2000),"1,66m",England,"Midfielder (Centre, Left), Forward",Attacking Midfield,right,10(4),740.0,1,1,1,-,82.3,0.4,-,6.45,"Jun 30, 2025",€20.00m
+291,Ümit Akdag,FC Toulouse,Ligue1,21 years old (06-10-2003),"1,92m",Turkey,Defender (Centre),Centre-Back,left,6(1),496.0,-,-,2,-,80,2.6,-,6.45,"Jun 30, 2025",€800k
+292,André Gomes,LOSC Lille,Ligue1,31 years old (30-07-1993),"1,90m",Portugal,"Midfielder (Centre, Left, Right)",Central Midfield,right,16(4),1283.0,-,-,3,-,90.4,0.5,-,6.45,"Jun 30, 2026",€8.00m
+293,Neal Maupay,Olympique Marseille,Ligue1,28 years old (14-08-1996),"1,71m",France,"Attacking Midfielder (Centre), Forward",Centre-Forward,right,13(8),1038.0,4,4,1,1,84,0.3,-,6.45,"Jun 30, 2025",€10.00m
+294,Derek Cornelius,Olympique Marseille,Ligue1,27 years old (25-11-1997),"1,87m",Canada,Defender (Centre),Centre-Back,left,16(4),1334.0,-,-,5,2,93.7,1.6,-,6.45,"Jun 30, 2028",€5.00m
+295,Rafik Messali,FC Toulouse,Ligue1,22 years old (28-04-2003),"1,77m",,Midfielder (Right),Right Midfield,right,5(6),419.0,-,1,-,-,74.7,0.5,-,6.44,"Jun 30, 2026",€800k
+296,Loïc Nego,Le Havre AC,Ligue1,34 years old (15-01-1991),"1,81m",Hungary,"Defender (Right), Midfielder (Centre, Right)",Right-Back,right,25(3),2193.0,-,-,3,-,78,0.6,-,6.44,"Jun 30, 2025",€800k
+297,Dennis Appiah,AS Saint-Étienne,Ligue1,32 years old (09-06-1992),"1,79m",France,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,19(7),1856.0,-,1,2,-,76.3,0.8,-,6.44,"Jun 30, 2026",€900k
+298,Arthur Desmas,Le Havre AC,Ligue1,31 years old (07-04-1994),"1,96m",France,Goalkeeper,Goalkeeper,right,18,1620.0,-,-,2,-,75.5,0.2,-,6.44,"Jun 30, 2025",€1.50m
+299,Yoann Salmier,Clermont Foot,Ligue1,32 years old (21-11-1992),188cm,France,"Defender (Centre, Right)",,,9(4),798.0,-,-,3,-,81.3,1.5,-,6.43,,
+300,Jordan Veretout,Olympique Lyon,Ligue1,32 years old (01-03-1993),"1,77m",France,Midfielder (Centre),Central Midfield,right,17(8),1390.0,2,-,3,-,85.5,0.4,-,6.43,"Jun 30, 2026",€5.00m
+301,Estéban Lepaul,Angers SCO,Ligue1,25 years old (18-04-2000),"1,81m",France,Forward,Centre-Forward,right,15(10),1365.0,7,-,1,-,70.1,1.3,2,6.43,"Jun 30, 2027",€5.00m
+302,Kiki Kouyaté,Montpellier HSC,Ligue1,28 years old (15-04-1997),"1,92m",Mali,Defender (Centre),Centre-Back,right,8(3),755.0,-,-,4,1,83.3,2.5,-,6.43,"Jun 30, 2026",€3.50m
+303,Hamzat Ojediran,RC Lens,Ligue1,21 years old (14-11-2003),"1,79m",Nigeria,Midfielder,Defensive Midfield,right,1(15),381.0,1,-,5,-,81.3,0.6,-,6.43,"Jun 30, 2028",€2.00m
+304,Mamadou Diakhon,Stade Reims,Ligue1,19 years old (22-09-2005),"1,80m",France,Forward,Left Winger,left,5(21),777.0,2,1,2,-,86.5,-,1,6.43,"Jun 30, 2026",€1.50m
+305,Antoine Joujou,Le Havre AC,Ligue1,22 years old (12-03-2003),"1,89m",France,Attacking Midfielder (Left),Left Winger,right,9(15),931.0,-,2,1,-,69.3,0.2,-,6.42,"Jun 30, 2025",€2.50m
+306,Elye Wahi,Eintracht Frankfurt,Ligue1,22 years old (02-01-2003),184cm,France,"Attacking Midfielder (Left), Forward",,,7(6),577.0,3,1,1,-,81.5,0.3,-,6.42,,
+307,Dimitry Bertaud,Montpellier HSC,Ligue1,26 years old (06-06-1998),"1,80m",France,Goalkeeper,Goalkeeper,right,3,270.0,-,-,-,-,63.6,-,-,6.42,"Jun 30, 2025",€1.20m
+308,Cédric Hountondji,Angers SCO,Ligue1,31 years old (19-01-1994),"1,94m",France,Defender (Centre),Centre-Back,right,3,270.0,-,-,-,-,85,1.7,-,6.42,"Jun 30, 2026",€1.50m
+309,Antoine Mendy,OGC Nice,Ligue1,20 years old (27-05-2004),"1,87m",France,"Defender (Centre, Right)",Right-Back,right,5(10),615.0,-,-,1,-,81.4,0.8,-,6.42,"Jun 30, 2028",€3.00m
+310,Hugo Magnetti,Stade Brestois 29,Ligue1,26 years old (30-05-1998),"1,80m",France,Defensive Midfielder (C),Central Midfield,right,25(4),2129.0,1,-,4,-,85.9,0.3,-,6.42,"Jun 30, 2027",€7.00m
+311,Lucas Mincarelli,Montpellier HSC,Ligue1,21 years old (05-01-2004),"1,79m",,Defender (Left),Left-Back,left,5(2),446.0,1,-,-,-,82.6,0.7,-,6.42,"Jun 30, 2027",€900k
+312,Jonathan Rowe,Olympique Marseille,Ligue1,22 years old (30-04-2003),"1,73m",England,"Attacking Midfielder (Centre, Left, Right)",Left Winger,right,4(21),661.0,3,2,2,-,87,0.3,1,6.42,"Jun 30, 2025",€12.00m
+313,Marwann N'Zuzi,AS Saint-Étienne,Ligue1,20 years old (16-05-2004),175cm,France,Defender,,,2,127.0,-,-,2,-,85,1,-,6.42,,
+314,Folarin Balogun,AS Monaco,Ligue1,23 years old (03-07-2001),"1,78m",USA,Forward,Centre-Forward,right,6(6),523.0,3,-,-,-,71.3,0.1,-,6.41,"Jun 30, 2028",€20.00m
+315,Lilian Raolisoa,Angers SCO,Ligue1,24 years old (16-06-2000),"1,78m",France,Defender (Right),Right-Back,right,11(15),1075.0,-,2,-,2,76.5,0.5,-,6.41,"Jun 30, 2026",€700k
+316,Malang Sarr,RC Lens,Ligue1,26 years old (23-01-1999),"1,83m",France,"Defender (Centre, Left)",Centre-Back,left,15(4),1381.0,-,-,-,-,89.5,1,-,6.41,"Jun 30, 2026",€5.00m
+317,Daler Kuzyaev,Le Havre AC,Ligue1,32 years old (15-01-1993),"1,82m",Russia,"Defender (Right), Midfielder (Centre, Left, Right)",Central Midfield,right,6(6),564.0,1,-,1,-,82.3,0.6,-,6.4,"Jun 30, 2025",€5.00m
+318,Rayan Raveloson,BSC Young Boys,Ligue1,28 years old (16-01-1997),182cm,Madagascar,"Defender (Centre, Right), Defensive Midfielder (C)",,,7(6),721.0,1,-,3,-,88.4,0.6,-,6.4,,
+319,Louis Mouton,AS Saint-Étienne,Ligue1,22 years old (03-06-2002),"1,80m",France,Midfielder (Centre),Central Midfield,right,12(10),1015.0,-,1,2,-,82.6,0.2,-,6.4,"Jun 30, 2025",€800k
+320,Timothée Pembélé,Le Havre AC,Ligue1,22 years old (09-09-2002),"1,83m",France,"Defender (Centre, Right), Midfielder (Right)",Right-Back,right,12(5),1036.0,1,-,2,-,84.5,0.5,-,6.4,"Jun 30, 2025",€2.50m
+321,Yoram Zague,Paris Saint-Germain,Ligue1,18 years old (15-05-2006),"1,68m",,Defender,Right-Back,right,2(1),162.0,-,-,-,-,95.8,0.3,-,6.4,"Jun 30, 2028",€2.50m
+322,Sorba Thomas,FC Nantes,Ligue1,26 years old (25-01-1999),"1,85m",Wales,"Defender (Right), Midfielder (Centre, Left, Right), Forward",Right Winger,right,13(10),1165.0,1,2,2,-,76.6,0.2,-,6.4,"Jun 30, 2025",€4.00m
+323,Benjamin Bouchouari,AS Saint-Étienne,Ligue1,23 years old (13-11-2001),"1,65m",Netherlands,Midfielder (Centre),Central Midfield,right,20(4),1708.0,1,-,5,-,86.8,0.3,1,6.4,"Jun 30, 2026",€5.00m
+324,Jaydee Canvot,FC Toulouse,Ligue1,18 years old (29-07-2006),"1,88m",,Defensive Midfielder (C),Centre-Back,right,9(6),836.0,-,-,2,-,86.1,0.8,-,6.39,"Jun 30, 2029",€2.50m
+325,Zinedine Ferhat,Angers SCO,Ligue1,32 years old (01-03-1993),"1,80m",Algeria,"Midfielder (Left, Right)",Right Winger,right,7(16),822.0,2,-,1,-,75.5,0.7,-,6.39,"Jun 30, 2025",€1.20m
+326,Jordan Amavi,Stade Brestois 29,Ligue1,31 years old (09-03-1994),"1,76m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,8(3),794.0,-,-,2,-,73.7,1.5,-,6.39,"Jun 30, 2025",€2.00m
+327,Abdoulaye Bamba,Angers SCO,Ligue1,35 years old (25-04-1990),"1,82m",Ivory Coast,"Defender (Centre, Left, Right), Midfielder (Right)",Centre-Back,right,16(3),1511.0,-,-,2,-,89.6,0.6,-,6.38,"Jun 30, 2025",€350k
+328,Becir Omeragic,Montpellier HSC,Ligue1,23 years old (20-01-2002),"1,87m",Switzerland,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,18(1),1533.0,-,-,1,-,92.5,0.8,-,6.38,"Jun 30, 2028",€5.00m
+329,Augustine Boakye,AS Saint-Étienne,Ligue1,24 years old (03-11-2000),"1,78m",Ghana,Attacking Midfielder (Right),Attacking Midfield,left,8(9),735.0,3,-,5,-,76.6,0.3,-,6.38,"Jun 30, 2028",€3.00m
+330,Florian Tardieu,AS Saint-Étienne,Ligue1,33 years old (22-04-1992),"1,81m",France,Defensive Midfielder (C),Central Midfield,right,10(11),981.0,-,3,-,-,86.6,0.7,-,6.38,"Jun 30, 2026",€700k
+331,Glen Kamara,Al Shabab,Ligue1,29 years old (28-10-1995),181cm,Finland,Midfielder (Centre),,,8(5),662.0,-,1,-,-,90.7,0.2,-,6.38,,
+332,Baptiste Santamaría,OGC Nice,Ligue1,30 years old (09-03-1995),"1,83m",France,Defensive Midfielder (C),Defensive Midfield,right,5(5),480.0,-,1,1,-,83.5,1.3,-,6.38,"Jun 30, 2025",€7.00m
+333,Ado Onaiwu,AJ Auxerre,Ligue1,29 years old (08-11-1995),"1,80m",Japan,Forward,Centre-Forward,right,8(20),853.0,4,1,1,1,75.3,1.3,-,6.38,"Jun 30, 2026",€1.80m
+334,Warren Kamanzi,FC Toulouse,Ligue1,24 years old (11-11-2000),"1,77m",Norway,"Defender (Right), Midfielder (Right)",Right-Back,right,8(13),787.0,-,1,3,-,82.8,0.2,-,6.38,"Jun 30, 2026",€2.00m
+335,Abakar Sylla,RC Strasbourg Alsace,Ligue1,22 years old (25-12-2002),"1,88m",Ivory Coast,Defender (Centre),Centre-Back,left,10(9),936.0,1,-,2,1,89.2,1.1,-,6.38,"Jun 30, 2028",€12.00m
+336,Marcus Coco,FC Nantes,Ligue1,28 years old (24-06-1996),"1,84m",France,"Defender (Right), Midfielder (Left, Right), Forward",Right-Back,right,10(9),952.0,-,1,3,2,83.2,0.9,1,6.37,"Jun 30, 2025",€1.50m
+337,Théo Sainte-Luce,Montpellier HSC,Ligue1,26 years old (20-10-1998),"1,76m",France,Defender (Left),Left-Back,left,10(5),928.0,1,-,3,-,75.1,1.2,-,6.37,"Jun 30, 2027",€800k
+338,Grégoire Coudert,Stade Brestois 29,Ligue1,26 years old (03-04-1999),"1,92m",France,Goalkeeper,Goalkeeper,left,2,180.0,-,-,-,-,77,-,-,6.37,"Jun 30, 2027",€400k
+339,Dylan Batubinsika,AS Saint-Étienne,Ligue1,29 years old (15-02-1996),"1,85m",France,Defender (Centre),Centre-Back,right,22(2),1972.0,-,-,3,1,91.8,1.8,-,6.37,"Jun 30, 2026",€1.50m
+340,André Ayew,Le Havre AC,Ligue1,35 years old (17-12-1989),"1,75m",Ghana,"Midfielder (Centre, Left, Right), Forward",Centre-Forward,left,13(11),1258.0,4,1,2,-,77.9,1.3,-,6.37,"Jun 30, 2025",€700k
+341,Ibrahim Salah,Stade Brestois 29,Ligue1,23 years old (30-08-2001),"1,86m",,"Attacking Midfielder (Left), Forward",Left Winger,right,4(8),355.0,1,1,-,-,74.3,0.1,1,6.36,"Jun 30, 2025",€4.00m
+342,Theo Bair,AJ Auxerre,Ligue1,25 years old (27-08-1999),"1,91m",,"Attacking Midfielder (Centre, Right), Forward",Centre-Forward,right,11(16),932.0,2,1,1,-,64,2,-,6.36,"Jun 30, 2028",€1.80m
+343,Youssoufa Moukoko,OGC Nice,Ligue1,20 years old (20-11-2004),"1,79m",Germany,Forward,Centre-Forward,left,2(9),202.0,2,1,-,-,81.4,0.2,1,6.36,"Jun 30, 2025",€10.00m
+344,Rassoul Ndiaye,Le Havre AC,Ligue1,23 years old (11-12-2001),"1,79m",France,Midfielder (Centre),Defensive Midfield,right,11(14),1054.0,1,-,2,-,78.5,0.6,-,6.36,"Jun 30, 2026",€2.50m
+345,Han-Noah Massengo,AJ Auxerre,Ligue1,23 years old (07-07-2001),"1,78m",France,Midfielder (Centre),Central Midfield,right,8(6),782.0,-,-,5,-,84.8,0.4,-,6.36,"Jun 30, 2025",€5.00m
+346,Plamedi Nsingi,FC Nantes,Ligue1,24 years old (17-12-2000),189cm,France,Forward,,,0(1),16.0,-,-,-,-,33.3,3,-,6.36,,
+347,Pedro Chirivella,FC Nantes,Ligue1,27 years old (23-05-1997),"1,78m",Spain,Defensive Midfielder (C),Defensive Midfield,right,25(2),2108.0,-,2,6,-,85,0.3,-,6.36,"Jun 30, 2026",€5.00m
+348,Issiaga Sylla,Montpellier HSC,Ligue1,31 years old (01-01-1994),"1,80m",Guinea,"Defender (Left, Right), Midfielder (Left)",Left-Back,left,15(4),1160.0,1,-,2,-,80.1,1.2,-,6.36,"Jun 30, 2025",€2.00m
+349,Jordan Teze,AS Monaco,Ligue1,25 years old (30-09-1999),"1,83m",Netherlands,"Defender (Centre, Right)",Right-Back,right,5(8),385.0,1,-,2,1,84.3,0.5,1,6.36,"Jun 30, 2029",€12.00m
+350,Nampalys Mendy,RC Lens,Ligue1,32 years old (23-06-1992),"1,68m",Senegal,Midfielder (Centre),Defensive Midfield,right,4(3),320.0,-,-,-,-,91.6,0.1,-,6.36,"Jun 30, 2025",€2.00m
+351,Amar Dedic,Olympique Marseille,Ligue1,22 years old (18-08-2002),"1,80m",Bosnia-Herzegovina,"Defender (Right), Midfielder (Right)",Right-Back,right,2(7),286.0,-,1,-,-,85.4,0.7,-,6.35,-,€15.00m
+352,Fodé Ballo-Touré,Le Havre AC,Ligue1,28 years old (03-01-1997),"1,82m",Senegal,"Defender (Left), Midfielder (Left)",Left-Back,left,6(1),390.0,-,-,-,-,90.7,0.6,-,6.35,"Jun 30, 2025",€1.50m
+353,Guillaume Restes,FC Toulouse,Ligue1,20 years old (11-03-2005),"1,88m",France,Goalkeeper,Goalkeeper,left,26,2275.0,-,-,-,-,70.2,0.1,-,6.35,"Jun 30, 2028",€20.00m
+354,Malcolm Jeng,Stade Reims,Ligue1,20 years old (09-03-2005),"1,90m",Sweden,Defender,Centre-Back,left,2(1),108.0,-,-,-,-,85.4,1.3,-,6.35,"Jun 30, 2029",€2.50m
+355,Assane Dioussé,AJ Auxerre,Ligue1,27 years old (20-09-1997),"1,75m",Senegal,Defensive Midfielder (C),Defensive Midfield,left,6(8),562.0,-,-,1,-,92,0.1,-,6.34,"Jun 30, 2026",€800k
+356,Hiroki Sekine,Stade Reims,Ligue1,22 years old (11-08-2002),"1,87m",Japan,Defender (Right),Right-Back,right,7(5),695.0,-,-,1,-,84.5,0.6,-,6.34,"Jun 30, 2029",€800k
+357,Steve Mandanda,Stade Rennais FC,Ligue1,40 years old (28-03-1985),"1,87m",France,Goalkeeper,Goalkeeper,right,17,1486.0,-,-,-,-,66.4,0.1,-,6.34,"Jun 30, 2025",€700k
+358,Ibrahim Mbaye,Paris Saint-Germain,Ligue1,17 years old (24-01-2008),-,France,Forward,Right Winger,right,2(5),157.0,1,-,-,-,88.5,0.3,-,6.34,"Jun 30, 2027",€2.00m
+359,John Patrick,Stade Reims,Ligue1,21 years old (24-09-2003),"1,92m",Spain,Defensive Midfielder (C),Central Midfield,right,5(5),485.0,-,-,-,-,73.7,1,-,6.34,"Jun 30, 2029",€1.00m
+360,George Ilenikhena,AS Monaco,Ligue1,18 years old (16-08-2006),"1,85m",France,Forward,Centre-Forward,left,5(17),634.0,3,2,-,-,72.2,0.6,-,6.34,"Jun 30, 2029",€15.00m
+361,Joris Chotard,Montpellier HSC,Ligue1,23 years old (24-09-2001),"1,79m",France,Defensive Midfielder (C),Defensive Midfield,right,21(2),1690.0,1,-,5,-,84.5,0.7,-,6.34,"Jun 30, 2026",€7.00m
+362,Kjetil Haug,FC Toulouse,Ligue1,26 years old (12-06-1998),"1,87m",Norway,Goalkeeper,Goalkeeper,right,5(1),497.0,-,-,-,-,59,-,-,6.34,"Jun 30, 2026",€600k
+363,Mathieu Cafaro,Paris FC,Ligue1,28 years old (25-03-1997),178cm,France,"Attacking Midfielder (Centre, Left, Right)",,,9(6),733.0,1,-,3,1,75.2,0.2,-,6.33,,
+364,Hianga'a Mbock,Red Star,Ligue1,25 years old (28-12-1999),186cm,France,Defensive Midfielder (C),,,0(1),20.0,-,-,-,-,82.4,1,-,6.33,,
+365,Robinio Vaz,Olympique Marseille,Ligue1,18 years old (17-02-2007),185cm,,Forward,,,0(2),74.0,-,-,-,-,28.6,1.5,-,6.33,,
+366,Tanguy Coulibaly,Montpellier HSC,Ligue1,24 years old (18-02-2001),"1,79m",France,"Midfielder (Centre, Left, Right), Forward",Right Winger,left,14(8),1242.0,2,-,2,2,80.5,1,-,6.33,"Jun 30, 2026",€1.80m
+367,Mohamed Meïté,Stade Rennais FC,Ligue1,17 years old (11-10-2007),-,,Forward,Centre-Forward,right,4(6),446.0,2,-,-,-,68.4,1.2,-,6.33,"Jun 30, 2028",€600k
+368,Khalil Fayad,Montpellier HSC,Ligue1,20 years old (09-06-2004),"1,72m",France,"Midfielder (Centre, Left)",Central Midfield,right,8(10),846.0,-,-,4,-,86.7,0.4,-,6.32,"Jun 30, 2027",€4.00m
+369,Henrik Meister,Pisa,Ligue1,21 years old (13-11-2003),192cm,Denmark,Forward,,,0(4),59.0,1,-,-,-,78.6,0.5,-,6.32,,
+370,Wesley Saïd,RC Lens,Ligue1,30 years old (19-04-1995),"1,71m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,11(11),894.0,3,-,3,-,80.7,0.5,1,6.32,"Jun 30, 2026",€3.50m
+371,Ismaël Koné,Stade Rennais FC,Ligue1,22 years old (16-06-2002),"1,88m",Canada,Midfielder (Centre),Central Midfield,right,3(5),361.0,-,-,-,-,87.6,0.3,-,6.32,"Jun 30, 2025",€10.00m
+372,Oussama Targhalline,Feyenoord,Ligue1,22 years old (20-05-2002),186cm,France,Midfielder (Centre),,,12(2),995.0,-,-,-,-,83.1,0.6,-,6.32,,
+373,Frank Magri,FC Toulouse,Ligue1,25 years old (04-09-1999),"1,78m",France,"Attacking Midfielder (Centre), Forward",Centre-Forward,right,14(14),1285.0,5,-,5,1,72.4,1.3,-,6.32,"Jun 30, 2026",€2.50m
+374,Niklas Schmidt,FC Toulouse,Ligue1,27 years old (01-03-1998),"1,84m",Germany,"Midfielder (Centre), Forward",Central Midfield,both,2(7),200.0,-,1,-,-,83.5,0.1,-,6.32,"Jun 30, 2027",€2.00m
+375,Ibrahim Sissoko,AS Saint-Étienne,Ligue1,29 years old (27-11-1995),"1,92m",Mali,Forward,Centre-Forward,right,8(10),810.0,3,1,1,-,67.3,1.6,-,6.31,"Jun 30, 2026",€2.00m
+376,Nicolas Pays,Montpellier HSC,Ligue1,21 years old (07-07-2003),"1,77m",,Forward,Attacking Midfield,left,4(5),447.0,-,-,-,-,82.9,0.6,-,6.31,-,€700k
+377,Yunis Abdelhamid,AS Saint-Étienne,Ligue1,37 years old (28-09-1987),"1,90m",Morocco,Defender (Centre),Centre-Back,left,11(4),1026.0,-,-,2,-,86.9,1.3,-,6.31,"Jun 30, 2025",€500k
+378,Bilal Nadir,Olympique Marseille,Ligue1,21 years old (28-11-2003),"1,79m",France,Attacking Midfielder (Centre),Central Midfield,left,5(9),356.0,1,-,2,-,88.7,0.3,-,6.31,"Jun 30, 2026",€5.00m
+379,Yassin Belkhdim,Angers SCO,Ligue1,23 years old (14-02-2002),"1,75m",France,Midfielder (Centre),Central Midfield,right,14(13),1341.0,1,-,3,-,83.2,0.2,-,6.31,"Jun 30, 2027",€800k
+380,Paul Joly,AJ Auxerre,Ligue1,24 years old (07-06-2000),"1,82m",France,Defender (Right),Right-Back,right,8(15),828.0,-,1,3,1,72,0.6,1,6.31,"Jun 30, 2027",€2.00m
+381,Jim Allevinah,Angers SCO,Ligue1,30 years old (27-02-1995),"1,72m",Gabon,"Midfielder (Centre, Left, Right)",Right Winger,right,22(4),1624.0,-,3,3,-,79.6,0.4,-,6.31,"Jun 30, 2027",€1.80m
+382,Eliot Matazo,Hull,Ligue1,23 years old (15-02-2002),170cm,Belgium,Defensive Midfielder (C),,,1(2),68.0,-,-,-,-,85,0.3,-,6.31,,
+383,Étienne Youté,Le Havre AC,Ligue1,23 years old (14-01-2002),"1,96m",France,Defender (Centre),Centre-Back,right,23(2),2050.0,-,-,4,1,89.1,1,-,6.3,"Jun 30, 2026",€8.00m
+384,Francis Coquelin,FC Nantes,Ligue1,33 years old (13-05-1991),"1,77m",France,"Midfielder (Centre, Left, Right)",Defensive Midfield,right,1(2),67.0,-,1,-,-,95.5,0.3,-,6.3,"Jun 30, 2025",€1.00m
+385,Edimilson Fernandes,Stade Brestois 29,Ligue1,29 years old (15-04-1996),"1,87m",Switzerland,"Defender (Centre, Right), Midfielder (Centre, Right)",Defensive Midfield,right,10(7),923.0,-,1,1,-,86.7,0.6,-,6.3,"Jun 30, 2025",€3.50m
+386,Shavy Babicka,FC Toulouse,Ligue1,24 years old (01-06-2000),"1,79m",Gabon,"Attacking Midfielder (Centre), Forward",Right Winger,right,11(18),1176.0,4,2,2,-,74.5,0.2,-,6.3,"Jun 30, 2027",€3.00m
+387,Andrés Gómez,Stade Rennais FC,Ligue1,22 years old (12-09-2002),"1,71m",Colombia,Attacking Midfielder (Right),Right Winger,right,2(13),343.0,2,-,1,-,86.7,0.1,1,6.3,"Jun 30, 2029",€5.00m
+388,Thibault De Smet,Paris FC,Ligue1,26 years old (05-06-1998),183cm,Belgium,"Defender (Left), Midfielder (Left)",,,2(3),190.0,-,-,-,-,91.2,0.2,-,6.29,,
+389,Mamadou Coulibaly,AS Monaco,Ligue1,21 years old (21-04-2004),180cm,France,Midfielder,,,0(1),7.0,-,-,-,-,75,-,-,6.29,,
+390,Théo Pellenard,Laval,Ligue1,31 years old (04-03-1994),184cm,France,Defender (Left),,,0(2),43.0,-,-,-,-,81.8,-,-,6.29,,
+391,Yaël Nandjou,OGC Nice,Ligue1,19 years old (06-07-2005),"1,85m",France,Defender,Left-Back,left,2(1),155.0,-,-,-,-,75.5,1,-,6.29,"Jun 30, 2025",€150k
+392,Fredrik Oppegård,AJ Auxerre,Ligue1,22 years old (07-08-2002),"1,75m",Norway,Defender (Left),Left-Back,left,1(6),169.0,-,-,-,-,85.9,0.3,-,6.29,"Jun 30, 2028",€600k
+393,Yael Mouanga,Montpellier HSC,Ligue1,19 years old (23-07-2005),183cm,,Defender (Centre),,,7(4),736.0,-,-,3,-,87.1,1.2,-,6.28,,
+394,Denis Genreau,Deportivo La Coruna,Ligue1,25 years old (21-05-1999),175cm,Australia,Attacking Midfielder (Centre),,,2(6),220.0,-,-,-,-,87.6,0.3,-,6.28,,
+395,Herba Guirassy,FC Nantes,Ligue1,18 years old (29-08-2006),"1,86m",,Forward,Left Winger,,2(15),333.0,2,-,-,-,75.2,0.4,-,6.27,"Jun 30, 2028",€1.00m
+396,Krépin Diatta,AS Monaco,Ligue1,26 years old (25-02-1999),"1,75m",Senegal,"Defender (Left, Right), Midfielder (Centre, Left, Right), Forward",Right Winger,right,2(14),418.0,-,-,1,-,78.2,0.8,-,6.27,"Jun 30, 2025",€10.00m
+397,Meschack Elia,FC Nantes,Ligue1,27 years old (06-08-1997),"1,73m",DR Congo,"Attacking Midfielder (Right), Forward",Centre-Forward,right,1(7),165.0,1,-,-,-,71.7,0.3,-,6.27,"Jun 30, 2025",€5.00m
+398,Ethan Mbappé,LOSC Lille,Ligue1,18 years old (29-12-2006),"1,80m",France,Midfielder,Central Midfield,left,1(9),216.0,-,-,3,-,79.2,0.1,-,6.26,"Jun 30, 2027",€5.00m
+399,Teddy Teuma,Stade Reims,Ligue1,31 years old (30-09-1993),"1,76m",Malta,Attacking Midfielder (Centre),Central Midfield,left,9(8),749.0,1,-,1,-,84.5,0.2,-,6.26,"Jun 30, 2027",€4.00m
+400,Ibrahima Niane,Angers SCO,Ligue1,26 years old (11-03-1999),"1,87m",Senegal,"Attacking Midfielder (Left), Forward",Centre-Forward,right,8(16),936.0,3,1,-,-,69.4,1.1,-,6.26,"Jun 30, 2025",€1.50m
+401,Amidou Doumbouya,OGC Nice,Ligue1,17 years old (05-08-2007),"1,82m",,Defender,Centre-Back,left,0(2),44.0,-,-,-,-,81.8,-,-,6.26,"Jun 30, 2026",€300k
+402,Jota,Celtic,Ligue1,26 years old (30-03-1999),175cm,Portugal,"Attacking Midfielder (Left, Right)",,,3(6),332.0,1,-,-,-,80.4,0.1,-,6.26,,
+403,Emmanuel Sabbi,Vancouver Whitecaps,Ligue1,27 years old (24-12-1997),178cm,USA,"Attacking Midfielder (Centre, Left, Right), Forward",,,7(8),651.0,-,-,1,-,78.6,0.6,-,6.26,,
+404,Kassoum Ouattara,AS Monaco,Ligue1,20 years old (14-10-2004),"1,76m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,5(7),391.0,-,1,2,-,80,0.3,-,6.26,"Jun 30, 2028",€8.00m
+405,Mohamed Bayo,Royal Antwerp,Ligue1,26 years old (04-06-1998),188cm,Guinea,Forward,,,4(8),306.0,2,1,1,-,70.7,0.3,-,6.26,,
+406,Abdoul Ouattara,RC Strasbourg Alsace,Ligue1,19 years old (22-10-2005),"1,80m",France,Midfielder,Right Winger,,3(12),424.0,1,1,1,-,87.2,0.2,-,6.26,"Jun 30, 2029",€800k
+407,Aïmen Moueffek,AS Saint-Étienne,Ligue1,24 years old (09-04-2001),"1,79m",France,Defensive Midfielder (C),Central Midfield,right,10(9),869.0,-,1,2,-,85.9,0.5,-,6.26,"Jun 30, 2028",€2.50m
+408,Abdoul Koné,Stade Reims,Ligue1,20 years old (22-04-2005),"1,92m",France,Defender,Centre-Back,right,1(3),130.0,-,-,-,-,66.7,0.5,-,6.25,"Jun 30, 2027",€500k
+409,Presnel Kimpembe,Paris Saint-Germain,Ligue1,29 years old (13-08-1995),"1,83m",France,Defender (Centre),Centre-Back,left,0(2),21.0,-,-,-,-,100,-,-,6.25,"Jun 30, 2026",€8.00m
+410,Saïdou Sow,FC Nantes,Ligue1,22 years old (04-07-2002),"1,87m",Guinea,Defender (Centre),Centre-Back,right,11(1),1019.0,-,1,2,-,90.9,1.3,-,6.25,"Jun 30, 2025",€6.00m
+411,Pierrick Capelle,Angers SCO,Ligue1,38 years old (15-04-1987),"1,81m",France,"Defender (Left), Midfielder (Centre, Left, Right)",Central Midfield,left,3(13),476.0,-,-,4,-,82.8,0.2,-,6.24,"Jun 30, 2025",€200k
+412,Yvann Maçon,AS Saint-Étienne,Ligue1,26 years old (01-10-1998),"1,76m",France,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,10(1),795.0,-,-,4,-,78.2,0.3,-,6.24,"Jun 30, 2025",€2.00m
+413,Jonas Martin,Stade Brestois 29,Ligue1,35 years old (09-04-1990),"1,84m",France,"Midfielder (Centre, Left)",Defensive Midfield,right,5(10),479.0,1,-,2,-,89,0.3,-,6.24,"Jun 30, 2025",€800k
+414,Andy Delort,Montpellier HSC,Ligue1,33 years old (09-10-1991),"1,81m",Algeria,"Attacking Midfielder (Right), Forward",Centre-Forward,right,8(1),611.0,-,-,1,-,52.7,3.2,-,6.24,"Jun 30, 2025",€2.00m
+415,Reda Khadra,Stade Reims,Ligue1,23 years old (04-07-2001),"1,75m",Germany,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,0(4),78.0,-,-,-,-,81.5,-,-,6.24,"Jun 30, 2027",€2.50m
+416,Pol Lirola,Olympique Marseille,Ligue1,27 years old (13-08-1997),"1,83m",Spain,"Defender (Centre, Right), Midfielder (Left, Right)",Right-Back,right,5(13),632.0,1,2,1,1,86.3,0.2,-,6.23,"Jun 30, 2026",€4.00m
+417,Wahbi Khazri,Montpellier HSC,Ligue1,34 years old (08-02-1991),"1,76m",Tunisia,"Midfielder (Centre, Left, Right), Forward",Left Winger,right,10(18),1080.0,1,1,4,-,74.8,0.4,1,6.23,"Jun 30, 2025",€1.50m
+418,Billal Brahimi,St.Truiden,Ligue1,25 years old (14-03-2000),183cm,Algeria,"Attacking Midfielder (Centre, Left, Right), Forward",,,1(1),76.0,-,-,-,-,93.8,-,-,6.23,,
+419,Nordine Kandil,Amiens,Ligue1,23 years old (31-10-2001),167cm,France,Forward,,,0(1),9.0,-,-,-,-,50,1,-,6.23,,
+420,Dehmaine Tabibou,FC Nantes,Ligue1,20 years old (17-04-2005),"1,83m",France,Midfielder,Central Midfield,left,0(10),74.0,-,-,-,-,78,0.2,-,6.23,"Jun 30, 2026",€100k
+421,Valentín Carboni,Olympique Marseille,Ligue1,20 years old (05-03-2005),185cm,Argentina,Attacking Midfielder (Centre),,,1(3),101.0,-,-,1,-,88.3,0.5,-,6.23,,
+422,Junior Mwanga,Le Havre AC,Ligue1,21 years old (11-05-2003),"1,84m",France,Defensive Midfielder (C),Defensive Midfield,both,2(6),291.0,-,-,-,-,90.5,0.3,-,6.23,"Jun 30, 2025",€6.00m
+423,Ben Old,AS Saint-Étienne,Ligue1,22 years old (13-08-2002),"1,73m",,Midfielder,Left Winger,left,4(6),463.0,-,-,-,-,83.3,0.1,-,6.23,"Jun 30, 2028",€800k
+424,Martín Satriano,RC Lens,Ligue1,24 years old (20-02-2001),"1,87m",Uruguay,Forward,Centre-Forward,right,0(4),39.0,-,-,-,-,62.5,0.8,-,6.23,"Jun 30, 2025",€5.00m
+425,Jordan Ferri,Montpellier HSC,Ligue1,33 years old (12-03-1992),"1,73m",France,Midfielder (Centre),Central Midfield,right,18(4),1568.0,-,1,5,1,90.3,0.6,-,6.22,"Jun 30, 2026",€2.50m
+426,Jacques Ekomié,Angers SCO,Ligue1,21 years old (19-08-2003),"1,79m",France,Defender (Left),Left-Back,right,6(9),609.0,-,-,1,-,77.1,0.7,-,6.22,"Jun 30, 2027",€800k
+427,Jeremy Agbonifo,RC Lens,Ligue1,19 years old (24-10-2005),"1,78m",,Forward,Right Winger,left,1(7),298.0,1,-,1,-,75,0.1,-,6.22,"Jun 30, 2025",€5.00m
+428,Ange Tia,Stade Reims,Ligue1,18 years old (20-11-2006),178cm,,Midfielder,,,0(3),24.0,-,-,-,-,78.6,0.7,-,6.22,,
+429,Nhoa Sangui,Stade Reims,Ligue1,19 years old (27-02-2006),"1,78m",France,Defender (Left),Left-Back,left,10(14),1088.0,-,2,3,-,84.3,0.2,-,6.22,"Jun 30, 2027",€2.50m
+430,Bamba Dieng,Angers SCO,Ligue1,25 years old (23-03-2000),"1,78m",Senegal,"Attacking Midfielder (Left), Forward",Centre-Forward,right,5(13),525.0,3,-,2,-,80.6,0.6,-,6.21,"Jun 30, 2025",€3.50m
+431,Rémy Descamps,Olympique Lyon,Ligue1,28 years old (25-06-1996),"1,96m",France,Goalkeeper,Goalkeeper,left,1,90.0,-,-,-,-,89.3,-,-,6.21,"Jun 30, 2027",€1.50m
+432,Sékou Mara,RC Strasbourg Alsace,Ligue1,22 years old (30-07-2002),"1,83m",France,Forward,Centre-Forward,right,6(17),637.0,1,1,2,-,68.8,0.8,-,6.21,"Jun 30, 2029",€6.00m
+433,Pape Diong,RC Strasbourg Alsace,Ligue1,18 years old (15-06-2006),"1,93m",Senegal,Midfielder,Defensive Midfield,right,1(8),76.0,1,-,-,-,83.9,0.4,-,6.2,"Jun 30, 2029",€800k
+434,Noah Edjouma,FC Toulouse,Ligue1,19 years old (04-10-2005),"1,82m",France,Forward,Right Winger,right,1(9),165.0,2,-,-,1,75.6,0.2,-,6.2,"Jun 30, 2027",€500k
+435,Edhy Zuliani,FC Toulouse,Ligue1,20 years old (11-08-2004),175cm,,Midfielder,,,0(1),8.0,-,-,-,-,100,-,-,6.2,,
+436,Ousmane Touré,Valenciennes,Ligue1,20 years old (18-02-2005),187cm,France,Defender,,,0(1),5.0,-,-,-,-,80,1,-,6.2,,
+437,Wilfried Zaha,Charlotte FC,Ligue1,32 years old (10-11-1992),180cm,Ivory Coast,"Attacking Midfielder (Left, Right), Forward",,,1(3),71.0,-,-,-,-,87.5,-,-,6.2,,
+438,Maxime Bernauer,AS Saint-Étienne,Ligue1,26 years old (01-07-1998),"1,85m",France,Defender (Centre),Centre-Back,right,6(2),537.0,-,-,2,1,87.5,1.1,-,6.2,"Jun 30, 2025",€2.00m
+439,Nabil Bentaleb,LOSC Lille,Ligue1,30 years old (24-11-1994),"1,87m",Algeria,Midfielder (Centre),Defensive Midfield,left,1(7),168.0,1,-,-,-,87.9,0.3,-,6.2,"Jun 30, 2026",€8.00m
+440,Warmed Omari,Olympique Lyon,Ligue1,25 years old (23-04-2000),"1,88m",France,Defender (Centre),Centre-Back,right,0(1),7.0,-,-,-,-,100,-,-,6.19,"Jun 30, 2025",€4.00m
+441,Fabien Centonze,FC Nantes,Ligue1,29 years old (16-01-1996),"1,82m",France,"Defender (Right), Midfielder (Right)",Right-Back,right,1(3),95.0,-,-,-,-,80,0.3,-,6.19,"Jun 30, 2027",€2.00m
+442,Lucas Michal,AS Monaco,Ligue1,19 years old (22-06-2005),-,France,Forward,Left Winger,right,0(7),94.0,-,-,-,-,86.1,0.4,-,6.19,"Jun 30, 2029",€500k
+443,Florian Ayé,AJ Auxerre,Ligue1,28 years old (19-01-1997),"1,84m",France,Forward,Centre-Forward,right,4(19),520.0,2,-,-,-,76.3,0.5,-,6.18,"Jun 30, 2026",€1.50m
+444,Caleb Wiley,Watford,Ligue1,20 years old (22-12-2004),180cm,USA,"Defender (Left), Midfielder (Left)",,,3(3),268.0,-,1,1,-,81.1,-,-,6.18,,
+445,Mathis Amougou,Chelsea FC,Ligue1,19 years old (18-01-2006),177cm,France,Midfielder (Centre),,,9(8),858.0,-,-,2,-,78.3,0.2,-,6.17,,
+446,Ben Viadère,AJ Auxerre,Ligue1,19 years old (02-09-2005),176cm,France,Forward,,,0(1),4.0,-,-,-,-,50,-,-,6.17,,
+447,Rayan Fofana,RC Lens,Ligue1,19 years old (12-02-2006),182cm,,Forward,,,0(2),24.0,-,-,-,-,62.5,-,-,6.17,,
+448,Florent Mollet,FC Nantes,Ligue1,33 years old (19-11-1991),"1,75m",France,"Attacking Midfielder (Centre, Left, Right)",Attacking Midfield,right,3(6),241.0,-,-,1,-,85.7,0.1,-,6.17,"Jun 30, 2025",€1.50m
+449,Younes Lachaab,LOSC Lille,Ligue1,20 years old (06-01-2005),185cm,France,Forward,,,0(2),7.0,-,-,-,-,50,-,-,6.17,,
+450,Prosper Peter,Angers SCO,Ligue1,17 years old (09-08-2007),,,Forward,,,0(1),19.0,-,-,-,-,100,-,-,6.16,,
+451,Marvin Senaya,FC Lausanne-Sport,Ligue1,24 years old (28-01-2001),181cm,France,"Defender (Right), Midfielder (Right)",,,1(9),221.0,-,-,3,-,85,0.3,-,6.16,,
+452,Mama Baldé,Stade Brestois 29,Ligue1,29 years old (06-11-1995),"1,76m",Guinea-Bissau,"Defender (Right), Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,0(2),31.0,-,-,-,-,66.7,0.5,-,6.15,"Jun 30, 2027",€4.50m
+453,Victor Orakpo,OGC Nice,Ligue1,19 years old (14-01-2006),"1,94m",Nigeria,Forward,Centre-Forward,right,0(4),32.0,-,-,-,-,88.2,0.5,-,6.15,"Jun 30, 2028",€500k
+454,Yanis Issoufou,Montpellier HSC,Ligue1,18 years old (28-10-2006),182cm,,Forward,,,1(3),75.0,-,-,-,-,62.5,-,-,6.15,,
+455,Birama Touré,Montpellier HSC,Ligue1,32 years old (06-06-1992),183cm,Mali,Defensive Midfielder (C),,,2(6),298.0,-,-,3,-,82.1,0.5,-,6.15,,
+456,Ignatius Ganago,New England Revolution,Ligue1,26 years old (16-02-1999),179cm,Cameroon,"Attacking Midfielder (Left, Right), Forward",,,1(10),231.0,-,-,1,-,79.5,0.4,-,6.14,,
+457,Kyllian Antonio,RC Lens,Ligue1,17 years old (04-01-2008),183cm,,Defender,,,2(1),140.0,-,-,-,-,85.2,0.7,-,6.14,,
+458,Sékou Doucouré,FC Nantes,Ligue1,20 years old (26-04-2005),187cm,France,Defender,,,0(2),11.0,-,-,-,-,80,0.5,-,6.14,,
+459,Óscar Perea,RC Strasbourg Alsace,Ligue1,19 years old (27-09-2005),"1,74m",Colombia,Forward,Left Winger,right,0(1),6.0,-,-,-,-,100,-,-,6.13,"Jun 30, 2029",€2.50m
+460,Lilian Brassier,Stade Rennais FC,Ligue1,25 years old (02-11-1999),"1,86m",France,"Defender (Centre, Left)",Centre-Back,left,9(3),780.0,-,-,3,-,87.1,1.4,-,6.13,"Jun 30, 2025",€10.00m
+461,Othmane Maamma,Montpellier HSC,Ligue1,19 years old (06-10-2005),"1,82m",Morocco,Forward,Right Winger,both,2(10),354.0,1,1,1,-,67.9,0.2,-,6.13,"Jun 30, 2027",€800k
+462,Miha Zajc,FC Toulouse,Ligue1,30 years old (01-07-1994),"1,78m",Slovenia,"Midfielder (Centre), Forward",Central Midfield,right,1(17),235.0,-,-,2,-,85.3,0.2,-,6.13,"Jun 30, 2025",€1.80m
+463,Pierre Cornud,AS Saint-Étienne,Ligue1,28 years old (12-12-1996),"1,77m",France,Defender (Left),Left-Back,left,7(4),576.0,-,-,2,-,83.9,0.3,-,6.13,"Jun 30, 2026",€1.00m
+464,Jérémy Sebas,SC Bastia,Ligue1,22 years old (14-04-2003),187cm,France,Forward,,,1(12),182.0,-,-,-,-,69.2,0.2,-,6.12,,
+465,Igor Miladinovic,AS Saint-Étienne,Ligue1,21 years old (08-06-2003),"1,66m",,Midfielder,Attacking Midfield,right,0(3),23.0,-,-,-,-,80,0.7,-,6.12,"Jun 30, 2028",€1.50m
+466,Naatan Skyttä,Dunkerque,Ligue1,22 years old (07-05-2002),170cm,Finland,Midfielder,,,0(1),4.0,-,-,-,-,100,-,-,6.12,,
+467,Tom Pouilly,RC Lens,Ligue1,21 years old (18-06-2003),"1,80m",France,Midfielder,Defensive Midfield,right,0(7),110.0,-,-,1,-,79.8,-,-,6.12,"Jun 30, 2027",€100k
+468,Eduard Sobol,RC Strasbourg Alsace,Ligue1,30 years old (20-04-1995),"1,86m",Ukraine,"Defender (Left), Midfielder (Left)",Left-Back,left,0(10),87.0,-,-,2,-,73.1,0.3,-,6.12,"Jun 30, 2026",€1.20m
+469,Axel Gueguin,Montpellier HSC,Ligue1,20 years old (24-03-2005),170cm,France,Forward,,,0(1),22.0,-,-,-,-,80,-,-,6.11,,
+470,Martin Adeline,Troyes,Ligue1,21 years old (02-12-2003),180cm,France,Midfielder,,,0(1),25.0,-,-,-,-,80,-,-,6.11,,
+471,Gabriel Barès,Burgos CF,Ligue1,24 years old (29-08-2000),187cm,Switzerland,Midfielder,,,0(6),50.0,-,-,-,-,87.2,-,-,6.11,,
+472,Justin-Noël Kalumba,Angers SCO,Ligue1,20 years old (25-12-2004),180cm,France,Defender (Left),,,0(2),29.0,-,-,-,-,90,-,-,6.11,,
+473,Terem Moffi,OGC Nice,Ligue1,25 years old (25-05-1999),"1,88m",Nigeria,"Attacking Midfielder (Right), Forward",Centre-Forward,left,0(3),42.0,-,-,-,-,57.1,1,-,6.11,"Jun 30, 2027",€15.00m
+474,Keyliane Abdallah,Olympique Marseille,Ligue1,19 years old (05-04-2006),185cm,France,Forward,,,0(1),2.0,-,-,-,-,100,-,-,6.1,,
+475,David Costa,Portland Timbers,Ligue1,24 years old (05-01-2001),168cm,Portugal,"Attacking Midfielder (Centre, Left)",,,3(8),349.0,-,-,-,1,89.8,-,-,6.1,,
+476,Luiz Felipe,Olympique Marseille,Ligue1,28 years old (22-03-1997),"1,87m",Italy,Defender (Centre),Centre-Back,right,1(1),75.0,-,-,-,-,90,-,-,6.09,"Jun 30, 2026",€6.00m
+477,Amine Salama,Stade Reims,Ligue1,24 years old (18-07-2000),192cm,France,Forward,,,2(15),362.0,-,-,-,-,79.5,0.1,-,6.09,,
+478,Hamidou Makalou,Stade Brestois 29,Ligue1,18 years old (15-07-2006),"1,64m",Mali,Midfielder,Defensive Midfield,right,0(2),16.0,-,-,-,-,100,-,-,6.09,"Jun 30, 2029",€200k
+479,Issiaga Camara,OGC Nice,Ligue1,20 years old (02-02-2005),175cm,,Midfielder (Centre),,,0(4),16.0,-,-,-,-,93.8,-,-,6.08,,
+480,Ayanda Sishuba,Stade Rennais FC,Ligue1,20 years old (02-02-2005),"1,69m",Belgium,Midfielder,Attacking Midfield,right,0(1),2.0,-,-,-,-,-,-,-,6.08,"Jun 30, 2029",€2.00m
+481,Orel Mangala,Everton FC,Ligue1,27 years old (18-03-1998),178cm,Belgium,Midfielder (Centre),,,1,68.0,-,-,-,-,93.3,-,-,6.07,,
+482,Samuel Grandsir,Caen,Ligue1,28 years old (14-08-1996),170cm,France,"Attacking Midfielder (Left, Right)",,,0(6),79.0,-,-,-,-,73.1,-,-,6.07,,
+483,Gabriel Moscardo,Stade Reims,Ligue1,19 years old (28-09-2005),"1,85m",Brazil,Defensive Midfielder (C),Defensive Midfield,right,0(6),80.0,-,-,1,-,78.9,0.5,-,6.07,"Jun 30, 2025",€10.00m
+484,Axel Camblan,Valenciennes,Ligue1,21 years old (30-08-2003),168cm,France,Midfielder,,,0(2),24.0,-,-,-,-,50,-,-,6.07,,
+485,Lamine Fomba,AS Saint-Étienne,Ligue1,27 years old (26-01-1998),"1,88m",France,Defensive Midfielder (C),Defensive Midfield,right,3(4),216.0,-,-,2,-,84,0.4,-,6.06,"Jun 30, 2026",€700k
+486,Falaye Sacko,Montpellier HSC,Ligue1,29 years old (01-05-1995),"1,80m",Mali,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,14(2),1236.0,-,1,1,-,84.6,0.6,-,6.05,"Jun 30, 2026",€2.00m
+487,Steve Ngoura,Cercle Bruges,Ligue1,20 years old (22-02-2005),185cm,France,Forward,,,2(6),284.0,-,-,-,-,67.3,0.6,-,6.05,,
+488,Saliou Diop,Stade Brestois 29,Ligue1,19 years old (12-05-2005),193cm,Senegal,Forward,,,0(2),3.0,-,-,-,-,100,-,-,6.05,,
+489,Naouirou Ahamada,Stade Rennais FC,Ligue1,23 years old (29-03-2002),"1,83m",France,Midfielder (Centre),Central Midfield,right,0(3),55.0,-,-,-,-,81,-,-,6.04,"Jun 30, 2025",€5.00m
+490,Álex Domínguez,FC Toulouse,Ligue1,26 years old (30-07-1998),187cm,Spain,Goalkeeper,,,0(1),18.0,-,-,-,-,70,-,-,6.04,,
+491,Sidiki Cherif,Angers SCO,Ligue1,18 years old (15-12-2006),"1,85m",France,Forward,Centre-Forward,right,3(4),322.0,-,-,-,-,56.1,0.4,-,6.04,"Jun 30, 2028",€1.00m
+492,Yoann Cisse,AJ Auxerre,Ligue1,20 years old (13-12-2004),175cm,France,Midfielder,,,0(2),4.0,-,-,-,-,66.7,-,-,6.04,,
+493,Jean-Philippe Gbamin,FC Zuerich,Ligue1,29 years old (25-09-1995),186cm,Ivory Coast,"Defender (Centre, Right), Defensive Midfielder (C)",,,2(12),210.0,-,-,1,-,78.3,0.5,-,6.03,,
+494,Junior Ndiaye,Montpellier HSC,Ligue1,20 years old (29-03-2005),180cm,U.A.E.,Forward,,,2(10),256.0,-,-,-,-,64.6,0.4,-,6.03,,
+495,Djylian N'Guessan,AS Saint-Étienne,Ligue1,16 years old (30-08-2008),-,,Forward,Centre-Forward,right,2(4),127.0,-,-,-,-,85.4,0.3,-,6.03,"Jun 30, 2027",€800k
+496,Enzo Sternal,Olympique Marseille,Ligue1,17 years old (28-05-2007),174cm,,Forward,,,0(2),22.0,-,-,1,-,87.5,-,-,6.03,,
+497,Zinédine Ould Khaled,Angers SCO,Ligue1,25 years old (14-01-2000),"1,95m",France,Defender,Defensive Midfield,right,3(4),247.0,-,-,1,-,90,0.1,-,6.03,"Jun 30, 2025",€300k
+498,Ilyes Housni,Le Havre AC,Ligue1,19 years old (14-05-2005),"1,72m",,Forward,Centre-Forward,right,3(9),228.0,-,-,-,-,64.4,-,-,6.03,"Jun 30, 2025",€2.00m
+499,Bamo Meïté,Montpellier HSC,Ligue1,23 years old (03-12-2001),"1,84m",,Defender (Centre),Centre-Back,right,0(3),24.0,-,-,-,-,91.7,0.3,-,6.02,"Jun 30, 2025",€5.00m
+500,Mohamed Bamba,Gil Vicente,Ligue1,20 years old (08-10-2004),177cm,Ivory Coast,Defensive Midfielder (C),,,0(2),9.0,-,-,-,-,84.2,-,-,6.02,,
+501,Hafiz Ibrahim,Stade Reims,Ligue1,19 years old (20-12-2005),190cm,,Forward,,,2(6),327.0,-,1,-,1,60.5,1,-,6.01,,
+502,Gauthier Gallon,Stade Rennais FC,Ligue1,32 years old (23-04-1993),"1,87m",France,Goalkeeper,Goalkeeper,right,0(1),45.0,-,-,-,-,82.4,-,-,6.01,"Jun 30, 2027",€1.00m
+503,Jibril Othman,AS Saint-Étienne,Ligue1,21 years old (26-04-2004),177cm,Tunisia,Forward,,,0(1),4.0,-,-,-,-,100,-,-,6.01,,
+504,Jordan Lotomba,Feyenoord,Ligue1,26 years old (29-09-1998),177cm,Switzerland,"Defender (Left, Right), Midfielder (Right)",,,0(2),33.0,-,-,-,-,88.2,-,-,6.01,,
+505,Thomas Delaine,RC Strasbourg Alsace,Ligue1,33 years old (24-03-1992),"1,80m",France,"Defender (Left), Midfielder (Left, Right)",Left-Back,left,0(2),8.0,-,-,-,-,-,-,-,6.01,"Jun 30, 2025",€800k
+506,Adryelson,Anderlecht,Ligue1,27 years old (23-03-1998),183cm,Brazil,Defender (Centre),,,0(1),1.0,-,-,1,-,33.3,1,-,6.0,,
+507,Alexi Koum,Olympique Marseille,Ligue1,19 years old (05-02-2006),180cm,,Defender,,,0(1),11.0,-,-,-,-,85.7,-,-,6.0,,
+508,Anthony Briançon,AS Saint-Étienne,Ligue1,30 years old (29-11-1994),"1,85m",France,Defender (Centre),Centre-Back,right,0(1),1.0,-,-,-,-,-,-,-,6.0,"Jun 30, 2026",€500k
+509,Loïs Diony,Angers SCO,Ligue1,32 years old (20-12-1992),183cm,France,"Attacking Midfielder (Left), Forward",,,0(1),20.0,-,-,-,-,25,1,-,6.0,,
+510,Mohamed Daramy,Stade Reims,Ligue1,23 years old (07-01-2002),"1,80m",Denmark,"Attacking Midfielder (Left), Forward",Left Winger,right,0(2),14.0,-,-,-,-,100,0.5,-,6.0,"Jun 30, 2028",€5.00m
+511,Ibrahima Wadji,AS Saint-Étienne,Ligue1,29 years old (05-05-1995),"1,75m",Senegal,Forward,Centre-Forward,right,0(7),143.0,-,-,-,-,76,0.3,-,6.0,"Jun 30, 2025",€800k
+512,Darryl Bakola,Olympique Marseille,Ligue1,17 years old (30-11-2007),"1,78m",France,Midfielder,Attacking Midfield,right,1(2),13.0,-,-,1,-,92.3,-,-,5.99,"Jun 30, 2027",€200k
+513,Milos Lukovic,SC Heerenveen,Ligue1,19 years old (18-11-2005),184cm,Serbia,Forward,,,0(2),11.0,-,-,-,-,66.7,-,-,5.98,,
+514,Jérémy Le Douaron,Palermo,Ligue1,27 years old (21-04-1998),189cm,France,"Attacking Midfielder (Left), Forward",,,1(1),101.0,-,-,-,-,78.6,1.5,-,5.98,,
+515,Ayman Aiki,SC Bastia,Ligue1,19 years old (25-06-2005),178cm,France,Forward,,,1(4),124.0,-,-,-,-,60.7,0.2,-,5.97,,
+516,Ange-Loïc N’Gatta,AJ Auxerre,Ligue1,21 years old (11-12-2003),"1,75m",,Defender,Right-Back,right,0(2),11.0,-,-,1,-,90.9,-,-,5.97,"Jun 30, 2025",€100k
+517,Marius Courcoul,Angers SCO,Ligue1,18 years old (01-01-2007),182cm,France,Defender,,,0(5),68.0,-,-,-,-,77.1,0.4,-,5.97,,
+518,Aaron Malouda,Nimes,Ligue1,19 years old (30-11-2005),183cm,France,Forward,,,0(1),1.0,-,-,-,-,-,-,-,5.97,,
+519,Aloïs Confais,Le Havre AC,Ligue1,28 years old (07-09-1996),"1,74m",France,"Defender (Right), Defensive Midfielder (C)",Defensive Midfield,right,0(1),2.0,-,-,-,-,50,-,-,5.97,"Jun 30, 2025",€200k
+520,Kyogo Furuhashi,Stade Rennais FC,Ligue1,30 years old (20-01-1995),"1,70m",Japan,Forward,Centre-Forward,right,1(5),121.0,-,-,-,-,27.3,0.3,-,5.97,"Jun 30, 2027",€12.00m
+521,Rudy Matondo,AJ Auxerre,Ligue1,17 years old (13-03-2008),,,Midfielder,,,0(4),46.0,-,-,1,-,94.7,-,-,5.97,,
+522,Gabin Capuano,RC Lens,Ligue1,19 years old (26-04-2006),185cm,France,Forward,,,0(1),10.0,-,-,-,-,100,-,-,5.96,,
+523,Kembo Diliwidi,RC Lens,Ligue1,19 years old (03-02-2006),180cm,,Forward,,,0(1),3.0,-,-,-,-,100,-,-,5.96,,
+524,Faris Moumbagna,Olympique Marseille,Ligue1,24 years old (01-07-2000),"1,85m",Cameroon,Forward,Centre-Forward,left,0(1),8.0,-,-,-,-,-,-,-,5.95,"Jun 30, 2028",€8.00m
+525,Théo Chennahi,Montpellier HSC,Ligue1,20 years old (06-02-2005),182cm,France,Midfielder,,,0(2),6.0,-,-,1,-,100,-,-,5.95,,
+526,Aristide Zossou,AJ Auxerre,Ligue1,19 years old (14-06-2005),"1,78m",Ivory Coast,Midfielder,Left Winger,right,0(3),13.0,-,-,-,-,94.1,-,-,5.94,"Jun 30, 2029",€100k
+527,Mathéo Bodmer,Le Havre AC,Ligue1,20 years old (06-05-2004),179cm,France,Midfielder,,,0(1),5.0,-,-,-,-,100,-,-,5.94,,
+528,Simon Cara,Montpellier HSC,Ligue1,19 years old (31-05-2005),182cm,,Forward,,,0(2),7.0,-,-,-,-,66.7,-,-,5.94,,
+529,Wilfried Ndollo Bille,Montpellier HSC,Ligue1,20 years old (15-04-2005),172cm,,Defender,,,3(2),265.0,-,-,-,-,80.4,-,-,5.93,,
+530,Saïmon Bouabré,AS Monaco,Ligue1,18 years old (01-06-2006),174cm,,Midfielder,,,1(1),72.0,-,-,-,-,66.7,-,-,5.92,,
+531,Stefan Dzodic,Montpellier HSC,Ligue1,20 years old (15-03-2005),190cm,Serbia,Midfielder,,,2(3),190.0,-,-,2,1,91.1,0.4,-,5.91,,
+532,Niama Sissoko,Stade Reims,Ligue1,19 years old (16-12-2005),186cm,Mali,Forward,,,0(4),45.0,-,-,-,-,63.6,0.3,-,5.91,,
+533,Eros Maddy,AJ Auxerre,Ligue1,24 years old (05-02-2001),"1,77m",Netherlands,Forward,Right Winger,right,0(2),13.0,-,-,1,-,100,-,-,5.9,"Jun 30, 2027",€200k
+534,Mahamadou Diawara,Le Havre AC,Ligue1,20 years old (17-02-2005),"1,87m",France,Midfielder (Centre),Central Midfield,left,0(2),15.0,-,-,-,-,85.7,-,-,5.9,"Jun 30, 2025",€2.50m
+535,Ikechukwu Orazi,Stade Reims,Ligue1,17 years old (11-06-2007),176cm,,Forward,,,0(1),2.0,-,-,-,-,100,-,-,5.89,,
+536,Karol Fila,FCV Dender EH,Ligue1,26 years old (13-06-1998),183cm,Poland,"Defender (Centre, Right), Midfielder (Right)",,,0(1),4.0,-,-,1,-,50,-,-,5.89,,
+537,Kandet Diawara,Pau,Ligue1,25 years old (10-02-2000),180cm,France,Forward,,,0(1),3.0,-,-,-,-,50,-,-,5.88,,
+538,Bernard Nguene,OGC Nice,Ligue1,18 years old (04-08-2006),178cm,Cameroon,Forward,,,0(1),13.0,-,-,-,-,100,-,-,5.87,,
+539,Paul Akouokou,Olympique Lyon,Ligue1,27 years old (20-12-1997),"1,81m",Ivory Coast,Defensive Midfielder (C),Defensive Midfield,right,0(2),19.0,-,-,1,-,66.7,-,-,5.79,"Jun 30, 2027",€800k
+540,Bamo Meïté,Montpellier HSC,Ligue1,23 years old (03-12-2001),"1,84m",,Defender (Centre),Centre-Back,right,6,413.0,-,-,2,1,88.6,1,-,5.76,"Jun 30, 2025",€5.00m
+541,Élysée Logbo,Le Havre AC,Ligue1,20 years old (06-05-2004),"1,88m",France,Forward,Centre-Forward,left,0(1),26.0,-,-,-,-,75,-,-,5.67,"Jun 30, 2027",€600k
+542,Zabi Gueu,Stade Reims,Ligue1,18 years old (24-09-2006),191cm,,Midfielder,,,0(2),18.0,-,-,-,1,75,-,-,5.46,,
+543,Nathan Buayi-Kiala,AJ Auxerre,Ligue1,,"1,77m",,,Defensive Midfield,right,,,,,,,,,,,"Jun 30, 2026",€150k
+544,Raphaël Adiceam,AJ Auxerre,Ligue1,,"1,79m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2025",€50k
+545,Yann Lienard,AS Monaco,Ligue1,,"1,94m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€200k
+546,Edan Diop,AS Monaco,Ligue1,,"1,73m",,,Central Midfield,right,,,,,,,,,,,"Jun 30, 2028",€1.50m
+547,Moatasem Al-Musrati,AS Monaco,Ligue1,,"1,89m",,,Defensive Midfield,right,,,,,,,,,,,"Jun 30, 2025",€10.00m
+548,Boubacar Fall,AS Saint-Étienne,Ligue1,,"1,98m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2025",€100k
+549,Brice Maubleu,AS Saint-Étienne,Ligue1,,"1,92m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€300k
+550,Justin Kalumba,Angers SCO,Ligue1,,"1,71m",,,Right Winger,left,,,,,,,,,,,"Jun 30, 2026",€600k
+551,Halid Sabanovic,Angers SCO,Ligue1,,"1,82m",,,Right-Back,right,,,,,,,,,,,"Jun 30, 2025",€200k
+552,Ousmane Camara,Angers SCO,Ligue1,,"1,97m",,,Centre-Back,right,,,,,,,,,,,"Jun 30, 2026",€500k
+553,Adrien Hunou,Angers SCO,Ligue1,,"1,79m",,,Centre-Forward,right,,,,,,,,,,,"Jun 30, 2025",€500k
+554,Melvin Zinga,Angers SCO,Ligue1,,"1,87m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2026",€250k
+555,Hugo Barbet,FC Nantes,Ligue1,,"1,89m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€100k
+556,Justin Lacombe,FC Toulouse,Ligue1,,"1,92m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€50k
+557,Vito Mannone,LOSC Lille,Ligue1,,"1,88m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2025",€200k
+558,Marc-Aurèle Caillard,LOSC Lille,Ligue1,,"1,92m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2025",€150k
+559,Samuel Umtiti,LOSC Lille,Ligue1,,"1,82m",,,Centre-Back,left,,,,,,,,,,,"Jun 30, 2025",€2.00m
+560,Ismaïl Bouneb,Le Havre AC,Ligue1,,"1,82m",,,Attacking Midfield,right,,,,,,,,,,,"Jun 30, 2028",€50k
+561,Ahmed Hassan,Le Havre AC,Ligue1,,"1,91m",,,Centre-Forward,right,,,,,,,,,,,"Jun 30, 2025",€900k
+562,Yann Kitala,Le Havre AC,Ligue1,,"1,86m",,,Centre-Forward,left,,,,,,,,,,,"Jun 30, 2025",€500k
+563,Oualid El Hajjam,Le Havre AC,Ligue1,,"1,81m",,,Right-Back,right,,,,,,,,,,,"Jun 30, 2026",€400k
+564,Christopher Jullien,Montpellier HSC,Ligue1,,"1,96m",,,Centre-Back,right,,,,,,,,,,,"Jun 30, 2025",€1.50m
+565,Belmin Dizdarevic,Montpellier HSC,Ligue1,,"1,89m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2028",€150k
+566,Teddy Boulhendi,OGC Nice,Ligue1,,"1,85m",,,Goalkeeper,,,,,,,,,,,,"Jun 30, 2025",€100k
+567,Maxime Dupé,OGC Nice,Ligue1,,"1,88m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€1.20m
+568,Lassine Diarra,Olympique Lyon,Ligue1,,"1,90m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€25k
+569,Enzo Molebe,Olympique Lyon,Ligue1,,-,,,Centre-Forward,right,,,,,,,,,,,"Jun 30, 2027",€100k
+570,Chancel Mbemba,Olympique Marseille,Ligue1,,"1,82m",,,Centre-Back,right,,,,,,,,,,,"Jun 30, 2025",€3.00m
+571,Jelle Van Neck,Olympique Marseille,Ligue1,,"1,91m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€100k
+572,Rubén Blanco,Olympique Marseille,Ligue1,,"1,88m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€1.50m
+573,Jeffrey de Lange,Olympique Marseille,Ligue1,,"1,90m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€2.50m
+574,Arnau Tenas,Paris Saint-Germain,Ligue1,,"1,85m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€4.00m
+575,Denis Petric,RC Lens,Ligue1,,"1,86m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2025",€100k
+576,Nidal Celik,RC Lens,Ligue1,,"1,92m",,,Centre-Back,right,,,,,,,,,,,"Jun 30, 2029",€1.80m
+577,Moïse Sahi Dion,RC Strasbourg Alsace,Ligue1,,"1,75m",,,Centre-Forward,left,,,,,,,,,,,"Jun 30, 2026",€1.50m
+578,Yoni Gomis,RC Strasbourg Alsace,Ligue1,,"1,86m",,,Centre-Back,left,,,,,,,,,,,"Jun 30, 2029",€1.00m
+579,Alaa Bellaarouch,RC Strasbourg Alsace,Ligue1,,"1,89m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€500k
+580,Bradley Locko,Stade Brestois 29,Ligue1,,"1,80m",,,Left-Back,left,,,,,,,,,,,"Jun 30, 2027",€9.00m
+581,Alexandre Olliero,Stade Reims,Ligue1,,"1,93m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€300k
+582,Ludovic Butelle,Stade Reims,Ligue1,,"1,88m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2025",€100k
+583,Geoffrey Lembet,Stade Rennais FC,Ligue1,,"1,86m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2025",€150k
+584,Doğan Alemdar,Stade Rennais FC,Ligue1,,"1,92m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€2.00m
+585,Wilson Samaké,Stade Rennais FC,Ligue1,,"1,82m",,,Centre-Forward,right,,,,,,,,,,,"Jun 30, 2026",€150k

@@ -1,0 +1,588 @@
+,Name,Club,Age,Height,National,Positions
+0,Lamine Yamal,Barcelona,17 years old (13-07-2007),180cm,Spain,Attacking Midfielder (Right)
+1,Sergio Arribas,Real Betis,22 years old (10-02-2003),185cm,Spain,Defender
+2,Aitor Fernández,Osasuna,33 years old (03-05-1991),182cm,Spain,Goalkeeper
+3,Raphinha,Barcelona,28 years old (14-12-1996),176cm,Brazil,"Attacking Midfielder (Centre, Left, Right), Forward"
+4,Kylian Mbappé,Real Madrid,26 years old (20-12-1998),178cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+5,Cucho Hernández,Real Betis,26 years old (20-04-1999),175cm,,"Attacking Midfielder (Centre, Left, Right), Forward"
+6,Robert Lewandowski,Barcelona,36 years old (21-08-1988),185cm,Poland,Forward
+7,Jude Bellingham,Real Madrid,21 years old (29-06-2003),186cm,England,"Midfielder (Centre, Left, Right), Forward"
+8,Vinícius Júnior,Real Madrid,24 years old (12-07-2000),176cm,Brazil,"Attacking Midfielder (Left), Forward"
+9,Álex Baena,Villarreal,23 years old (20-07-2001),175cm,Spain,"Attacking Midfielder (Centre, Left), Forward"
+10,Isco,Real Betis,33 years old (21-04-1992),176cm,Spain,"Midfielder (Centre, Left, Right), Forward"
+11,Pedri,Barcelona,22 years old (25-11-2002),174cm,Spain,"Midfielder (Centre, Left)"
+12,Federico Valverde,Real Madrid,26 years old (22-07-1998),182cm,Uruguay,"Defender (Right), Midfielder (Centre, Left, Right)"
+13,Antony,Real Betis,25 years old (24-02-2000),174cm,Brazil,Attacking Midfielder (Right)
+14,Rodrygo,Real Madrid,24 years old (09-01-2001),174cm,Brazil,"Attacking Midfielder (Centre, Left, Right), Forward"
+15,Dani Olmo,Barcelona,26 years old (07-05-1998),179cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+16,Ayoze Pérez,Villarreal,31 years old (29-07-1993),178cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+17,Leo Román,Mallorca,24 years old (06-07-2000),189cm,Spain,Goalkeeper
+18,Éder Militão,Real Madrid,27 years old (18-01-1998),186cm,Brazil,"Defender (Centre, Right)"
+19,Dodi Lukébakio,Sevilla,27 years old (24-09-1997),187cm,Belgium,"Attacking Midfielder (Centre, Left, Right), Forward"
+20,Pelayo Fernández,Rayo Vallecano,22 years old (29-04-2003),190cm,Spain,Defender
+21,Juan Foyth,Villarreal,27 years old (12-01-1998),187cm,Argentina,"Defender (Centre, Right), Defensive Midfielder (C)"
+22,Nico Williams,Athletic Club,22 years old (12-07-2002),181cm,Spain,"Attacking Midfielder (Left, Right)"
+23,Giovani Lo Celso,Real Betis,29 years old (09-04-1996),177cm,Argentina,"Midfielder (Centre, Right), Forward"
+24,Ramon Terrats,Getafe,24 years old (18-10-2000),181cm,Spain,"Midfielder (Centre, Right)"
+25,Iñigo Martínez,Barcelona,33 years old (17-05-1991),182cm,Spain,Defender (Centre)
+26,Yeray Álvarez,Athletic Club,30 years old (24-01-1995),182cm,Spain,Defender (Centre)
+27,Marc Bartra,Real Betis,34 years old (15-01-1991),184cm,Spain,"Defender (Centre, Right), Defensive Midfielder (C)"
+28,Joan García,Espanyol,23 years old (04-05-2001),191cm,Spain,Goalkeeper
+29,Ante Budimir,Osasuna,33 years old (22-07-1991),190cm,Croatia,Forward
+30,Iñaki Williams,Athletic Club,30 years old (15-06-1994),186cm,Ghana,"Attacking Midfielder (Centre, Left, Right), Forward"
+31,Ángel Ortiz,Real Betis,20 years old (25-07-2004),167cm,Spain,Forward
+32,Lucas Ocampos,Monterrey,30 years old (11-07-1994),187cm,Argentina,"Midfielder (Centre, Left, Right), Forward"
+33,Nayef Aguerd,Real Sociedad,29 years old (30-03-1996),190cm,Morocco,Defender (Centre)
+34,Johnny Cardoso,Real Betis,23 years old (20-09-2001),185cm,USA,Midfielder (Centre)
+35,Unai Núñez,Athletic Club,28 years old (30-01-1997),186cm,Spain,Defender (Centre)
+36,Eduardo Camavinga,Real Madrid,22 years old (10-11-2002),182cm,France,"Defender (Left), Defensive Midfielder (C)"
+37,Omar Alderete,Getafe,28 years old (26-12-1996),188cm,Paraguay,Defender (Centre)
+38,Sergi Cardona,Villarreal,25 years old (08-07-1999),185cm,Spain,Defender (Left)
+39,Oihan Sancet,Athletic Club,25 years old (25-04-2000),188cm,Spain,"Midfielder (Centre), Forward"
+40,Ronald Araujo,Barcelona,26 years old (07-03-1999),188cm,Uruguay,"Defender (Centre, Right)"
+41,Andrei Ratiu,Rayo Vallecano,26 years old (20-06-1998),183cm,Romania,"Defender (Right), Midfielder (Right)"
+42,Julián Alvarez,Atletico Madrid,25 years old (31-01-2000),170cm,Argentina,"Attacking Midfielder (Centre, Left, Right), Forward"
+43,Dani Raba,Leganes,29 years old (29-10-1995),184cm,Spain,"Attacking Midfielder (Centre, Right), Forward"
+44,Aurélien Tchouaméni,Real Madrid,25 years old (27-01-2000),187cm,France,"Defender (Centre), Defensive Midfielder (C)"
+45,Antoine Griezmann,Atletico Madrid,34 years old (21-03-1991),176cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+46,Marcos Llorente,Atletico Madrid,30 years old (30-01-1995),184cm,Spain,"Defender (Right), Midfielder (Centre, Right), Forward"
+47,Dani Carvajal,Real Madrid,33 years old (11-01-1992),173cm,Spain,Defender (Right)
+48,Pablo Maffeo,Mallorca,27 years old (12-07-1997),172cm,Spain,"Defender (Left, Right), Midfielder (Right)"
+49,Jules Koundé,Barcelona,26 years old (12-11-1998),180cm,France,"Defender (Centre, Right)"
+50,José Gayà,Valencia,29 years old (25-05-1995),172cm,Spain,"Defender (Left), Midfielder (Left)"
+51,Juan Musso,Atletico Madrid,30 years old (06-05-1994),191cm,Argentina,Goalkeeper
+52,Dani Vivian,Athletic Club,25 years old (05-07-1999),183cm,Spain,Defender (Centre)
+53,Lucas Torró,Osasuna,30 years old (19-07-1994),190cm,Spain,Defensive Midfielder (C)
+54,Antonio Raíllo,Mallorca,33 years old (08-10-1991),187cm,Spain,Defender (Centre)
+55,Diego Llorente,Real Betis,31 years old (16-08-1993),186cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+56,Fábio Silva,Las Palmas,22 years old (19-07-2002),185cm,Portugal,"Attacking Midfielder (Left), Forward"
+57,Luis Milla,Getafe,30 years old (07-10-1994),175cm,Spain,Midfielder (Centre)
+58,Martín Zubimendi,Real Sociedad,26 years old (02-02-1999),181cm,Spain,Defensive Midfielder (C)
+59,Arnaut Danjuma,Girona,28 years old (31-01-1997),178cm,Netherlands,"Attacking Midfielder (Left), Forward"
+60,Nahuel Tenaglia,Deportivo Alaves,29 years old (21-02-1996),180cm,Argentina,"Defender (Centre, Right)"
+61,Nabil Fekir,Real Betis,31 years old (18-07-1993),173cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+62,Unai Marrero,Real Sociedad,23 years old (09-10-2001),189cm,Spain,Goalkeeper
+63,Alex Berenguer,Athletic Club,29 years old (04-07-1995),175cm,Spain,"Defender (Left, Right), Midfielder (Centre, Left, Right), Forward"
+64,Omar El Hilali,Espanyol,21 years old (12-09-2003),183cm,Morocco,Defender (Right)
+65,Gerard Moreno,Villarreal,33 years old (07-04-1992),180cm,Spain,"Attacking Midfielder (Centre, Right), Forward"
+66,Rubén García,Osasuna,31 years old (14-07-1993),171cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+67,Leandro Cabrera,Espanyol,33 years old (17-06-1991),190cm,Uruguay,"Defender (Centre, Left)"
+68,Yangel Herrera,Girona,27 years old (07-01-1998),184cm,Venezuela,Midfielder (Centre)
+69,Sergio Gómez,Real Sociedad,24 years old (04-09-2000),173cm,Spain,"Defender (Left), Midfielder (Centre, Left, Right)"
+70,Thibaut Courtois,Real Madrid,32 years old (11-05-1992),200cm,Belgium,Goalkeeper
+71,Urko González,Espanyol,24 years old (20-03-2001),189cm,Spain,Defensive Midfielder (C)
+72,Abdul Mumin,Rayo Vallecano,26 years old (06-06-1998),188cm,Ghana,Defender (Centre)
+73,Carlos Vicente,Deportivo Alaves,26 years old (23-04-1999),179cm,Spain,Attacking Midfielder (Right)
+74,Alexander Sørloth,Atletico Madrid,29 years old (05-12-1995),195cm,Norway,"Attacking Midfielder (Right), Forward"
+75,Luka Modric,Real Madrid,39 years old (09-09-1985),172cm,Croatia,Midfielder (Centre)
+76,Loïc Badé,Sevilla,25 years old (11-04-2000),191cm,France,Defender (Centre)
+77,Marash Kumbulla,Espanyol,25 years old (08-02-2000),191cm,Albania,Defender (Centre)
+78,Valentin Rosier,Leganes,28 years old (19-08-1996),175cm,France,"Defender (Left, Right), Midfielder (Left, Right)"
+79,Alejandro Catena,Osasuna,30 years old (28-10-1994),194cm,Spain,Defender (Centre)
+80,Javi Galán,Atletico Madrid,30 years old (19-11-1994),172cm,Spain,"Defender (Left), Midfielder (Left)"
+81,Vedat Muriqi,Mallorca,31 years old (24-04-1994),194cm,Kosovo,Forward
+82,Diego Rico,Getafe,32 years old (23-02-1993),183cm,Spain,"Defender (Centre, Left), Midfielder (Left)"
+83,Jon Aramburu,Real Sociedad,22 years old (23-07-2002),176cm,Venezuela,Defender (Right)
+84,Thierno Barry,Villarreal,22 years old (21-10-2002),195cm,,Forward
+85,Mikel Jauregizar,Athletic Club,21 years old (13-11-2003),177cm,Spain,Defensive Midfielder (C)
+86,Raúl Asencio,Real Madrid,22 years old (13-02-2003),184cm,Spain,Defender (Centre)
+87,Pablo Barrios,Atletico Madrid,21 years old (15-06-2003),181cm,,Midfielder (Centre)
+88,Alejandro Balde,Barcelona,21 years old (18-10-2003),175cm,Spain,"Defender (Left, Right), Midfielder (Left)"
+89,Samú Costa,Mallorca,24 years old (27-11-2000),183cm,,Defensive Midfielder (C)
+90,Marcos Alonso,Celta Vigo,34 years old (28-12-1990),188cm,Spain,"Defender (Centre, Left), Midfielder (Left)"
+91,Roberto Fernández,Espanyol,22 years old (03-07-2002),186cm,,Forward
+92,Clément Lenglet,Atletico Madrid,29 years old (17-06-1995),186cm,France,Defender (Centre)
+93,Ilias Akhomach,Villarreal,21 years old (16-04-2004),175cm,Spain,Attacking Midfielder (Right)
+94,Enzo Barrenechea,Valencia,23 years old (22-05-2001),186cm,Argentina,Defensive Midfielder (C)
+95,Carl Starfelt,Celta Vigo,29 years old (01-06-1995),187cm,Sweden,Defender (Centre)
+96,Raúl Moro,Real Valladolid,22 years old (05-12-2002),169cm,Spain,Attacking Midfielder (Left)
+97,Dani Ceballos,Real Madrid,28 years old (07-08-1996),179cm,Spain,"Midfielder (Centre, Left)"
+98,Héctor Bellerín,Real Betis,30 years old (19-03-1995),178cm,Spain,"Defender (Right), Midfielder (Right)"
+99,Pau Cubarsí,Barcelona,18 years old (22-01-2007),184cm,Spain,Defender (Centre)
+100,Takefusa Kubo,Real Sociedad,23 years old (04-06-2001),173cm,Japan,"Attacking Midfielder (Centre, Left, Right), Forward"
+101,Bryan Zaragoza,Osasuna,23 years old (09-09-2001),164cm,Spain,"Attacking Midfielder (Left, Right)"
+102,Marc Casadó,Barcelona,21 years old (14-09-2003),172cm,Spain,Defensive Midfielder (C)
+103,Rubén Vargas,Sevilla,26 years old (05-08-1998),177cm,Switzerland,"Attacking Midfielder (Centre, Left, Right), Forward"
+104,Sergio Herrera,Osasuna,31 years old (05-06-1993),192cm,Spain,Goalkeeper
+105,Santi Comesaña,Villarreal,28 years old (05-10-1996),188cm,Spain,Midfielder (Centre)
+106,Ramón Martínez,Sevilla,22 years old (22-10-2002),185cm,Spain,Defender
+107,José Ángel Carmona,Sevilla,23 years old (29-01-2002),184cm,Spain,"Defender (Centre, Right), Midfielder (Right)"
+108,Kike Salas,Sevilla,23 years old (23-04-2002),188cm,Spain,"Defender (Centre, Left)"
+109,Saúl Ñíguez,Sevilla,30 years old (21-11-1994),184cm,Spain,"Defender (Centre, Left), Midfielder (Centre, Left, Right)"
+110,César Tárrega,Valencia,23 years old (26-02-2002),194cm,Spain,Defender (Centre)
+111,Kike García,Deportivo Alaves,35 years old (25-11-1989),186cm,Spain,Forward
+112,Florian Lejeune,Rayo Vallecano,33 years old (20-05-1991),189cm,France,Defender (Centre)
+113,Luis Rioja,Valencia,31 years old (16-10-1993),175cm,Spain,"Midfielder (Left, Right)"
+114,Augusto Batalla,Rayo Vallecano,28 years old (30-04-1996),186cm,Argentina,Goalkeeper
+115,Jon Martín,Real Sociedad,19 years old (23-04-2006),185cm,,Defender
+116,Juan Iglesias,Getafe,26 years old (03-07-1998),187cm,Spain,"Defender (Left, Right), Midfielder (Right)"
+117,Alberto Moleiro,Las Palmas,21 years old (30-09-2003),172cm,Spain,Attacking Midfielder (Left)
+118,Jorge Sáenz,Leganes,28 years old (17-11-1996),188cm,Spain,Defender (Centre)
+119,Arda Güler,Real Madrid,20 years old (25-02-2005),176cm,Turkey,"Attacking Midfielder (Centre, Right)"
+120,Santiago Mouriño,Deportivo Alaves,23 years old (13-02-2002),186cm,Uruguay,Defender (Centre)
+121,Fran García,Real Madrid,25 years old (14-08-1999),167cm,,Defender (Left)
+122,Sergi Darder,Mallorca,31 years old (22-12-1993),180cm,Spain,"Midfielder (Centre, Left, Right)"
+123,Miguel Gutiérrez,Girona,23 years old (27-07-2001),180cm,Spain,"Defender (Left), Midfielder (Left)"
+124,Abde Ezzalzouli,Real Betis,23 years old (17-12-2001),177cm,Morocco,Attacking Midfielder (Left)
+125,Bryan Gil,Girona,24 years old (11-02-2001),175cm,Spain,"Midfielder (Centre, Left, Right)"
+126,Sandro Ramírez,Las Palmas,29 years old (09-07-1995),175cm,Spain,"Attacking Midfielder (Left, Right), Forward"
+127,Wojciech Szczesny,Barcelona,35 years old (18-04-1990),195cm,Poland,Goalkeeper
+128,Axel Witsel,Atletico Madrid,36 years old (12-01-1989),186cm,Belgium,"Defender (Centre), Midfielder (Centre)"
+129,Aimar Oroz,Osasuna,23 years old (27-11-2001),177cm,Spain,"Attacking Midfielder (Centre), Forward"
+130,Iago Aspas,Celta Vigo,37 years old (01-08-1987),176cm,Spain,"Attacking Midfielder (Centre, Right), Forward"
+131,Lucas Vázquez,Real Madrid,33 years old (01-07-1991),173cm,Spain,"Defender (Right), Midfielder (Right)"
+132,Edu Expósito,Espanyol,28 years old (01-08-1996),178cm,Spain,Midfielder (Centre)
+133,Arsen Zakharyan,Real Sociedad,21 years old (26-05-2003),182cm,Russia,"Midfielder (Centre, Left, Right)"
+134,Eric García,Barcelona,24 years old (09-01-2001),182cm,Spain,"Defender (Centre, Right), Defensive Midfielder (C)"
+135,Mario Maroto,Real Valladolid,21 years old (28-11-2003),176cm,Spain,Midfielder
+136,Mauro Arambarri,Getafe,29 years old (30-09-1995),175cm,Uruguay,Midfielder (Centre)
+137,Jesús Rodriguez,Real Betis,19 years old (21-11-2005),185cm,Spain,Attacking Midfielder (Left)
+138,Andoni Gorosabel,Athletic Club,28 years old (04-08-1996),174cm,Spain,"Defender (Right), Midfielder (Right)"
+139,Giuliano Simeone,Atletico Madrid,22 years old (18-12-2002),173cm,Argentina,"Attacking Midfielder (Left, Right)"
+140,Juan Cruz,Leganes,25 years old (25-04-2000),177cm,Spain,"Midfielder (Left, Right)"
+141,Marc Roca,Real Betis,28 years old (26-11-1996),184cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+142,Marc Bernal,Barcelona,17 years old (26-05-2007),191cm,Spain,Midfielder
+143,Dani Rodríguez,Mallorca,36 years old (06-06-1988),178cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+144,Íñigo Ruíz de Galarreta,Athletic Club,31 years old (06-08-1993),175cm,Spain,Defensive Midfielder (C)
+145,Adrià Pedrosa,Sevilla,26 years old (13-05-1998),176cm,Spain,"Defender (Left), Midfielder (Left)"
+146,Ferran Torres,Barcelona,25 years old (29-02-2000),184cm,Spain,"Attacking Midfielder (Left, Right), Forward"
+147,Dani Parejo,Villarreal,36 years old (16-04-1989),182cm,Spain,Midfielder (Centre)
+148,Andrii Lunin,Real Madrid,26 years old (11-02-1999),191cm,Ukraine,Goalkeeper
+149,Nemanja Gudelj,Sevilla,33 years old (16-11-1991),187cm,Serbia,"Defender (Centre), Midfielder (Centre)"
+150,Unai Simón,Athletic Club,27 years old (11-06-1997),190cm,Spain,Goalkeeper
+151,Julen Agirrezabala,Athletic Club,24 years old (26-12-2000),187cm,Spain,Goalkeeper
+152,Conor Gallagher,Atletico Madrid,25 years old (06-02-2000),182cm,England,"Midfielder (Centre, Left)"
+153,Óscar Mingueza,Celta Vigo,25 years old (13-05-1999),184cm,Spain,"Defender (Centre, Right), Midfielder (Left, Right)"
+154,Kiko Femenía,Villarreal,34 years old (02-02-1991),176cm,Spain,"Defender (Left, Right), Midfielder (Right)"
+155,Juma Bah,Lens,19 years old (11-04-2006),195cm,,Defender (Centre)
+156,Pau López,Toluca,30 years old (13-12-1994),189cm,Spain,Goalkeeper
+157,Yeremy Pino,Villarreal,22 years old (20-10-2002),172cm,Spain,"Attacking Midfielder (Left, Right)"
+158,Carles Aleñá,Deportivo Alaves,27 years old (05-01-1998),180cm,Spain,"Attacking Midfielder (Centre, Left, Right)"
+159,José María Giménez,Atletico Madrid,30 years old (20-01-1995),185cm,Uruguay,"Defender (Centre, Right)"
+160,Pablo Torre,Barcelona,22 years old (03-04-2003),173cm,Spain,Attacking Midfielder (Centre)
+161,Robin Le Normand,Atletico Madrid,28 years old (11-11-1996),187cm,Spain,Defender (Centre)
+162,Pape Gueye,Villarreal,26 years old (24-01-1999),189cm,Senegal,Midfielder (Centre)
+163,Martin Valjent,Mallorca,29 years old (11-12-1995),187cm,Slovakia,Defender (Centre)
+164,Rodrigo De Paul,Atletico Madrid,30 years old (24-05-1994),180cm,Argentina,"Attacking Midfielder (Centre, Left, Right), Forward"
+165,Jan Oblak,Atletico Madrid,32 years old (07-01-1993),188cm,Slovenia,Goalkeeper
+166,Luiz Júnior,Villarreal,24 years old (14-01-2001),194cm,Brazil,Goalkeeper
+167,César Azpilicueta,Atletico Madrid,35 years old (28-08-1989),178cm,Spain,"Defender (Centre, Left, Right), Midfielder (Right)"
+168,Chidera Ejuke,Sevilla,27 years old (02-01-1998),176cm,Nigeria,"Attacking Midfielder (Centre, Left, Right), Forward"
+169,Dinko Horkas,Las Palmas,26 years old (10-03-1999),189cm,Croatia,Goalkeeper
+170,Marko Dmitrovic,Leganes,33 years old (24-01-1992),194cm,Serbia,Goalkeeper
+171,Sergio Carreira,Celta Vigo,24 years old (13-10-2000),170cm,Spain,Midfielder (Right)
+172,Enzo Boyomo,Osasuna,23 years old (07-10-2001),180cm,Cameroon,Defender (Centre)
+173,Johan Mojica,Mallorca,32 years old (21-08-1992),185cm,Colombia,"Defender (Left), Midfielder (Left)"
+174,Viktor Tsygankov,Girona,27 years old (15-11-1997),178cm,Ukraine,"Midfielder (Centre, Left, Right)"
+175,Christantus Uche,Getafe,21 years old (19-05-2003),190cm,Nigeria,"Attacking Midfielder (Centre), Forward"
+176,Joan Jordán,Deportivo Alaves,30 years old (06-07-1994),184cm,Spain,Midfielder (Centre)
+177,Carlos Romero,Espanyol,23 years old (29-10-2001),180cm,Spain,Defender (Left)
+178,Umar Sadiq,Valencia,28 years old (02-02-1997),192cm,Nigeria,Forward
+179,Yuri Berchiche,Athletic Club,35 years old (10-02-1990),181cm,Spain,"Defender (Left), Midfielder (Left)"
+180,David Soria,Getafe,32 years old (04-04-1993),192cm,Spain,Goalkeeper
+181,Domingos Duarte,Getafe,30 years old (10-03-1995),192cm,Portugal,Defender (Centre)
+182,Sergio González,Leganes,33 years old (20-04-1992),188cm,Spain,Defender (Centre)
+183,Beñat Prados,Athletic Club,24 years old (08-02-2001),180cm,Spain,Defensive Midfielder (C)
+184,Arnau Martínez,Girona,22 years old (25-04-2003),182cm,Spain,"Defender (Right), Midfielder (Right)"
+185,Antonio Rüdiger,Real Madrid,32 years old (03-03-1993),190cm,Germany,"Defender (Centre, Left, Right)"
+186,Óscar De Marcos,Athletic Club,36 years old (14-04-1989),182cm,Spain,"Defender (Left, Right), Midfielder (Centre, Right)"
+187,Samuel Lino,Atletico Madrid,25 years old (23-12-1999),170cm,Brazil,"Defender (Left), Midfielder (Centre, Left, Right), Forward"
+188,Pathé Ciss,Rayo Vallecano,31 years old (16-03-1994),186cm,Senegal,Defensive Midfielder (C)
+189,Kirian Rodríguez,Las Palmas,29 years old (05-03-1996),180cm,Spain,Midfielder (Centre)
+190,Luka Sucic,Real Sociedad,22 years old (08-09-2002),185cm,Croatia,Attacking Midfielder (Centre)
+191,Álex Muñoz,Las Palmas,30 years old (30-07-1994),187cm,Spain,Defender (Left)
+192,Robert Navarro,Mallorca,23 years old (12-04-2002),178cm,Spain,"Attacking Midfielder (Left, Right)"
+193,Daley Blind,Girona,35 years old (09-03-1990),180cm,Netherlands,"Defender (Centre, Left), Defensive Midfielder (C), Midfielder (Left)"
+194,Nicolas Pépé,Villarreal,29 years old (29-05-1995),183cm,Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward"
+195,Brahim Díaz,Real Madrid,25 years old (03-08-1999),171cm,Morocco,"Attacking Midfielder (Centre, Left, Right), Forward"
+196,Viti Rozada,Las Palmas,27 years old (16-09-1997),180cm,,Defender (Right)
+197,Javi Puado,Espanyol,26 years old (25-05-1998),177cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+198,Hugo Álvarez,Celta Vigo,21 years old (02-07-2003),176cm,Spain,"Midfielder (Left, Right)"
+199,Jasper Cillessen,Las Palmas,36 years old (22-04-1989),185cm,Netherlands,Goalkeeper
+200,Enzo Boyomo,Osasuna,23 years old (07-10-2001),180cm,Cameroon,Defender (Centre)
+201,Tanguy Nianzou,Sevilla,22 years old (07-06-2002),187cm,France,Defender (Centre)
+202,Álvaro García,Rayo Vallecano,32 years old (27-10-1992),167cm,Spain,"Attacking Midfielder (Centre, Left)"
+203,Álex Remiro,Real Sociedad,30 years old (24-03-1995),192cm,Spain,Goalkeeper
+204,Diego López,Valencia,22 years old (13-05-2002),172cm,,"Attacking Midfielder (Left, Right), Forward"
+205,Dário Essugo,Las Palmas,20 years old (14-03-2005),178cm,Portugal,Defensive Midfielder (C)
+206,Yvan Neyou,Leganes,28 years old (03-01-1997),180cm,Cameroon,Defensive Midfielder (C)
+207,Igor Zubeldia,Real Sociedad,28 years old (30-03-1997),181cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+208,Álvaro Rodríguez,Getafe,20 years old (14-07-2004),192cm,,Forward
+209,Juan Soriano,Leganes,27 years old (23-08-1997),185cm,Spain,Goalkeeper
+210,Selvi Clua,Almeria,20 years old (29-01-2005),189cm,Spain,Midfielder
+211,Yarek Gasiorowski,Valencia,20 years old (12-01-2005),190cm,,"Defender (Centre, Left)"
+212,Ladislav Krejcí,Girona,26 years old (20-04-1999),191cm,Czech Republic,Defender (Centre)
+213,Jonathan Bamba,Chicago Fire FC,29 years old (26-03-1996),175cm,Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward"
+214,Mouctar Diakhaby,Valencia,28 years old (19-12-1996),189cm,Guinea,"Defender (Centre), Defensive Midfielder (C)"
+215,Isi Palazón,Rayo Vallecano,30 years old (27-12-1994),169cm,Spain,"Attacking Midfielder (Centre, Right), Forward"
+216,Nahuel Molina,Atletico Madrid,27 years old (06-04-1998),175cm,Argentina,"Defender (Right), Midfielder (Right)"
+217,Natan,Real Betis,24 years old (06-02-2001),188cm,Brazil,"Defender (Centre, Left)"
+218,Aritz Arambarri,Eibar,27 years old (31-01-1998),186cm,Spain,Defender
+219,Coba da Costa,Getafe,22 years old (26-07-2002),182cm,,Midfielder (Left)
+220,Matija Nastasic,Leganes,32 years old (28-03-1993),188cm,Serbia,Defender (Centre)
+221,Pablo Fornals,Real Betis,29 years old (22-02-1996),178cm,Spain,"Midfielder (Centre, Left, Right)"
+222,Ricardo Rodríguez,Real Betis,32 years old (25-08-1992),182cm,Switzerland,"Defender (Centre, Left), Midfielder (Left)"
+223,Yáser Asprilla,Girona,21 years old (19-11-2003),185cm,Colombia,"Attacking Midfielder (Centre, Left, Right), Forward"
+224,Rui Silva,Sporting CP,31 years old (07-02-1994),191cm,Portugal,Goalkeeper
+225,Adnan Januzaj,Las Palmas,30 years old (05-02-1995),186cm,Belgium,"Attacking Midfielder (Centre, Left, Right)"
+226,Fermín López,Barcelona,21 years old (11-05-2003),174cm,Spain,"Attacking Midfielder (Centre, Left)"
+227,Stefan Bajcetic,Las Palmas,20 years old (22-10-2004),185cm,Spain,Defensive Midfielder (C)
+228,Renato Tapia,Leganes,29 years old (28-07-1995),185cm,Peru,"Defender (Centre), Defensive Midfielder (C)"
+229,Dominik Greif,Mallorca,28 years old (06-04-1997),197cm,Slovakia,Goalkeeper
+230,Hugo Duro,Valencia,25 years old (10-11-1999),177cm,Spain,"Attacking Midfielder (Left), Forward"
+231,Javi Muñoz,Las Palmas,30 years old (28-02-1995),175cm,Spain,Midfielder (Centre)
+232,Jon Moncayola,Osasuna,26 years old (13-05-1998),189cm,Spain,"Defender (Right), Midfielder (Centre, Right)"
+233,Alex Král,Espanyol,26 years old (19-05-1998),187cm,Czech Republic,Midfielder (Centre)
+234,Manu Morlanes,Mallorca,26 years old (12-01-1999),178cm,Spain,Defensive Midfielder (C)
+235,Hamari Traoré,Real Sociedad,33 years old (27-01-1992),175cm,Mali,"Defender (Right), Midfielder (Right)"
+236,Pep Chavarría,Rayo Vallecano,27 years old (10-04-1998),174cm,Spain,"Defender (Left), Midfielder (Left)"
+237,Aitor Paredes,Athletic Club,25 years old (29-04-2000),186cm,Spain,Defender (Centre)
+238,Iñaki Peña,Barcelona,26 years old (02-03-1999),184cm,Spain,Goalkeeper
+239,Oliver McBurnie,Las Palmas,28 years old (04-06-1996),188cm,Scotland,"Attacking Midfielder (Centre, Left), Forward"
+240,André Almeida,Valencia,24 years old (30-05-2000),176cm,Portugal,"Midfielder (Centre, Left), Forward"
+241,Iván Villar,Celta Vigo,27 years old (09-07-1997),186cm,Spain,Goalkeeper
+242,Copete,Mallorca,25 years old (10-10-1999),192cm,,Defender (Centre)
+243,Alfonso Espino,Rayo Vallecano,33 years old (05-01-1992),172cm,Uruguay,Defender (Left)
+244,Javi Rodríguez,Celta Vigo,21 years old (26-06-2003),178cm,,Defender (Centre)
+245,Marc-André ter Stegen,Barcelona,32 years old (30-04-1992),187cm,Germany,Goalkeeper
+246,Iker Almena,Al Qadasiya,20 years old (04-05-2004),177cm,Spain,Forward
+247,Koke,Atletico Madrid,33 years old (08-01-1992),176cm,Spain,"Midfielder (Centre, Left, Right)"
+248,Diego Conde,Villarreal,26 years old (28-10-1998),188cm,Spain,Goalkeeper
+249,Mika Mármol,Las Palmas,23 years old (01-07-2001),181cm,Spain,"Defender (Centre, Left)"
+250,Jorge de Frutos,Rayo Vallecano,28 years old (20-02-1997),173cm,Spain,"Attacking Midfielder (Left, Right)"
+251,Óscar Rodríguez,Leganes,26 years old (28-06-1998),174cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+252,Abdel Abqar,Deportivo Alaves,26 years old (10-03-1999),188cm,Morocco,Defender (Centre)
+253,Adrián Pica,Deportivo Alaves,23 years old (25-04-2002),190cm,,Defender (Centre)
+254,Abel Bretones,Osasuna,24 years old (21-08-2000),188cm,Spain,Defender (Left)
+255,Alfon González,Celta Vigo,25 years old (04-05-1999),172cm,Spain,Attacking Midfielder (Left)
+256,Jesús Areso,Osasuna,25 years old (02-07-1999),182cm,Spain,Defender (Right)
+257,Vicente Guaita,Celta Vigo,38 years old (10-01-1987),190cm,Spain,Goalkeeper
+258,David López,Girona,35 years old (09-10-1989),185cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+259,Aritz Elustondo,Real Sociedad,31 years old (28-03-1994),180cm,Spain,"Defender (Centre, Right)"
+260,Thierry Correia,Valencia,26 years old (09-03-1999),176cm,Portugal,"Defender (Right), Midfielder (Right)"
+261,Borja Iglesias,Celta Vigo,32 years old (17-01-1993),187cm,Spain,Forward
+262,Logan Costa,Villarreal,24 years old (01-04-2001),190cm,France,Defender (Centre)
+263,Javi Guerra,Valencia,21 years old (13-05-2003),187cm,Spain,Midfielder (Centre)
+264,Youssouf Sabaly,Real Betis,32 years old (05-03-1993),174cm,Senegal,"Defender (Left, Right), Midfielder (Right)"
+265,Lucien Agoumé,Sevilla,23 years old (09-02-2002),185cm,France,Defensive Midfielder (C)
+266,Seydouba Cissé,Leganes,24 years old (10-02-2001),177cm,Guinea,Midfielder (Centre)
+267,Toni Martínez,Deportivo Alaves,27 years old (30-06-1997),187cm,Spain,Forward
+268,Frenkie de Jong,Barcelona,27 years old (12-05-1997),181cm,Netherlands,"Defender (Centre), Defensive Midfielder (C)"
+269,Lucas Rosa,Ajax,25 years old (03-04-2000),176cm,Brazil,"Defender (Left, Right)"
+270,Brais Méndez,Real Sociedad,28 years old (07-01-1997),187cm,Spain,"Attacking Midfielder (Centre, Right), Forward"
+271,Sergi Altimira,Real Betis,23 years old (25-08-2001),188cm,Spain,Defensive Midfielder (C)
+272,Gorka Guruzeta,Athletic Club,28 years old (12-09-1996),188cm,Spain,Forward
+273,Alejandro Francés,Girona,22 years old (01-08-2002),181cm,Spain,Defender (Right)
+274,Kike Pérez,Venezia,28 years old (14-02-1997),184cm,Spain,Midfielder (Centre)
+275,Maroan Sannadi,Athletic Club,24 years old (01-02-2001),192cm,,Forward
+276,Jofre Carreras,Espanyol,23 years old (17-06-2001),175cm,Spain,"Attacking Midfielder (Left, Right)"
+277,Paulo Gazzaniga,Girona,33 years old (02-01-1992),195cm,Argentina,Goalkeeper
+278,Juanlu Sánchez,Sevilla,21 years old (15-08-2003),183cm,Spain,"Defender (Right), Midfielder (Centre)"
+279,Cristhian Mosquera,Valencia,20 years old (27-06-2004),188cm,Spain,Defender (Centre)
+280,Giorgi Mamardashvili,Valencia,24 years old (29-09-2000),197cm,Georgia,Goalkeeper
+281,Ilaix Moriba,Celta Vigo,22 years old (19-01-2003),165cm,Guinea,Defensive Midfielder (C)
+282,Fran Vieites,Real Betis,25 years old (07-05-1999),196cm,,Goalkeeper
+283,Djibril Sow,Sevilla,28 years old (06-02-1997),183cm,Switzerland,Midfielder (Centre)
+284,Omar Mascarell,Mallorca,32 years old (02-02-1993),181cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+285,Albert Sambi Lokonga,Sevilla,25 years old (22-10-1999),183cm,Belgium,Defensive Midfielder (C)
+286,Dani Cárdenas,Rayo Vallecano,28 years old (28-03-1997),186cm,Spain,Goalkeeper
+287,Sergio Camello,Rayo Vallecano,24 years old (10-02-2001),177cm,Spain,Forward
+288,Aitor Ruibal,Real Betis,29 years old (22-03-1996),176cm,Spain,"Defender (Right), Midfielder (Left, Right)"
+289,Juan Bernat,Getafe,32 years old (01-03-1993),177cm,Spain,"Defender (Left), Midfielder (Centre, Left)"
+290,Romain Perraud,Real Betis,27 years old (22-09-1997),173cm,France,"Defender (Left), Midfielder (Left)"
+291,Fran Beltrán,Celta Vigo,26 years old (03-02-1999),170cm,Spain,Defensive Midfielder (C)
+292,Antonio Blanco,Deportivo Alaves,24 years old (23-07-2000),176cm,Spain,Defensive Midfielder (C)
+293,Vitor Roque,Palmeiras,20 years old (28-02-2005),174cm,Brazil,Forward
+294,Pau Navarro,Villarreal,20 years old (25-04-2005),185cm,,Defender
+295,Carles Pérez,Getafe,27 years old (16-02-1998),173cm,Spain,"Midfielder (Centre, Right), Forward"
+296,Pablo Durán,Celta Vigo,23 years old (25-05-2001),176cm,Spain,Forward
+297,Mikel Oyarzabal,Real Sociedad,28 years old (21-04-1997),181cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+298,Ørjan Nyland,Sevilla,34 years old (10-09-1990),192cm,Norway,Goalkeeper
+299,Carlos Martín,Deportivo Alaves,23 years old (22-04-2002),180cm,Spain,Attacking Midfielder (Left)
+300,Scott McKenna,Las Palmas,28 years old (12-11-1996),189cm,Scotland,Defender (Centre)
+301,Adam Aznou,Real Valladolid,18 years old (02-06-2006),178cm,Spain,Defender (Left)
+302,Djené Dakonam,Getafe,33 years old (31-12-1991),178cm,Togo,"Defender (Centre, Right), Defensive Midfielder (C)"
+303,Fernando López,Celta Vigo,20 years old (24-05-2004),188cm,,Midfielder
+304,Unai López,Rayo Vallecano,29 years old (30-10-1995),170cm,Spain,"Midfielder (Centre, Right)"
+305,Álvaro Tejero,Espanyol,28 years old (20-07-1996),174cm,Spain,Defender (Right)
+306,Juanpe,Girona,33 years old (30-04-1991),190cm,Spain,Defender (Centre)
+307,Jorge Herrando,Osasuna,24 years old (28-02-2001),190cm,Spain,Defender (Centre)
+308,Adama Boiro,Athletic Club,22 years old (22-06-2002),183cm,Spain,Defender (Left)
+309,Donny van de Beek,Girona,28 years old (18-04-1997),184cm,Netherlands,Midfielder (Centre)
+310,Pedro Díaz,Rayo Vallecano,26 years old (05-06-1998),180cm,Spain,Midfielder (Centre)
+311,Pepelu,Valencia,26 years old (11-08-1998),185cm,Spain,Defensive Midfielder (C)
+312,Duk,Leganes,25 years old (16-02-2000),182cm,,"Attacking Midfielder (Left), Forward"
+313,Karl Hein,Real Valladolid,23 years old (13-04-2002),193cm,Estonia,Goalkeeper
+314,Andy Pelmard,Las Palmas,25 years old (12-03-2000),181cm,France,"Defender (Centre, Right)"
+315,Juan Herzog,Las Palmas,20 years old (13-05-2004),186cm,Spain,Defender (Centre)
+316,Gavi,Barcelona,20 years old (05-08-2004),173cm,Spain,"Midfielder (Centre, Left)"
+317,Pol Lozano,Espanyol,25 years old (06-10-1999),177cm,Spain,Defensive Midfielder (C)
+318,Pablo Marín,Real Sociedad,21 years old (03-07-2003),178cm,Spain,Midfielder (Centre)
+319,Selim Amallah,Real Valladolid,28 years old (15-11-1996),186cm,Morocco,"Attacking Midfielder (Centre, Left), Forward"
+320,Antonio Sivera,Deportivo Alaves,28 years old (11-08-1996),184cm,Spain,Goalkeeper
+321,Enric Franquesa,Leganes,28 years old (26-02-1997),174cm,Spain,"Defender (Left), Midfielder (Left)"
+322,Raúl Albiol,Villarreal,39 years old (04-09-1985),190cm,Spain,Defender (Centre)
+323,Aihen Muñoz,Real Sociedad,27 years old (16-08-1997),175cm,Spain,Defender (Left)
+324,Isaac Romero,Sevilla,24 years old (18-05-2000),184cm,Spain,Forward
+325,Iván Sánchez,Real Valladolid,32 years old (23-09-1992),171cm,Spain,"Attacking Midfielder (Centre, Right)"
+326,José Campaña,Las Palmas,31 years old (31-05-1993),179cm,Spain,"Midfielder (Centre, Left, Right)"
+327,Jon Guridi,Deportivo Alaves,30 years old (28-02-1995),179cm,Spain,Midfielder (Centre)
+328,Aridane Hernández,Rayo Vallecano,36 years old (23-03-1989),186cm,Spain,Defender (Centre)
+329,Carlos Domínguez,Celta Vigo,24 years old (11-02-2001),187cm,Spain,Defender (Centre)
+330,Justin Smith,Espanyol,22 years old (04-02-2003),190cm,France,Midfielder
+331,Anuar Tuhami,Real Valladolid,30 years old (15-01-1995),173cm,Spain,"Attacking Midfielder (Centre, Left, Right)"
+332,Arthur,Girona,28 years old (12-08-1996),171cm,Brazil,Defensive Midfielder (C)
+333,Óscar Valentín,Rayo Vallecano,30 years old (20-08-1994),177cm,Spain,Defensive Midfielder (C)
+334,Bertug Yildirim,Getafe,22 years old (12-07-2002),191cm,Turkey,Forward
+335,Javi Hernández,Leganes,26 years old (02-05-1998),185cm,Spain,"Defender (Centre, Left)"
+336,Cenk Özkacar,Real Valladolid,24 years old (06-10-2000),190cm,Turkey,"Defender (Centre, Left)"
+337,Daley Sinkgraven,Fortuna Sittard,29 years old (04-07-1995),179cm,Netherlands,"Defender (Left), Midfielder (Centre, Left)"
+338,Javi Sánchez,Real Valladolid,28 years old (14-03-1997),186cm,Spain,Defender (Centre)
+339,Facundo Garcés,Deportivo Alaves,25 years old (05-09-1999),188cm,Argentina,Defender (Centre)
+340,Javi López,Real Sociedad,23 years old (25-03-2002),184cm,Spain,Defender (Left)
+341,Franco Cervi,Celta Vigo,30 years old (26-05-1994),166cm,Argentina,"Defender (Left), Midfielder (Centre, Left, Right)"
+342,Manu Sánchez,Deportivo Alaves,24 years old (24-08-2000),171cm,Spain,"Defender (Left), Midfielder (Left)"
+343,Williot Swedberg,Celta Vigo,21 years old (01-02-2004),187cm,Sweden,Attacking Midfielder (Left)
+344,Bojan Miovski,Girona,25 years old (24-06-1999),189cm,Macedonia,Forward
+345,Luis Pérez,Real Valladolid,30 years old (04-02-1995),173cm,Spain,"Defender (Right), Midfielder (Right)"
+346,Arnaut Danjuma,Girona,28 years old (31-01-1997),178cm,Netherlands,"Attacking Midfielder (Left), Forward"
+347,Hugo Sotelo,Celta Vigo,21 years old (19-12-2003),180cm,Spain,Midfielder (Centre)
+348,Mikel Vesga,Athletic Club,32 years old (08-04-1993),191cm,Spain,Defensive Midfielder (C)
+349,Héctor Fort,Barcelona,18 years old (02-08-2006),185cm,Spain,Defender (Right)
+350,Manu Fuster,Las Palmas,27 years old (22-10-1997),169cm,,Midfielder
+351,Assane Diao,Como,19 years old (07-09-2005),185cm,,"Attacking Midfielder (Left, Right)"
+352,Reinildo,Atletico Madrid,31 years old (21-01-1994),180cm,Mozambique,"Defender (Centre, Left), Midfielder (Left)"
+353,Antoniu Roca,Espanyol,22 years old (05-09-2002),180cm,Spain,Attacking Midfielder (Right)
+354,Yoel Lago,Celta Vigo,21 years old (25-03-2004),185cm,Spain,Defender
+355,José Gragera,Espanyol,24 years old (14-05-2000),186cm,Spain,Defensive Midfielder (C)
+356,Jon Pacheco,Real Sociedad,24 years old (08-01-2001),184cm,Spain,Defender (Centre)
+357,Ferland Mendy,Real Madrid,29 years old (08-06-1995),180cm,France,"Defender (Left), Midfielder (Left)"
+358,Gerard Martín,Barcelona,23 years old (26-02-2002),186cm,Spain,Defender (Left)
+359,Adrián,Real Betis,38 years old (03-01-1987),190cm,Spain,Goalkeeper
+360,Rodrigo Riquelme,Atletico Madrid,25 years old (02-04-2000),174cm,Spain,"Defender (Left), Midfielder (Centre, Left)"
+361,Darko Brasanac,Leganes,33 years old (12-02-1992),178cm,Serbia,"Midfielder (Centre, Right)"
+362,Adri Embarba,Rayo Vallecano,32 years old (07-05-1992),173cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+363,Iván Martín,Girona,26 years old (14-02-1999),178cm,Spain,"Midfielder (Centre, Right)"
+364,Toni Lato,Mallorca,27 years old (21-11-1997),171cm,Spain,"Defender (Left), Midfielder (Left)"
+365,James Rodríguez,Leon,33 years old (12-07-1991),180cm,Colombia,"Attacking Midfielder (Centre, Left, Right), Forward"
+366,Luken Beitia,Real Sociedad,20 years old (30-06-2004),191cm,Spain,Defender
+367,Jailson,Celta Vigo,29 years old (07-09-1995),187cm,Brazil,"Defender (Centre), Defensive Midfielder (C)"
+368,Adrià Alti,Leganes,24 years old (28-03-2001),170cm,Spain,"Defender (Right), Midfielder (Right)"
+369,Fernando Calero,Espanyol,29 years old (14-09-1995),183cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+370,Stanis Idumbo,Sevilla,19 years old (29-06-2005),170cm,Belgium,Midfielder
+371,Gerard Gumbau,Rayo Vallecano,30 years old (18-12-1994),187cm,Spain,Defensive Midfielder (C)
+372,Chimy Ávila,Real Betis,31 years old (06-02-1994),172cm,Argentina,"Attacking Midfielder (Left, Right), Forward"
+373,Jon Olasagasti,Real Sociedad,24 years old (16-08-2000),176cm,Spain,Midfielder (Centre)
+374,Aleksandar Sedlar,Deportivo Alaves,33 years old (13-12-1991),178cm,Serbia,Defender (Centre)
+375,Ander Guevara,Deportivo Alaves,27 years old (07-07-1997),180cm,Spain,Defensive Midfielder (C)
+376,Marcos André,Real Valladolid,28 years old (20-10-1996),184cm,,Forward
+377,Abel Ruiz,Girona,25 years old (28-01-2000),182cm,Spain,Forward
+378,Stanko Juric,Real Valladolid,28 years old (16-08-1996),189cm,Croatia,Defensive Midfielder (C)
+379,Cristhian Stuani,Girona,38 years old (12-10-1986),186cm,Uruguay,"Attacking Midfielder (Centre, Left, Right), Forward"
+380,Cyle Larin,Mallorca,30 years old (17-04-1995),188cm,Canada,"Attacking Midfielder (Left, Right), Forward"
+381,Jesús Vázquez,Valencia,22 years old (02-01-2003),182cm,Spain,Defender (Left)
+382,Ander Barrenetxea,Real Sociedad,23 years old (27-12-2001),175cm,Spain,"Midfielder (Left, Right)"
+383,Siebe Van der Heyden,St. Pauli,26 years old (30-05-1998),185cm,Belgium,Defender (Centre)
+384,Florian Grillitsch,Real Valladolid,29 years old (07-08-1995),187cm,Austria,"Defender (Centre), Midfielder (Centre, Left)"
+385,Valentín Barco,Strasbourg,20 years old (23-07-2004),170cm,Argentina,"Defender (Left), Midfielder (Centre, Left)"
+386,Randy Nteka,Rayo Vallecano,27 years old (06-12-1997),189cm,Spain,"Attacking Midfielder (Centre), Forward"
+387,Dimitri Foulquier,Valencia,32 years old (23-03-1993),183cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+388,Brian Oliván,Espanyol,31 years old (01-04-1994),177cm,Spain,"Defender (Centre, Left)"
+389,William Carvalho,Real Betis,33 years old (07-04-1992),187cm,Portugal,Midfielder (Centre)
+390,Oriol Romeu,Girona,33 years old (24-09-1991),183cm,Spain,Defensive Midfielder (C)
+391,Pau Cabanes,Deportivo Alaves,20 years old (17-02-2005),179cm,Spain,Forward
+392,Tasos Douvikas,Como,25 years old (02-08-1999),186cm,Greece,"Attacking Midfielder (Right), Forward"
+393,Damián Rodríguez,Celta Vigo,22 years old (17-03-2003),180cm,Spain,Midfielder (Centre)
+394,Jesús Navas,Sevilla,39 years old (21-11-1985),172cm,Spain,"Defender (Right), Midfielder (Right)"
+395,Antonio Sánchez,Mallorca,28 years old (22-04-1997),179cm,Spain,"Defender (Right), Midfielder (Centre, Right)"
+396,Juanmi,Getafe,31 years old (20-05-1993),172cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+397,Juan Bernat,Getafe,32 years old (01-03-1993),177cm,Spain,"Defender (Left), Midfielder (Centre, Left)"
+398,Borja Mayoral,Getafe,28 years old (05-04-1997),182cm,Spain,"Attacking Midfielder (Right), Forward"
+399,Ansu Fati,Barcelona,22 years old (31-10-2002),178cm,Spain,"Attacking Midfielder (Left), Forward"
+400,Carlos Benavídez,Deportivo Alaves,27 years old (30-03-1998),185cm,Uruguay,Defensive Midfielder (C)
+401,Kike Barja,Osasuna,28 years old (01-04-1997),178cm,Spain,"Attacking Midfielder (Left, Right)"
+402,Nabil Aberdin,PFC Sochi,22 years old (23-08-2002),180cm,France,Defender
+403,Alfonso Pedraza,Villarreal,29 years old (09-04-1996),184cm,Spain,"Defender (Left), Midfielder (Left)"
+404,Pablo Ibáñez,Osasuna,26 years old (20-09-1998),179cm,Spain,Defensive Midfielder (C)
+405,Tomás Conechny,Deportivo Alaves,27 years old (30-03-1998),170cm,Argentina,"Attacking Midfielder (Left), Forward"
+406,Álex Sola,Getafe,25 years old (09-06-1999),178cm,Spain,"Defender (Right), Midfielder (Left, Right)"
+407,Takuma Asano,Mallorca,30 years old (10-11-1994),173cm,Japan,"Attacking Midfielder (Centre, Left, Right), Forward"
+408,David Alaba,Real Madrid,32 years old (24-06-1992),180cm,Austria,"Defender (Centre, Left), Midfielder (Centre, Left)"
+409,Tajon Buchanan,Villarreal,26 years old (08-02-1999),183cm,Canada,"Defender (Right), Midfielder (Centre, Left, Right)"
+410,Ander Herrera,Boca Juniors,35 years old (14-08-1989),182cm,Spain,Midfielder (Centre)
+411,Moussa Diarra,Deportivo Alaves,24 years old (10-11-2000),185cm,France,"Defender (Centre, Left)"
+412,Irvin Cardona,Saint-Etienne,27 years old (08-08-1997),185cm,France,"Attacking Midfielder (Left, Right), Forward"
+413,Allan Nyom,Getafe,36 years old (10-05-1988),188cm,Cameroon,"Defender (Left, Right), Midfielder (Right)"
+414,Ángel Correa,Atletico Madrid,30 years old (09-03-1995),171cm,Argentina,"Attacking Midfielder (Centre, Left, Right), Forward"
+415,Álex Suárez,Las Palmas,32 years old (18-03-1993),178cm,Spain,"Defender (Centre, Right)"
+416,Jon Magunazelaia,Cordoba,23 years old (13-07-2001),181cm,Spain,Midfielder
+417,Manu Bueno,Sevilla,20 years old (27-07-2004),178cm,Spain,Midfielder
+418,Álvaro Djaló,Athletic Club,25 years old (16-08-1999),175cm,Spain,"Attacking Midfielder (Left, Right), Forward"
+419,Iván Jaime,Valencia,24 years old (26-09-2000),180cm,Spain,"Attacking Midfielder (Centre, Left), Forward"
+420,Sheraldo Becker,Real Sociedad,30 years old (09-02-1995),180cm,Netherlands,"Attacking Midfielder (Centre, Left, Right), Forward"
+421,Papa Dame Ba,Girona,20 years old (12-09-2004),180cm,Senegal,Forward
+422,Rodri,Real Betis,24 years old (16-05-2000),168cm,Spain,"Attacking Midfielder (Centre, Left, Right)"
+423,Mateu Morey,Mallorca,25 years old (02-03-2000),173cm,Spain,"Defender (Right), Midfielder (Right)"
+424,Willy Kambwala,Villarreal,20 years old (25-08-2004),192cm,France,Defender (Centre)
+425,Yan Diomande,Leganes,18 years old (14-11-2006),,,Forward
+426,Álvaro Fernández,Sevilla,27 years old (13-04-1998),185cm,Spain,Goalkeeper
+427,Pau Víctor,Barcelona,23 years old (26-11-2001),184cm,Spain,Forward
+428,Stoichkov,Deportivo Alaves,31 years old (05-11-1993),178cm,,Forward
+429,Unai Gómez,Athletic Club,21 years old (25-05-2003),183cm,Spain,Attacking Midfielder (Centre)
+430,Suso,Sevilla,31 years old (19-11-1993),177cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+431,Peque Fernández,Sevilla,22 years old (04-10-2002),172cm,,Attacking Midfielder (Centre)
+432,Beñat Turrientes,Real Sociedad,23 years old (31-01-2002),181cm,Spain,Defensive Midfielder (C)
+433,Íñigo Lekue,Athletic Club,31 years old (04-05-1993),180cm,Spain,"Defender (Left, Right), Midfielder (Left, Right)"
+434,Juanmi Latasa,Real Valladolid,24 years old (23-03-2001),192cm,Spain,Forward
+435,Marvin Park,Las Palmas,24 years old (03-07-2000),177cm,Spain,"Defender (Right), Midfielder (Right)"
+436,Denis Suárez,Villarreal,31 years old (06-01-1994),176cm,Spain,"Midfielder (Centre, Left, Right)"
+437,Carles Aleñá,Deportivo Alaves,27 years old (05-01-1998),180cm,Spain,"Attacking Midfielder (Centre, Left, Right)"
+438,Cédric Bakambu,Real Betis,34 years old (11-04-1991),182cm,DR Congo,"Attacking Midfielder (Left, Right), Forward"
+439,Sergi Gómez,Espanyol,33 years old (28-03-1992),185cm,Spain,"Defender (Centre, Right)"
+440,Max Aarons,Valencia,25 years old (04-01-2000),178cm,England,Defender (Right)
+441,Juan Cruz,Osasuna,32 years old (28-07-1992),180cm,Spain,"Defender (Centre, Left)"
+442,Mamadou Sylla,Real Valladolid,31 years old (20-03-1994),184cm,Spain,"Attacking Midfielder (Left), Forward"
+443,Gonzalo Montiel,River Plate,28 years old (01-01-1997),175cm,Argentina,"Defender (Centre, Right), Midfielder (Right)"
+444,Alberto Risco,Getafe,19 years old (30-08-2005),157cm,Spain,Midfielder
+445,Hugo Novoa,Deportivo Alaves,22 years old (24-01-2003),182cm,Spain,Forward
+446,Raúl Chasco,Real Valladolid,21 years old (13-09-2003),179cm,Spain,Defender
+447,Óscar Trejo,Rayo Vallecano,37 years old (26-04-1988),180cm,Argentina,"Midfielder (Centre, Left, Right), Forward"
+448,Rafa Mir,Valencia,27 years old (18-06-1997),191cm,Spain,"Attacking Midfielder (Right), Forward"
+449,Mario Martín,Real Valladolid,21 years old (05-03-2004),178cm,Spain,Defensive Midfielder (C)
+450,Gabriel Misehouy,Girona,19 years old (18-07-2005),173cm,Netherlands,Midfielder
+451,Juan Berrocal,Getafe,26 years old (05-02-1999),184cm,Spain,Defender (Centre)
+452,Borna Barisic,Leganes,32 years old (10-11-1992),186cm,Croatia,Defender (Left)
+453,Luis Rioja,Valencia,31 years old (16-10-1993),175cm,Spain,"Midfielder (Left, Right)"
+454,García Pascual,Sevilla,23 years old (01-01-2002),191cm,,Forward
+455,Alejo Véliz,Espanyol,21 years old (19-09-2003),186cm,Argentina,Forward
+456,Munir El Haddadi,Leganes,29 years old (01-09-1995),175cm,Morocco,"Attacking Midfielder (Centre, Left, Right), Forward"
+457,Iker Losada,Celta Vigo,23 years old (01-08-2001),175cm,Spain,Midfielder
+458,Javier Manquillo,Celta Vigo,30 years old (05-05-1994),178cm,Spain,"Defender (Centre, Left, Right), Midfielder (Right)"
+459,Arkaitz Mariezkurrena,Real Sociedad,20 years old (05-04-2005),181cm,Spain,Forward
+460,Diego García,Leganes,25 years old (18-04-2000),186cm,Spain,Forward
+461,Peio Canales,Athletic Club,20 years old (17-01-2005),179cm,Spain,Midfielder
+462,Orri Óskarsson,Real Sociedad,20 years old (29-08-2004),186cm,Iceland,Forward
+463,Etienne Eto'o Pineda,Rayo Vallecano,22 years old (18-08-2002),191cm,,Forward
+464,Marc Domenech,Mallorca,18 years old (01-12-2006),182cm,,Forward
+465,Darwin Machís,Real Valladolid,32 years old (07-02-1993),170cm,Venezuela,"Attacking Midfielder (Left, Right)"
+466,Raúl García,Osasuna,24 years old (03-11-2000),192cm,Spain,Forward
+467,Dani Gómez,Valencia,26 years old (30-07-1998),178cm,,Forward
+468,Tamás Nikitscher,Real Valladolid,25 years old (03-11-1999),193cm,Hungary,Defensive Midfielder (C)
+469,Valery Fernández,Mallorca,25 years old (23-11-1999),182cm,Spain,"Defender (Right), Midfielder (Left)"
+470,Juanmi,Getafe,31 years old (20-05-1993),172cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+471,Adrián Rodríguez,Deportivo Alaves,24 years old (12-12-2000),195cm,Spain,Goalkeeper
+472,Fran Pérez,Valencia,22 years old (09-09-2002),175cm,Spain,Attacking Midfielder (Right)
+473,Miguel de la Fuente,Leganes,25 years old (03-09-1999),180cm,Spain,Forward
+474,Carlos Guirao,Real Betis,22 years old (27-04-2003),175cm,Spain,Midfielder
+475,Sébastien Haller,FC Utrecht,30 years old (22-06-1994),190cm,Ivory Coast,Forward
+476,Abdoulaye Keita,Getafe,22 years old (01-09-2002),186cm,Spain,Forward
+477,Iker Losada,Celta Vigo,23 years old (01-08-2001),175cm,Spain,Midfielder
+478,Mateo Mejía,Sevilla,22 years old (31-03-2003),181cm,,Forward
+479,Mihailo Ristic,Celta Vigo,29 years old (31-10-1995),180cm,Serbia,"Defender (Left), Midfielder (Left)"
+480,Jesús Owono,Deportivo Alaves,24 years old (01-03-2001),183cm,Equatorial Guinea,Goalkeeper
+481,Peter Federico,Getafe,22 years old (25-07-2002),180cm,Dominican Rep.,Forward
+482,Moi Gómez,Osasuna,30 years old (23-06-1994),176cm,Spain,"Midfielder (Centre, Left, Right)"
+483,Walid Cheddira,Espanyol,27 years old (22-01-1998),187cm,Morocco,Forward
+484,Portu,Girona,32 years old (21-05-1992),167cm,Spain,"Midfielder (Centre, Left, Right), Forward"
+485,David López,Mallorca,22 years old (03-02-2003),195cm,Spain,Defender
+486,Pau Cabanes,Deportivo Alaves,20 years old (17-02-2005),179cm,Spain,Forward
+487,Naci Ünüvar,Twente,21 years old (13-06-2003),168cm,Netherlands,Midfielder
+488,Akor Adams,Sevilla,25 years old (29-01-2000),190cm,Nigeria,Forward
+489,David Torres,Real Valladolid,22 years old (05-03-2003),182cm,Spain,Defender (Centre)
+490,Abde Rebbach,Granada,26 years old (11-08-1998),176cm,Algeria,Attacking Midfielder (Left)
+491,Endrick,Real Madrid,18 years old (21-07-2006),173cm,,Forward
+492,Iván Balliu,Rayo Vallecano,33 years old (01-01-1992),172cm,Albania,"Defender (Left, Right), Midfielder (Right)"
+493,Rubén Peña,Osasuna,33 years old (18-07-1991),170cm,Spain,"Defender (Left, Right), Midfielder (Left, Right), Forward"
+494,Eric Bailly,Villarreal,31 years old (12-04-1994),187cm,Ivory Coast,"Defender (Centre, Right)"
+495,Joseph Aidoo,Real Valladolid,29 years old (29-09-1995),184cm,Ghana,Defender (Centre)
+496,Thomas Lemar,Atletico Madrid,29 years old (12-11-1995),171cm,France,"Attacking Midfielder (Centre, Left, Right)"
+497,Benito Ramírez,Las Palmas,29 years old (11-07-1995),180cm,,Midfielder
+498,Umar Sadiq,Valencia,28 years old (02-02-1997),192cm,Nigeria,Forward
+499,John Patrick,Reims,21 years old (24-09-2003),192cm,Spain,Defensive Midfielder (C)
+500,Amath Ndiaye,Real Valladolid,28 years old (16-07-1996),173cm,Senegal,"Attacking Midfielder (Left, Right), Forward"
+501,Endika Bujan,Athletic Club,22 years old (16-01-2003),170cm,,Forward
+502,Ferrán Ruiz,Girona,22 years old (26-04-2003),172cm,Spain,Defender
+503,Iker Córdoba,Valencia,19 years old (11-11-2005),190cm,,Defender
+504,Nico Serrano,Sporting Gijon,22 years old (05-03-2003),181cm,Spain,Forward
+505,Luka Romero,Cruz Azul,20 years old (18-11-2004),165cm,Argentina,Attacking Midfielder (Right)
+506,Sergi Canós,Valencia,28 years old (02-02-1997),177cm,Spain,"Midfielder (Left, Right)"
+507,Abdón Prats,Mallorca,32 years old (07-12-1992),181cm,Spain,Forward
+508,Hugo Guillamón,Valencia,25 years old (31-01-2000),178cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+509,Álvaro Aguado,Espanyol,28 years old (01-05-1996),174cm,Spain,Midfielder (Centre)
+510,Eray Cömert,Real Valladolid,27 years old (04-02-1998),183cm,Switzerland,"Defender (Centre), Defensive Midfielder (C)"
+511,Sergi Domínguez,Barcelona,20 years old (01-04-2005),188cm,,Defender
+512,Jhon Solís,Girona,20 years old (03-10-2004),189cm,Colombia,Midfielder
+513,Asier Villalibre,Deportivo Alaves,27 years old (30-09-1997),184cm,Spain,Forward
+514,José Arnáiz,Osasuna,30 years old (15-04-1995),175cm,Spain,"Attacking Midfielder (Left), Forward"
+515,Roberto López,Leganes,25 years old (24-04-2000),179cm,Spain,Attacking Midfielder (Centre)
+516,Alejandro Padilla,Club Universidad Nacional,21 years old (01-09-2003),190cm,Spain,Goalkeeper
+517,Etta Eyong,Villarreal,21 years old (14-10-2003),181cm,Cameroon,Forward
+518,Martín Tejón,Valencia,21 years old (12-04-2004),165cm,,Forward
+519,Pere Milla,Espanyol,32 years old (23-09-1992),184cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+520,Andreas Christensen,Barcelona,29 years old (10-04-1996),187cm,Denmark,"Defender (Centre), Defensive Midfielder (C)"
+521,Javi Llabrés,Eldense,22 years old (11-09-2002),174cm,Spain,Forward
+522,Chema Andres,Real Madrid,20 years old (25-04-2005),190cm,Spain,Midfielder
+523,Ramon Terrats,Getafe,24 years old (18-10-2000),181cm,Spain,"Midfielder (Centre, Right)"
+524,Chiquinho,Mallorca,25 years old (05-02-2000),179cm,Portugal,"Attacking Midfielder (Left, Right)"
+525,Pablo García,Real Betis,18 years old (13-06-2006),175cm,,Forward
+526,Jaime Mata,Las Palmas,36 years old (24-10-1988),185cm,Spain,"Attacking Midfielder (Left), Forward"
+527,Iker Muñoz,Osasuna,22 years old (05-09-2002),180cm,Spain,Defensive Midfielder (C)
+528,David Argüelles,Getafe,23 years old (10-01-2002),175cm,Spain,Defender
+529,Leandro Antonetti,Sevilla,22 years old (13-01-2003),189cm,Puerto Rico,Forward
+530,Henrique,Real Valladolid,31 years old (25-04-1994),173cm,Brazil,"Defender (Left), Midfielder (Left)"
+531,Germán Valera,Elche,23 years old (16-03-2002),170cm,Spain,Forward
+532,Julián Chicco,Leganes,27 years old (13-01-1998),181cm,Argentina,Defensive Midfielder (C)
+533,Sergi Guardiola,Rayo Vallecano,33 years old (29-05-1991),184cm,Spain,Forward
+534,Antonio Candela,Real Valladolid,25 years old (27-04-2000),185cm,Italy,"Defender (Centre, Right), Midfielder (Right)"
+535,Daniel Luna,Cartagena,21 years old (07-05-2003),179cm,Colombia,Midfielder
+536,Fabio González,Tenerife,28 years old (12-02-1997),176cm,Spain,Midfielder
+537,Pejiño,Las Palmas,28 years old (29-07-1996),177cm,,Midfielder
+538,Adrián Arnu,Real Valladolid,18 years old (04-03-2007),185cm,Spain,Forward
+539,Víctor Meseguer,Racing Santander,25 years old (09-06-1999),184cm,Spain,Midfielder
+540,Yellu Santiago,Getafe,20 years old (25-05-2004),192cm,Spain,Defensive Midfielder (C)
+541,Daniel Díaz,Real Sociedad,18 years old (22-06-2006),167cm,,Forward
+542,Daniel Yáñez,Real Madrid,18 years old (28-03-2007),177cm,,Forward
+543,Kelechi Iheanacho,Middlesbrough,28 years old (03-10-1996),185cm,Nigeria,"Attacking Midfielder (Centre), Forward"
+544,Nacho Vidal,Real Oviedo,30 years old (24-01-1995),180cm,Spain,Defender (Right)
+545,Mateo Flores,Real Betis,21 years old (07-04-2004),178cm,Spain,Midfielder
+546,Lorenzo Aguado,Real Madrid,22 years old (19-09-2002),177cm,Spain,Defender
+547,Rodrigo Abajas,Valencia,21 years old (12-05-2003),186cm,Spain,Defender
+548,Marcão,Sevilla,28 years old (05-06-1996),185cm,Brazil,Defender (Centre)
+549,Jan Salas,Mallorca,19 years old (10-08-2005),182cm,,Midfielder
+550,Álvaro Odriozola,Real Sociedad,29 years old (14-12-1995),176cm,Spain,Defender (Right)
+551,Enzo Loiodice,Las Palmas,24 years old (27-11-2000),176cm,France,Defensive Midfielder (C)
+552,Diego Hormigo,Sevilla,22 years old (16-04-2003),182cm,Spain,Defender
+553,Gorka Rivera,Getafe,20 years old (01-08-2004),184cm,,Defender
+554,Chuki,Real Valladolid,21 years old (29-04-2004),172cm,,Midfielder
+555,Kim Min-Su,Girona,19 years old (19-01-2006),177cm,South Korea,Forward
+556,Maximiliano Caufriez,Salzburg,28 years old (16-02-1997),189cm,Belgium,"Defender (Centre, Right)"
+557,Tadeo Allende,Inter Miami CF,26 years old (20-02-1999),183cm,Argentina,"Attacking Midfielder (Left, Right)"
+558,Raúl de Tomás,Rayo Vallecano,30 years old (17-10-1994),180cm,Spain,Forward
+559,Iker Benito,CD Mirandes,22 years old (10-08-2002),176cm,Spain,Forward
+560,Israel Domínguez,Sevilla,21 years old (07-05-2003),175cm,Spain,Forward
+561,Juan Carlos,Girona,37 years old (20-01-1988),186cm,Spain,Goalkeeper
+562,Rafael Bauza,Espanyol,20 years old (30-01-2005),183cm,,Midfielder
+563,Ismael Bekhoucha,Getafe,20 years old (20-11-2004),176cm,,Defender
+564,Arnau Solà,Villarreal,22 years old (04-04-2003),179cm,,Defender
+565,Javier Martón,Albacete,25 years old (06-05-1999),183cm,Spain,Forward
+566,Marc Cardona,Las Palmas,29 years old (08-07-1995),183cm,Spain,Forward
+567,Adrián Niño,Atletico Madrid,20 years old (19-06-2004),184cm,Spain,Forward
+568,Alberto Marí,Real Zaragoza,23 years old (11-07-2001),183cm,Spain,Forward
+569,Luca de la Torre,San Diego FC,26 years old (23-05-1998),178cm,USA,"Midfielder (Centre, Left, Right)"
+570,Roger Hinojo,Espanyol,20 years old (21-02-2005),180cm,,Defender
+571,Joseph Aidoo,Real Valladolid,29 years old (29-09-1995),184cm,Ghana,Defender (Centre)
+572,Aboubacar Bassinga,Las Palmas,19 years old (13-07-2005),178cm,Ivory Coast,Midfielder
+573,Darío Benavides,Sevilla,22 years old (12-01-2003),178cm,,Defender
+574,David Otorbi,Valencia,17 years old (16-10-2007),180cm,,Forward
+575,Javi Martínez,Eibar,25 years old (22-12-1999),180cm,Spain,"Midfielder (Centre, Right)"
+576,Kenedy,Real Valladolid,29 years old (08-02-1996),182cm,Brazil,"Defender (Left), Midfielder (Left, Right)"
+577,Stole Dimitrievski,Valencia,31 years old (25-12-1993),188cm,Macedonia,Goalkeeper
+578,Jesús Vallejo,Real Madrid,28 years old (05-01-1997),184cm,Spain,"Defender (Centre, Right)"
+579,Thiago Ojeda,Villarreal,22 years old (12-01-2003),188cm,,Midfielder
+580,Unai García,Osasuna,33 years old (03-02-1992),186cm,Spain,Defender (Centre)
+581,Urko González,Espanyol,24 years old (20-03-2001),189cm,Spain,Defensive Midfielder (C)
+582,Fran González,Real Madrid,19 years old (24-06-2005),199cm,,Goalkeeper
+583,Adu Ares,Athletic Club,23 years old (12-10-2001),183cm,,Forward
+584,André Ferreira,Real Valladolid,28 years old (29-05-1996),193cm,Portugal,Goalkeeper
+585,Arnau Rafús,Real Valladolid,22 years old (27-04-2003),190cm,,Goalkeeper
+586,Valentín Pezzolesi,Las Palmas,18 years old (16-04-2007),180cm,Argentina,Defender

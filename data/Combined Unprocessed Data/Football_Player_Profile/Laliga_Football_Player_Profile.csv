@@ -1,0 +1,605 @@
+,Player,Club,League,Age,Height_all,National,Positions,Main_position,Foot,Apps,Mins,Goals,Assists,Yel,Red,PS%,AerialsWon,MotM,Rating,Contract,Market_Value
+0,Lamine Yamal,FC Barcelona,Laliga,17 years old (13-07-2007),"1,80m",Spain,Attacking Midfielder (Right),Right Winger,left,27(3),2452.0,6,12,3,-,78.3,-,9,7.94,"Jun 30, 2026",€180.00m
+1,Sergio Arribas,Real Betis Balompié,Laliga,22 years old (10-02-2003),185cm,Spain,Defender,,,1,90.0,-,-,-,-,68.3,1,-,7.78,,
+2,Aitor Fernández,CA Osasuna,Laliga,33 years old (03-05-1991),"1,82m",Spain,Goalkeeper,Goalkeeper,right,1,90.0,-,-,-,-,61,-,-,7.77,"Jun 30, 2027",€1.50m
+3,Raphinha,FC Barcelona,Laliga,28 years old (14-12-1996),"1,76m",Brazil,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,left,28(3),2466.0,15,9,4,-,78.6,0.3,10,7.7,"Jun 30, 2027",€80.00m
+4,Kylian Mbappé,Real Madrid,Laliga,26 years old (20-12-1998),"1,78m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,29,2467.0,22,3,3,1,85,0.1,7,7.65,"Jun 30, 2029",€170.00m
+5,Cucho Hernández,Real Betis Balompié,Laliga,26 years old (20-04-1999),"1,76m",,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,10,797.0,3,1,-,-,74.9,2.5,2,7.38,"Jun 30, 2030",€18.00m
+6,Robert Lewandowski,FC Barcelona,Laliga,36 years old (21-08-1988),"1,85m",Poland,Forward,Centre-Forward,right,29(2),2454.0,25,2,1,-,74.5,1.1,4,7.31,"Jun 30, 2026",€15.00m
+7,Jude Bellingham,Real Madrid,Laliga,21 years old (29-06-2003),"1,86m",England,"Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,25(2),2135.0,8,7,3,1,87.8,0.9,4,7.26,"Jun 30, 2029",€180.00m
+8,Vinícius Júnior,Real Madrid,Laliga,24 years old (12-07-2000),"1,76m",Brazil,"Attacking Midfielder (Left), Forward",Left Winger,right,22(5),2046.0,11,5,8,1,78.9,-,4,7.24,"Jun 30, 2027",€200.00m
+9,Álex Baena,Villarreal CF,Laliga,23 years old (20-07-2001),"1,74m",Spain,"Attacking Midfielder (Centre, Left), Forward",Left Winger,right,26(1),2261.0,6,7,8,-,73.8,0.6,3,7.22,"Jun 30, 2028",€50.00m
+10,Isco,Real Betis Balompié,Laliga,33 years old (21-04-1992),"1,76m",Spain,"Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,15(2),1289.0,8,5,5,-,86.7,0.7,3,7.21,"Jun 30, 2027",€6.00m
+11,Pedri,FC Barcelona,Laliga,22 years old (25-11-2002),"1,74m",Spain,"Midfielder (Centre, Left)",Central Midfield,right,30(2),2544.0,4,4,2,-,88.5,0.2,-,7.19,"Jun 30, 2030",€120.00m
+12,Federico Valverde,Real Madrid,Laliga,26 years old (22-07-1998),"1,82m",Uruguay,"Defender (Right), Midfielder (Centre, Left, Right)",Central Midfield,right,29(2),2584.0,6,4,3,-,90.6,0.8,4,7.19,"Jun 30, 2029",€130.00m
+13,Antony,Real Betis Balompié,Laliga,25 years old (24-02-2000),"1,72m",Brazil,Attacking Midfielder (Right),Right Winger,left,12,1017.0,3,2,1,1,83.4,0.3,-,7.17,"Jun 30, 2025",€20.00m
+14,Rodrygo,Real Madrid,Laliga,24 years old (09-01-2001),"1,74m",Brazil,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,right,22(8),1938.0,6,5,-,-,90.9,0.2,3,7.13,"Jun 30, 2028",€100.00m
+15,Dani Olmo,FC Barcelona,Laliga,26 years old (07-05-1998),"1,79m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,11(9),1004.0,9,2,-,-,81.6,0.5,1,7.11,"Jun 30, 2030",€60.00m
+16,Ayoze Pérez,Villarreal CF,Laliga,31 years old (29-07-1993),"1,78m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,18(8),1678.0,14,2,3,-,77.2,0.5,3,7.03,"Jun 30, 2028",€10.00m
+17,Leo Román,RCD Mallorca,Laliga,24 years old (06-07-2000),"1,89m",Spain,Goalkeeper,Goalkeeper,right,6,540.0,-,-,-,-,54.7,0.2,2,7.03,"Jun 30, 2026",€2.50m
+18,Éder Militão,Real Madrid,Laliga,27 years old (18-01-1998),"1,86m",Brazil,"Defender (Centre, Right)",Centre-Back,right,11(1),940.0,1,1,2,-,89.8,1.8,1,7.02,"Jun 30, 2028",€40.00m
+19,Dodi Lukébakio,Sevilla FC,Laliga,27 years old (24-09-1997),"1,87m",Belgium,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,32(1),2743.0,11,2,2,1,81.7,0.5,4,7.0,"Jun 30, 2028",€25.00m
+20,Pelayo Fernández,Rayo Vallecano,Laliga,22 years old (29-04-2003),"1,93m",Spain,Defender,Centre-Back,right,1,90.0,-,-,1,-,83.3,3,-,7.0,"Jun 30, 2028",€500k
+21,Juan Foyth,Villarreal CF,Laliga,27 years old (12-01-1998),"1,87m",Argentina,"Defender (Centre, Right), Defensive Midfielder (C)",Right-Back,right,13(2),1171.0,1,-,4,-,86.5,2.3,-,7.0,"Jun 30, 2026",€10.00m
+22,Nico Williams,Athletic Bilbao,Laliga,22 years old (12-07-2002),"1,81m",Spain,"Attacking Midfielder (Left, Right)",Left Winger,right,21(7),1921.0,5,5,1,-,79.6,0.4,1,6.99,"Jun 30, 2027",€70.00m
+23,Giovani Lo Celso,Real Betis Balompié,Laliga,29 years old (09-04-1996),"1,77m",Argentina,"Midfielder (Centre, Right), Forward",Central Midfield,left,12(9),1219.0,7,2,4,-,84.1,0.2,3,6.99,"Jun 30, 2028",€20.00m
+24,Ramon Terrats,Getafe CF,Laliga,24 years old (18-10-2000),"1,81m",Spain,"Midfielder (Centre, Right)",Central Midfield,left,10,827.0,4,-,1,-,72.7,1.1,2,6.99,"Jun 30, 2025",€4.00m
+25,Iñigo Martínez,FC Barcelona,Laliga,33 years old (17-05-1991),"1,82m",Spain,Defender (Centre),Centre-Back,left,26,2313.0,-,4,4,-,91.4,2.3,1,6.98,"Jun 30, 2026",€5.00m
+26,Yeray Álvarez,Athletic Bilbao,Laliga,30 years old (24-01-1995),"1,82m",Spain,Defender (Centre),Centre-Back,right,18(1),1601.0,1,-,4,-,84.5,2.2,3,6.98,"Jun 30, 2026",€7.50m
+27,Marc Bartra,Real Betis Balompié,Laliga,34 years old (15-01-1991),"1,84m",Spain,"Defender (Centre, Right), Defensive Midfielder (C)",Centre-Back,right,19(2),1758.0,2,1,1,-,81,2,-,6.97,"Jun 30, 2027",€1.00m
+28,Joan García,RCD Espanyol Barcelona,Laliga,23 years old (04-05-2001),"1,91m",Spain,Goalkeeper,Goalkeeper,right,33,2970.0,-,-,2,-,66,0.7,6,6.97,"Jun 30, 2028",€20.00m
+29,Ante Budimir,CA Osasuna,Laliga,33 years old (22-07-1991),"1,90m",Croatia,Forward,Centre-Forward,left,29(4),2555.0,18,3,3,-,55.5,3.8,5,6.97,"Jun 30, 2027",€5.00m
+30,Iñaki Williams,Athletic Bilbao,Laliga,30 years old (15-06-1994),"1,86m",Ghana,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,right,28(4),2556.0,6,8,1,-,69.8,0.9,4,6.96,"Jun 30, 2028",€20.00m
+31,Ángel Ortiz,Real Betis Balompié,Laliga,20 years old (25-07-2004),"1,67m",Spain,Forward,Right-Back,right,4,345.0,-,1,-,-,78.2,1.3,1,6.95,"Jun 30, 2025",€2.50m
+32,Lucas Ocampos,Monterrey,Laliga,30 years old (11-07-1994),187cm,Argentina,"Midfielder (Centre, Left, Right), Forward",,,2,176.0,-,1,-,-,73.2,1.5,-,6.95,,
+33,Nayef Aguerd,Real Sociedad,Laliga,29 years old (30-03-1996),"1,90m",Morocco,Defender (Centre),Centre-Back,left,20,1675.0,-,-,5,-,87.9,3,-,6.94,"Jun 30, 2025",€25.00m
+34,Johnny Cardoso,Real Betis Balompié,Laliga,23 years old (20-09-2001),"1,86m",USA,Midfielder (Centre),Defensive Midfield,right,22(3),1952.0,3,1,5,-,85.5,1.1,-,6.94,"Jun 30, 2030",€20.00m
+35,Unai Núñez,Athletic Bilbao,Laliga,28 years old (30-01-1997),"1,86m",Spain,Defender (Centre),Centre-Back,right,6(2),582.0,-,-,4,-,87.4,1.6,-,6.93,"Jun 30, 2025",€3.00m
+36,Eduardo Camavinga,Real Madrid,Laliga,22 years old (10-11-2002),"1,82m",France,"Defender (Left), Defensive Midfielder (C)",Central Midfield,left,11(8),1098.0,1,2,2,-,89,1.2,1,6.93,"Jun 30, 2029",€70.00m
+37,Omar Alderete,Getafe CF,Laliga,28 years old (26-12-1996),"1,88m",Paraguay,Defender (Centre),Centre-Back,left,30,2651.0,1,-,7,-,67.8,2.9,2,6.93,"Jun 30, 2028",€8.00m
+38,Sergi Cardona,Villarreal CF,Laliga,25 years old (08-07-1999),"1,86m",Spain,Defender (Left),Left-Back,both,31,2684.0,1,7,11,-,79.3,1.3,3,6.91,"Jun 30, 2027",€8.00m
+39,Oihan Sancet,Athletic Bilbao,Laliga,25 years old (25-04-2000),"1,88m",Spain,"Midfielder (Centre), Forward",Attacking Midfield,right,18(7),1480.0,15,1,2,-,84.3,0.4,4,6.91,"Jun 30, 2032",€60.00m
+40,Ronald Araujo,FC Barcelona,Laliga,26 years old (07-03-1999),"1,92m",Uruguay,"Defender (Centre, Right)",Centre-Back,right,8(1),554.0,1,1,1,-,91.1,2.8,-,6.91,"Jun 30, 2031",€50.00m
+41,Andrei Ratiu,Rayo Vallecano,Laliga,26 years old (20-06-1998),"1,83m",Romania,"Defender (Right), Midfielder (Right)",Right-Back,right,30(1),2719.0,2,3,5,-,84.6,0.5,3,6.91,"Jun 30, 2028",€12.00m
+42,Julián Alvarez,Atlético de Madrid,Laliga,25 years old (31-01-2000),"1,70m",Argentina,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,26(7),2187.0,15,2,4,-,78.9,0.4,4,6.91,"Jun 30, 2030",€90.00m
+43,Dani Raba,CD Leganés,Laliga,29 years old (29-10-1995),"1,85m",Spain,"Attacking Midfielder (Centre, Right), Forward",Right Winger,left,19(5),1554.0,7,4,5,-,71.7,0.2,1,6.9,"Jun 30, 2025",€1.80m
+44,Aurélien Tchouaméni,Real Madrid,Laliga,25 years old (27-01-2000),"1,88m",France,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,27(1),2365.0,-,-,4,-,92.9,2.5,-,6.9,"Jun 30, 2028",€80.00m
+45,Antoine Griezmann,Atlético de Madrid,Laliga,34 years old (21-03-1991),"1,76m",France,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,left,27(6),2291.0,8,6,2,-,80,0.6,2,6.9,"Jun 30, 2026",€22.00m
+46,Marcos Llorente,Atlético de Madrid,Laliga,30 years old (30-01-1995),"1,84m",Spain,"Defender (Right), Midfielder (Centre, Right), Forward",Right Midfield,right,23(5),2066.0,2,4,-,1,88,0.4,2,6.89,"Jun 30, 2027",€28.00m
+47,Dani Carvajal,Real Madrid,Laliga,33 years old (11-01-1992),"1,73m",Spain,Defender (Right),Right-Back,right,7(1),611.0,1,-,2,-,88.1,0.9,-,6.89,"Jun 30, 2026",€10.00m
+48,Pablo Maffeo,RCD Mallorca,Laliga,27 years old (12-07-1997),"1,72m",Spain,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,25(1),2124.0,-,1,5,-,75.3,0.7,1,6.89,"Jun 30, 2027",€5.00m
+49,Jules Koundé,FC Barcelona,Laliga,26 years old (12-11-1998),"1,80m",France,"Defender (Centre, Right)",Right-Back,right,29(3),2606.0,2,3,4,-,88.6,0.9,3,6.89,"Jun 30, 2027",€60.00m
+50,José Gayà,Valencia CF,Laliga,29 years old (25-05-1995),"1,72m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,18(1),1487.0,-,1,6,-,81.2,0.5,-,6.88,"Jun 30, 2027",€15.00m
+51,Juan Musso,Atlético de Madrid,Laliga,30 years old (06-05-1994),"1,91m",Argentina,Goalkeeper,Goalkeeper,right,1,90.0,-,-,-,-,78.3,1,-,6.88,"Jun 30, 2025",€4.00m
+52,Dani Vivian,Athletic Bilbao,Laliga,25 years old (05-07-1999),"1,84m",Spain,Defender (Centre),Centre-Back,right,24(3),2217.0,3,-,3,-,87.4,1.3,2,6.88,"Jun 30, 2032",€40.00m
+53,Lucas Torró,CA Osasuna,Laliga,30 years old (19-07-1994),"1,90m",Spain,Defensive Midfielder (C),Defensive Midfield,right,30,2560.0,3,-,10,-,76.5,5,1,6.88,"Jun 30, 2027",€3.50m
+54,Antonio Raíllo,RCD Mallorca,Laliga,33 years old (08-10-1991),"1,87m",Spain,Defender (Centre),Centre-Back,,31,2759.0,2,-,5,1,88.5,3.6,2,6.87,"Jun 30, 2026",€2.00m
+55,Diego Llorente,Real Betis Balompié,Laliga,31 years old (16-08-1993),"1,86m",Spain,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,29(1),2522.0,2,-,4,-,86.9,2.6,1,6.87,"Jun 30, 2028",€6.00m
+56,Fábio Silva,UD Las Palmas,Laliga,22 years old (19-07-2002),"1,85m",Portugal,"Attacking Midfielder (Left), Forward",Centre-Forward,right,22(2),1877.0,10,3,7,-,68.6,2.2,2,6.87,"Jun 30, 2025",€20.00m
+57,Luis Milla,Getafe CF,Laliga,30 years old (07-10-1994),"1,75m",Spain,Midfielder (Centre),Central Midfield,right,28(1),2518.0,1,4,4,-,81.7,1,2,6.85,"Jun 30, 2027",€3.50m
+58,Martín Zubimendi,Real Sociedad,Laliga,26 years old (02-02-1999),"1,81m",Spain,Defensive Midfielder (C),Defensive Midfield,right,29(2),2600.0,2,1,5,-,84.4,1.5,1,6.85,"Jun 30, 2027",€60.00m
+59,Arnaut Danjuma,Girona FC,Laliga,28 years old (31-01-1997),"1,78m",Netherlands,"Attacking Midfielder (Left), Forward",Left Winger,right,3,203.0,2,-,1,-,76.7,0.7,-,6.84,"Jun 30, 2025",€5.00m
+60,Nahuel Tenaglia,Deportivo Alavés,Laliga,29 years old (21-02-1996),"1,81m",Argentina,"Defender (Centre, Right)",Right-Back,right,29,2546.0,2,1,11,-,74.8,1.4,2,6.84,"Jun 30, 2027",€3.00m
+61,Nabil Fekir,Real Betis Balompié,Laliga,31 years old (18-07-1993),173cm,France,"Attacking Midfielder (Centre, Left, Right), Forward",,,2,180.0,-,1,-,-,86.1,-,1,6.84,,
+62,Unai Marrero,Real Sociedad,Laliga,23 years old (09-10-2001),"1,89m",Spain,Goalkeeper,Goalkeeper,right,1,90.0,-,-,-,-,70.8,-,-,6.84,"Jun 30, 2027",€600k
+63,Alex Berenguer,Athletic Bilbao,Laliga,29 years old (04-07-1995),"1,75m",Spain,"Defender (Left, Right), Midfielder (Centre, Left, Right), Forward",Left Winger,right,24(8),1994.0,5,7,4,-,78.5,0.7,1,6.84,"Jun 30, 2027",€12.00m
+64,Omar El Hilali,RCD Espanyol Barcelona,Laliga,21 years old (12-09-2003),"1,83m",Morocco,Defender (Right),Right-Back,right,32,2831.0,-,2,9,-,80.5,1.1,1,6.84,"Jun 30, 2027",€10.00m
+65,Gerard Moreno,Villarreal CF,Laliga,33 years old (07-04-1992),"1,80m",Spain,"Attacking Midfielder (Centre, Right), Forward",Centre-Forward,left,6(8),649.0,3,1,-,-,78.8,1.1,-,6.84,"Jun 30, 2027",€5.00m
+66,Rubén García,CA Osasuna,Laliga,31 years old (14-07-1993),"1,72m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,26(6),2152.0,4,5,2,-,79.4,0.8,2,6.84,"Jun 30, 2026",€2.00m
+67,Leandro Cabrera,RCD Espanyol Barcelona,Laliga,33 years old (17-06-1991),"1,90m",Uruguay,"Defender (Centre, Left)",Centre-Back,left,28(1),2521.0,3,2,3,-,76.7,2.4,2,6.83,"Jun 30, 2025",€1.00m
+68,Yangel Herrera,Girona FC,Laliga,27 years old (07-01-1998),"1,84m",Venezuela,Midfielder (Centre),Central Midfield,right,23(2),1927.0,4,3,9,1,84.2,1.8,4,6.83,"Jun 30, 2027",€20.00m
+69,Sergio Gómez,Real Sociedad,Laliga,24 years old (04-09-2000),"1,71m",Spain,"Defender (Left), Midfielder (Centre, Left, Right)",Right Winger,left,28(4),2484.0,2,5,4,-,84.6,0.4,2,6.81,"Jun 30, 2030",€20.00m
+70,Thibaut Courtois,Real Madrid,Laliga,32 years old (11-05-1992),"2,00m",Belgium,Goalkeeper,Goalkeeper,left,27,2430.0,-,-,1,-,80.9,0.3,1,6.81,"Jun 30, 2026",€25.00m
+71,Urko González,RCD Espanyol Barcelona,Laliga,24 years old (20-03-2001),"1,89m",Spain,Defensive Midfielder (C),Defensive Midfield,right,11(1),951.0,-,1,1,-,77.1,1.3,-,6.81,"Jun 30, 2025",€1.50m
+72,Abdul Mumin,Rayo Vallecano,Laliga,26 years old (06-06-1998),"1,88m",Ghana,Defender (Centre),Centre-Back,right,24,2020.0,2,1,6,1,83.6,1.3,1,6.81,"Jun 30, 2026",€5.00m
+73,Carlos Vicente,Deportivo Alavés,Laliga,26 years old (23-04-1999),"1,79m",Spain,Attacking Midfielder (Right),Right Winger,right,30(2),2649.0,4,5,2,-,74.9,0.9,2,6.81,"Jun 30, 2027",€8.00m
+74,Alexander Sørloth,Atlético de Madrid,Laliga,29 years old (05-12-1995),"1,95m",Norway,"Attacking Midfielder (Right), Forward",Centre-Forward,left,12(18),1293.0,13,2,4,-,64.9,2.9,1,6.81,"Jun 30, 2028",€25.00m
+75,Luka Modric,Real Madrid,Laliga,39 years old (09-09-1985),"1,72m",Croatia,Midfielder (Centre),Central Midfield,right,14(16),1492.0,2,4,7,-,91.2,0.2,1,6.8,"Jun 30, 2025",€5.00m
+76,Loïc Badé,Sevilla FC,Laliga,25 years old (11-04-2000),"1,91m",France,Defender (Centre),Centre-Back,right,27(1),2450.0,1,1,6,-,86.6,2.1,1,6.8,"Jun 30, 2029",€30.00m
+77,Marash Kumbulla,RCD Espanyol Barcelona,Laliga,25 years old (08-02-2000),"1,91m",Albania,Defender (Centre),Centre-Back,right,30(1),2616.0,3,-,8,-,85.1,1.9,1,6.8,"Jun 30, 2025",€6.00m
+78,Valentin Rosier,CD Leganés,Laliga,28 years old (19-08-1996),"1,75m",France,"Defender (Left, Right), Midfielder (Left, Right)",Right-Back,right,26(4),2440.0,1,2,8,-,79.5,0.8,-,6.79,"Jun 30, 2025",€3.00m
+79,Alejandro Catena,CA Osasuna,Laliga,30 years old (28-10-1994),"1,94m",Spain,Defender (Centre),Centre-Back,right,31,2717.0,-,2,10,-,83.9,1.9,2,6.79,"Jun 30, 2028",€4.00m
+80,Javi Galán,Atlético de Madrid,Laliga,30 years old (19-11-1994),"1,72m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,17(4),1479.0,-,2,8,-,85.8,1,2,6.79,"Jun 30, 2026",€4.00m
+81,Vedat Muriqi,RCD Mallorca,Laliga,31 years old (24-04-1994),"1,94m",Kosovo,Forward,Centre-Forward,left,20(4),1752.0,7,2,1,2,63,5.1,2,6.78,"Jun 30, 2027",€8.00m
+82,Diego Rico,Getafe CF,Laliga,32 years old (23-02-1993),"1,83m",Spain,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,28(1),2460.0,-,3,7,1,69.7,0.8,-,6.78,"Jun 30, 2026",€1.30m
+83,Jon Aramburu,Real Sociedad,Laliga,22 years old (23-07-2002),"1,76m",Venezuela,Defender (Right),Right-Back,right,26(4),2213.0,1,1,8,-,80.5,1.2,1,6.78,"Jun 30, 2030",€12.00m
+84,Thierno Barry,Villarreal CF,Laliga,22 years old (21-10-2002),"1,95m",,Forward,Centre-Forward,right,23(9),2120.0,10,3,4,-,62.2,3,4,6.78,"Jun 30, 2029",€14.00m
+85,Mikel Jauregizar,Athletic Bilbao,Laliga,21 years old (13-11-2003),"1,77m",Spain,Defensive Midfielder (C),Central Midfield,right,22(7),1936.0,2,1,4,1,82.6,0.9,1,6.78,"Jun 30, 2027",€20.00m
+86,Raúl Asencio,Real Madrid,Laliga,22 years old (13-02-2003),"1,84m",Spain,Defender (Centre),Centre-Back,right,14(5),1363.0,-,1,2,-,93.7,1.5,1,6.78,"Jun 30, 2026",€30.00m
+87,Pablo Barrios,Atlético de Madrid,Laliga,21 years old (15-06-2003),"1,81m",,Midfielder (Centre),Central Midfield,right,25(2),2147.0,1,3,4,1,87.5,1.1,-,6.77,"Jun 30, 2028",€50.00m
+88,Alejandro Balde,FC Barcelona,Laliga,21 years old (18-10-2003),"1,75m",Spain,"Defender (Left, Right), Midfielder (Left)",Left-Back,left,25(3),2088.0,-,4,2,-,91,0.5,-,6.77,"Jun 30, 2028",€60.00m
+89,Samú Costa,RCD Mallorca,Laliga,24 years old (27-11-2000),"1,85m",,Defensive Midfielder (C),Defensive Midfield,left,26(1),2217.0,-,2,6,1,81.5,2.3,-,6.77,"Jun 30, 2028",€15.00m
+90,Marcos Alonso,Celta de Vigo,Laliga,34 years old (28-12-1990),"1,88m",Spain,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,25(2),2341.0,2,-,8,1,90.1,2.3,2,6.77,"Jun 30, 2025",€1.80m
+91,Roberto Fernández,RCD Espanyol Barcelona,Laliga,22 years old (03-07-2002),"1,86m",,Forward,Centre-Forward,right,13(1),1095.0,5,-,1,-,71.4,1.9,-,6.77,"Jun 30, 2025",€4.00m
+92,Clément Lenglet,Atlético de Madrid,Laliga,29 years old (17-06-1995),"1,86m",France,Defender (Centre),Centre-Back,left,20,1706.0,1,1,9,-,87.3,1.6,1,6.77,"Jun 30, 2025",€7.50m
+93,Ilias Akhomach,Villarreal CF,Laliga,21 years old (16-04-2004),"1,75m",Spain,Attacking Midfielder (Right),Right Winger,left,7(4),589.0,1,-,1,-,79.9,0.6,-,6.76,"Jun 30, 2026",€15.00m
+94,Enzo Barrenechea,Valencia CF,Laliga,23 years old (22-05-2001),"1,86m",Argentina,Defensive Midfielder (C),Defensive Midfield,right,23(3),1926.0,1,2,6,-,86.4,1.3,2,6.76,"Jun 30, 2025",€7.50m
+95,Carl Starfelt,Celta de Vigo,Laliga,29 years old (01-06-1995),"1,87m",Sweden,Defender (Centre),Centre-Back,right,26(2),2273.0,1,-,5,-,93.7,2.3,-,6.76,"Jun 30, 2027",€6.00m
+96,Raúl Moro,Real Valladolid CF,Laliga,22 years old (05-12-2002),"1,69m",Spain,Attacking Midfielder (Left),Left Winger,right,21(7),1915.0,4,3,2,-,74.1,0.3,3,6.76,"Jun 30, 2028",€5.00m
+97,Dani Ceballos,Real Madrid,Laliga,28 years old (07-08-1996),"1,79m",Spain,"Midfielder (Centre, Left)",Central Midfield,right,11(7),906.0,-,-,4,-,95,0.1,-,6.75,"Jun 30, 2027",€10.00m
+98,Héctor Bellerín,Real Betis Balompié,Laliga,30 years old (19-03-1995),"1,78m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,6(2),569.0,-,1,1,-,83.1,0.8,-,6.75,"Jun 30, 2028",€3.00m
+99,Pau Cubarsí,FC Barcelona,Laliga,18 years old (22-01-2007),"1,84m",Spain,Defender (Centre),Centre-Back,right,26(5),2345.0,-,3,3,-,93.6,1.9,-,6.75,"Jun 30, 2029",€70.00m
+100,Takefusa Kubo,Real Sociedad,Laliga,23 years old (04-06-2001),"1,73m",Japan,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,22(9),1984.0,5,-,5,-,76.3,0.3,2,6.75,"Jun 30, 2029",€40.00m
+101,Bryan Zaragoza,CA Osasuna,Laliga,23 years old (09-09-2001),"1,64m",Spain,"Attacking Midfielder (Left, Right)",Left Winger,right,18(4),1489.0,1,5,4,-,72.5,-,2,6.75,"Jun 30, 2025",€12.00m
+102,Marc Casadó,FC Barcelona,Laliga,21 years old (14-09-2003),"1,72m",Spain,Defensive Midfielder (C),Defensive Midfield,right,20(3),1618.0,1,3,2,1,89.9,0.4,-,6.75,"Jun 30, 2028",€30.00m
+103,Rubén Vargas,Sevilla FC,Laliga,26 years old (05-08-1998),"1,79m",Switzerland,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,9(2),677.0,2,1,-,-,73.6,0.6,-,6.75,"Jun 30, 2029",€7.00m
+104,Sergio Herrera,CA Osasuna,Laliga,31 years old (05-06-1993),"1,92m",Spain,Goalkeeper,Goalkeeper,right,32,2880.0,-,-,5,-,66.6,0.2,1,6.74,"Jun 30, 2026",€4.00m
+105,Santi Comesaña,Villarreal CF,Laliga,28 years old (05-10-1996),"1,88m",Spain,Midfielder (Centre),Central Midfield,both,27(4),2269.0,3,2,7,-,85.5,0.9,3,6.74,"Jun 30, 2028",€8.00m
+106,Ramón Martínez,Sevilla FC,Laliga,22 years old (22-10-2002),185cm,Spain,Defender,,,1(1),95.0,-,-,-,-,89.8,1.5,-,6.74,,
+107,José Ángel Carmona,Sevilla FC,Laliga,23 years old (29-01-2002),"1,84m",Spain,"Defender (Centre, Right), Midfielder (Right)",Right-Back,right,31,2665.0,-,-,9,-,82.3,1,-,6.74,"Jun 30, 2028",€12.00m
+108,Kike Salas,Sevilla FC,Laliga,23 years old (23-04-2002),"1,88m",Spain,"Defender (Centre, Left)",Centre-Back,left,20(6),1833.0,1,2,5,-,79.7,2.5,1,6.74,"Jun 30, 2029",€8.00m
+109,Saúl Ñíguez,Sevilla FC,Laliga,30 years old (21-11-1994),"1,84m",Spain,"Defender (Centre, Left), Midfielder (Centre, Left, Right)",Central Midfield,left,15(6),1402.0,1,6,7,1,80,1.7,2,6.74,"Jun 30, 2025",€3.50m
+110,César Tárrega,Valencia CF,Laliga,23 years old (26-02-2002),"1,94m",Spain,Defender (Centre),Centre-Back,right,30,2667.0,2,-,5,-,84.2,2.8,2,6.74,"Jun 30, 2028",€6.00m
+111,Kike García,Deportivo Alavés,Laliga,35 years old (25-11-1989),"1,86m",Spain,Forward,Centre-Forward,right,25(6),2221.0,12,-,3,1,67.5,3.2,1,6.73,"Jun 30, 2025",€900k
+112,Florian Lejeune,Rayo Vallecano,Laliga,33 years old (20-05-1991),"1,90m",France,Defender (Centre),Centre-Back,right,32,2876.0,-,2,6,-,84.4,2.2,-,6.73,"Jun 30, 2027",€2.80m
+113,Luis Rioja,Valencia CF,Laliga,31 years old (16-10-1993),"1,76m",Spain,"Midfielder (Left, Right)",Left Winger,left,29(2),2502.0,5,3,5,-,77.7,0.4,3,6.73,"Jun 30, 2026",€2.00m
+114,Augusto Batalla,Rayo Vallecano,Laliga,28 years old (30-04-1996),"1,86m",Argentina,Goalkeeper,Goalkeeper,right,28,2520.0,-,-,5,-,63.9,0.2,1,6.73,"Jun 30, 2025",€6.00m
+115,Jon Martín,Real Sociedad,Laliga,19 years old (23-04-2006),"1,87m",,Defender,Centre-Back,right,3(7),630.0,-,1,2,-,85.6,4.1,-,6.73,"Jun 30, 2030",€2.00m
+116,Juan Iglesias,Getafe CF,Laliga,26 years old (03-07-1998),"1,87m",Spain,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,27(5),2458.0,-,1,4,-,60.8,1,1,6.72,"Jun 30, 2026",€3.50m
+117,Alberto Moleiro,UD Las Palmas,Laliga,21 years old (30-09-2003),"1,71m",Spain,Attacking Midfielder (Left),Attacking Midfield,right,28(3),2386.0,6,1,5,-,83.5,0.2,2,6.72,"Jun 30, 2026",€25.00m
+118,Jorge Sáenz,CD Leganés,Laliga,28 years old (17-11-1996),"1,88m",Spain,Defender (Centre),Centre-Back,right,14(4),1243.0,1,-,3,1,83.4,1.8,2,6.72,"Jun 30, 2025",€1.20m
+119,Arda Güler,Real Madrid,Laliga,20 years old (25-02-2005),"1,75m",Turkey,"Attacking Midfielder (Centre, Right)",Right Winger,left,9(14),863.0,2,3,1,-,89.1,0.3,-,6.72,"Jun 30, 2029",€45.00m
+120,Santiago Mouriño,Deportivo Alavés,Laliga,23 years old (13-02-2002),"1,86m",Uruguay,Defender (Centre),Centre-Back,right,16(5),1487.0,-,1,5,-,78.4,1.4,-,6.72,"Jun 30, 2029",€2.00m
+121,Fran García,Real Madrid,Laliga,25 years old (14-08-1999),"1,69m",,Defender (Left),Left-Back,left,19(7),1737.0,-,2,-,-,88.7,0.6,-,6.72,"Jun 30, 2027",€15.00m
+122,Sergi Darder,RCD Mallorca,Laliga,31 years old (22-12-1993),"1,80m",Spain,"Midfielder (Centre, Left, Right)",Central Midfield,right,29(4),2331.0,1,5,3,-,82.4,0.3,4,6.72,"Jun 30, 2028",€4.00m
+123,Miguel Gutiérrez,Girona FC,Laliga,23 years old (27-07-2001),"1,80m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,29,2465.0,1,5,4,-,88.4,0.2,3,6.71,"Jun 30, 2027",€25.00m
+124,Abde Ezzalzouli,Real Betis Balompié,Laliga,23 years old (17-12-2001),"1,77m",Morocco,Attacking Midfielder (Left),Left Winger,right,20(7),1743.0,2,2,2,-,75.1,0.7,1,6.71,"Jun 30, 2029",€12.00m
+125,Bryan Gil,Girona FC,Laliga,24 years old (11-02-2001),"1,75m",Spain,"Midfielder (Centre, Left, Right)",Left Winger,left,21(4),1733.0,3,3,4,-,89.7,-,1,6.71,"Jun 30, 2025",€15.00m
+126,Sandro Ramírez,UD Las Palmas,Laliga,29 years old (09-07-1995),"1,74m",Spain,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,23(5),1880.0,8,3,6,-,74.7,0.4,2,6.71,"Jun 30, 2026",€2.50m
+127,Wojciech Szczesny,FC Barcelona,Laliga,35 years old (18-04-1990),"1,95m",Poland,Goalkeeper,Goalkeeper,right,13,1170.0,-,-,-,-,88.1,0.1,-,6.71,"Jun 30, 2025",€1.00m
+128,Axel Witsel,Atlético de Madrid,Laliga,36 years old (12-01-1989),"1,86m",Belgium,"Defender (Centre), Midfielder (Centre)",Centre-Back,right,8(4),757.0,-,1,1,-,90.2,1.9,-,6.7,"Jun 30, 2025",€2.50m
+129,Aimar Oroz,CA Osasuna,Laliga,23 years old (27-11-2001),"1,77m",Spain,"Attacking Midfielder (Centre), Forward",Attacking Midfield,right,30(2),2535.0,4,2,7,-,83.9,0.4,3,6.7,"Jun 30, 2029",€15.00m
+130,Iago Aspas,Celta de Vigo,Laliga,37 years old (01-08-1987),"1,76m",Spain,"Attacking Midfielder (Centre, Right), Forward",Centre-Forward,left,17(9),1580.0,9,3,3,1,75.6,0.3,3,6.7,"Jun 30, 2026",€2.50m
+131,Lucas Vázquez,Real Madrid,Laliga,33 years old (01-07-1991),"1,73m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,22(6),1929.0,1,4,4,-,89.8,0.3,-,6.7,"Jun 30, 2025",€3.50m
+132,Edu Expósito,RCD Espanyol Barcelona,Laliga,28 years old (01-08-1996),"1,78m",Spain,Midfielder (Centre),Central Midfield,right,7(7),644.0,-,2,2,-,72.4,0.4,1,6.69,"Jun 30, 2027",€1.50m
+133,Arsen Zakharyan,Real Sociedad,Laliga,21 years old (26-05-2003),"1,83m",Russia,"Midfielder (Centre, Left, Right)",Attacking Midfield,right,1(2),72.0,1,-,-,-,84.4,-,-,6.69,"Jun 30, 2029",€15.00m
+134,Eric García,FC Barcelona,Laliga,24 years old (09-01-2001),"1,82m",Spain,"Defender (Centre, Right), Defensive Midfielder (C)",Centre-Back,right,10(14),1214.0,1,2,3,-,92.8,1.1,-,6.69,"Jun 30, 2026",€15.00m
+135,Mario Maroto,Real Valladolid CF,Laliga,21 years old (28-11-2003),176cm,Spain,Midfielder,,,0(1),18.0,-,1,-,-,73.3,1,-,6.69,,
+136,Mauro Arambarri,Getafe CF,Laliga,29 years old (30-09-1995),"1,75m",Uruguay,Midfielder (Centre),Central Midfield,right,27(4),2336.0,9,-,9,-,76.2,1.7,1,6.69,"Jun 30, 2028",€7.00m
+137,Jesús Rodriguez,Real Betis Balompié,Laliga,19 years old (21-11-2005),"1,85m",Spain,Attacking Midfielder (Left),Left Winger,right,12(5),923.0,2,-,-,-,75.9,0.2,-,6.69,"Jun 30, 2029",€10.00m
+138,Andoni Gorosabel,Athletic Bilbao,Laliga,28 years old (04-08-1996),"1,74m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,15(3),1313.0,-,2,4,-,84.8,0.8,-,6.69,"Jun 30, 2028",€5.00m
+139,Giuliano Simeone,Atlético de Madrid,Laliga,22 years old (18-12-2002),"1,73m",Argentina,"Attacking Midfielder (Left, Right)",Right Winger,right,22(6),1661.0,2,6,4,-,78.9,0.4,-,6.69,"Jun 30, 2028",€25.00m
+140,Juan Cruz,CD Leganés,Laliga,25 years old (25-04-2000),"1,80m",Spain,"Midfielder (Left, Right)",Left Winger,left,23(8),2022.0,4,3,2,-,74.5,0.5,1,6.69,"Jun 30, 2028",€4.00m
+141,Marc Roca,Real Betis Balompié,Laliga,28 years old (26-11-1996),"1,84m",Spain,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,left,11(3),910.0,2,2,4,-,87.6,0.4,1,6.68,"Jun 30, 2029",€8.00m
+142,Marc Bernal,FC Barcelona,Laliga,17 years old (26-05-2007),"1,91m",Spain,Midfielder,Defensive Midfield,left,3,244.0,-,-,2,-,92.5,0.3,-,6.68,"Jun 30, 2026",€5.00m
+143,Dani Rodríguez,RCD Mallorca,Laliga,36 years old (06-06-1988),"1,78m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,23(9),1909.0,4,7,5,-,76.4,0.8,1,6.68,"Jun 30, 2026",€900k
+144,Íñigo Ruíz de Galarreta,Athletic Bilbao,Laliga,31 years old (06-08-1993),"1,75m",Spain,Defensive Midfielder (C),Central Midfield,right,14(7),1197.0,-,4,5,-,84.4,0.2,-,6.68,"Jun 30, 2025",€4.00m
+145,Adrià Pedrosa,Sevilla FC,Laliga,26 years old (13-05-1998),"1,72m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,24(3),2034.0,1,1,6,-,77.3,0.4,1,6.67,"Jun 30, 2028",€7.00m
+146,Ferran Torres,FC Barcelona,Laliga,25 years old (29-02-2000),"1,84m",Spain,"Attacking Midfielder (Left, Right), Forward",Right Winger,right,11(15),1015.0,10,3,1,1,77.3,0.2,-,6.67,"Jun 30, 2027",€28.00m
+147,Dani Parejo,Villarreal CF,Laliga,36 years old (16-04-1989),"1,82m",Spain,Midfielder (Centre),Central Midfield,right,23(8),2016.0,3,2,7,-,89.2,0.7,2,6.67,"Jun 30, 2026",€2.00m
+148,Andrii Lunin,Real Madrid,Laliga,26 years old (11-02-1999),"1,91m",Ukraine,Goalkeeper,Goalkeeper,right,5,450.0,-,1,-,-,84.3,0.4,-,6.67,"Jun 30, 2030",€20.00m
+149,Nemanja Gudelj,Sevilla FC,Laliga,33 years old (16-11-1991),"1,87m",Serbia,"Defender (Centre), Midfielder (Centre)",Defensive Midfield,right,24(2),2161.0,-,1,5,-,88.3,1.5,1,6.67,"Jun 30, 2026",€3.50m
+150,Unai Simón,Athletic Bilbao,Laliga,27 years old (11-06-1997),"1,90m",Spain,Goalkeeper,Goalkeeper,right,16,1440.0,-,-,-,-,65.7,0.3,-,6.67,"Jun 30, 2029",€28.00m
+151,Julen Agirrezabala,Athletic Bilbao,Laliga,24 years old (26-12-2000),"1,87m",Spain,Goalkeeper,Goalkeeper,left,14,1208.0,-,-,1,1,64.9,0.4,-,6.67,"Jun 30, 2027",€15.00m
+152,Conor Gallagher,Atlético de Madrid,Laliga,25 years old (06-02-2000),"1,82m",England,"Midfielder (Centre, Left)",Central Midfield,right,18(9),1487.0,3,2,2,-,86.6,0.3,3,6.67,"Jun 30, 2029",€40.00m
+153,Óscar Mingueza,Celta de Vigo,Laliga,25 years old (13-05-1999),"1,84m",Spain,"Defender (Centre, Right), Midfielder (Left, Right)",Right-Back,right,26(3),2310.0,3,6,6,1,81.1,0.3,-,6.67,"Jun 30, 2026",€20.00m
+154,Kiko Femenía,Villarreal CF,Laliga,34 years old (02-02-1991),"1,74m",Spain,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,26(1),2186.0,-,1,7,-,90.3,0.2,-,6.67,"Jun 30, 2025",€1.20m
+155,Juma Bah,RC Lens,Laliga,19 years old (11-04-2006),195cm,,Defender (Centre),,,10(2),865.0,-,-,1,-,81.5,2.6,1,6.66,,
+156,Pau López,Toluca,Laliga,30 years old (13-12-1994),189cm,Spain,Goalkeeper,,,0(1),45.0,-,-,-,-,72.7,1,-,6.66,,
+157,Yeremy Pino,Villarreal CF,Laliga,22 years old (20-10-2002),"1,72m",Spain,"Attacking Midfielder (Left, Right)",Right Winger,right,21(9),1672.0,3,5,10,-,77.8,0.4,1,6.66,"Jun 30, 2027",€30.00m
+158,Carles Aleñá,Deportivo Alavés,Laliga,27 years old (05-01-1998),"1,80m",Spain,"Attacking Midfielder (Centre, Left, Right)",Central Midfield,left,8(1),675.0,-,2,1,-,79.9,0.8,-,6.66,"Jun 30, 2025",€2.50m
+159,José María Giménez,Atlético de Madrid,Laliga,30 years old (20-01-1995),"1,85m",Uruguay,"Defender (Centre, Right)",Centre-Back,right,19(7),1817.0,-,1,5,-,91.3,1.3,2,6.66,"Jun 30, 2028",€20.00m
+160,Pablo Torre,FC Barcelona,Laliga,22 years old (03-04-2003),"1,73m",Spain,Attacking Midfielder (Centre),Attacking Midfield,right,4(6),309.0,3,1,-,-,85.4,0.1,-,6.66,"Jun 30, 2026",€7.50m
+161,Robin Le Normand,Atlético de Madrid,Laliga,28 years old (11-11-1996),"1,87m",Spain,Defender (Centre),Centre-Back,right,20(3),1790.0,-,-,8,-,90.2,2,-,6.66,"Jun 30, 2029",€40.00m
+162,Pape Gueye,Villarreal CF,Laliga,26 years old (24-01-1999),"1,89m",Senegal,Midfielder (Centre),Defensive Midfield,left,22(7),1919.0,2,-,3,2,81.6,1,1,6.65,"Jun 30, 2028",€10.00m
+163,Martin Valjent,RCD Mallorca,Laliga,29 years old (11-12-1995),"1,87m",Slovakia,Defender (Centre),Centre-Back,right,27,2405.0,2,-,4,-,85.8,1.5,-,6.65,"Jun 30, 2029",€6.00m
+164,Rodrigo De Paul,Atlético de Madrid,Laliga,30 years old (24-05-1994),"1,80m",Argentina,"Attacking Midfielder (Centre, Left, Right), Forward",Central Midfield,right,18(11),1735.0,3,4,6,-,84,0.1,1,6.65,"Jun 30, 2026",€25.00m
+165,Jan Oblak,Atlético de Madrid,Laliga,32 years old (07-01-1993),"1,88m",Slovenia,Goalkeeper,Goalkeeper,right,32,2880.0,-,-,-,-,74.7,0.1,1,6.65,"Jun 30, 2028",€25.00m
+166,Luiz Júnior,Villarreal CF,Laliga,24 years old (14-01-2001),"1,92m",Brazil,Goalkeeper,Goalkeeper,left,12(1),1097.0,-,-,2,-,67.9,0.4,1,6.65,"Jun 30, 2030",€5.00m
+167,César Azpilicueta,Atlético de Madrid,Laliga,35 years old (28-08-1989),"1,78m",Spain,"Defender (Centre, Left, Right), Midfielder (Right)",Centre-Back,right,9(3),743.0,1,-,-,-,86.9,0.9,1,6.65,"Jun 30, 2025",€1.80m
+168,Chidera Ejuke,Sevilla FC,Laliga,27 years old (02-01-1998),"1,76m",Nigeria,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,9(13),946.0,2,1,-,-,83.9,0.2,2,6.65,"Jun 30, 2027",€6.00m
+169,Dinko Horkas,UD Las Palmas,Laliga,26 years old (10-03-1999),"1,89m",Croatia,Goalkeeper,Goalkeeper,right,6(2),634.0,-,-,1,-,76.1,-,-,6.65,"Jun 30, 2028",€1.20m
+170,Marko Dmitrovic,CD Leganés,Laliga,33 years old (24-01-1992),"1,89m",Serbia,Goalkeeper,Goalkeeper,left,27,2430.0,-,-,-,-,37,0.4,-,6.64,"Jun 30, 2025",€800k
+171,Sergio Carreira,Celta de Vigo,Laliga,24 years old (13-10-2000),"1,70m",Spain,Midfielder (Right),Right-Back,right,16(4),1424.0,-,4,-,-,79.2,0.2,-,6.64,"Jun 30, 2025",€3.00m
+172,Enzo Boyomo,CA Osasuna,Laliga,23 years old (07-10-2001),"1,84m",Cameroon,Defender (Centre),Centre-Back,right,28(1),2538.0,2,-,5,-,87.1,0.8,1,6.64,"May 30, 2029",€20.00m
+173,Johan Mojica,RCD Mallorca,Laliga,32 years old (21-08-1992),"1,85m",Colombia,"Defender (Left), Midfielder (Left)",Left-Back,left,27(4),2459.0,1,2,5,-,77.1,0.3,1,6.64,"Jun 30, 2027",€2.20m
+174,Viktor Tsygankov,Girona FC,Laliga,27 years old (15-11-1997),"1,78m",Ukraine,"Midfielder (Centre, Left, Right)",Right Winger,left,18(4),1499.0,2,4,1,-,83,0.3,1,6.64,"Jun 30, 2027",€22.00m
+175,Christantus Uche,Getafe CF,Laliga,21 years old (19-05-2003),"1,90m",Nigeria,"Attacking Midfielder (Centre), Forward",Attacking Midfield,both,27(3),2247.0,3,5,6,2,67.8,2.8,2,6.63,"Jun 30, 2028",€8.00m
+176,Joan Jordán,Deportivo Alavés,Laliga,30 years old (06-07-1994),"1,85m",Spain,Midfielder (Centre),Central Midfield,right,15(7),1348.0,4,2,3,-,82,0.7,1,6.63,"Jun 30, 2025",€2.50m
+177,Carlos Romero,RCD Espanyol Barcelona,Laliga,23 years old (29-10-2001),"1,74m",Spain,Defender (Left),Left-Back,left,23(6),2107.0,2,1,6,-,76,0.4,1,6.63,"Jun 30, 2025",€3.00m
+178,Umar Sadiq,Valencia CF,Laliga,28 years old (02-02-1997),"1,91m",Nigeria,Forward,Centre-Forward,right,7(5),653.0,5,-,4,-,72.2,1.8,1,6.63,"Jun 30, 2025",€5.00m
+179,Yuri Berchiche,Athletic Bilbao,Laliga,35 years old (10-02-1990),"1,81m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,18(8),1681.0,-,2,4,-,86,0.8,-,6.63,"Jun 30, 2025",€1.50m
+180,David Soria,Getafe CF,Laliga,32 years old (04-04-1993),"1,92m",Spain,Goalkeeper,Goalkeeper,right,33,2970.0,-,-,1,-,47.4,0.2,1,6.63,"Jun 30, 2026",€4.00m
+181,Domingos Duarte,Getafe CF,Laliga,30 years old (10-03-1995),"1,92m",Portugal,Defender (Centre),Centre-Back,right,17(1),1531.0,1,-,1,1,78.1,1.3,-,6.62,"Jun 30, 2026",€800k
+182,Sergio González,CD Leganés,Laliga,33 years old (20-04-1992),"1,89m",Spain,Defender (Centre),Centre-Back,right,31(1),2754.0,2,-,2,1,84,1.8,2,6.62,"Jun 30, 2025",€1.50m
+183,Beñat Prados,Athletic Bilbao,Laliga,24 years old (08-02-2001),"1,80m",Spain,Defensive Midfielder (C),Central Midfield,right,19(8),1545.0,1,-,7,-,81.9,1.1,1,6.62,"Jun 30, 2031",€18.00m
+184,Arnau Martínez,Girona FC,Laliga,22 years old (25-04-2003),"1,82m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,25(2),2222.0,2,2,2,-,88.1,1,-,6.62,"Jun 30, 2027",€10.00m
+185,Antonio Rüdiger,Real Madrid,Laliga,32 years old (03-03-1993),"1,90m",Germany,"Defender (Centre, Left, Right)",Centre-Back,right,26(3),2292.0,-,-,3,-,92.2,1.2,-,6.62,"Jun 30, 2026",€24.00m
+186,Óscar De Marcos,Athletic Bilbao,Laliga,36 years old (14-04-1989),"1,82m",Spain,"Defender (Left, Right), Midfielder (Centre, Right)",Right-Back,right,15(8),1380.0,-,4,-,-,79.3,0.3,-,6.62,"Jun 30, 2025",€1.50m
+187,Samuel Lino,Atlético de Madrid,Laliga,25 years old (23-12-1999),"1,77m",Brazil,"Defender (Left), Midfielder (Centre, Left, Right), Forward",Left Winger,right,18(8),1276.0,3,2,3,-,80.9,0.5,1,6.62,"Jun 30, 2027",€25.00m
+188,Pathé Ciss,Rayo Vallecano,Laliga,31 years old (16-03-1994),"1,86m",Senegal,Defensive Midfielder (C),Central Midfield,right,21(8),1845.0,4,1,9,-,85.8,1.5,2,6.62,"Jun 30, 2027",€2.00m
+189,Kirian Rodríguez,UD Las Palmas,Laliga,29 years old (05-03-1996),"1,78m",Spain,Midfielder (Centre),Attacking Midfield,right,21,1768.0,-,3,2,-,86.8,0.6,1,6.62,"Jun 30, 2028",€12.00m
+190,Luka Sucic,Real Sociedad,Laliga,22 years old (08-09-2002),"1,85m",Croatia,Attacking Midfielder (Centre),Central Midfield,left,19(5),1579.0,1,1,3,-,84.5,1,1,6.62,"Jun 30, 2029",€18.00m
+191,Álex Muñoz,UD Las Palmas,Laliga,30 years old (30-07-1994),"1,87m",Spain,Defender (Left),Left-Back,left,16(3),1306.0,3,-,3,-,81.8,1.2,2,6.61,"Jun 30, 2026",€1.20m
+192,Robert Navarro,RCD Mallorca,Laliga,23 years old (12-04-2002),"1,78m",Spain,"Attacking Midfielder (Left, Right)",Attacking Midfield,right,15(8),1286.0,1,-,3,-,80,0.2,-,6.61,"Jun 30, 2025",€6.00m
+193,Daley Blind,Girona FC,Laliga,35 years old (09-03-1990),"1,80m",Netherlands,"Defender (Centre, Left), Defensive Midfielder (C), Midfielder (Left)",Centre-Back,left,26(3),2329.0,-,2,2,-,90.6,0.6,1,6.61,"Jun 30, 2026",€2.00m
+194,Nicolas Pépé,Villarreal CF,Laliga,29 years old (29-05-1995),"1,83m",Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,11(12),1133.0,1,3,3,-,83,0.7,-,6.61,"Jun 30, 2026",€6.00m
+195,Brahim Díaz,Real Madrid,Laliga,25 years old (03-08-1999),"1,70m",Morocco,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,both,15(13),1275.0,4,2,-,-,88.5,0.1,-,6.61,"Jun 30, 2027",€45.00m
+196,Viti Rozada,UD Las Palmas,Laliga,27 years old (16-09-1997),"1,72m",,Defender (Right),Right-Back,right,19(6),1665.0,-,2,5,-,84,0.6,-,6.61,"Jun 30, 2027",€2.50m
+197,Javi Puado,RCD Espanyol Barcelona,Laliga,26 years old (25-05-1998),"1,77m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,30,2580.0,11,3,5,-,78.6,0.3,1,6.61,"Jun 30, 2025",€8.00m
+198,Hugo Álvarez,Celta de Vigo,Laliga,21 years old (02-07-2003),"1,76m",Spain,"Midfielder (Left, Right)",Left Winger,right,15(8),1442.0,4,3,6,-,79,0.3,1,6.61,"Jun 30, 2028",€7.50m
+199,Jasper Cillessen,UD Las Palmas,Laliga,36 years old (22-04-1989),"1,87m",Netherlands,Goalkeeper,Goalkeeper,right,27,2337.0,-,-,1,-,63.4,0.1,-,6.61,"Jun 30, 2026",€900k
+200,Enzo Boyomo,CA Osasuna,Laliga,23 years old (07-10-2001),"1,84m",Cameroon,Defender (Centre),Centre-Back,right,3,270.0,-,-,-,-,91.6,1,-,6.61,"May 30, 2029",€20.00m
+201,Tanguy Nianzou,Sevilla FC,Laliga,22 years old (07-06-2002),"1,91m",France,Defender (Centre),Centre-Back,right,6,519.0,-,-,1,1,90.8,3,-,6.61,"Jun 30, 2027",€3.00m
+202,Álvaro García,Rayo Vallecano,Laliga,32 years old (27-10-1992),"1,67m",Spain,"Attacking Midfielder (Centre, Left)",Left Winger,both,24(7),2192.0,3,5,4,-,70.8,0.2,2,6.6,"Jun 30, 2028",€2.50m
+203,Álex Remiro,Real Sociedad,Laliga,30 years old (24-03-1995),"1,91m",Spain,Goalkeeper,Goalkeeper,right,32,2880.0,-,-,-,-,70.4,0.3,1,6.6,"Jun 30, 2027",€25.00m
+204,Diego López,Valencia CF,Laliga,22 years old (13-05-2002),"1,72m",,"Attacking Midfielder (Left, Right), Forward",Right Winger,right,30(3),2429.0,7,5,2,-,75.7,0.4,1,6.6,"Jun 30, 2027",€10.00m
+205,Dário Essugo,UD Las Palmas,Laliga,20 years old (14-03-2005),"1,78m",Portugal,Defensive Midfielder (C),Defensive Midfield,right,21(1),1658.0,1,-,6,2,84.8,1.2,-,6.6,"Jun 30, 2025",€15.00m
+206,Yvan Neyou,CD Leganés,Laliga,28 years old (03-01-1997),"1,80m",Cameroon,Defensive Midfielder (C),Defensive Midfield,right,25(2),2170.0,1,1,13,-,87,0.9,1,6.6,"Jun 30, 2025",€2.50m
+207,Igor Zubeldia,Real Sociedad,Laliga,28 years old (30-03-1997),"1,81m",Spain,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,25,2049.0,-,-,6,1,85.8,2.4,2,6.6,"Jun 30, 2029",€18.00m
+208,Álvaro Rodríguez,Getafe CF,Laliga,20 years old (14-07-2004),"1,93m",,Forward,Centre-Forward,left,5(14),704.0,2,-,5,-,51.4,4.3,1,6.6,"Jun 30, 2025",€2.50m
+209,Juan Soriano,CD Leganés,Laliga,27 years old (23-08-1997),"1,85m",Spain,Goalkeeper,Goalkeeper,right,7,541.0,-,-,1,1,47.3,-,-,6.6,"Jun 30, 2027",€1.20m
+210,Selvi Clua,Almeria,Laliga,20 years old (29-01-2005),189cm,Spain,Midfielder,,,2(2),163.0,-,-,-,-,80.6,1.5,-,6.6,,
+211,Yarek Gasiorowski,Valencia CF,Laliga,20 years old (12-01-2005),"1,92m",,"Defender (Centre, Left)",Centre-Back,left,9(5),940.0,-,-,1,-,81.5,1.7,-,6.6,"Jun 30, 2027",€12.00m
+212,Ladislav Krejcí,Girona FC,Laliga,26 years old (20-04-1999),"1,91m",Czech Republic,Defender (Centre),Centre-Back,left,24(1),2080.0,2,-,9,-,90.5,2.1,-,6.59,"Jun 30, 2029",€12.00m
+213,Jonathan Bamba,Chicago Fire FC,Laliga,29 years old (26-03-1996),175cm,Ivory Coast,"Attacking Midfielder (Centre, Left, Right), Forward",,,10(2),815.0,-,1,1,-,82.8,0.5,-,6.59,,
+214,Mouctar Diakhaby,Valencia CF,Laliga,28 years old (19-12-1996),"1,92m",Guinea,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,3(5),274.0,2,-,-,-,78.7,0.9,-,6.59,"Jun 30, 2027",€2.00m
+215,Isi Palazón,Rayo Vallecano,Laliga,30 years old (27-12-1994),"1,69m",Spain,"Attacking Midfielder (Centre, Right), Forward",Second Striker,left,20(10),1720.0,3,3,4,-,83.5,0.4,1,6.59,"Jun 30, 2028",€4.00m
+216,Nahuel Molina,Atlético de Madrid,Laliga,27 years old (06-04-1998),"1,75m",Argentina,"Defender (Right), Midfielder (Right)",Right-Back,right,16(9),1422.0,-,3,-,-,82.4,0.4,-,6.58,"Jun 30, 2027",€25.00m
+217,Natan,Real Betis Balompié,Laliga,24 years old (06-02-2001),"1,88m",Brazil,"Defender (Centre, Left)",Centre-Back,left,18(8),1722.0,1,1,3,1,88.5,2,-,6.58,"Jun 30, 2025",€9.00m
+218,Aritz Arambarri,Eibar,Laliga,27 years old (31-01-1998),186cm,Spain,Defender,,,2,178.0,-,-,-,-,73.1,3,-,6.58,,
+219,Coba da Costa,Getafe CF,Laliga,22 years old (26-07-2002),"1,82m",,Midfielder (Left),Left Winger,right,11(5),894.0,1,1,4,-,69.1,1.1,-,6.58,"Jun 30, 2026",€3.00m
+220,Matija Nastasic,CD Leganés,Laliga,32 years old (28-03-1993),"1,87m",Serbia,Defender (Centre),Centre-Back,left,23(2),2035.0,1,-,3,-,82.7,1.4,1,6.58,"Jun 30, 2026",€1.00m
+221,Pablo Fornals,Real Betis Balompié,Laliga,29 years old (22-02-1996),"1,78m",Spain,"Midfielder (Centre, Left, Right)",Attacking Midfield,right,19(3),1548.0,1,-,2,-,82.5,0.9,-,6.58,"Jun 30, 2029",€6.00m
+222,Ricardo Rodríguez,Real Betis Balompié,Laliga,32 years old (25-08-1992),"1,82m",Switzerland,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,12(3),1024.0,-,-,-,-,83.9,1.4,-,6.57,"Jun 30, 2026",€2.50m
+223,Yáser Asprilla,Girona FC,Laliga,21 years old (19-11-2003),"1,76m",Colombia,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,12(10),1122.0,3,-,2,-,80.2,0.2,1,6.57,"Jun 30, 2030",€18.00m
+224,Rui Silva,Sporting CP,Laliga,31 years old (07-02-1994),191cm,Portugal,Goalkeeper,,,15,1350.0,-,-,1,-,75.7,0.1,-,6.57,,
+225,Adnan Januzaj,UD Las Palmas,Laliga,30 years old (05-02-1995),"1,86m",Belgium,"Attacking Midfielder (Centre, Left, Right)",Right Winger,left,3(10),376.0,2,1,4,-,81.3,0.1,1,6.56,"Jun 30, 2025",€1.20m
+226,Fermín López,FC Barcelona,Laliga,21 years old (11-05-2003),"1,74m",Spain,"Attacking Midfielder (Centre, Left)",Attacking Midfield,right,9(14),939.0,3,4,3,1,86.2,0.3,1,6.56,"Jun 30, 2029",€50.00m
+227,Stefan Bajcetic,UD Las Palmas,Laliga,20 years old (22-10-2004),"1,85m",Spain,Defensive Midfielder (C),Defensive Midfield,right,9(2),766.0,1,-,3,-,73,0.9,-,6.56,"Jun 30, 2025",€9.00m
+228,Renato Tapia,CD Leganés,Laliga,29 years old (28-07-1995),"1,85m",Peru,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,23(6),2008.0,1,-,6,-,78.5,0.8,-,6.56,"Jun 30, 2026",€3.50m
+229,Dominik Greif,RCD Mallorca,Laliga,28 years old (06-04-1997),"1,97m",Slovakia,Goalkeeper,Goalkeeper,right,27,2430.0,-,-,1,-,65.8,0.3,-,6.56,"Jun 30, 2026",€6.00m
+230,Hugo Duro,Valencia CF,Laliga,25 years old (10-11-1999),"1,77m",Spain,"Attacking Midfielder (Left), Forward",Centre-Forward,left,22(4),1895.0,8,2,3,-,71.3,2.2,1,6.56,"Jun 30, 2028",€10.00m
+231,Javi Muñoz,UD Las Palmas,Laliga,30 years old (28-02-1995),"1,77m",Spain,Midfielder (Centre),Central Midfield,right,26(6),2421.0,1,3,5,-,80.1,0.4,1,6.55,"Jun 30, 2025",€2.50m
+232,Jon Moncayola,CA Osasuna,Laliga,26 years old (13-05-1998),"1,82m",Spain,"Defender (Right), Midfielder (Centre, Right)",Central Midfield,right,26(4),2077.0,-,-,8,-,80.3,0.5,-,6.55,"Jun 30, 2031",€7.00m
+233,Alex Král,RCD Espanyol Barcelona,Laliga,26 years old (19-05-1998),"1,86m",Czech Republic,Midfielder (Centre),Central Midfield,right,28(5),2584.0,-,1,1,-,74.7,1.1,-,6.55,"Jun 30, 2025",€6.00m
+234,Manu Morlanes,RCD Mallorca,Laliga,26 years old (12-01-1999),"1,78m",Spain,Defensive Midfielder (C),Central Midfield,right,15(6),1304.0,-,-,6,-,90,0.5,-,6.55,"Jun 30, 2028",€2.50m
+235,Hamari Traoré,Real Sociedad,Laliga,33 years old (27-01-1992),"1,75m",Mali,"Defender (Right), Midfielder (Right)",Right-Back,right,6(2),506.0,-,1,1,-,87.3,0.6,-,6.55,"Jun 30, 2026",€3.00m
+236,Pep Chavarría,Rayo Vallecano,Laliga,27 years old (10-04-1998),"1,74m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,24(5),2196.0,-,1,3,-,83.4,0.7,-,6.55,"Jun 30, 2027",€3.50m
+237,Aitor Paredes,Athletic Bilbao,Laliga,25 years old (29-04-2000),"1,85m",Spain,Defender (Centre),Centre-Back,right,18(2),1545.0,3,-,2,1,84.7,1.4,1,6.55,"Jun 30, 2029",€22.00m
+238,Iñaki Peña,FC Barcelona,Laliga,26 years old (02-03-1999),"1,84m",Spain,Goalkeeper,Goalkeeper,right,14(1),1304.0,-,-,1,-,87,0.1,-,6.54,"Jun 30, 2026",€10.00m
+239,Oliver McBurnie,UD Las Palmas,Laliga,28 years old (04-06-1996),"1,88m",Scotland,"Attacking Midfielder (Centre, Left), Forward",Centre-Forward,right,16(13),1478.0,2,6,1,-,66.7,2.5,-,6.54,"Jun 30, 2027",€2.50m
+240,André Almeida,Valencia CF,Laliga,24 years old (30-05-2000),"1,76m",Portugal,"Midfielder (Centre, Left), Forward",Attacking Midfield,right,21(9),1742.0,-,3,2,-,89.5,0.1,-,6.54,"Jun 30, 2028",€8.00m
+241,Iván Villar,Celta de Vigo,Laliga,27 years old (09-07-1997),"1,86m",Spain,Goalkeeper,Goalkeeper,right,4,360.0,-,-,-,-,78.4,0.3,-,6.54,"Jun 30, 2027",€900k
+242,Copete,RCD Mallorca,Laliga,25 years old (10-10-1999),"1,90m",,Defender (Centre),Centre-Back,left,14(9),1373.0,-,-,6,-,83.3,1.2,2,6.54,"Jun 30, 2026",€2.80m
+243,Alfonso Espino,Rayo Vallecano,Laliga,33 years old (05-01-1992),"1,72m",Uruguay,Defender (Left),Left-Back,left,8(4),731.0,-,-,4,-,76.6,1,-,6.54,"Jun 30, 2026",€1.50m
+244,Javi Rodríguez,Celta de Vigo,Laliga,21 years old (26-06-2003),"1,78m",,Defender (Centre),Centre-Back,right,22(9),2109.0,2,2,7,-,86.1,1.2,1,6.54,"Jun 30, 2028",€10.00m
+245,Marc-André ter Stegen,FC Barcelona,Laliga,32 years old (30-04-1992),"1,87m",Germany,Goalkeeper,Goalkeeper,right,6,497.0,-,-,-,-,90.1,0.3,-,6.54,"Jun 30, 2028",€15.00m
+246,Iker Almena,Al Qadasiya,Laliga,20 years old (04-05-2004),177cm,Spain,Forward,,,0(2),46.0,-,1,-,-,80.8,-,-,6.54,,
+247,Koke,Atlético de Madrid,Laliga,33 years old (08-01-1992),"1,76m",Spain,"Midfielder (Centre, Left, Right)",Central Midfield,right,16(11),1590.0,1,1,4,-,87.5,0.3,2,6.53,"Jun 30, 2025",€10.00m
+248,Diego Conde,Villarreal CF,Laliga,26 years old (28-10-1998),"1,88m",Spain,Goalkeeper,Goalkeeper,right,21,1873.0,-,1,2,-,76.4,0.1,1,6.53,"Jun 30, 2029",€10.00m
+249,Mika Mármol,UD Las Palmas,Laliga,23 years old (01-07-2001),"1,81m",Spain,"Defender (Centre, Left)",Centre-Back,left,23(3),2041.0,-,1,4,-,80.3,0.7,-,6.53,"Jun 30, 2026",€12.00m
+250,Jorge de Frutos,Rayo Vallecano,Laliga,28 years old (20-02-1997),"1,73m",Spain,"Attacking Midfielder (Left, Right)",Right Winger,right,26(5),2170.0,4,3,2,1,73.9,0.4,2,6.53,"Jun 30, 2028",€4.00m
+251,Óscar Rodríguez,CD Leganés,Laliga,26 years old (28-06-1998),"1,74m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,12(13),1221.0,1,4,6,1,77.3,0.4,2,6.53,"Jun 30, 2026",€2.00m
+252,Abdel Abqar,Deportivo Alavés,Laliga,26 years old (10-03-1999),"1,88m",Morocco,Defender (Centre),Centre-Back,right,29,2468.0,-,1,13,-,76.9,1.4,-,6.53,"Jun 30, 2025",€7.50m
+253,Adrián Pica,Deportivo Alavés,Laliga,23 years old (25-04-2002),"1,90m",,Defender (Centre),Centre-Back,,5(3),485.0,-,-,1,-,77.8,2.1,-,6.53,"Jun 30, 2026",€1.50m
+254,Abel Bretones,CA Osasuna,Laliga,24 years old (21-08-2000),"1,88m",Spain,Defender (Left),Left-Back,left,19(12),1926.0,2,-,3,-,75.7,0.6,-,6.53,"Jun 30, 2029",€3.00m
+255,Alfon González,Celta de Vigo,Laliga,25 years old (04-05-1999),"1,72m",Spain,Attacking Midfielder (Left),Left Winger,,11(11),1147.0,4,2,1,1,78.9,0.1,2,6.53,"Jun 30, 2025",€2.00m
+256,Jesús Areso,CA Osasuna,Laliga,25 years old (02-07-1999),"1,82m",Spain,Defender (Right),Right-Back,right,30(1),2641.0,-,3,7,-,80,0.7,1,6.53,"Jun 30, 2026",€8.00m
+257,Vicente Guaita,Celta de Vigo,Laliga,38 years old (10-01-1987),"1,90m",Spain,Goalkeeper,Goalkeeper,right,29,2610.0,-,-,-,-,79,0.3,1,6.53,"Jun 30, 2025",€800k
+258,David López,Girona FC,Laliga,35 years old (09-10-1989),"1,85m",Spain,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,24(2),2161.0,1,-,4,-,92,1.2,1,6.52,"Jun 30, 2026",€2.00m
+259,Aritz Elustondo,Real Sociedad,Laliga,31 years old (28-03-1994),"1,80m",Spain,"Defender (Centre, Right)",Centre-Back,right,13(6),1185.0,-,-,2,1,85.5,1.5,1,6.52,"Jun 30, 2026",€4.00m
+260,Thierry Correia,Valencia CF,Laliga,26 years old (09-03-1999),"1,76m",Portugal,"Defender (Right), Midfielder (Right)",Right-Back,right,9(2),771.0,-,-,1,-,73.4,0.4,-,6.52,"Jun 30, 2026",€6.00m
+261,Borja Iglesias,Celta de Vigo,Laliga,32 years old (17-01-1993),"1,87m",Spain,Forward,Centre-Forward,right,21(11),1739.0,9,3,2,-,72.8,0.3,1,6.52,"Jun 30, 2025",€3.00m
+262,Logan Costa,Villarreal CF,Laliga,24 years old (01-04-2001),"1,90m",France,Defender (Centre),Centre-Back,right,23(4),2136.0,2,-,3,-,87.4,1.4,-,6.52,"Jun 30, 2030",€15.00m
+263,Javi Guerra,Valencia CF,Laliga,21 years old (13-05-2003),"1,87m",Spain,Midfielder (Centre),Central Midfield,right,27(5),2256.0,3,3,3,-,80.2,0.5,1,6.52,"Jun 30, 2027",€20.00m
+264,Youssouf Sabaly,Real Betis Balompié,Laliga,32 years old (05-03-1993),"1,73m",Senegal,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,18(2),1485.0,-,1,1,-,87.8,0.5,-,6.52,"Jun 30, 2026",€2.00m
+265,Lucien Agoumé,Sevilla FC,Laliga,23 years old (09-02-2002),"1,85m",France,Defensive Midfielder (C),Defensive Midfield,right,19(11),1669.0,1,1,5,1,83.3,1.1,2,6.51,"Jun 30, 2028",€7.00m
+266,Seydouba Cissé,CD Leganés,Laliga,24 years old (10-02-2001),"1,78m",Guinea,Midfielder (Centre),Central Midfield,right,27(3),2107.0,2,-,3,1,85.2,0.8,1,6.51,"Jun 30, 2026",€3.00m
+267,Toni Martínez,Deportivo Alavés,Laliga,27 years old (30-06-1997),"1,87m",Spain,Forward,Centre-Forward,right,8(17),907.0,4,-,1,-,61.2,2.9,-,6.51,"Jun 30, 2028",€2.80m
+268,Frenkie de Jong,FC Barcelona,Laliga,27 years old (12-05-1997),"1,81m",Netherlands,"Defender (Centre), Defensive Midfielder (C)",Central Midfield,right,7(14),861.0,2,2,3,-,95,0.3,-,6.51,"Jun 30, 2026",€45.00m
+269,Lucas Rosa,Ajax,Laliga,25 years old (03-04-2000),176cm,Brazil,"Defender (Left, Right)",,,21,1890.0,-,1,6,-,79.9,0.9,1,6.51,,
+270,Brais Méndez,Real Sociedad,Laliga,28 years old (07-01-1997),"1,84m",Spain,"Attacking Midfielder (Centre, Right), Forward",Attacking Midfield,left,16(7),1337.0,3,1,4,-,82.4,0.8,1,6.51,"Jun 30, 2028",€28.00m
+271,Sergi Altimira,Real Betis Balompié,Laliga,23 years old (25-08-2001),"1,88m",Spain,Defensive Midfielder (C),Central Midfield,right,18(10),1673.0,-,1,3,-,88.8,0.4,-,6.51,"Jun 30, 2029",€10.00m
+272,Gorka Guruzeta,Athletic Bilbao,Laliga,28 years old (12-09-1996),"1,88m",Spain,Forward,Centre-Forward,right,18(14),1576.0,6,2,2,-,73.3,1.1,1,6.5,"Jun 30, 2028",€12.00m
+273,Alejandro Francés,Girona FC,Laliga,22 years old (01-08-2002),"1,82m",Spain,Defender (Right),Right-Back,right,11(3),961.0,-,-,2,-,85.3,0.4,-,6.5,"Jun 30, 2029",€2.50m
+274,Kike Pérez,Venezia FC,Laliga,28 years old (14-02-1997),184cm,Spain,Midfielder (Centre),,,14(5),1199.0,2,-,6,-,82.1,0.7,-,6.5,,
+275,Maroan Sannadi,Athletic Bilbao,Laliga,24 years old (01-02-2001),"1,92m",,Forward,Centre-Forward,right,4(7),479.0,1,1,-,-,77.6,0.9,-,6.5,"Jun 30, 2029",€5.00m
+276,Jofre Carreras,RCD Espanyol Barcelona,Laliga,23 years old (17-06-2001),"1,75m",Spain,"Attacking Midfielder (Left, Right)",Right Winger,right,24(8),2000.0,3,3,5,-,72.2,0.1,1,6.5,"Jun 30, 2029",€4.00m
+277,Paulo Gazzaniga,Girona FC,Laliga,33 years old (02-01-1992),"1,95m",Argentina,Goalkeeper,Goalkeeper,right,33,2926.0,-,-,4,-,79.1,-,-,6.5,"Jun 30, 2027",€3.50m
+278,Juanlu Sánchez,Sevilla FC,Laliga,21 years old (15-08-2003),"1,86m",Spain,"Defender (Right), Midfielder (Centre)",Right-Back,right,14(13),1349.0,4,3,3,1,85.1,0.7,1,6.49,"Jun 30, 2029",€12.00m
+279,Cristhian Mosquera,Valencia CF,Laliga,20 years old (27-06-2004),"1,91m",Spain,Defender (Centre),Centre-Back,right,32,2870.0,1,-,6,-,92,1.1,1,6.49,"Jun 30, 2026",€30.00m
+280,Giorgi Mamardashvili,Valencia CF,Laliga,24 years old (29-09-2000),"1,97m",Georgia,Goalkeeper,Goalkeeper,left,29,2610.0,-,-,1,-,61.8,0.2,2,6.49,"Jun 30, 2025",€30.00m
+281,Ilaix Moriba,Celta de Vigo,Laliga,22 years old (19-01-2003),"1,85m",Guinea,Defensive Midfielder (C),Central Midfield,right,18(10),1739.0,-,1,5,1,87.2,0.7,-,6.49,"Jun 30, 2025",€4.00m
+282,Fran Vieites,Real Betis Balompié,Laliga,25 years old (07-05-1999),"1,96m",,Goalkeeper,Goalkeeper,left,4,360.0,-,-,-,-,58.3,0.5,-,6.49,"Jun 30, 2026",€800k
+283,Djibril Sow,Sevilla FC,Laliga,28 years old (06-02-1997),"1,84m",Switzerland,Midfielder (Centre),Central Midfield,right,21(6),1868.0,1,1,5,-,89.7,0.9,-,6.49,"Jun 30, 2028",€7.50m
+284,Omar Mascarell,RCD Mallorca,Laliga,32 years old (02-02-1993),"1,81m",Spain,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,18(9),1683.0,-,-,4,1,85.3,1.4,1,6.49,"Jun 30, 2026",€900k
+285,Albert Sambi Lokonga,Sevilla FC,Laliga,25 years old (22-10-1999),"1,83m",Belgium,Defensive Midfielder (C),Central Midfield,right,15(5),1403.0,-,2,4,-,89.7,1.4,-,6.48,"Jun 30, 2025",€9.00m
+286,Dani Cárdenas,Rayo Vallecano,Laliga,28 years old (28-03-1997),"1,86m",Spain,Goalkeeper,Goalkeeper,right,5,450.0,-,-,-,-,47.6,0.2,-,6.48,"Jun 30, 2027",€1.80m
+287,Sergio Camello,Rayo Vallecano,Laliga,24 years old (10-02-2001),"1,82m",Spain,Forward,Centre-Forward,right,14(9),1140.0,3,2,2,-,80.6,0.5,-,6.48,"Jun 30, 2027",€3.50m
+288,Aitor Ruibal,Real Betis Balompié,Laliga,29 years old (22-03-1996),"1,76m",Spain,"Defender (Right), Midfielder (Left, Right)",Right-Back,right,10(15),984.0,1,3,5,-,84.7,0.2,1,6.48,"Jun 30, 2028",€3.50m
+289,Juan Bernat,Getafe CF,Laliga,32 years old (01-03-1993),"1,70m",Spain,"Defender (Left), Midfielder (Centre, Left)",Left-Back,left,7(4),574.0,-,1,-,-,74.5,0.7,-,6.48,"Jun 30, 2025",€2.50m
+290,Romain Perraud,Real Betis Balompié,Laliga,27 years old (22-09-1997),"1,73m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,20(5),1806.0,2,2,7,1,81.7,0.4,1,6.48,"Jun 30, 2029",€5.00m
+291,Fran Beltrán,Celta de Vigo,Laliga,26 years old (03-02-1999),"1,65m",Spain,Defensive Midfielder (C),Central Midfield,right,25(4),2062.0,2,-,3,-,89.1,0.7,-,6.48,"Jun 30, 2026",€6.00m
+292,Antonio Blanco,Deportivo Alavés,Laliga,24 years old (23-07-2000),"1,76m",Spain,Defensive Midfielder (C),Defensive Midfield,right,27(3),2310.0,-,1,8,1,81.4,0.9,1,6.47,"Jun 30, 2027",€7.50m
+293,Vitor Roque,Palmeiras,Laliga,20 years old (28-02-2005),174cm,Brazil,Forward,,,14(8),1238.0,4,-,4,-,73.4,0.7,1,6.47,,
+294,Pau Navarro,Villarreal CF,Laliga,20 years old (25-04-2005),"1,85m",,Defender,Centre-Back,right,4(8),600.0,-,-,-,-,90.1,0.3,-,6.47,"Jun 30, 2030",€1.00m
+295,Carles Pérez,Getafe CF,Laliga,27 years old (16-02-1998),"1,73m",Spain,"Midfielder (Centre, Right), Forward",Right Winger,left,15(11),1405.0,3,-,2,-,74.4,0.5,-,6.47,"Jun 30, 2025",€2.50m
+296,Pablo Durán,Celta de Vigo,Laliga,23 years old (25-05-2001),"1,76m",Spain,Forward,Centre-Forward,right,13(9),1153.0,4,4,3,-,73.4,0.5,2,6.47,"Jun 30, 2027",€3.50m
+297,Mikel Oyarzabal,Real Sociedad,Laliga,28 years old (21-04-1997),"1,81m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,left,24(6),1931.0,8,2,4,1,74.4,0.9,2,6.46,"Jun 30, 2028",€30.00m
+298,Ørjan Nyland,Sevilla FC,Laliga,34 years old (10-09-1990),"1,92m",Norway,Goalkeeper,Goalkeeper,right,26,2314.0,-,-,2,-,60.5,0.2,2,6.46,"Jun 30, 2026",€1.00m
+299,Carlos Martín,Deportivo Alavés,Laliga,23 years old (22-04-2002),"1,80m",Spain,Attacking Midfielder (Left),Left Winger,right,16(8),1312.0,2,2,3,-,68.7,0.7,-,6.46,"Jun 30, 2025",€3.00m
+300,Scott McKenna,UD Las Palmas,Laliga,28 years old (12-11-1996),"1,89m",Scotland,Defender (Centre),Centre-Back,left,26(1),2287.0,-,-,5,1,86.9,2.8,-,6.46,"Jun 30, 2027",€5.00m
+301,Adam Aznou,Real Valladolid CF,Laliga,18 years old (02-06-2006),"1,78m",Spain,Defender (Left),Left-Back,left,7(2),582.0,-,-,2,-,73.1,0.8,-,6.46,"Jun 30, 2025",€3.00m
+302,Djené Dakonam,Getafe CF,Laliga,33 years old (31-12-1991),"1,78m",Togo,"Defender (Centre, Right), Defensive Midfielder (C)",Centre-Back,right,29,2386.0,-,-,9,-,78.1,1.5,-,6.46,"Jun 30, 2025",€2.00m
+303,Fernando López,Celta de Vigo,Laliga,20 years old (24-05-2004),188cm,,Midfielder,,,4(9),438.0,2,-,2,-,84.9,0.2,-,6.46,,
+304,Unai López,Rayo Vallecano,Laliga,29 years old (30-10-1995),"1,70m",Spain,"Midfielder (Centre, Right)",Central Midfield,right,19(8),1437.0,3,1,8,1,86.5,0.4,-,6.46,"Jun 30, 2026",€2.80m
+305,Álvaro Tejero,RCD Espanyol Barcelona,Laliga,28 years old (20-07-1996),"1,74m",Spain,Defender (Right),Right-Back,both,13(12),1157.0,1,4,2,-,78.8,0.4,1,6.46,"Jun 30, 2025",€2.00m
+306,Juanpe,Girona FC,Laliga,33 years old (30-04-1991),"1,90m",Spain,Defender (Centre),Centre-Back,right,7(3),609.0,-,-,2,-,87.3,2,-,6.46,"Jun 30, 2025",€900k
+307,Jorge Herrando,CA Osasuna,Laliga,24 years old (28-02-2001),"1,92m",Spain,Defender (Centre),Centre-Back,left,14(3),1274.0,1,-,3,-,86.3,1.5,1,6.46,"Jun 30, 2027",€4.00m
+308,Adama Boiro,Athletic Bilbao,Laliga,22 years old (22-06-2002),"1,83m",Spain,Defender (Left),Left-Back,left,12(3),1000.0,-,-,2,-,83.9,1.1,-,6.45,"Jun 30, 2029",€2.50m
+309,Donny van de Beek,Girona FC,Laliga,28 years old (18-04-1997),"1,84m",Netherlands,Midfielder (Centre),Central Midfield,right,16(10),1426.0,2,2,5,-,83.7,0.4,-,6.45,"Jun 30, 2028",€7.50m
+310,Pedro Díaz,Rayo Vallecano,Laliga,26 years old (05-06-1998),"1,80m",Spain,Midfielder (Centre),Central Midfield,right,11(10),1010.0,3,-,2,-,84.5,0.2,-,6.45,"Jun 30, 2028",€2.50m
+311,Pepelu,Valencia CF,Laliga,26 years old (11-08-1998),"1,86m",Spain,Defensive Midfielder (C),Defensive Midfield,right,15(15),1469.0,1,2,7,1,83.8,0.7,-,6.45,"Jun 30, 2028",€12.00m
+312,Duk,CD Leganés,Laliga,25 years old (16-02-2000),"1,82m",,"Attacking Midfielder (Left), Forward",Left Winger,right,0(6),74.0,-,-,1,-,69.2,0.2,-,6.44,"Jun 30, 2025",€1.20m
+313,Karl Hein,Real Valladolid CF,Laliga,23 years old (13-04-2002),"1,93m",Estonia,Goalkeeper,Goalkeeper,right,28,2520.0,-,-,-,-,70.1,0.3,1,6.44,"Jun 30, 2025",€3.00m
+314,Andy Pelmard,UD Las Palmas,Laliga,25 years old (12-03-2000),"1,80m",France,"Defender (Centre, Right)",Right-Back,right,2(2),205.0,-,-,1,-,88.8,0.3,-,6.44,"Jun 30, 2025",€2.50m
+315,Juan Herzog,UD Las Palmas,Laliga,20 years old (13-05-2004),"1,86m",Spain,Defender (Centre),Centre-Back,right,11(4),966.0,-,-,1,-,86.7,1.9,-,6.44,"Jun 30, 2025",€1.50m
+316,Gavi,FC Barcelona,Laliga,20 years old (05-08-2004),"1,73m",Spain,"Midfielder (Centre, Left)",Central Midfield,right,11(10),817.0,1,1,4,-,89.9,0.9,-,6.43,"Jun 30, 2030",€70.00m
+317,Pol Lozano,RCD Espanyol Barcelona,Laliga,25 years old (06-10-1999),"1,76m",Spain,Defensive Midfielder (C),Central Midfield,right,23(3),1753.0,-,-,12,-,84.9,0.3,-,6.43,"Jun 30, 2027",€4.00m
+318,Pablo Marín,Real Sociedad,Laliga,21 years old (03-07-2003),"1,78m",Spain,Midfielder (Centre),Attacking Midfield,right,9(9),857.0,-,2,2,-,79.4,0.7,1,6.43,"Jun 30, 2028",€3.00m
+319,Selim Amallah,Real Valladolid CF,Laliga,28 years old (15-11-1996),"1,85m",Morocco,"Attacking Midfielder (Centre, Left), Forward",Attacking Midfield,right,15(6),1196.0,3,1,6,-,83.5,0.2,-,6.43,"Jun 30, 2027",€1.80m
+320,Antonio Sivera,Deportivo Alavés,Laliga,28 years old (11-08-1996),"1,85m",Spain,Goalkeeper,Goalkeeper,right,27,2362.0,-,-,6,1,53.7,0.2,-,6.43,"Jun 30, 2027",€6.00m
+321,Enric Franquesa,CD Leganés,Laliga,28 years old (26-02-1997),"1,75m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,7(5),615.0,1,-,1,-,73,0.4,-,6.43,"Jun 30, 2026",€1.50m
+322,Raúl Albiol,Villarreal CF,Laliga,39 years old (04-09-1985),"1,90m",Spain,Defender (Centre),Centre-Back,right,14(1),1189.0,-,-,4,-,89.6,2,-,6.42,"Jun 30, 2025",€1.30m
+323,Aihen Muñoz,Real Sociedad,Laliga,27 years old (16-08-1997),"1,75m",Spain,Defender (Left),Left-Back,left,10(8),843.0,-,-,4,-,77.9,1,-,6.42,"Jun 30, 2027",€5.00m
+324,Isaac Romero,Sevilla FC,Laliga,24 years old (18-05-2000),"1,83m",Spain,Forward,Centre-Forward,left,26(2),2087.0,3,2,8,-,73.3,1,-,6.42,"Jun 30, 2028",€10.00m
+325,Iván Sánchez,Real Valladolid CF,Laliga,32 years old (23-09-1992),"1,69m",Spain,"Attacking Midfielder (Centre, Right)",Right Winger,left,10(18),1178.0,1,1,4,-,83.7,0.5,-,6.42,"Jun 30, 2025",€600k
+326,José Campaña,UD Las Palmas,Laliga,31 years old (31-05-1993),"1,79m",Spain,"Midfielder (Centre, Left, Right)",Central Midfield,right,14(8),1095.0,-,2,3,-,87.3,0.8,-,6.42,"Jun 30, 2025",€1.00m
+327,Jon Guridi,Deportivo Alavés,Laliga,30 years old (28-02-1995),"1,79m",Spain,Midfielder (Centre),Central Midfield,left,22(6),1746.0,3,1,6,-,76.9,1.4,-,6.42,"Jun 30, 2026",€3.00m
+328,Aridane Hernández,Rayo Vallecano,Laliga,36 years old (23-03-1989),"1,88m",Spain,Defender (Centre),Centre-Back,right,7(3),664.0,-,-,1,-,87,2.3,-,6.42,"Jun 30, 2025",€400k
+329,Carlos Domínguez,Celta de Vigo,Laliga,24 years old (11-02-2001),"1,87m",Spain,Defender (Centre),Centre-Back,left,10(5),906.0,-,-,1,-,87.3,1.7,-,6.42,"Jun 30, 2026",€2.50m
+330,Justin Smith,RCD Espanyol Barcelona,Laliga,22 years old (04-02-2003),"1,89m",France,Midfielder,Central Midfield,right,3(2),210.0,-,-,-,-,67.8,0.6,-,6.42,"Jun 30, 2026",€300k
+331,Anuar Tuhami,Real Valladolid CF,Laliga,30 years old (15-01-1995),"1,73m",Spain,"Attacking Midfielder (Centre, Left, Right)",Right Winger,right,17(4),1441.0,2,-,6,-,83.5,1,1,6.42,"Jun 30, 2025",€900k
+332,Arthur,Girona FC,Laliga,28 years old (12-08-1996),"1,72m",Brazil,Defensive Midfielder (C),Defensive Midfield,right,6(4),569.0,-,-,2,-,95.1,-,-,6.41,"Jun 30, 2025",€5.00m
+333,Óscar Valentín,Rayo Vallecano,Laliga,30 years old (20-08-1994),"1,77m",Spain,Defensive Midfielder (C),Central Midfield,right,17(14),1637.0,-,-,3,-,83.1,0.9,-,6.41,"Jun 30, 2027",€3.50m
+334,Bertug Yildirim,Getafe CF,Laliga,22 years old (12-07-2002),191cm,Turkey,Forward,,,13(5),979.0,1,-,7,-,55.3,3.6,-,6.41,,
+335,Javi Hernández,CD Leganés,Laliga,26 years old (02-05-1998),"1,80m",Spain,"Defender (Centre, Left)",Left-Back,left,23(4),2031.0,-,1,4,-,76.1,0.7,1,6.41,"Jun 30, 2027",€2.00m
+336,Cenk Özkacar,Real Valladolid CF,Laliga,24 years old (06-10-2000),"1,90m",Turkey,"Defender (Centre, Left)",Centre-Back,left,4(2),351.0,-,-,-,-,83.3,1,-,6.41,"Jun 30, 2025",€1.50m
+337,Daley Sinkgraven,Fortuna Sittard,Laliga,29 years old (04-07-1995),179cm,Netherlands,"Defender (Left), Midfielder (Centre, Left)",,,1(1),91.0,-,-,-,-,78.9,0.5,-,6.41,,
+338,Javi Sánchez,Real Valladolid CF,Laliga,28 years old (14-03-1997),"1,89m",Spain,Defender (Centre),Centre-Back,right,25,2033.0,2,-,6,-,87.8,1.4,-,6.41,"Jun 30, 2026",€1.80m
+339,Facundo Garcés,Deportivo Alavés,Laliga,25 years old (05-09-1999),"1,89m",Argentina,Defender (Centre),Centre-Back,right,2(3),226.0,-,-,-,-,81.5,1.6,-,6.4,"Jun 30, 2028",€1.20m
+340,Javi López,Real Sociedad,Laliga,23 years old (25-03-2002),"1,83m",Spain,Defender (Left),Left-Back,left,19(7),1755.0,-,-,4,-,83.6,0.4,-,6.4,"Jun 30, 2030",€7.50m
+341,Franco Cervi,Celta de Vigo,Laliga,30 years old (26-05-1994),"1,66m",Argentina,"Defender (Left), Midfielder (Centre, Left, Right)",Left Winger,left,4(2),260.0,-,-,1,-,66.4,0.7,1,6.4,"Jun 30, 2026",€900k
+342,Manu Sánchez,Deportivo Alavés,Laliga,24 years old (24-08-2000),"1,71m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,25(3),2209.0,1,-,6,1,72.8,0.3,1,6.4,"Jun 30, 2025",€6.00m
+343,Williot Swedberg,Celta de Vigo,Laliga,21 years old (01-02-2004),"1,87m",Sweden,Attacking Midfielder (Left),Left Winger,right,13(14),1147.0,3,3,1,-,75.3,0.3,1,6.4,"Jun 30, 2027",€5.00m
+344,Bojan Miovski,Girona FC,Laliga,25 years old (24-06-1999),"1,89m",Macedonia,Forward,Centre-Forward,left,12(3),858.0,2,1,-,-,77.1,0.9,-,6.4,"Jun 30, 2028",€3.00m
+345,Luis Pérez,Real Valladolid CF,Laliga,30 years old (04-02-1995),"1,73m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,27(1),2423.0,-,-,2,-,80,0.6,1,6.4,"Jun 30, 2025",€1.50m
+346,Arnaut Danjuma,Girona FC,Laliga,28 years old (31-01-1997),"1,78m",Netherlands,"Attacking Midfielder (Left), Forward",Left Winger,right,15(8),1313.0,2,-,2,-,82,-,-,6.4,"Jun 30, 2025",€5.00m
+347,Hugo Sotelo,Celta de Vigo,Laliga,21 years old (19-12-2003),"1,80m",Spain,Midfielder (Centre),Central Midfield,right,14(7),1182.0,-,-,4,-,88.3,0.1,-,6.4,"Jun 30, 2028",€5.00m
+348,Mikel Vesga,Athletic Bilbao,Laliga,32 years old (08-04-1993),"1,91m",Spain,Defensive Midfielder (C),Defensive Midfield,left,9(12),860.0,-,-,1,-,82.4,0.9,-,6.39,"Jun 30, 2027",€3.00m
+349,Héctor Fort,FC Barcelona,Laliga,18 years old (02-08-2006),"1,85m",Spain,Defender (Right),Right-Back,right,4(9),447.0,-,-,2,-,91.8,0.2,-,6.39,"Jun 30, 2026",€10.00m
+350,Manu Fuster,UD Las Palmas,Laliga,27 years old (22-10-1997),"1,69m",,Midfielder,Left Winger,right,6(17),751.0,2,1,2,-,85.3,0.1,-,6.39,"Jun 30, 2028",€1.50m
+351,Assane Diao,Como 1907,Laliga,19 years old (07-09-2005),185cm,,"Attacking Midfielder (Left, Right)",,,2(8),271.0,1,2,-,-,75,0.8,-,6.39,,
+352,Reinildo,Atlético de Madrid,Laliga,31 years old (21-01-1994),"1,80m",Mozambique,"Defender (Centre, Left), Midfielder (Left)",Left-Back,left,10(9),936.0,-,-,4,-,84,0.5,-,6.39,"Jun 30, 2025",€8.00m
+353,Antoniu Roca,RCD Espanyol Barcelona,Laliga,22 years old (05-09-2002),"1,80m",Spain,Attacking Midfielder (Right),Right Winger,right,10(12),816.0,-,1,3,-,74.7,0.3,-,6.39,"Jun 30, 2026",€1.50m
+354,Yoel Lago,Celta de Vigo,Laliga,21 years old (25-03-2004),"1,85m",Spain,Defender,Centre-Back,right,4,301.0,-,1,-,-,93.1,0.5,-,6.39,"Jun 30, 2027",€200k
+355,José Gragera,RCD Espanyol Barcelona,Laliga,24 years old (14-05-2000),"1,86m",Spain,Defensive Midfielder (C),Central Midfield,right,7(3),572.0,-,-,-,-,88,1.1,-,6.39,"Jun 30, 2028",€2.00m
+356,Jon Pacheco,Real Sociedad,Laliga,24 years old (08-01-2001),"1,84m",Spain,Defender (Centre),Centre-Back,left,8(5),764.0,-,-,3,-,83,1.5,-,6.38,"Jun 30, 2030",€7.50m
+357,Ferland Mendy,Real Madrid,Laliga,29 years old (08-06-1995),"1,80m",France,"Defender (Left), Midfielder (Left)",Left-Back,left,12(2),1008.0,-,1,1,1,94.3,0.3,-,6.38,"Jun 30, 2028",€18.00m
+358,Gerard Martín,FC Barcelona,Laliga,23 years old (26-02-2002),"1,86m",Spain,Defender (Left),Left-Back,left,7(16),785.0,1,2,2,-,85,0.4,-,6.38,"Jun 30, 2028",€7.50m
+359,Adrián,Real Betis Balompié,Laliga,38 years old (03-01-1987),"1,90m",Spain,Goalkeeper,Goalkeeper,right,16,1262.0,-,-,3,-,71.2,0.3,-,6.38,"Jun 30, 2026",€500k
+360,Rodrigo Riquelme,Atlético de Madrid,Laliga,25 years old (02-04-2000),"1,74m",Spain,"Defender (Left), Midfielder (Centre, Left)",Left Winger,right,4(12),509.0,-,1,-,-,87.2,0.2,-,6.38,"Jun 30, 2028",€18.00m
+361,Darko Brasanac,CD Leganés,Laliga,33 years old (12-02-1992),"1,78m",Serbia,"Midfielder (Centre, Right)",Central Midfield,right,14(12),1469.0,1,2,3,-,75.7,0.8,-,6.38,"Jun 30, 2025",€600k
+362,Adri Embarba,Rayo Vallecano,Laliga,32 years old (07-05-1992),"1,73m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,right,15(16),1422.0,1,1,4,-,74.7,0.4,-,6.37,"Jun 30, 2025",€1.50m
+363,Iván Martín,Girona FC,Laliga,26 years old (14-02-1999),"1,78m",Spain,"Midfielder (Centre, Right)",Attacking Midfield,left,21(6),1759.0,1,1,1,-,91.1,0.1,-,6.37,"Jun 30, 2028",€10.00m
+364,Toni Lato,RCD Mallorca,Laliga,27 years old (21-11-1997),"1,71m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,5(6),457.0,-,-,-,1,75.8,0.5,-,6.37,"Jun 30, 2027",€2.00m
+365,James Rodríguez,Leon,Laliga,33 years old (12-07-1991),180cm,Colombia,"Attacking Midfielder (Centre, Left, Right), Forward",,,1(5),136.0,-,-,1,-,89.2,0.3,-,6.37,,
+366,Luken Beitia,Real Sociedad,Laliga,20 years old (30-06-2004),191cm,Spain,Defender,,,0(1),7.0,-,-,-,-,100,1,-,6.37,,
+367,Jailson,Celta de Vigo,Laliga,29 years old (07-09-1995),"1,87m",Brazil,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,6(7),613.0,-,-,2,-,90.6,1.4,-,6.37,"Jun 30, 2025",€1.50m
+368,Adrià Alti,CD Leganés,Laliga,24 years old (28-03-2001),170cm,Spain,"Defender (Right), Midfielder (Right)",,,15(3),1276.0,-,-,5,-,79.8,0.5,1,6.36,,
+369,Fernando Calero,RCD Espanyol Barcelona,Laliga,29 years old (14-09-1995),"1,84m",Spain,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,3(13),455.0,1,-,-,-,84.3,0.4,-,6.36,"Jun 30, 2026",€1.50m
+370,Stanis Idumbo,Sevilla FC,Laliga,19 years old (29-06-2005),"1,71m",Belgium,Midfielder,Attacking Midfield,right,3(11),280.0,1,1,-,-,83.3,0.1,-,6.36,"Jun 30, 2028",€2.50m
+371,Gerard Gumbau,Rayo Vallecano,Laliga,30 years old (18-12-1994),"1,88m",Spain,Defensive Midfielder (C),Defensive Midfield,left,7(11),765.0,-,1,4,-,80.1,0.8,-,6.36,"Jun 30, 2025",€2.00m
+372,Chimy Ávila,Real Betis Balompié,Laliga,31 years old (06-02-1994),"1,72m",Argentina,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,6(13),672.0,2,-,5,1,76.1,0.4,1,6.36,"Jun 30, 2027",€2.50m
+373,Jon Olasagasti,Real Sociedad,Laliga,24 years old (16-08-2000),"1,76m",Spain,Midfielder (Centre),Central Midfield,left,7(13),789.0,1,1,2,-,77.7,0.6,-,6.36,"Jun 30, 2027",€2.50m
+374,Aleksandar Sedlar,Deportivo Alavés,Laliga,33 years old (13-12-1991),"1,80m",Serbia,Defender (Centre),Centre-Back,right,6(2),515.0,-,-,1,1,82,1,-,6.36,"Jun 30, 2025",€400k
+375,Ander Guevara,Deportivo Alavés,Laliga,27 years old (07-07-1997),"1,80m",Spain,Defensive Midfielder (C),Central Midfield,right,16(13),1607.0,-,1,1,-,78.3,0.9,-,6.36,"Jun 30, 2027",€4.00m
+376,Marcos André,Real Valladolid CF,Laliga,28 years old (20-10-1996),"1,85m",,Forward,Centre-Forward,right,14(7),1185.0,1,2,5,-,66.8,2.3,-,6.36,"Jun 30, 2029",€1.20m
+377,Abel Ruiz,Girona FC,Laliga,25 years old (28-01-2000),"1,82m",Spain,Forward,Centre-Forward,right,16(3),1239.0,4,-,3,-,89.5,0.4,-,6.36,"Jun 30, 2029",€6.00m
+378,Stanko Juric,Real Valladolid CF,Laliga,28 years old (16-08-1996),"1,88m",Croatia,Defensive Midfielder (C),Defensive Midfield,right,18(7),1650.0,-,-,5,1,84.8,1.8,-,6.36,"Jun 30, 2027",€1.50m
+379,Cristhian Stuani,Girona FC,Laliga,38 years old (12-10-1986),"1,84m",Uruguay,"Attacking Midfielder (Centre, Left, Right), Forward",Centre-Forward,right,2(25),721.0,8,2,3,-,70.3,0.5,1,6.36,"Jun 30, 2026",€1.20m
+380,Cyle Larin,RCD Mallorca,Laliga,30 years old (17-04-1995),"1,88m",Canada,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,19(8),1562.0,6,2,4,-,68.3,2.1,1,6.35,"Jun 30, 2028",€3.50m
+381,Jesús Vázquez,Valencia CF,Laliga,22 years old (02-01-2003),"1,82m",Spain,Defender (Left),Left-Back,left,9(7),802.0,-,-,3,-,76.5,0.6,-,6.35,"Jun 30, 2026",€3.00m
+382,Ander Barrenetxea,Real Sociedad,Laliga,23 years old (27-12-2001),"1,75m",Spain,"Midfielder (Left, Right)",Left Winger,right,12(13),1075.0,1,3,5,-,76.9,0.3,-,6.35,"Jun 30, 2030",€18.00m
+383,Siebe Van der Heyden,FC St. Pauli,Laliga,26 years old (30-05-1998),185cm,Belgium,Defender (Centre),,,1(1),96.0,-,-,-,-,90.5,1,-,6.35,,
+384,Florian Grillitsch,Real Valladolid CF,Laliga,29 years old (07-08-1995),"1,87m",Austria,"Defender (Centre), Midfielder (Centre, Left)",Defensive Midfield,right,6(3),464.0,-,-,1,-,82.7,0.3,-,6.34,"Jun 30, 2025",€3.00m
+385,Valentín Barco,RC Strasbourg Alsace,Laliga,20 years old (23-07-2004),170cm,Argentina,"Defender (Left), Midfielder (Centre, Left)",,,3(4),287.0,-,-,-,-,79.3,-,-,6.34,,
+386,Randy Nteka,Rayo Vallecano,Laliga,27 years old (06-12-1997),"1,89m",Spain,"Attacking Midfielder (Centre), Forward",Attacking Midfield,left,16(8),1138.0,3,-,6,-,66.1,1.7,-,6.34,"Jun 30, 2028",€1.50m
+387,Dimitri Foulquier,Valencia CF,Laliga,32 years old (23-03-1993),"1,83m",France,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,23(7),2151.0,-,1,6,-,81.4,0.3,-,6.34,"Jun 30, 2025",€2.00m
+388,Brian Oliván,RCD Espanyol Barcelona,Laliga,31 years old (01-04-1994),"1,75m",Spain,"Defender (Centre, Left)",Left-Back,left,12(5),1017.0,-,1,2,-,75.4,0.2,-,6.34,"Jun 30, 2025",€2.00m
+389,William Carvalho,Real Betis Balompié,Laliga,33 years old (07-04-1992),"1,87m",Portugal,Midfielder (Centre),Defensive Midfield,right,4(5),327.0,-,-,-,-,86.1,0.7,1,6.34,"Jun 30, 2026",€2.00m
+390,Oriol Romeu,Girona FC,Laliga,33 years old (24-09-1991),"1,83m",Spain,Defensive Midfielder (C),Defensive Midfield,right,16(5),1242.0,-,-,5,-,90.6,0.6,-,6.34,"Jun 30, 2025",€1.80m
+391,Pau Cabanes,Deportivo Alavés,Laliga,20 years old (17-02-2005),"1,79m",Spain,Forward,Centre-Forward,right,0(10),156.0,1,-,-,-,76.9,0.1,-,6.34,"Jun 30, 2025",€800k
+392,Tasos Douvikas,Como 1907,Laliga,25 years old (02-08-1999),186cm,Greece,"Attacking Midfielder (Right), Forward",,,6(14),692.0,3,1,2,-,71.4,0.8,-,6.33,,
+393,Damián Rodríguez,Celta de Vigo,Laliga,22 years old (17-03-2003),"1,80m",Spain,Midfielder (Centre),Defensive Midfield,left,9(7),880.0,-,-,3,-,91.6,-,-,6.33,"Jun 30, 2028",€3.00m
+394,Jesús Navas,Sevilla FC,Laliga,39 years old (21-11-1985),172cm,Spain,"Defender (Right), Midfielder (Right)",,,3(12),416.0,1,-,-,-,83.3,0.4,-,6.33,,
+395,Antonio Sánchez,RCD Mallorca,Laliga,28 years old (22-04-1997),"1,79m",Spain,"Defender (Right), Midfielder (Centre, Right)",Central Midfield,right,9(19),1154.0,-,-,2,-,75.8,0.2,-,6.33,"Jun 30, 2027",€2.50m
+396,Juanmi,Getafe CF,Laliga,31 years old (20-05-1993),"1,72m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,8(4),667.0,-,-,2,-,75.9,0.5,-,6.33,"Jun 30, 2025",€2.80m
+397,Juan Bernat,Getafe CF,Laliga,32 years old (01-03-1993),"1,70m",Spain,"Defender (Left), Midfielder (Centre, Left)",Left-Back,left,1(9),205.0,-,1,-,-,81.9,0.5,-,6.33,"Jun 30, 2025",€2.50m
+398,Borja Mayoral,Getafe CF,Laliga,28 years old (05-04-1997),"1,82m",Spain,"Attacking Midfielder (Right), Forward",Centre-Forward,right,3(16),742.0,4,1,-,-,81.4,0.8,-,6.33,"Jun 30, 2027",€9.00m
+399,Ansu Fati,FC Barcelona,Laliga,22 years old (31-10-2002),"1,78m",Spain,"Attacking Midfielder (Left), Forward",Left Winger,right,2(3),187.0,-,-,1,-,85.6,0.4,-,6.33,"Jun 30, 2027",€5.00m
+400,Carlos Benavídez,Deportivo Alavés,Laliga,27 years old (30-03-1998),185cm,Uruguay,Defensive Midfielder (C),,,6(8),370.0,1,1,2,-,73.3,0.4,-,6.33,,
+401,Kike Barja,CA Osasuna,Laliga,28 years old (01-04-1997),"1,79m",Spain,"Attacking Midfielder (Left, Right)",Right Winger,right,3(8),259.0,-,-,3,-,78,0.5,-,6.32,"Jun 30, 2026",€1.80m
+402,Nabil Aberdin,PFC Sochi,Laliga,22 years old (23-08-2002),180cm,France,Defender,,,4(3),263.0,-,-,1,-,60,1.4,-,6.32,,
+403,Alfonso Pedraza,Villarreal CF,Laliga,29 years old (09-04-1996),"1,84m",Spain,"Defender (Left), Midfielder (Left)",Left-Back,left,2(7),275.0,-,-,-,-,75,0.4,-,6.32,"Jun 30, 2026",€2.50m
+404,Pablo Ibáñez,CA Osasuna,Laliga,26 years old (20-09-1998),"1,79m",Spain,Defensive Midfielder (C),Central Midfield,right,9(15),1023.0,1,1,3,-,76.8,0.7,-,6.32,"Jun 30, 2025",€2.30m
+405,Tomás Conechny,Deportivo Alavés,Laliga,27 years old (30-03-1998),"1,76m",Argentina,"Attacking Midfielder (Left), Forward",Left Winger,left,9(9),793.0,1,-,6,-,67.4,1.1,-,6.32,"Jun 30, 2028",€2.00m
+406,Álex Sola,Getafe CF,Laliga,25 years old (09-06-1999),"1,78m",Spain,"Defender (Right), Midfielder (Left, Right)",Right Winger,right,13(6),1037.0,-,1,4,-,68.8,1,-,6.31,"Jun 30, 2027",€3.00m
+407,Takuma Asano,RCD Mallorca,Laliga,30 years old (10-11-1994),"1,73m",Japan,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,right,12(7),963.0,2,-,-,-,72.2,0.3,-,6.31,"Jun 30, 2026",€2.50m
+408,David Alaba,Real Madrid,Laliga,32 years old (24-06-1992),"1,80m",Austria,"Defender (Centre, Left), Midfielder (Centre, Left)",Centre-Back,left,4(3),317.0,-,-,1,-,91.9,0.6,-,6.31,"Jun 30, 2026",€10.00m
+409,Tajon Buchanan,Villarreal CF,Laliga,26 years old (08-02-1999),"1,83m",Canada,"Defender (Right), Midfielder (Centre, Left, Right)",Right Winger,right,3(6),276.0,-,1,1,-,77,0.3,-,6.31,"Jun 30, 2025",€6.00m
+410,Ander Herrera,Boca Juniors,Laliga,35 years old (14-08-1989),182cm,Spain,Midfielder (Centre),,,2(6),268.0,-,-,2,-,90.9,0.4,-,6.31,,
+411,Moussa Diarra,Deportivo Alavés,Laliga,24 years old (10-11-2000),"1,85m",France,"Defender (Centre, Left)",Centre-Back,left,19(6),1773.0,-,-,6,-,84.1,1.3,-,6.3,"Jun 30, 2028",€2.00m
+412,Irvin Cardona,AS Saint-Étienne,Laliga,27 years old (08-08-1997),185cm,France,"Attacking Midfielder (Left, Right), Forward",,,5(11),600.0,1,1,1,-,65.5,0.6,-,6.3,,
+413,Allan Nyom,Getafe CF,Laliga,36 years old (10-05-1988),"1,89m",Cameroon,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,9(7),689.0,1,1,4,-,79.9,0.4,1,6.3,"Jun 30, 2025",€400k
+414,Ángel Correa,Atlético de Madrid,Laliga,30 years old (09-03-1995),"1,71m",Argentina,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,right,3(23),695.0,3,1,3,1,78.6,-,-,6.3,"Jun 30, 2026",€15.00m
+415,Álex Suárez,UD Las Palmas,Laliga,32 years old (18-03-1993),"1,80m",Spain,"Defender (Centre, Right)",Centre-Back,right,27,2240.0,-,-,12,-,86.3,0.9,-,6.3,"Jun 30, 2026",€1.00m
+416,Jon Magunazelaia,Cordoba,Laliga,23 years old (13-07-2001),181cm,Spain,Midfielder,,,0(2),6.0,-,-,-,-,53.8,1.5,-,6.3,,
+417,Manu Bueno,Sevilla FC,Laliga,20 years old (27-07-2004),"1,78m",Spain,Midfielder,Central Midfield,left,1(6),110.0,1,-,-,-,91.1,-,-,6.3,"Jun 30, 2026",€1.50m
+418,Álvaro Djaló,Athletic Bilbao,Laliga,25 years old (16-08-1999),"1,75m",Spain,"Attacking Midfielder (Left, Right), Forward",Left Winger,right,6(9),574.0,1,-,1,-,68.5,0.6,-,6.3,"Jun 30, 2029",€8.00m
+419,Iván Jaime,Valencia CF,Laliga,24 years old (26-09-2000),"1,80m",Spain,"Attacking Midfielder (Centre, Left), Forward",Attacking Midfield,right,2(3),191.0,-,-,-,-,86.3,0.8,-,6.3,"Jun 30, 2025",€7.00m
+420,Sheraldo Becker,Real Sociedad,Laliga,30 years old (09-02-1995),"1,80m",Netherlands,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,11(10),988.0,2,1,1,1,76.9,0.3,-,6.29,"Jun 30, 2026",€4.00m
+421,Papa Dame Ba,Girona FC,Laliga,20 years old (12-09-2004),180cm,Senegal,Forward,,,0(1),47.0,-,-,-,-,41.7,-,-,6.29,,
+422,Rodri,Real Betis Balompié,Laliga,24 years old (16-05-2000),168cm,Spain,"Attacking Midfielder (Centre, Left, Right)",,,1(2),117.0,-,-,-,-,86.4,-,-,6.29,,
+423,Mateu Morey,RCD Mallorca,Laliga,25 years old (02-03-2000),"1,73m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,6(6),483.0,-,-,1,-,81.7,0.6,-,6.29,"Jun 30, 2025",€800k
+424,Willy Kambwala,Villarreal CF,Laliga,20 years old (25-08-2004),"1,92m",France,Defender (Centre),Centre-Back,right,11(3),924.0,-,-,1,1,87.8,1,-,6.29,"Jun 30, 2029",€4.00m
+425,Yan Diomande,CD Leganés,Laliga,18 years old (14-11-2006),,,Forward,,,3(2),207.0,-,-,-,-,84.8,0.2,-,6.29,,
+426,Álvaro Fernández,Sevilla FC,Laliga,27 years old (13-04-1998),"1,85m",Spain,Goalkeeper,Goalkeeper,right,7(1),656.0,-,-,2,-,60.1,0.1,-,6.29,"Jun 30, 2025",€2.50m
+427,Pau Víctor,FC Barcelona,Laliga,23 years old (26-11-2001),"1,84m",Spain,Forward,Centre-Forward,right,1(17),230.0,2,1,2,-,83.2,0.2,-,6.29,"Jun 30, 2029",€5.00m
+428,Stoichkov,Deportivo Alavés,Laliga,31 years old (05-11-1993),178cm,,Forward,,,6(10),697.0,-,1,1,-,65.5,0.4,-,6.28,,
+429,Unai Gómez,Athletic Bilbao,Laliga,21 years old (25-05-2003),"1,83m",Spain,Attacking Midfielder (Centre),Attacking Midfield,left,11(16),1019.0,1,2,1,-,74.8,0.9,-,6.28,"Jun 30, 2028",€6.00m
+430,Suso,Sevilla FC,Laliga,31 years old (19-11-1993),"1,77m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,0(11),218.0,-,-,2,-,86.6,0.2,-,6.28,"Jun 30, 2025",€2.50m
+431,Peque Fernández,Sevilla FC,Laliga,22 years old (04-10-2002),"1,72m",,Attacking Midfielder (Centre),Second Striker,right,12(10),972.0,1,1,1,-,79.7,0.4,-,6.27,"Jun 30, 2028",€3.50m
+432,Beñat Turrientes,Real Sociedad,Laliga,23 years old (31-01-2002),"1,81m",Spain,Defensive Midfielder (C),Central Midfield,right,10(8),819.0,-,-,4,-,91.3,0.6,-,6.27,"Jun 30, 2030",€16.00m
+433,Íñigo Lekue,Athletic Bilbao,Laliga,31 years old (04-05-1993),"1,80m",Spain,"Defender (Left, Right), Midfielder (Left, Right)",Right-Back,right,6(6),588.0,-,-,1,-,78.8,0.4,-,6.27,"Jun 30, 2025",€2.50m
+434,Juanmi Latasa,Real Valladolid CF,Laliga,24 years old (23-03-2001),"1,92m",Spain,Forward,Centre-Forward,left,10(13),1049.0,3,-,6,1,60.2,3.3,1,6.27,"Jun 30, 2029",€2.50m
+435,Marvin Park,UD Las Palmas,Laliga,24 years old (03-07-2000),"1,77m",Spain,"Defender (Right), Midfielder (Right)",Right-Back,right,7(11),785.0,-,-,3,-,77.9,0.5,-,6.27,"Jun 30, 2028",€1.50m
+436,Denis Suárez,Villarreal CF,Laliga,31 years old (06-01-1994),"1,76m",Spain,"Midfielder (Centre, Left, Right)",Attacking Midfield,right,6(13),514.0,1,1,-,-,82,0.1,-,6.27,"Jun 30, 2026",€1.30m
+437,Carles Aleñá,Deportivo Alavés,Laliga,27 years old (05-01-1998),"1,80m",Spain,"Attacking Midfielder (Centre, Left, Right)",Central Midfield,left,5(5),451.0,-,-,1,-,81.8,1,-,6.26,"Jun 30, 2025",€2.50m
+438,Cédric Bakambu,Real Betis Balompié,Laliga,34 years old (11-04-1991),"1,82m",DR Congo,"Attacking Midfielder (Left, Right), Forward",Centre-Forward,right,6(16),601.0,2,2,4,-,68.4,0.5,-,6.26,"Jun 30, 2026",€1.80m
+439,Sergi Gómez,RCD Espanyol Barcelona,Laliga,33 years old (28-03-1992),"1,85m",Spain,"Defender (Centre, Right)",Centre-Back,right,6(5),651.0,-,-,1,-,89,1,-,6.26,"Jun 30, 2025",€900k
+440,Max Aarons,Valencia CF,Laliga,25 years old (04-01-2000),"1,77m",England,Defender (Right),Right-Back,right,1(1),106.0,-,-,1,-,72.7,1,-,6.26,"Jun 30, 2025",€12.00m
+441,Juan Cruz,CA Osasuna,Laliga,32 years old (28-07-1992),"1,80m",Spain,"Defender (Centre, Left)",Left Winger,left,15(6),1180.0,-,-,4,-,80.7,0.3,-,6.25,"Jun 30, 2028",€4.00m
+442,Mamadou Sylla,Real Valladolid CF,Laliga,31 years old (20-03-1994),"1,80m",Spain,"Attacking Midfielder (Left), Forward",Centre-Forward,right,15(11),1422.0,5,2,4,-,65.5,1.5,-,6.25,"Jun 30, 2026",€1.50m
+443,Gonzalo Montiel,River Plate,Laliga,28 years old (01-01-1997),175cm,Argentina,"Defender (Centre, Right), Midfielder (Right)",,,1(5),111.0,-,-,1,-,92.2,0.2,-,6.25,,
+444,Alberto Risco,Getafe CF,Laliga,19 years old (30-08-2005),-,Spain,Midfielder,Attacking Midfield,,0(5),66.0,-,-,-,-,74.2,0.2,-,6.25,"Jun 30, 2026",€200k
+445,Hugo Novoa,Deportivo Alavés,Laliga,22 years old (24-01-2003),"1,82m",Spain,Forward,Right-Back,right,2(3),234.0,-,-,-,-,78.8,0.2,-,6.25,"Jun 30, 2029",€2.00m
+446,Raúl Chasco,Real Valladolid CF,Laliga,21 years old (13-09-2003),179cm,Spain,Defender,,,1(1),129.0,-,-,-,-,66.7,0.5,-,6.25,,
+447,Óscar Trejo,Rayo Vallecano,Laliga,37 years old (26-04-1988),"1,80m",Argentina,"Midfielder (Centre, Left, Right), Forward",Attacking Midfield,right,6(10),478.0,1,-,1,-,86.6,0.3,-,6.25,"Jun 30, 2025",€800k
+448,Rafa Mir,Valencia CF,Laliga,27 years old (18-06-1997),"1,91m",Spain,"Attacking Midfielder (Right), Forward",Centre-Forward,right,3(12),518.0,-,2,1,-,77.6,0.6,-,6.25,"Jun 30, 2025",€800k
+449,Mario Martín,Real Valladolid CF,Laliga,21 years old (05-03-2004),"1,77m",Spain,Defensive Midfielder (C),Defensive Midfield,right,18(9),1613.0,-,1,5,3,86.1,1,-,6.24,"Jun 30, 2025",€1.50m
+450,Gabriel Misehouy,Girona FC,Laliga,19 years old (18-07-2005),"1,73m",Netherlands,Midfielder,Attacking Midfield,right,1(8),252.0,1,-,-,-,92.6,-,-,6.24,"Jun 30, 2028",€1.00m
+451,Juan Berrocal,Getafe CF,Laliga,26 years old (05-02-1999),"1,87m",Spain,Defender (Centre),Centre-Back,both,9(6),863.0,-,-,4,1,76.4,1.8,-,6.24,"Jun 30, 2027",€1.80m
+452,Borna Barisic,CD Leganés,Laliga,32 years old (10-11-1992),"1,86m",Croatia,Defender (Left),Left-Back,left,1,10.0,-,-,-,-,100,-,-,6.24,"Jun 30, 2025",€1.00m
+453,Luis Rioja,Valencia CF,Laliga,31 years old (16-10-1993),"1,76m",Spain,"Midfielder (Left, Right)",Left Winger,left,0(1),22.0,-,-,-,-,100,-,-,6.24,"Jun 30, 2026",€2.00m
+454,García Pascual,Sevilla FC,Laliga,23 years old (01-01-2002),191cm,,Forward,,,0(3),114.0,-,-,1,-,63,1.7,-,6.24,,
+455,Alejo Véliz,RCD Espanyol Barcelona,Laliga,21 years old (19-09-2003),"1,86m",Argentina,Forward,Centre-Forward,right,10(13),1006.0,1,-,3,-,65.9,2,-,6.23,"Jun 30, 2025",€2.80m
+456,Munir El Haddadi,CD Leganés,Laliga,29 years old (01-09-1995),"1,77m",Morocco,"Attacking Midfielder (Centre, Left, Right), Forward",Right Winger,left,6(14),571.0,3,-,1,1,73.7,0.4,-,6.23,"Jun 30, 2026",€1.50m
+457,Iker Losada,Celta de Vigo,Laliga,23 years old (01-08-2001),"1,75m",Spain,Midfielder,Second Striker,right,4(6),341.0,1,-,2,-,78.4,0.2,-,6.23,"Jun 30, 2025",€1.80m
+458,Javier Manquillo,Celta de Vigo,Laliga,30 years old (05-05-1994),"1,78m",Spain,"Defender (Centre, Left, Right), Midfielder (Right)",Right-Back,right,7(3),520.0,-,-,1,-,90.4,0.5,-,6.23,"Jun 30, 2025",€1.80m
+459,Arkaitz Mariezkurrena,Real Sociedad,Laliga,20 years old (05-04-2005),-,Spain,Forward,Left Winger,,0(5),108.0,1,-,1,-,65.8,0.6,-,6.22,"Jun 30, 2029",€500k
+460,Diego García,CD Leganés,Laliga,25 years old (18-04-2000),"1,88m",Spain,Forward,Centre-Forward,right,10(13),915.0,3,-,2,-,69.5,1.6,-,6.22,"Jun 30, 2027",€1.50m
+461,Peio Canales,Athletic Bilbao,Laliga,20 years old (17-01-2005),"1,75m",Spain,Midfielder,Attacking Midfield,right,1(6),188.0,-,-,-,-,85.1,-,-,6.22,"Jun 30, 2027",€500k
+462,Orri Óskarsson,Real Sociedad,Laliga,20 years old (29-08-2004),"1,86m",Iceland,Forward,Centre-Forward,right,9(14),939.0,3,-,1,-,55.7,1.3,-,6.22,"Jun 30, 2030",€18.00m
+463,Etienne Eto'o Pineda,Rayo Vallecano,Laliga,22 years old (18-08-2002),191cm,,Forward,,,0(2),38.0,-,-,-,-,20,3,-,6.22,,
+464,Marc Domenech,RCD Mallorca,Laliga,18 years old (01-12-2006),182cm,,Forward,,,2(4),183.0,-,-,-,-,70,1.2,-,6.22,,
+465,Darwin Machís,Real Valladolid CF,Laliga,32 years old (07-02-1993),"1,71m",Venezuela,"Attacking Midfielder (Left, Right)",Left Winger,right,7(10),625.0,-,1,-,-,72.9,0.4,-,6.22,"Jun 30, 2026",€1.00m
+466,Raúl García,CA Osasuna,Laliga,24 years old (03-11-2000),"1,92m",Spain,Forward,Centre-Forward,right,5(22),662.0,2,-,-,-,70.6,0.7,-,6.21,"Jun 30, 2028",€3.50m
+467,Dani Gómez,Valencia CF,Laliga,26 years old (30-07-1998),178cm,,Forward,,,5(9),526.0,2,-,-,-,74.1,0.5,1,6.21,,
+468,Tamás Nikitscher,Real Valladolid CF,Laliga,25 years old (03-11-1999),"1,93m",Hungary,Defensive Midfielder (C),Central Midfield,right,6(3),567.0,-,-,2,-,92.4,1,-,6.21,"Jun 30, 2028",€1.00m
+469,Valery Fernández,RCD Mallorca,Laliga,25 years old (23-11-1999),"1,82m",Spain,"Defender (Right), Midfielder (Left)",Right Winger,right,1(16),285.0,2,-,1,-,89,0.1,-,6.21,"Jun 30, 2025",€2.50m
+470,Juanmi,Getafe CF,Laliga,31 years old (20-05-1993),"1,72m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,right,2(9),238.0,-,-,2,-,83.6,0.5,-,6.21,"Jun 30, 2025",€2.80m
+471,Adrián Rodríguez,Deportivo Alavés,Laliga,24 years old (12-12-2000),"1,95m",Spain,Goalkeeper,Goalkeeper,right,1(1),121.0,-,-,1,-,38,0.5,-,6.21,"Jun 30, 2027",€100k
+472,Fran Pérez,Valencia CF,Laliga,22 years old (09-09-2002),"1,76m",Spain,Attacking Midfielder (Right),Right Winger,right,3(18),440.0,-,-,1,-,82.3,0.2,-,6.2,"Jun 30, 2026",€4.00m
+473,Miguel de la Fuente,CD Leganés,Laliga,25 years old (03-09-1999),"1,82m",Spain,Forward,Centre-Forward,right,17(13),1676.0,1,3,3,-,59,1,-,6.2,"Jun 30, 2028",€2.00m
+474,Carlos Guirao,Real Betis Balompié,Laliga,22 years old (27-04-2003),175cm,Spain,Midfielder,,,2,112.0,-,-,-,-,80,1,-,6.2,,
+475,Sébastien Haller,FC Utrecht,Laliga,30 years old (22-06-1994),190cm,Ivory Coast,Forward,,,5(3),406.0,-,-,-,-,60,3.3,-,6.2,,
+476,Abdoulaye Keita,Getafe CF,Laliga,22 years old (01-09-2002),186cm,Spain,Forward,,,1(2),94.0,-,-,-,-,56,1,-,6.2,,
+477,Iker Losada,Celta de Vigo,Laliga,23 years old (01-08-2001),"1,75m",Spain,Midfielder,Second Striker,right,3(7),334.0,-,-,-,-,76.8,0.3,-,6.2,"Jun 30, 2025",€1.80m
+478,Mateo Mejía,Sevilla FC,Laliga,22 years old (31-03-2003),181cm,,Forward,,,0(1),10.0,-,-,-,-,-,1,-,6.19,,
+479,Mihailo Ristic,Celta de Vigo,Laliga,29 years old (31-10-1995),"1,80m",Serbia,"Defender (Left), Midfielder (Left)",Left-Back,left,4(2),250.0,-,1,1,-,78.1,-,-,6.19,"Jun 30, 2026",€900k
+480,Jesús Owono,Deportivo Alavés,Laliga,24 years old (01-03-2001),"1,86m",Equatorial Guinea,Goalkeeper,Goalkeeper,both,5(1),486.0,-,-,-,-,58,0.2,-,6.19,"Jun 30, 2026",€1.00m
+481,Peter Federico,Getafe CF,Laliga,22 years old (25-07-2002),"1,80m",Dominican Rep.,Forward,Right Winger,left,1(13),372.0,-,-,1,-,75.6,0.6,-,6.19,"Jun 30, 2028",€1.50m
+482,Moi Gómez,CA Osasuna,Laliga,30 years old (23-06-1994),"1,76m",Spain,"Midfielder (Centre, Left, Right)",Left Winger,right,5(19),732.0,-,-,1,-,82.1,0.3,-,6.19,"Jun 30, 2027",€3.00m
+483,Walid Cheddira,RCD Espanyol Barcelona,Laliga,27 years old (22-01-1998),"1,87m",Morocco,Forward,Centre-Forward,right,5(15),608.0,1,1,2,-,72.3,0.7,-,6.19,"Jun 30, 2025",€3.00m
+484,Portu,Girona FC,Laliga,32 years old (21-05-1992),"1,67m",Spain,"Midfielder (Centre, Left, Right), Forward",Right Winger,right,2(20),462.0,-,2,4,-,79.2,0.3,-,6.18,"Jun 30, 2027",€2.50m
+485,David López,RCD Mallorca,Laliga,22 years old (03-02-2003),"1,85m",Spain,Defender,Centre-Back,right,1,80.0,-,-,-,-,91.2,-,-,6.18,"Jun 30, 2026",€2.00m
+486,Pau Cabanes,Deportivo Alavés,Laliga,20 years old (17-02-2005),"1,79m",Spain,Forward,Centre-Forward,right,2(3),184.0,-,-,1,-,83.3,0.2,-,6.18,"Jun 30, 2025",€800k
+487,Naci Ünüvar,Twente,Laliga,21 years old (13-06-2003),168cm,Netherlands,Midfielder,,,0(2),30.0,-,-,-,-,75,-,-,6.18,,
+488,Akor Adams,Sevilla FC,Laliga,25 years old (29-01-2000),"1,90m",Nigeria,Forward,Centre-Forward,right,1(3),130.0,-,-,-,-,74.1,1.5,-,6.17,"Jun 30, 2029",€7.50m
+489,David Torres,Real Valladolid CF,Laliga,22 years old (05-03-2003),"1,82m",Spain,Defender (Centre),Centre-Back,left,15(3),1386.0,-,-,5,-,83,1.1,-,6.17,"Jun 30, 2026",€1.40m
+490,Abde Rebbach,Granada,Laliga,26 years old (11-08-1998),176cm,Algeria,Attacking Midfielder (Left),,,4(4),385.0,-,-,1,-,69.7,0.3,-,6.17,,
+491,Endrick,Real Madrid,Laliga,18 years old (21-07-2006),"1,73m",,Forward,Centre-Forward,left,1(18),218.0,1,-,1,-,80,0.3,-,6.17,"Jun 30, 2030",€40.00m
+492,Iván Balliu,Rayo Vallecano,Laliga,33 years old (01-01-1992),"1,72m",Albania,"Defender (Left, Right), Midfielder (Right)",Right-Back,right,7(13),795.0,-,-,2,-,76.2,0.5,-,6.16,"Jun 30, 2027",€1.50m
+493,Rubén Peña,CA Osasuna,Laliga,33 years old (18-07-1991),"1,70m",Spain,"Defender (Left, Right), Midfielder (Left, Right), Forward",Right-Back,right,6(16),658.0,-,-,1,-,66.5,0.2,-,6.16,"Jun 30, 2025",€1.80m
+494,Eric Bailly,Villarreal CF,Laliga,31 years old (12-04-1994),"1,87m",Ivory Coast,"Defender (Centre, Right)",Centre-Back,right,8(4),620.0,-,-,2,1,87.7,0.9,-,6.16,"Jun 30, 2025",€2.50m
+495,Joseph Aidoo,Real Valladolid CF,Laliga,29 years old (29-09-1995),"1,81m",Ghana,Defender (Centre),Centre-Back,right,0(1),1.0,-,-,-,-,85.7,-,-,6.16,"Jun 30, 2025",€1.40m
+496,Thomas Lemar,Atlético de Madrid,Laliga,29 years old (12-11-1995),"1,71m",France,"Attacking Midfielder (Centre, Left, Right)",Attacking Midfield,left,0(4),58.0,-,-,-,-,83.7,-,-,6.16,"Jun 30, 2027",€5.00m
+497,Benito Ramírez,UD Las Palmas,Laliga,29 years old (11-07-1995),"1,79m",,Midfielder,Left Winger,left,1(16),376.0,-,-,2,1,84.6,0.2,-,6.16,"Jun 30, 2025",€800k
+498,Umar Sadiq,Valencia CF,Laliga,28 years old (02-02-1997),"1,91m",Nigeria,Forward,Centre-Forward,right,2(5),224.0,-,-,1,-,55.6,1.3,-,6.16,"Jun 30, 2025",€5.00m
+499,John Patrick,Stade Reims,Laliga,21 years old (24-09-2003),192cm,Spain,Defensive Midfielder (C),,,0(4),46.0,-,-,1,-,80,0.5,-,6.15,,
+500,Amath Ndiaye,Real Valladolid CF,Laliga,28 years old (16-07-1996),"1,73m",Senegal,"Attacking Midfielder (Left, Right), Forward",Right Winger,right,5(5),326.0,-,1,-,-,81.6,0.1,-,6.15,"Jun 30, 2027",€1.00m
+501,Endika Bujan,Athletic Bilbao,Laliga,22 years old (16-01-2003),170cm,,Forward,,,0(1),6.0,-,-,-,-,100,-,-,6.15,,
+502,Ferrán Ruiz,Girona FC,Laliga,22 years old (26-04-2003),172cm,Spain,Defender,,,0(1),17.0,-,-,-,-,50,-,-,6.15,,
+503,Iker Córdoba,Valencia CF,Laliga,19 years old (11-11-2005),190cm,,Defender,,,0(2),13.0,-,-,-,-,80,0.5,-,6.15,,
+504,Nico Serrano,Sporting Gijon,Laliga,22 years old (05-03-2003),181cm,Spain,Forward,,,1(3),110.0,-,-,-,-,77.4,-,-,6.15,,
+505,Luka Romero,Cruz Azul,Laliga,20 years old (18-11-2004),165cm,Argentina,Attacking Midfielder (Right),,,2(4),197.0,-,-,-,-,79.5,0.3,-,6.15,,
+506,Sergi Canós,Valencia CF,Laliga,28 years old (02-02-1997),"1,77m",Spain,"Midfielder (Left, Right)",Left Winger,right,2(14),353.0,-,1,3,-,62.4,0.3,-,6.14,"Jun 30, 2027",€1.50m
+507,Abdón Prats,RCD Mallorca,Laliga,32 years old (07-12-1992),"1,81m",Spain,Forward,Centre-Forward,left,3(21),438.0,2,-,4,-,67,0.8,-,6.14,"Jun 30, 2028",€1.50m
+508,Hugo Guillamón,Valencia CF,Laliga,25 years old (31-01-2000),"1,78m",Spain,"Defender (Centre), Defensive Midfielder (C)",Defensive Midfield,right,4(8),361.0,-,-,2,-,82.3,0.4,-,6.14,"Jun 30, 2026",€5.00m
+509,Álvaro Aguado,RCD Espanyol Barcelona,Laliga,28 years old (01-05-1996),"1,75m",Spain,Midfielder (Centre),Central Midfield,right,4(11),427.0,-,1,3,-,80.1,0.2,-,6.14,"Jun 30, 2025",€2.00m
+510,Eray Cömert,Real Valladolid CF,Laliga,27 years old (04-02-1998),"1,83m",Switzerland,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,17(4),1431.0,-,-,6,-,87.6,1,-,6.13,"Jun 30, 2025",€2.50m
+511,Sergi Domínguez,FC Barcelona,Laliga,20 years old (01-04-2005),188cm,,Defender,,,2(1),173.0,-,-,1,-,95,0.3,-,6.13,,
+512,Jhon Solís,Girona FC,Laliga,20 years old (03-10-2004),"1,86m",Colombia,Midfielder,Central Midfield,right,2(13),461.0,1,-,2,-,91.7,0.2,-,6.13,"Jun 30, 2028",€3.50m
+513,Asier Villalibre,Deportivo Alavés,Laliga,27 years old (30-09-1997),"1,82m",Spain,Forward,Centre-Forward,left,2(13),305.0,1,1,2,-,66.7,1.3,-,6.13,"Jun 30, 2028",€1.80m
+514,José Arnáiz,CA Osasuna,Laliga,30 years old (15-04-1995),175cm,Spain,"Attacking Midfielder (Left), Forward",,,1(12),112.0,-,-,-,-,76.6,0.1,-,6.12,,
+515,Roberto López,CD Leganés,Laliga,25 years old (24-04-2000),"1,79m",Spain,Attacking Midfielder (Centre),Attacking Midfield,left,3(9),387.0,-,1,-,-,82.5,0.2,-,6.12,"Jun 30, 2027",€1.50m
+516,Alejandro Padilla,Club Universidad Nacional,Laliga,21 years old (01-09-2003),190cm,Spain,Goalkeeper,,,3(2),320.0,-,-,-,-,49.5,0.2,-,6.12,,
+517,Etta Eyong,Villarreal CF,Laliga,21 years old (14-10-2003),181cm,Cameroon,Forward,,,0(1),2.0,-,-,-,-,-,1,-,6.11,,
+518,Martín Tejón,Valencia CF,Laliga,21 years old (12-04-2004),"1,65m",,Forward,Attacking Midfield,right,0(4),44.0,-,-,-,-,80,-,-,6.11,"Jun 30, 2026",€500k
+519,Pere Milla,RCD Espanyol Barcelona,Laliga,32 years old (23-09-1992),"1,80m",Spain,"Attacking Midfielder (Centre, Left, Right), Forward",Left Winger,left,1(15),306.0,1,-,3,-,59.6,0.4,-,6.11,"Jun 30, 2027",€1.50m
+520,Andreas Christensen,FC Barcelona,Laliga,29 years old (10-04-1996),"1,87m",Denmark,"Defender (Centre), Defensive Midfielder (C)",Centre-Back,right,0(1),26.0,-,-,1,-,87.5,1,-,6.1,"Jun 30, 2026",€15.00m
+521,Javi Llabrés,Eldense,Laliga,22 years old (11-09-2002),174cm,Spain,Forward,,,1,58.0,-,-,-,-,95,1,-,6.1,,
+522,Chema Andres,Real Madrid,Laliga,20 years old (25-04-2005),190cm,Spain,Midfielder,,,0(1),7.0,-,-,-,-,100,1,-,6.1,,
+523,Ramon Terrats,Getafe CF,Laliga,24 years old (18-10-2000),"1,81m",Spain,"Midfielder (Centre, Right)",Central Midfield,left,1(10),124.0,-,-,1,-,85.1,0.3,-,6.1,"Jun 30, 2025",€4.00m
+524,Chiquinho,RCD Mallorca,Laliga,25 years old (05-02-2000),"1,79m",Portugal,"Attacking Midfielder (Left, Right)",Left Winger,right,1(7),141.0,-,-,2,-,78.3,0.1,-,6.1,"Jun 30, 2025",€2.50m
+525,Pablo García,Real Betis Balompié,Laliga,18 years old (13-06-2006),175cm,,Forward,,,0(2),25.0,-,-,-,-,71.4,-,-,6.1,,
+526,Jaime Mata,UD Las Palmas,Laliga,36 years old (24-10-1988),"1,86m",Spain,"Attacking Midfielder (Left), Forward",Centre-Forward,right,4(22),502.0,-,-,8,-,72.5,0.7,-,6.09,"Jun 30, 2025",€600k
+527,Iker Muñoz,CA Osasuna,Laliga,22 years old (05-09-2002),"1,80m",Spain,Defensive Midfielder (C),Defensive Midfield,right,4(14),466.0,-,-,2,-,79.8,0.6,-,6.09,"Jun 30, 2027",€3.00m
+528,David Argüelles,Getafe CF,Laliga,23 years old (10-01-2002),175cm,Spain,Defender,,,0(1),6.0,-,-,-,-,60,-,-,6.09,,
+529,Leandro Antonetti,Sevilla FC,Laliga,22 years old (13-01-2003),189cm,Puerto Rico,Forward,,,0(1),11.0,-,-,-,-,100,-,-,6.09,,
+530,Henrique,Real Valladolid CF,Laliga,31 years old (25-04-1994),"1,73m",Brazil,"Defender (Left), Midfielder (Left)",Left-Back,left,2(1),198.0,-,-,-,-,87.7,-,-,6.08,"Jun 30, 2025",€600k
+531,Germán Valera,Elche,Laliga,23 years old (16-03-2002),170cm,Spain,Forward,,,1(7),144.0,-,-,-,-,82.5,0.1,-,6.08,,
+532,Julián Chicco,CD Leganés,Laliga,27 years old (13-01-1998),"1,87m",Argentina,Defensive Midfielder (C),Defensive Midfield,right,1(11),197.0,-,-,-,-,80.2,-,-,6.08,"Jun 30, 2025",€600k
+533,Sergi Guardiola,Rayo Vallecano,Laliga,33 years old (29-05-1991),"1,85m",Spain,Forward,Centre-Forward,left,1(13),324.0,-,-,1,-,69.4,0.4,-,6.08,"Jun 30, 2025",€600k
+534,Antonio Candela,Real Valladolid CF,Laliga,25 years old (27-04-2000),"1,85m",Italy,"Defender (Centre, Right), Midfielder (Right)",Right-Back,right,8,632.0,-,-,-,-,81,0.1,-,6.08,"Jun 30, 2025",€2.00m
+535,Daniel Luna,Cartagena,Laliga,21 years old (07-05-2003),179cm,Colombia,Midfielder,,,0(2),18.0,-,-,-,-,77.8,-,-,6.08,,
+536,Fabio González,Tenerife,Laliga,28 years old (12-02-1997),176cm,Spain,Midfielder,,,0(2),52.0,-,-,-,-,82.7,0.5,-,6.08,,
+537,Pejiño,UD Las Palmas,Laliga,28 years old (29-07-1996),177cm,,Midfielder,,,0(1),16.0,-,-,-,-,100,-,-,6.08,,
+538,Adrián Arnu,Real Valladolid CF,Laliga,18 years old (04-03-2007),185cm,Spain,Forward,,,0(3),10.0,-,-,-,-,100,0.3,-,6.08,,
+539,Víctor Meseguer,Racing Santander,Laliga,25 years old (09-06-1999),184cm,Spain,Midfielder,,,2(12),409.0,-,-,1,-,78.9,0.7,-,6.07,,
+540,Yellu Santiago,Getafe CF,Laliga,20 years old (25-05-2004),"1,92m",Spain,Defensive Midfielder (C),Central Midfield,right,5(12),320.0,-,-,5,-,69.8,0.1,-,6.07,"Jun 30, 2025",€1.00m
+541,Daniel Díaz,Real Sociedad,Laliga,18 years old (22-06-2006),167cm,,Forward,,,0(1),9.0,-,-,-,-,33.3,1,-,6.07,,
+542,Daniel Yáñez,Real Madrid,Laliga,18 years old (28-03-2007),177cm,,Forward,,,0(1),1.0,-,-,-,-,-,-,-,6.07,,
+543,Kelechi Iheanacho,Middlesbrough,Laliga,28 years old (03-10-1996),185cm,Nigeria,"Attacking Midfielder (Centre), Forward",,,5(4),402.0,-,-,-,-,74.7,0.2,-,6.07,,
+544,Nacho Vidal,Real Oviedo,Laliga,30 years old (24-01-1995),180cm,Spain,Defender (Right),,,1(4),120.0,-,-,-,-,77.1,0.6,-,6.05,,
+545,Mateo Flores,Real Betis Balompié,Laliga,21 years old (07-04-2004),"1,78m",Spain,Midfielder,Central Midfield,left,1(5),150.0,-,-,1,-,80.9,-,-,6.05,"Jun 30, 2029",€1.00m
+546,Lorenzo Aguado,Real Madrid,Laliga,22 years old (19-09-2002),177cm,Spain,Defender,,,0(2),4.0,-,-,-,-,-,-,-,6.05,,
+547,Rodrigo Abajas,Valencia CF,Laliga,21 years old (12-05-2003),186cm,Spain,Defender,,,1,66.0,-,-,1,-,55,-,-,6.05,,
+548,Marcão,Sevilla FC,Laliga,28 years old (05-06-1996),"1,85m",Brazil,Defender (Centre),Centre-Back,left,5(6),462.0,-,-,3,1,88.5,1.2,-,6.05,"Jun 30, 2027",€3.00m
+549,Jan Salas,RCD Mallorca,Laliga,19 years old (10-08-2005),182cm,,Midfielder,,,0(3),21.0,-,-,-,-,81.3,0.3,-,6.05,,
+550,Álvaro Odriozola,Real Sociedad,Laliga,29 years old (14-12-1995),"1,76m",Spain,Defender (Right),Right-Back,right,0(2),42.0,-,-,1,-,70.8,0.5,-,6.05,"Jun 30, 2029",€1.20m
+551,Enzo Loiodice,UD Las Palmas,Laliga,24 years old (27-11-2000),"1,77m",France,Defensive Midfielder (C),Central Midfield,left,5(10),498.0,-,-,3,-,85.4,0.5,-,6.04,"Jun 30, 2026",€1.50m
+552,Diego Hormigo,Sevilla FC,Laliga,22 years old (16-04-2003),182cm,Spain,Defender,,,1,38.0,-,-,-,-,71.4,1,-,6.03,,
+553,Gorka Rivera,Getafe CF,Laliga,20 years old (01-08-2004),184cm,,Defender,,,0(1),19.0,-,-,-,-,33.3,-,-,6.03,,
+554,Chuki,Real Valladolid CF,Laliga,21 years old (29-04-2004),-,,Midfielder,Attacking Midfield,left,7(8),629.0,1,-,1,-,75.4,-,-,6.02,"Jun 30, 2025",€1.00m
+555,Kim Min-Su,Girona FC,Laliga,19 years old (19-01-2006),"1,77m",South Korea,Forward,Left Winger,right,0(3),20.0,-,-,-,-,90,-,-,6.01,"Jun 30, 2027",€1.00m
+556,Maximiliano Caufriez,Salzburg,Laliga,28 years old (16-02-1997),189cm,Belgium,"Defender (Centre, Right)",,,1,90.0,-,-,-,-,78.6,2,-,6.01,,
+557,Tadeo Allende,Inter Miami CF,Laliga,26 years old (20-02-1999),183cm,Argentina,"Attacking Midfielder (Left, Right)",,,0(1),1.0,-,-,-,-,33.3,-,-,6.01,,
+558,Raúl de Tomás,Rayo Vallecano,Laliga,30 years old (17-10-1994),"1,80m",Spain,Forward,Centre-Forward,right,0(2),21.0,-,-,-,-,83.3,-,-,6.01,"Jun 30, 2027",€800k
+559,Iker Benito,CD Mirandes,Laliga,22 years old (10-08-2002),176cm,Spain,Forward,,,0(2),35.0,-,-,-,-,81.8,-,-,6.01,,
+560,Israel Domínguez,Sevilla FC,Laliga,21 years old (07-05-2003),175cm,Spain,Forward,,,0(1),17.0,-,-,-,-,100,-,-,6.0,,
+561,Juan Carlos,Girona FC,Laliga,37 years old (20-01-1988),"1,87m",Spain,Goalkeeper,Goalkeeper,,1,1.0,-,-,-,1,-,-,-,6.0,"Jun 30, 2025",€100k
+562,Rafael Bauza,RCD Espanyol Barcelona,Laliga,20 years old (30-01-2005),"1,83m",,Midfielder,Central Midfield,right,2(3),182.0,-,-,1,-,85.2,0.6,-,6.0,"Jun 30, 2028",€200k
+563,Ismael Bekhoucha,Getafe CF,Laliga,20 years old (20-11-2004),176cm,,Defender,,,0(2),8.0,-,-,1,-,50,-,-,6.0,,
+564,Arnau Solà,Villarreal CF,Laliga,22 years old (04-04-2003),179cm,,Defender,,,0(1),12.0,-,-,-,-,50,-,-,5.99,,
+565,Javier Martón,Albacete,Laliga,25 years old (06-05-1999),183cm,Spain,Forward,,,0(3),49.0,-,-,1,-,85.7,0.7,-,5.99,,
+566,Marc Cardona,UD Las Palmas,Laliga,29 years old (08-07-1995),"1,82m",Spain,Forward,Centre-Forward,right,0(10),102.0,-,-,1,-,83.3,-,-,5.98,"Jun 30, 2026",€900k
+567,Adrián Niño,Atlético de Madrid,Laliga,20 years old (19-06-2004),184cm,Spain,Forward,,,0(1),11.0,-,-,-,-,-,-,-,5.98,,
+568,Alberto Marí,Real Zaragoza,Laliga,23 years old (11-07-2001),183cm,Spain,Forward,,,0(1),6.0,-,-,-,-,50,-,-,5.98,,
+569,Luca de la Torre,San Diego FC,Laliga,26 years old (23-05-1998),178cm,USA,"Midfielder (Centre, Left, Right)",,,0(1),4.0,-,-,-,-,80,-,-,5.98,,
+570,Roger Hinojo,RCD Espanyol Barcelona,Laliga,20 years old (21-02-2005),180cm,,Defender,,,0(1),8.0,-,-,-,-,57.1,-,-,5.98,,
+571,Joseph Aidoo,Real Valladolid CF,Laliga,29 years old (29-09-1995),"1,81m",Ghana,Defender (Centre),Centre-Back,right,5(2),538.0,-,-,-,-,89.7,0.9,-,5.97,"Jun 30, 2025",€1.40m
+572,Aboubacar Bassinga,UD Las Palmas,Laliga,19 years old (13-07-2005),178cm,Ivory Coast,Midfielder,,,0(1),3.0,-,-,-,-,50,-,-,5.94,,
+573,Darío Benavides,Sevilla FC,Laliga,22 years old (12-01-2003),178cm,,Defender,,,0(1),4.0,-,-,1,-,-,-,-,5.93,,
+574,David Otorbi,Valencia CF,Laliga,17 years old (16-10-2007),180cm,,Forward,,,0(1),13.0,-,-,-,-,50,-,-,5.92,,
+575,Javi Martínez,Eibar,Laliga,25 years old (22-12-1999),180cm,Spain,"Midfielder (Centre, Right)",,,0(1),5.0,-,-,-,-,100,-,-,5.92,,
+576,Kenedy,Real Valladolid CF,Laliga,29 years old (08-02-1996),"1,80m",Brazil,"Defender (Left), Midfielder (Left, Right)",Left Winger,left,0(2),7.0,-,-,-,-,50,-,-,5.91,"Jun 30, 2027",€300k
+577,Stole Dimitrievski,Valencia CF,Laliga,31 years old (25-12-1993),"1,88m",Macedonia,Goalkeeper,Goalkeeper,right,4,360.0,-,-,1,-,39.8,-,-,5.9,"Jun 30, 2026",€3.00m
+578,Jesús Vallejo,Real Madrid,Laliga,28 years old (05-01-1997),"1,84m",Spain,"Defender (Centre, Right)",Centre-Back,right,0(1),10.0,-,-,-,-,85.7,-,-,5.89,"Jun 30, 2025",€1.00m
+579,Thiago Ojeda,Villarreal CF,Laliga,22 years old (12-01-2003),188cm,,Midfielder,,,0(1),7.0,-,-,1,-,100,-,-,5.89,,
+580,Unai García,CA Osasuna,Laliga,33 years old (03-02-1992),"1,86m",Spain,Defender (Centre),Centre-Back,right,0(1),3.0,-,-,-,-,-,-,-,5.89,"Jun 30, 2025",€1.00m
+581,Urko González,RCD Espanyol Barcelona,Laliga,24 years old (20-03-2001),"1,89m",Spain,Defensive Midfielder (C),Defensive Midfield,right,1,46.0,-,-,1,-,62.5,-,-,5.79,"Jun 30, 2025",€1.50m
+582,Fran González,Real Madrid,Laliga,19 years old (24-06-2005),"1,99m",,Goalkeeper,Goalkeeper,right,1,90.0,-,-,-,-,94.1,-,-,5.78,"Jun 30, 2026",€400k
+583,Adu Ares,Athletic Bilbao,Laliga,23 years old (12-10-2001),183cm,,Forward,,,0(1),18.0,-,-,-,-,62.5,-,-,5.77,,
+584,André Ferreira,Real Valladolid CF,Laliga,28 years old (29-05-1996),"1,93m",Portugal,Goalkeeper,Goalkeeper,right,4,360.0,-,-,-,-,73.4,-,-,5.64,"Jun 30, 2027",€800k
+585,Arnau Rafús,Real Valladolid CF,Laliga,22 years old (27-04-2003),190cm,,Goalkeeper,,,1,90.0,-,-,-,-,73.7,-,-,5.21,,
+586,Valentín Pezzolesi,UD Las Palmas,Laliga,18 years old (16-04-2007),180cm,Argentina,Defender,,,0(1),5.0,-,-,-,-,40,-,-,5.09,,
+587,Juan Cruz,CA Osasuna,Laliga,,"1,82m",,,Left-Back,left,,,,,,,,,,,"Jun 30, 2026",€1.80m
+588,José Manuel Arnáiz,CA Osasuna,Laliga,,"1,73m",,,Left Winger,right,,,,,,,,,,,"Jun 30, 2025",€1.80m
+589,Adrià Altimira,CD Leganés,Laliga,,"1,70m",,,Right-Back,right,,,,,,,,,,,"Jun 30, 2025",€1.50m
+590,Fer López,Celta de Vigo,Laliga,,"1,88m",,,Right Winger,left,,,,,,,,,,,"Jun 30, 2028",€1.50m
+591,Carlos Protesoni,Deportivo Alavés,Laliga,,"1,85m",,,Defensive Midfield,right,,,,,,,,,,,"Jun 30, 2026",€1.50m
+592,Bertuğ Yıldırım,Getafe CF,Laliga,,"1,91m",,,Centre-Forward,right,,,,,,,,,,,"Jun 30, 2025",€2.50m
+593,Jiri Letacek,Getafe CF,Laliga,,"1,96m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2028",€2.00m
+594,Vladyslav Krapyvtsov,Girona FC,Laliga,,"1,88m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2029",€200k
+595,Omar Sadik,RCD Espanyol Barcelona,Laliga,,-,,,Centre-Forward,left,,,,,,,,,,,"Jun 30, 2028",€500k
+596,Ángel Fortuño,RCD Espanyol Barcelona,Laliga,,"1,83m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2027",€300k
+597,Fernando Pacheco,RCD Espanyol Barcelona,Laliga,,"1,87m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2026",€900k
+598,Pablo Ramón,RCD Espanyol Barcelona,Laliga,,"1,84m",,,Centre-Back,right,,,,,,,,,,,"Jun 30, 2028",€200k
+599,David López,RCD Mallorca,Laliga,,"1,95m",,,Centre-Back,,,,,,,,,,,,"Jun 30, 2027",€500k
+600,Iván Cuéllar,RCD Mallorca,Laliga,,"1,87m",,,Goalkeeper,left,,,,,,,,,,,"Jun 30, 2025",€100k
+601,Joni Montiel,Rayo Vallecano,Laliga,,"1,73m",,,Attacking Midfield,left,,,,,,,,,,,"Jun 30, 2025",€900k
+602,Jaume Doménech,Valencia CF,Laliga,,"1,85m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2025",€600k
+603,Iker Álvarez,Villarreal CF,Laliga,,"1,90m",,,Goalkeeper,right,,,,,,,,,,,"Jun 30, 2026",€800k

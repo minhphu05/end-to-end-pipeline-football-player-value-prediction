@@ -1,0 +1,32 @@
+,CLB,Name,Main_position,Height,Foot,Contract,Market_Value
+0,SS Lazio,Ivan Provedel,Goalkeeper,"1,94m",right,"Jun 30, 2027",€7.00m
+1,SS Lazio,Christos Mandas,Goalkeeper,"1,89m",right,"Jun 30, 2029",€5.00m
+2,SS Lazio,Davide Renzetti,Goalkeeper,"1,94m",right,"Jun 30, 2027",€100k
+3,SS Lazio,Alessio Furlanetto,Goalkeeper,"1,91m",,"Jun 30, 2028",€50k
+4,SS Lazio,Mario Gila,Centre-Back,"1,85m",right,"Jun 30, 2027",€28.00m
+5,SS Lazio,Alessio Romagnoli,Centre-Back,"1,85m",left,"Jun 30, 2027",€12.00m
+6,SS Lazio,Samuel Gigot,Centre-Back,"1,87m",right,"Jun 30, 2025",€4.00m
+7,SS Lazio,Patric,Centre-Back,"1,84m",right,"Jun 30, 2027",€4.00m
+8,SS Lazio,Oliver Provstgaard,Centre-Back,"1,94m",left,"Jun 30, 2029",€3.50m
+9,SS Lazio,Filipe Bordon,Centre-Back,"1,93m",right,"Jun 30, 2028",€500k
+10,SS Lazio,Nuno Tavares,Left-Back,"1,83m",left,"Jun 30, 2025",€25.00m
+11,SS Lazio,Luca Pellegrini,Left-Back,"1,78m",left,"Jun 30, 2025",€2.50m
+12,SS Lazio,Adam Marusic,Right-Back,"1,85m",right,"Jun 30, 2026",€4.00m
+13,SS Lazio,Elseid Hysaj,Right-Back,"1,82m",right,"Jun 30, 2026",€2.00m
+14,SS Lazio,Nicolò Rovella,Defensive Midfield,"1,79m",right,"Jun 30, 2025",€28.00m
+15,SS Lazio,Reda Belahyane,Defensive Midfield,"1,73m",right,"Jun 30, 2029",€10.00m
+16,SS Lazio,Mattéo Guendouzi,Central Midfield,"1,85m",right,"Jun 30, 2028",€32.00m
+17,SS Lazio,Matías Vecino,Central Midfield,"1,87m",right,"Jun 30, 2025",€2.50m
+18,SS Lazio,Toma Bašić,Central Midfield,"1,90m",left,"Jun 30, 2026",€1.00m
+19,SS Lazio,Manuel Lazzari,Right Midfield,"1,74m",right,"Jun 30, 2027",€4.00m
+20,SS Lazio,Fisayo Dele-Bashiru,Attacking Midfield,"1,86m",right,"Jun 30, 2025",€8.00m
+21,SS Lazio,Arijon Ibrahimovic,Attacking Midfield,"1,76m",right,"Jun 30, 2025",€4.00m
+22,SS Lazio,Cristo Muñoz,Attacking Midfield,-,right,"Jun 30, 2027",€250k
+23,SS Lazio,André Anderson,Attacking Midfield,"1,80m",right,"Jun 30, 2025",€200k
+24,SS Lazio,Mattia Zaccagni,Left Winger,"1,77m",right,"Jun 30, 2029",€20.00m
+25,SS Lazio,Gustav Isaksen,Right Winger,"1,81m",left,"Jun 30, 2028",€20.00m
+26,SS Lazio,Tijjani Noslin,Right Winger,"1,78m",right,"Jun 30, 2029",€12.00m
+27,SS Lazio,Loum Tchaouna,Right Winger,"1,80m",left,"Jun 30, 2029",€10.00m
+28,SS Lazio,Pedro,Right Winger,"1,67m",both,"Jun 30, 2025",€1.00m
+29,SS Lazio,Taty Castellanos,Centre-Forward,"1,78m",right,"Jun 30, 2028",€25.00m
+30,SS Lazio,Boulaye Dia,Centre-Forward,"1,80m",right,"Jun 30, 2026",€15.00m

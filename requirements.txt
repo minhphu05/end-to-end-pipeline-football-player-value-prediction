@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==2.2.0
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+tqdm==4.67.1
+unidecode
+scipy==1.16.2
+xgboost==3.1.2
+catboost==1.2.8
+lightgbm==4.2.0
+selenium==4.38.0
+fuzzywuzzy

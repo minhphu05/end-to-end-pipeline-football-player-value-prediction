@@ -1,0 +1,565 @@
+Name,Club,Age,Height,National,Positions
+Mohamed Salah,Liverpool,32 years old (15-06-1992),175cm,Egypt,"Attacking Midfielder (Centre, Left, Right), Forward"
+Bukayo Saka,Arsenal,23 years old (05-09-2001),178cm,England,"Defender (Left), Midfielder (Centre, Left, Right)"
+Alexander Isak,Newcastle,25 years old (21-09-1999),192cm,Sweden,"Attacking Midfielder (Left), Forward"
+Matheus Cunha,Wolves,25 years old (27-05-1999),183cm,Brazil,"Attacking Midfielder (Centre, Left), Forward"
+Erling Haaland,Manchester City,24 years old (21-07-2000),194cm,Norway,Forward
+Cole Palmer,Chelsea,22 years old (06-05-2002),189cm,England,"Attacking Midfielder (Centre, Right), Forward"
+Bryan Mbeumo,Brentford,25 years old (07-08-1999),173cm,Cameroon,"Attacking Midfielder (Left, Right), Forward"
+Luis Díaz,Liverpool,28 years old (13-01-1997),178cm,Colombia,"Attacking Midfielder (Left, Right), Forward"
+Omar Marmoush,Manchester City,26 years old (07-02-1999),183cm,Egypt,"Attacking Midfielder (Centre, Left), Forward"
+Bruno Fernandes,Manchester United,30 years old (08-09-1994),179cm,Portugal,"Midfielder (Centre, Left, Right), Forward"
+Antoine Semenyo,Bournemouth,25 years old (07-01-2000),185cm,Ghana,"Attacking Midfielder (Left, Right), Forward"
+Mark Travers,Middlesbrough,25 years old (18-05-1999),191cm,Ireland,Goalkeeper
+Jérémy Doku,Manchester City,22 years old (27-05-2002),173cm,Belgium,"Midfielder (Left, Right)"
+Amad Diallo,Manchester United,22 years old (11-07-2002),173cm,Ivory Coast,"Midfielder (Centre, Right)"
+Trent Alexander-Arnold,Liverpool,26 years old (07-10-1998),175cm,England,"Defender (Right), Defensive Midfielder (C), Midfielder (Right)"
+Brandon Austin,Tottenham,26 years old (08-01-1999),188cm,England,Goalkeeper
+Son Heung-Min,Tottenham,32 years old (08-07-1992),183cm,South Korea,"Midfielder (Centre, Left, Right), Forward"
+Antonee Robinson,Fulham,27 years old (08-08-1997),183cm,USA,"Defender (Left), Midfielder (Left)"
+Kai Havertz,Arsenal,25 years old (11-06-1999),193cm,Germany,"Midfielder (Centre, Right), Forward"
+Youri Tielemans,Aston Villa,27 years old (07-05-1997),176cm,Belgium,Midfielder (Centre)
+Virgil van Dijk,Liverpool,33 years old (08-07-1991),195cm,Netherlands,Defender (Centre)
+Daniel Muñoz,Crystal Palace,28 years old (26-05-1996),180cm,Colombia,"Defender (Centre, Right), Defensive Midfielder (C), Midfielder (Right)"
+James Tarkowski,Everton,32 years old (19-11-1992),185cm,England,Defender (Centre)
+Jarrod Bowen,West Ham,28 years old (20-12-1996),175cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Mikkel Damsgaard,Brentford,24 years old (03-07-2000),180cm,Denmark,"Attacking Midfielder (Centre, Left)"
+Alexis Mac Allister,Liverpool,26 years old (24-12-1998),176cm,Argentina,"Midfielder (Centre, Left), Forward"
+Jacob Murphy,Newcastle,30 years old (24-02-1995),179cm,England,"Defender (Right), Midfielder (Left, Right)"
+Mark Flekken,Brentford,31 years old (13-06-1993),195cm,Netherlands,Goalkeeper
+Ryan Gravenberch,Liverpool,22 years old (16-05-2002),190cm,Netherlands,Defensive Midfielder (C)
+Declan Rice,Arsenal,26 years old (14-01-1999),188cm,England,"Defender (Centre), Defensive Midfielder (C)"
+Eberechi Eze,Crystal Palace,26 years old (29-06-1998),178cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Neto,Arsenal,35 years old (19-07-1989),190cm,Brazil,Goalkeeper
+Aaron Wan-Bissaka,West Ham,27 years old (26-11-1997),183cm,England,"Defender (Left, Right), Midfielder (Right)"
+Chris Wood,Nottingham Forest,33 years old (07-12-1991),191cm,New Zealand,Forward
+Morgan Gibbs-White,Nottingham Forest,25 years old (27-01-2000),171cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Bruno Guimarães,Newcastle,27 years old (16-11-1997),182cm,Brazil,Defensive Midfielder (C)
+Murillo,Nottingham Forest,22 years old (04-07-2002),180cm,Brazil,Defender (Centre)
+Dwight McNeil,Everton,25 years old (22-11-1999),183cm,England,"Midfielder (Centre, Left, Right)"
+Iliman Ndiaye,Everton,25 years old (06-03-2000),180cm,Senegal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Moisés Caicedo,Chelsea,23 years old (02-11-2001),178cm,Ecuador,"Defender (Right), Defensive Midfielder (C)"
+Josko Gvardiol,Manchester City,23 years old (23-01-2002),185cm,Croatia,"Defender (Centre, Left)"
+Anthony Gordon,Newcastle,24 years old (24-02-2001),183cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Justin Kluivert,Bournemouth,25 years old (05-05-1999),171cm,Netherlands,"Attacking Midfielder (Centre, Left, Right), Forward"
+Elliot Anderson,Nottingham Forest,22 years old (06-11-2002),179cm,Scotland,"Midfielder (Centre, Left)"
+Alex Iwobi,Fulham,28 years old (03-05-1996),180cm,Nigeria,"Defender (Right), Midfielder (Centre, Left, Right)"
+Ayden Heaven,Manchester United,18 years old (22-09-2006),189cm,,Defender
+Mateo Kovacic,Manchester City,30 years old (06-05-1994),177cm,Croatia,"Midfielder (Centre, Left)"
+James Maddison,Tottenham,28 years old (23-11-1996),175cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Nicolas Jackson,Chelsea,23 years old (20-06-2001),186cm,Senegal,Forward
+Pedro Porro,Tottenham,25 years old (13-09-1999),173cm,Spain,"Defender (Right), Midfielder (Right)"
+Savinho,Manchester City,21 years old (10-04-2004),179cm,Brazil,"Attacking Midfielder (Centre, Left, Right)"
+Dean Huijsen,Bournemouth,20 years old (14-04-2005),195cm,Spain,Defender (Centre)
+Kevin De Bruyne,Manchester City,33 years old (28-06-1991),181cm,Belgium,"Midfielder (Centre, Left, Right), Forward"
+Julio Enciso,Ipswich,21 years old (23-01-2004),173cm,Paraguay,"Attacking Midfielder (Centre, Left)"
+Abdul Fatawu,Leicester,21 years old (08-03-2004),177cm,Ghana,"Attacking Midfielder (Left, Right)"
+Thomas Partey,Arsenal,31 years old (13-06-1993),185cm,Ghana,"Defender (Right), Midfielder (Centre, Right)"
+Guglielmo Vicario,Tottenham,28 years old (07-10-1996),194cm,Italy,Goalkeeper
+Nathan Collins,Brentford,23 years old (30-04-2001),193cm,Ireland,"Defender (Centre, Right)"
+Callum Hudson-Odoi,Nottingham Forest,24 years old (07-11-2000),182cm,England,"Midfielder (Centre, Left, Right)"
+João Pedro,Brighton,23 years old (26-09-2001),182cm,Brazil,"Attacking Midfielder (Centre, Left), Forward"
+Enzo Fernández,Chelsea,24 years old (17-01-2001),178cm,Argentina,Midfielder (Centre)
+Yoane Wissa,Brentford,28 years old (03-09-1996),176cm,DR Congo,"Attacking Midfielder (Left), Forward"
+Joelinton,Newcastle,28 years old (14-08-1996),186cm,Brazil,"Attacking Midfielder (Centre, Left, Right), Forward"
+Rayan Aït-Nouri,Wolves,23 years old (06-06-2001),180cm,Algeria,"Defender (Left), Midfielder (Left)"
+Nikola Milenkovic,Nottingham Forest,27 years old (12-10-1997),195cm,Serbia,"Defender (Centre, Right)"
+Lewis Hall,Newcastle,20 years old (08-09-2004),179cm,England,"Defender (Left), Midfielder (Left)"
+Dango Ouattara,Bournemouth,23 years old (11-02-2002),177cm,Burkina Faso,"Defender (Left), Midfielder (Left, Right), Forward"
+Ryan Christie,Bournemouth,30 years old (22-02-1995),178cm,Scotland,"Midfielder (Centre, Left, Right), Forward"
+Trevoh Chalobah,Chelsea,25 years old (05-07-1999),190cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+Jason Steele,Brighton,34 years old (18-08-1990),188cm,England,Goalkeeper
+Sven Botman,Newcastle,25 years old (12-01-2000),193cm,Netherlands,Defender (Centre)
+Emmanuel Agbadou,Wolves,27 years old (17-06-1997),192cm,Ivory Coast,"Defender (Centre, Right), Defensive Midfielder (C)"
+Dejan Kulusevski,Tottenham,24 years old (25-04-2000),186cm,Sweden,"Attacking Midfielder (Centre, Right), Forward"
+Dominic Solanke,Tottenham,27 years old (14-09-1997),187cm,England,Forward
+Christian Nørgaard,Brentford,31 years old (10-03-1994),187cm,Denmark,"Defender (Centre), Defensive Midfielder (C)"
+Gabriel Magalhães,Arsenal,27 years old (19-12-1997),190cm,Brazil,Defender (Centre)
+Kaoru Mitoma,Brighton,27 years old (20-05-1997),178cm,Japan,Midfielder (Left)
+Morgan Rogers,Aston Villa,22 years old (26-07-2002),187cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Djed Spence,Tottenham,24 years old (09-08-2000),185cm,England,"Defender (Left, Right), Midfielder (Right)"
+Carlos Baleba,Brighton,21 years old (03-01-2004),179cm,Cameroon,Defensive Midfielder (C)
+Lewis Cook,Bournemouth,28 years old (03-02-1997),175cm,England,"Defender (Right), Midfielder (Centre, Left)"
+Brennan Johnson,Tottenham,23 years old (23-05-2001),186cm,Wales,"Attacking Midfielder (Centre, Left, Right), Forward"
+Neco Williams,Nottingham Forest,24 years old (13-04-2001),183cm,Wales,"Defender (Left, Right), Midfielder (Left, Right)"
+Maxence Lacroix,Crystal Palace,25 years old (06-04-2000),190cm,France,Defender (Centre)
+Alex Palmer,Ipswich,28 years old (10-08-1996),191cm,England,Goalkeeper
+Ibrahima Konaté,Liverpool,25 years old (25-05-1999),194cm,France,Defender (Centre)
+Marcus Tavernier,Bournemouth,26 years old (22-03-1999),178cm,England,"Midfielder (Centre, Left, Right)"
+William Saliba,Arsenal,24 years old (24-03-2001),192cm,France,Defender (Centre)
+Dominik Szoboszlai,Liverpool,24 years old (25-10-2000),186cm,Hungary,"Attacking Midfielder (Centre, Left, Right), Forward"
+Lisandro Martínez,Manchester United,27 years old (18-01-1998),175cm,Argentina,"Defender (Centre, Left), Defensive Midfielder (C)"
+Diogo Dalot,Manchester United,26 years old (18-03-1999),183cm,Portugal,"Defender (Left, Right), Midfielder (Left, Right)"
+Mohammed Kudus,West Ham,24 years old (02-08-2000),177cm,Ghana,"Midfielder (Centre, Left, Right), Forward"
+Yankuba Minteh,Brighton,20 years old (22-07-2004),180cm,Gambia,Attacking Midfielder (Right)
+Evanilson,Bournemouth,25 years old (06-10-1999),183cm,Brazil,Forward
+Marcus Rashford,Aston Villa,27 years old (31-10-1997),180cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Cristian Romero,Tottenham,26 years old (27-04-1998),185cm,Argentina,Defender (Centre)
+Jean-Philippe Mateta,Crystal Palace,27 years old (28-06-1997),192cm,France,Forward
+Martin Dúbravka,Newcastle,36 years old (15-01-1989),190cm,Slovakia,Goalkeeper
+Matz Sels,Nottingham Forest,33 years old (26-02-1992),188cm,Belgium,Goalkeeper
+Marco Asensio,Aston Villa,29 years old (21-01-1996),182cm,Spain,"Attacking Midfielder (Centre, Left, Right), Forward"
+Noni Madueke,Chelsea,23 years old (10-03-2002),182cm,England,"Attacking Midfielder (Right), Forward"
+Dan Burn,Newcastle,32 years old (09-05-1992),198cm,England,"Defender (Centre, Left), Midfielder (Left)"
+Martin Ødegaard,Arsenal,26 years old (17-12-1998),178cm,Norway,"Attacking Midfielder (Centre, Right)"
+Idrissa Gueye,Everton,35 years old (26-09-1989),174cm,Senegal,Midfielder (Centre)
+Ola Aina,Nottingham Forest,28 years old (08-10-1996),184cm,Nigeria,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Casemiro,Manchester United,33 years old (23-02-1992),185cm,Brazil,"Defender (Centre), Defensive Midfielder (C)"
+Jordan Pickford,Everton,31 years old (07-03-1994),185cm,England,Goalkeeper
+Kenny Tete,Fulham,29 years old (09-10-1995),180cm,Netherlands,"Defender (Centre, Right), Midfielder (Right)"
+Cody Gakpo,Liverpool,25 years old (07-05-1999),193cm,Netherlands,"Attacking Midfielder (Centre, Left, Right), Forward"
+Mario Lemina,Galatasaray,31 years old (01-09-1993),184cm,Gabon,"Defender (Centre), Midfielder (Centre)"
+Pervis Estupiñán,Brighton,27 years old (21-01-1998),175cm,Ecuador,"Defender (Left), Midfielder (Left)"
+Tomás Soucek,West Ham,30 years old (27-02-1995),192cm,Czech Republic,Midfielder (Centre)
+Mikel Merino,Arsenal,28 years old (22-06-1996),189cm,Spain,"Midfielder (Centre), Forward"
+Joachim Andersen,Fulham,28 years old (31-05-1996),192cm,Denmark,Defender (Centre)
+Phil Foden,Manchester City,24 years old (28-05-2000),171cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Milos Kerkez,Bournemouth,21 years old (07-11-2003),180cm,Hungary,"Defender (Left), Midfielder (Left)"
+Jarrad Branthwaite,Everton,22 years old (27-06-2002),195cm,England,Defender (Centre)
+Nico O'Reilly,Manchester City,20 years old (21-03-2005),188cm,England,Defender (Left)
+Tyrone Mings,Aston Villa,32 years old (13-03-1993),196cm,England,"Defender (Centre, Left)"
+Marshall Munetsi,Wolves,28 years old (22-06-1996),188cm,Zimbabwe,"Defender (Centre), Midfielder (Centre)"
+Kevin Schade,Brentford,23 years old (27-11-2001),183cm,Germany,"Attacking Midfielder (Left, Right), Forward"
+Bernardo Silva,Manchester City,30 years old (10-08-1994),173cm,Portugal,"Midfielder (Centre, Left, Right), Forward"
+Gabriel Martinelli,Arsenal,23 years old (18-06-2001),178cm,Brazil,"Attacking Midfielder (Left, Right), Forward"
+Nick Pope,Newcastle,32 years old (19-04-1992),191cm,England,Goalkeeper
+Raúl Jiménez,Fulham,33 years old (05-05-1991),190cm,Mexico,Forward
+David Raya,Arsenal,29 years old (15-09-1995),183cm,Spain,Goalkeeper
+Ben Davies,Tottenham,31 years old (24-04-1993),181cm,Wales,"Defender (Centre, Left), Midfielder (Left)"
+Leandro Trossard,Arsenal,30 years old (04-12-1994),172cm,Belgium,"Midfielder (Centre, Left, Right), Forward"
+Jurriën Timber,Arsenal,23 years old (17-06-2001),179cm,Netherlands,"Defender (Centre, Left, Right)"
+Anthony Elanga,Nottingham Forest,22 years old (27-04-2002),178cm,Sweden,"Attacking Midfielder (Left, Right), Forward"
+Alisson Becker,Liverpool,32 years old (02-10-1992),193cm,Brazil,Goalkeeper
+Tyler Adams,Bournemouth,26 years old (14-02-1999),173cm,USA,"Defender (Right), Midfielder (Centre, Right)"
+Sandro Tonali,Newcastle,24 years old (08-05-2000),181cm,Italy,Defensive Midfielder (C)
+Vitalii Mykolenko,Everton,25 years old (29-05-1999),180cm,Ukraine,"Defender (Centre, Left), Midfielder (Left)"
+Marc Guéhi,Crystal Palace,24 years old (13-07-2000),182cm,England,Defender (Centre)
+Wilfred Ndidi,Leicester,28 years old (16-12-1996),183cm,Nigeria,"Defender (Centre), Midfielder (Centre)"
+Ethan Pinnock,Brentford,31 years old (29-05-1993),187cm,Jamaica,Defender (Centre)
+Ollie Watkins,Aston Villa,29 years old (30-12-1995),180cm,England,"Attacking Midfielder (Left, Right), Forward"
+Lucas Digne,Aston Villa,31 years old (20-07-1993),178cm,France,"Defender (Centre, Left), Midfielder (Left)"
+Noussair Mazraoui,Manchester United,27 years old (14-11-1997),183cm,Morocco,"Defender (Centre, Left, Right), Midfielder (Right)"
+Harvey Barnes,Newcastle,27 years old (09-12-1997),174cm,England,"Attacking Midfielder (Centre, Left)"
+Nico González,Manchester City,23 years old (03-01-2002),188cm,Spain,Midfielder (Centre)
+Danny Welbeck,Brighton,34 years old (26-11-1990),185cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Fabian Schär,Newcastle,33 years old (20-12-1991),186cm,Switzerland,Defender (Centre)
+Ismaïla Sarr,Crystal Palace,27 years old (25-02-1998),185cm,Senegal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Jørgen Strand Larsen,Wolves,25 years old (06-02-2000),193cm,Norway,Forward
+Jake O'Brien,Everton,23 years old (15-05-2001),197cm,Ireland,"Defender (Centre, Right)"
+Maximilian Kilman,West Ham,27 years old (23-05-1997),194cm,England,Defender (Centre)
+Dara O'Shea,Ipswich,26 years old (04-03-1999),189cm,Ireland,"Defender (Centre, Right)"
+Carlos Alcaraz,Everton,22 years old (30-11-2002),176cm,,"Midfielder (Centre, Left), Forward"
+Rodrigo Bentancur,Tottenham,27 years old (25-06-1997),187cm,Uruguay,Midfielder (Centre)
+Liam Delap,Ipswich,22 years old (08-02-2003),186cm,England,"Attacking Midfielder (Right), Forward"
+Kepa,Bournemouth,30 years old (03-10-1994),189cm,Spain,Goalkeeper
+Ferdi Kadioglu,Brighton,25 years old (07-10-1999),174cm,Turkey,"Defender (Left, Right), Midfielder (Centre, Left, Right)"
+Wesley Fofana,Chelsea,24 years old (17-12-2000),190cm,France,Defender (Centre)
+Destiny Udogie,Tottenham,22 years old (28-11-2002),186cm,Italy,"Defender (Left), Midfielder (Left)"
+Keane Lewis-Potter,Brentford,24 years old (22-02-2001),170cm,England,"Defender (Left), Midfielder (Centre, Left, Right), Forward"
+Illia Zabarnyi,Bournemouth,22 years old (01-09-2002),189cm,Ukraine,Defender (Centre)
+Matthijs de Ligt,Manchester United,25 years old (12-08-1999),187cm,Netherlands,Defender (Centre)
+Marcus Rashford,Aston Villa,27 years old (31-10-1997),180cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Riccardo Calafiori,Arsenal,22 years old (19-05-2002),188cm,Italy,"Defender (Centre, Left)"
+Toti Gomes,Wolves,26 years old (16-01-1999),187cm,Portugal,"Defender (Centre, Left)"
+Diogo Jota,Liverpool,28 years old (04-12-1996),178cm,Portugal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Jan Paul van Hecke,Brighton,24 years old (08-06-2000),189cm,Netherlands,Defender (Centre)
+Harry Maguire,Manchester United,32 years old (05-03-1993),194cm,England,Defender (Centre)
+Pedro Neto,Chelsea,25 years old (09-03-2000),172cm,Portugal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Jan Bednarek,Southampton,29 years old (12-04-1996),189cm,Poland,Defender (Centre)
+Joël Veltman,Brighton,33 years old (15-01-1992),184cm,Netherlands,"Defender (Centre, Right), Midfielder (Right)"
+Antonín Kinsky,Tottenham,22 years old (13-03-2003),190cm,Czech Republic,Goalkeeper
+Chris Richards,Crystal Palace,25 years old (28-03-2000),188cm,USA,"Defender (Centre), Defensive Midfielder (C)"
+Nélson Semedo,Wolves,31 years old (16-11-1993),177cm,Portugal,"Defender (Centre, Left, Right), Midfielder (Right)"
+Jadon Sancho,Chelsea,25 years old (25-03-2000),180cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Timothy Castagne,Fulham,29 years old (05-12-1995),185cm,Belgium,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Tyrick Mitchell,Crystal Palace,25 years old (01-09-1999),175cm,England,"Defender (Left), Midfielder (Left)"
+Levi Colwill,Chelsea,22 years old (26-02-2003),187cm,England,"Defender (Centre, Left)"
+Tosin Adarabioyo,Chelsea,27 years old (24-09-1997),196cm,England,"Defender (Centre, Right)"
+Mateus Fernandes,Southampton,20 years old (10-07-2004),178cm,Portugal,"Attacking Midfielder (Centre, Left)"
+Axel Disasi,Aston Villa,27 years old (11-03-1998),190cm,France,"Defender (Centre, Right)"
+Yerson Mosquera,Wolves,23 years old (02-05-2001),187cm,Colombia,Defender (Centre)
+Sepp van den Berg,Brentford,23 years old (20-12-2001),189cm,Netherlands,"Defender (Centre, Right), Midfielder (Right)"
+Matty Cash,Aston Villa,27 years old (07-08-1997),185cm,Poland,"Defender (Right), Midfielder (Centre, Left, Right)"
+Matt Doherty,Wolves,33 years old (16-01-1992),185cm,Ireland,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Harry Wilson,Fulham,28 years old (22-03-1997),173cm,Wales,"Attacking Midfielder (Centre, Left, Right)"
+Lukasz Fabianski,West Ham,40 years old (18-04-1985),190cm,Poland,Goalkeeper
+Tino Livramento,Newcastle,22 years old (12-11-2002),182cm,England,"Defender (Left, Right)"
+James Milner,Brighton,39 years old (04-01-1986),175cm,England,"Defender (Left, Right), Midfielder (Centre, Left, Right)"
+James Ward-Prowse,West Ham,30 years old (01-11-1994),173cm,England,"Midfielder (Centre, Right)"
+Aaron Ramsdale,Southampton,26 years old (14-05-1998),190cm,England,Goalkeeper
+Conor Townsend,Ipswich,32 years old (04-03-1993),183cm,England,"Defender (Centre, Left), Midfielder (Left)"
+Cameron Burgess,Ipswich,29 years old (21-10-1995),194cm,Australia,"Defender (Centre, Left)"
+Sasa Lukic,Fulham,28 years old (13-08-1996),183cm,Serbia,Midfielder (Centre)
+Kieran Trippier,Newcastle,34 years old (19-09-1990),178cm,England,"Defender (Left, Right), Midfielder (Right)"
+James Garner,Everton,24 years old (13-03-2001),186cm,England,"Midfielder (Centre, Right)"
+Ryan Yates,Nottingham Forest,27 years old (21-11-1997),190cm,England,Midfielder (Centre)
+Kevin Danso,Tottenham,26 years old (19-09-1998),190cm,Austria,Defender (Centre)
+Amadou Onana,Aston Villa,23 years old (16-08-2001),195cm,Belgium,Defensive Midfielder (C)
+Adama Traoré,Fulham,29 years old (25-01-1996),178cm,Spain,"Midfielder (Centre, Left, Right), Forward"
+Bernd Leno,Fulham,33 years old (04-03-1992),189cm,Germany,Goalkeeper
+Adam Wharton,Crystal Palace,21 years old (06-02-2004),182cm,England,Defensive Midfielder (C)
+Reece James,Chelsea,25 years old (08-12-1999),182cm,England,"Defender (Centre, Right), Defensive Midfielder (C), Midfielder (Right)"
+Michael Keane,Everton,32 years old (11-01-1993),191cm,England,"Defender (Centre, Right)"
+Ederson,Manchester City,31 years old (17-08-1993),188cm,Brazil,Goalkeeper
+Emiliano Martínez,Aston Villa,32 years old (02-09-1992),195cm,Argentina,Goalkeeper
+Matheus França,Crystal Palace,21 years old (01-04-2004),178cm,Brazil,Forward
+Kostas Tsimikas,Liverpool,28 years old (12-05-1996),179cm,Greece,Defender (Left)
+Ilkay Gündogan,Manchester City,34 years old (24-10-1990),180cm,Germany,Midfielder (Centre)
+Matheus Nunes,Manchester City,26 years old (27-08-1998),183cm,Portugal,"Defender (Right), Midfielder (Centre, Left, Right)"
+Ethan Nwaneri,Arsenal,18 years old (21-03-2007),176cm,England,Attacking Midfielder (Right)
+Sander Berge,Fulham,27 years old (14-02-1998),195cm,Norway,Midfielder (Centre)
+Marcos Senesi,Bournemouth,27 years old (10-05-1997),185cm,Argentina,Defender (Centre)
+Adam Webster,Brighton,30 years old (04-01-1995),191cm,England,Defender (Centre)
+Orel Mangala,Everton,27 years old (18-03-1998),178cm,Belgium,Midfielder (Centre)
+Facundo Buonanotte,Leicester,20 years old (23-12-2004),174cm,Argentina,"Attacking Midfielder (Centre, Right)"
+João Gomes,Wolves,24 years old (12-02-2001),176cm,Brazil,Midfielder (Centre)
+Georginio Rutter,Brighton,22 years old (20-04-2002),182cm,France,"Attacking Midfielder (Centre, Right), Forward"
+Ezri Konsa,Aston Villa,27 years old (23-10-1997),183cm,England,"Defender (Centre, Right)"
+Beto,Everton,27 years old (31-01-1998),194cm,Portugal,Forward
+Reiss Nelson,Fulham,25 years old (10-12-1999),175cm,England,"Midfielder (Left, Right)"
+Micky van de Ven,Tottenham,23 years old (19-04-2001),193cm,Netherlands,"Defender (Centre, Left)"
+Manuel Ugarte,Manchester United,24 years old (11-04-2001),182cm,Uruguay,Defensive Midfielder (C)
+Ryan Manning,Southampton,28 years old (14-06-1996),173cm,Ireland,"Defender (Centre, Left), Midfielder (Centre, Left, Right)"
+Andreas Pereira,Fulham,29 years old (01-01-1996),178cm,Brazil,"Midfielder (Centre, Left, Right)"
+Dominic Calvert-Lewin,Everton,28 years old (16-03-1997),187cm,England,"Attacking Midfielder (Left), Forward"
+Nicolás Domínguez,Nottingham Forest,26 years old (28-06-1998),179cm,Argentina,"Midfielder (Centre, Left, Right)"
+Caoimhín Kelleher,Liverpool,26 years old (23-11-1998),188cm,Ireland,Goalkeeper
+Dean Henderson,Crystal Palace,28 years old (12-03-1997),188cm,England,Goalkeeper
+Boubacar Kamara,Aston Villa,25 years old (23-11-1999),184cm,France,"Defender (Centre, Left), Defensive Midfielder (C)"
+Rúben Dias,Manchester City,27 years old (14-05-1997),187cm,Portugal,Defender (Centre)
+Arijanet Muric,Ipswich,26 years old (07-11-1998),198cm,Kosovo,Goalkeeper
+Marc Cucurella,Chelsea,26 years old (22-07-1998),172cm,Spain,"Defender (Centre, Left), Midfielder (Left)"
+Jefferson Lerma,Crystal Palace,30 years old (25-10-1994),179cm,Colombia,"Defender (Centre, Right), Defensive Midfielder (C)"
+Andy Robertson,Liverpool,31 years old (11-03-1994),178cm,Scotland,"Defender (Left), Midfielder (Left)"
+Robin Olsen,Aston Villa,35 years old (08-01-1990),198cm,Sweden,Goalkeeper
+Yasin Ayari,Brighton,21 years old (06-10-2003),172cm,Sweden,Midfielder (Centre)
+Jonny Evans,Manchester United,37 years old (03-01-1988),188cm,N. Ireland,"Defender (Centre, Left)"
+Konstantinos Mavropanos,West Ham,27 years old (11-12-1997),194cm,Greece,"Defender (Centre, Right)"
+Emerson,West Ham,30 years old (03-08-1994),176cm,Italy,"Defender (Left), Midfielder (Left)"
+André Onana,Manchester United,29 years old (02-04-1996),190cm,Cameroon,Goalkeeper
+Gabriel Jesus,Arsenal,28 years old (03-04-1997),175cm,Brazil,"Attacking Midfielder (Left, Right), Forward"
+Lucas Paquetá,West Ham,27 years old (27-08-1997),180cm,Brazil,"Midfielder (Centre, Left, Right), Forward"
+Curtis Jones,Liverpool,24 years old (30-01-2001),185cm,England,"Midfielder (Centre, Left)"
+Joe Gomez,Liverpool,27 years old (23-05-1997),188cm,England,"Defender (Centre, Left, Right)"
+Rodrigo Muniz,Fulham,23 years old (04-05-2001),178cm,Brazil,Forward
+Ben White,Arsenal,27 years old (08-10-1997),186cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+Robert Sánchez,Chelsea,27 years old (18-11-1997),197cm,Spain,Goalkeeper
+Emile Smith Rowe,Fulham,24 years old (28-07-2000),182cm,England,"Attacking Midfielder (Centre, Left)"
+Ashley Young,Everton,39 years old (09-07-1985),175cm,England,"Defender (Left, Right), Midfielder (Left, Right)"
+Pape Sarr,Tottenham,22 years old (14-09-2002),185cm,Senegal,Midfielder (Centre)
+Toby Collyer,Manchester United,21 years old (03-01-2004),180cm,England,Midfielder
+Jacob Greaves,Ipswich,24 years old (12-09-2000),185cm,England,"Defender (Centre, Left)"
+Jamie Vardy,Leicester,38 years old (11-01-1987),179cm,England,"Attacking Midfielder (Left), Forward"
+Rodri,Manchester City,28 years old (22-06-1996),190cm,Spain,"Defender (Centre), Defensive Midfielder (C)"
+André,Wolves,23 years old (16-07-2001),176cm,Brazil,Defensive Midfielder (C)
+Ross Barkley,Aston Villa,31 years old (05-12-1993),189cm,England,"Midfielder (Centre, Left, Right)"
+Trevoh Chalobah,Chelsea,25 years old (05-07-1999),190cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+James Justin,Leicester,27 years old (23-02-1998),183cm,England,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Leif Davis,Ipswich,25 years old (31-12-1999),182cm,England,"Defender (Left), Midfielder (Left)"
+Richarlison,Tottenham,27 years old (10-05-1997),184cm,Brazil,"Attacking Midfielder (Centre, Left, Right), Forward"
+Victor Kristiansen,Leicester,22 years old (16-12-2002),181cm,Denmark,"Defender (Left), Midfielder (Left)"
+Ryan Sessegnon,Fulham,24 years old (18-05-2000),178cm,England,"Defender (Left), Midfielder (Left, Right)"
+Álex Moreno,Nottingham Forest,31 years old (08-06-1993),179cm,Spain,"Defender (Left), Midfielder (Left)"
+Mads Hermansen,Leicester,24 years old (11-07-2000),187cm,Denmark,Goalkeeper
+Carlos Alcaraz,Everton,22 years old (30-11-2002),176cm,,"Midfielder (Centre, Left), Forward"
+Fraser Forster,Tottenham,37 years old (17-03-1988),201cm,England,Goalkeeper
+Darwin Núñez,Liverpool,25 years old (24-06-1999),187cm,Uruguay,"Attacking Midfielder (Centre, Left), Forward"
+João Félix,AC Milan,25 years old (10-11-1999),181cm,Portugal,"Attacking Midfielder (Centre, Left), Forward"
+Vitaly Janelt,Brentford,26 years old (10-05-1998),184cm,Germany,"Defender (Left), Defensive Midfielder (C)"
+Alphonse Areola,West Ham,32 years old (27-02-1993),195cm,France,Goalkeeper
+Abdoulaye Doucouré,Everton,32 years old (01-01-1993),184cm,Mali,Midfielder (Centre)
+Jack Hinshelwood,Brighton,20 years old (11-04-2005),181cm,England,"Defender (Left, Right), Defensive Midfielder (C)"
+Calvin Bassey,Fulham,25 years old (31-12-1999),185cm,Nigeria,"Defender (Centre, Left)"
+Kobbie Mainoo,Manchester United,19 years old (19-04-2005),175cm,England,Midfielder (Centre)
+Alejandro Garnacho,Manchester United,20 years old (01-07-2004),180cm,Argentina,"Attacking Midfielder (Centre, Left, Right)"
+Jean-Ricner Bellegarde,Wolves,26 years old (27-06-1998),170cm,France,"Midfielder (Centre, Left, Right)"
+Paul Onuachu,Southampton,30 years old (28-05-1994),201cm,Nigeria,Forward
+Lucas Bergvall,Tottenham,19 years old (02-02-2006),187cm,Sweden,Defensive Midfielder (C)
+Nathan Aké,Manchester City,30 years old (18-02-1995),180cm,Netherlands,"Defender (Centre, Left), Defensive Midfielder (C)"
+John McGinn,Aston Villa,30 years old (18-10-1994),178cm,Scotland,"Midfielder (Centre, Left, Right)"
+Omari Hutchinson,Ipswich,21 years old (30-10-2003),174cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Mathys Tel,Tottenham,19 years old (27-04-2005),183cm,France,"Attacking Midfielder (Left), Forward"
+Niclas Füllkrug,West Ham,32 years old (09-02-1993),189cm,Germany,Forward
+Kristoffer Ajer,Brentford,27 years old (17-04-1998),198cm,Norway,"Defender (Centre, Left, Right), Defensive Midfielder (C)"
+Donyell Malen,Aston Villa,26 years old (19-01-1999),176cm,Netherlands,"Attacking Midfielder (Centre, Left, Right), Forward"
+Tyler Dibling,Southampton,19 years old (17-02-2006),178cm,England,"Attacking Midfielder (Right), Forward"
+Benoît Badiashile,Chelsea,24 years old (26-03-2001),194cm,France,Defender (Centre)
+Will Hughes,Crystal Palace,30 years old (17-04-1995),185cm,England,"Midfielder (Centre, Left, Right)"
+Alex Scott,Bournemouth,21 years old (21-08-2003),178cm,England,"Midfielder (Centre, Right)"
+Bilal El Khannouss,Leicester,20 years old (10-05-2004),180cm,Morocco,Attacking Midfielder (Centre)
+Stephy Mavididi,Leicester,26 years old (31-05-1998),182cm,England,"Attacking Midfielder (Left, Right), Forward"
+Tariq Lamptey,Brighton,24 years old (30-09-2000),163cm,Ghana,"Defender (Left, Right), Midfielder (Right)"
+Rico Lewis,Manchester City,20 years old (21-11-2004),169cm,England,"Defender (Left, Right), Midfielder (Centre)"
+Matt O'Riley,Brighton,24 years old (21-11-2000),187cm,Denmark,"Midfielder (Centre, Right)"
+Jakub Stolarczyk,Leicester,24 years old (19-12-2000),194cm,Poland,Goalkeeper
+Jaden Philogene,Ipswich,23 years old (08-02-2002),181cm,England,"Midfielder (Left, Right)"
+Jesper Lindstrøm,Everton,25 years old (29-02-2000),182cm,Denmark,"Attacking Midfielder (Centre, Left, Right), Forward"
+James Hill,Bournemouth,23 years old (10-01-2002),184cm,England,"Defender (Centre, Right)"
+Luis Sinisterra,Bournemouth,25 years old (17-06-1999),172cm,Colombia,"Attacking Midfielder (Left, Right), Forward"
+Jack Grealish,Manchester City,29 years old (10-09-1995),180cm,England,"Midfielder (Centre, Left), Forward"
+Kyle Walker-Peters,Southampton,28 years old (13-04-1997),173cm,England,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Jacob Ramsey,Aston Villa,23 years old (28-05-2001),180cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Takehiro Tomiyasu,Arsenal,26 years old (05-11-1998),187cm,Japan,"Defender (Centre, Left, Right)"
+Malo Gusto,Chelsea,21 years old (19-05-2003),179cm,France,"Defender (Right), Midfielder (Right)"
+Myles Lewis-Skelly,Arsenal,18 years old (26-09-2006),178cm,England,Defender (Left)
+Jota Silva,Nottingham Forest,25 years old (01-08-1999),179cm,Portugal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Bart Verbruggen,Brighton,22 years old (18-08-2002),193cm,Netherlands,Goalkeeper
+Vítezslav Jaros,Liverpool,23 years old (23-07-2001),190cm,Czech Republic,Goalkeeper
+Stefan Ortega,Manchester City,32 years old (06-11-1992),185cm,Germany,Goalkeeper
+Ibrahim Sangaré,Nottingham Forest,27 years old (02-12-1997),191cm,Ivory Coast,Defensive Midfielder (C)
+Jordan Ayew,Leicester,33 years old (11-09-1991),182cm,Ghana,"Attacking Midfielder (Centre, Left, Right), Forward"
+Romain Esse,Crystal Palace,19 years old (13-05-2005),175cm,,Attacking Midfielder (Right)
+Abdukodir Khusanov,Manchester City,21 years old (29-02-2004),186cm,Uzbekistan,Defender (Centre)
+Axel Disasi,Aston Villa,27 years old (11-03-1998),190cm,France,"Defender (Centre, Right)"
+Jhon Durán,Al Nassr FC,21 years old (13-12-2003),185cm,Colombia,Forward
+Sergio Reguilón,Tottenham,28 years old (16-12-1996),178cm,Spain,"Defender (Left), Midfielder (Left)"
+Sam Johnstone,Wolves,32 years old (25-03-1993),193cm,England,Goalkeeper
+Pau Torres,Aston Villa,28 years old (16-01-1997),191cm,Spain,Defender (Centre)
+Christian Eriksen,Manchester United,33 years old (14-02-1992),182cm,Denmark,"Midfielder (Centre, Left, Right), Forward"
+Ben Johnson,Ipswich,25 years old (24-01-2000),175cm,England,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+Manuel Akanji,Manchester City,29 years old (19-07-1995),186cm,Switzerland,"Defender (Centre, Left, Right), Defensive Midfielder (C)"
+Jean-Clair Todibo,West Ham,25 years old (30-12-1999),192cm,France,Defender (Centre)
+Roméo Lavia,Chelsea,21 years old (06-01-2004),181cm,Belgium,Defensive Midfielder (C)
+Yves Bissouma,Tottenham,28 years old (30-08-1996),182cm,Mali,Midfielder (Centre)
+José Sá,Wolves,32 years old (17-01-1993),192cm,Portugal,Goalkeeper
+Chadi Riad,Crystal Palace,21 years old (17-06-2003),186cm,Spain,Defender (Centre)
+Leon Bailey,Aston Villa,27 years old (09-08-1997),178cm,Jamaica,"Midfielder (Centre, Left, Right), Forward"
+John Stones,Manchester City,30 years old (28-05-1994),188cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+Jens Cajuste,Ipswich,25 years old (10-08-1999),188cm,,Defensive Midfielder (C)
+Billy Gilmour,Napoli,23 years old (11-06-2001),170cm,Scotland,Defensive Midfielder (C)
+Jack Harrison,Everton,28 years old (20-11-1996),175cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Ian Maatsen,Aston Villa,23 years old (10-03-2002),178cm,Netherlands,"Defender (Left), Midfielder (Centre, Left, Right)"
+Christopher Nkunku,Chelsea,27 years old (14-11-1997),178cm,France,"Midfielder (Centre, Left, Right), Forward"
+Luke Woolfenden,Ipswich,26 years old (21-10-1998),193cm,,Defender (Centre)
+Mathias Jensen,Brentford,29 years old (01-01-1996),180cm,Denmark,Midfielder (Centre)
+Kamaldeen Sulemana,Southampton,23 years old (15-02-2002),175cm,Ghana,"Attacking Midfielder (Left), Forward"
+Edson Álvarez,West Ham,27 years old (24-10-1997),187cm,Mexico,"Defender (Centre), Defensive Midfielder (C)"
+Joe Aribo,Southampton,28 years old (21-07-1996),183cm,Nigeria,"Midfielder (Centre, Left, Right), Forward"
+Jarell Quansah,Liverpool,22 years old (29-01-2003),190cm,England,Defender (Centre)
+Philip Billing,Napoli,28 years old (11-06-1996),193cm,Denmark,"Midfielder (Centre), Forward"
+Wout Faes,Leicester,27 years old (03-04-1998),187cm,Belgium,"Defender (Centre, Left)"
+Diego Gómez,Brighton,22 years old (27-03-2003),183cm,Paraguay,"Midfielder (Centre, Left)"
+Sam Morsy,Ipswich,33 years old (10-09-1991),175cm,Egypt,Midfielder (Centre)
+Lewis Dunk,Brighton,33 years old (21-11-1991),192cm,England,Defender (Centre)
+Crysencio Summerville,West Ham,23 years old (30-10-2001),174cm,Netherlands,"Attacking Midfielder (Left, Right)"
+Aaron Cresswell,West Ham,35 years old (15-12-1989),170cm,England,"Defender (Centre, Left), Midfielder (Left)"
+Jannik Vestergaard,Leicester,32 years old (03-08-1992),199cm,Denmark,Defender (Centre)
+Ollie Scarles,West Ham,19 years old (12-12-2005),182cm,England,Defender
+Taylor Harwood-Bellis,Southampton,23 years old (30-01-2002),188cm,England,"Defender (Centre, Right)"
+Pablo Sarabia,Wolves,32 years old (11-05-1992),174cm,Spain,"Defender (Left), Midfielder (Centre, Left, Right), Forward"
+Mads Roerslev,Wolfsburg,25 years old (24-06-1999),184cm,Denmark,"Defender (Right), Midfielder (Right)"
+Santiago Bueno,Wolves,26 years old (09-11-1998),190cm,Uruguay,Defender (Centre)
+Séamus Coleman,Everton,36 years old (11-10-1988),177cm,Ireland,"Defender (Centre, Right), Midfielder (Right)"
+David Brooks,Bournemouth,27 years old (08-07-1997),173cm,Wales,"Attacking Midfielder (Centre, Right)"
+Jack Clarke,Ipswich,24 years old (23-11-2000),181cm,England,"Midfielder (Left, Right)"
+Julio Enciso,Ipswich,21 years old (23-01-2004),173cm,Paraguay,"Attacking Midfielder (Centre, Left)"
+Caleb Okoli,Leicester,23 years old (13-07-2001),191cm,Nigeria,Defender (Centre)
+Nathan Broadhead,Ipswich,27 years old (05-04-1998),178cm,Wales,"Attacking Midfielder (Centre, Left, Right), Forward"
+Carlos Vinícius,Fulham,30 years old (25-03-1995),190cm,Brazil,Forward
+Michail Antonio,West Ham,35 years old (28-03-1990),180cm,Jamaica,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+Christian Walton,Ipswich,29 years old (09-11-1995),195cm,England,Goalkeeper
+Igor Thiago,Brentford,23 years old (26-06-2001),191cm,,Forward
+Josh King,Fulham,18 years old (03-01-2007),187cm,England,Midfielder
+Adam Smith,Bournemouth,33 years old (29-04-1991),180cm,England,"Defender (Left, Right), Midfielder (Left, Right)"
+Conor Bradley,Liverpool,21 years old (09-07-2003),180cm,N. Ireland,"Defender (Right), Midfielder (Right)"
+Harry Amass,Manchester United,18 years old (16-03-2007),181cm,England,Defender
+Patrick Dorgu,Manchester United,20 years old (26-10-2004),185cm,Denmark,"Defender (Left), Midfielder (Left, Right)"
+Guido Rodríguez,West Ham,31 years old (12-04-1994),185cm,Argentina,Defensive Midfielder (C)
+Yehor Yarmoliuk,Brentford,21 years old (01-03-2004),180cm,,Defensive Midfielder (C)
+Harry Winks,Leicester,29 years old (02-02-1996),178cm,England,Defensive Midfielder (C)
+Simon Adingra,Brighton,23 years old (01-01-2002),175cm,Ivory Coast,"Midfielder (Left, Right), Forward"
+Radu Dragusin,Tottenham,23 years old (03-02-2002),191cm,Romania,Defender (Centre)
+Morato,Nottingham Forest,23 years old (30-06-2001),192cm,,"Defender (Centre, Left)"
+Willy-Arnaud Boly,Nottingham Forest,34 years old (03-02-1991),195cm,Ivory Coast,Defender (Centre)
+Luke Thomas,Leicester,23 years old (10-06-2001),181cm,England,"Defender (Left), Midfielder (Left)"
+Igor Julio,Brighton,27 years old (07-02-1998),185cm,,"Defender (Centre, Left), Midfielder (Left)"
+Filip Jørgensen,Chelsea,23 years old (16-04-2002),190cm,Denmark,Goalkeeper
+Welington,Southampton,24 years old (19-02-2001),177cm,Brazil,"Defender (Left), Midfielder (Left)"
+Lesley Ugochukwu,Southampton,21 years old (26-03-2004),190cm,France,Defensive Midfielder (C)
+Tyrique George,Chelsea,19 years old (04-02-2006),181cm,England,Forward
+Antony,Real Betis,25 years old (24-02-2000),174cm,Brazil,Attacking Midfielder (Right)
+Ben Chilwell,Crystal Palace,28 years old (21-12-1996),178cm,England,"Defender (Left), Midfielder (Left)"
+Leny Yoro,Manchester United,19 years old (13-11-2005),190cm,France,Defender (Centre)
+James McAtee,Manchester City,22 years old (18-10-2002),180cm,England,"Attacking Midfielder (Centre, Right)"
+Tim Iroegbunam,Everton,21 years old (30-06-2003),183cm,England,Midfielder (Centre)
+Luke Shaw,Manchester United,29 years old (12-07-1995),178cm,England,"Defender (Centre, Left), Midfielder (Left)"
+Pedro Lima,Wolves,18 years old (01-07-2006),174cm,,Defender
+Joshua Zirkzee,Manchester United,23 years old (22-05-2001),193cm,Netherlands,"Attacking Midfielder (Centre), Forward"
+Max Aarons,Valencia,25 years old (04-01-2000),178cm,England,Defender (Right)
+Mats Wieffer,Brighton,25 years old (16-11-1999),188cm,Netherlands,Defensive Midfielder (C)
+Sam Szmodics,Ipswich,29 years old (24-09-1995),168cm,England,"Attacking Midfielder (Centre, Left), Forward"
+Issa Diop,Fulham,28 years old (09-01-1997),194cm,France,Defender (Centre)
+Jakub Kiwior,Arsenal,25 years old (15-02-2000),189cm,Poland,"Defender (Centre, Left), Defensive Midfielder (C)"
+Boubakary Soumaré,Leicester,26 years old (27-02-1999),188cm,France,Defensive Midfielder (C)
+Lamare Bogarde,Aston Villa,21 years old (05-01-2004),183cm,Netherlands,Defensive Midfielder (C)
+Kieran Tierney,Arsenal,27 years old (05-06-1997),178cm,Scotland,"Defender (Centre, Left), Midfielder (Left)"
+Chiedozie Ogbene,Ipswich,27 years old (01-05-1997),181cm,Ireland,"Midfielder (Centre, Left, Right), Forward"
+Danny Ings,West Ham,32 years old (23-07-1992),178cm,England,"Attacking Midfielder (Centre), Forward"
+Timo Werner,Tottenham,29 years old (06-03-1996),180cm,Germany,"Attacking Midfielder (Centre, Left, Right), Forward"
+Axel Tuanzebe,Ipswich,27 years old (14-11-1997),186cm,England,"Defender (Centre, Right)"
+Daichi Kamada,Crystal Palace,28 years old (05-08-1996),184cm,Japan,"Attacking Midfielder (Centre, Left, Right), Forward"
+Raheem Sterling,Arsenal,30 years old (08-12-1994),172cm,England,"Midfielder (Centre, Left, Right), Forward"
+Ramón Sosa,Nottingham Forest,25 years old (31-08-1999),179cm,Paraguay,"Attacking Midfielder (Left, Right)"
+Dane Scarlett,Tottenham,21 years old (24-03-2004),180cm,England,Forward
+Carlos Soler,West Ham,28 years old (02-01-1997),180cm,Spain,"Midfielder (Centre, Left, Right)"
+Charlie Taylor,Southampton,31 years old (18-09-1993),176cm,England,"Defender (Centre, Left), Midfielder (Left)"
+Youssef Chermiti,Everton,20 years old (24-05-2004),192cm,Portugal,Forward
+Flynn Downes,Southampton,26 years old (20-01-1999),173cm,England,"Defender (Centre), Midfielder (Centre)"
+Rodrigo Gomes,Wolves,21 years old (07-07-2003),175cm,Portugal,"Midfielder (Left, Right)"
+Michael Kayode,Brentford,20 years old (10-07-2004),179cm,,Defender (Right)
+Eddie Nketiah,Crystal Palace,25 years old (30-05-1999),175cm,England,"Attacking Midfielder (Centre), Forward"
+Vladimír Coufal,West Ham,32 years old (22-08-1992),174cm,Czech Republic,"Defender (Centre, Right), Midfielder (Right)"
+Jorge Cuenca,Fulham,25 years old (17-11-1999),190cm,Spain,"Defender (Centre, Left)"
+Matt Targett,Newcastle,29 years old (18-09-1995),183cm,England,"Defender (Left), Midfielder (Left)"
+Nathan Wood,Southampton,22 years old (31-05-2002),188cm,England,Defender (Centre)
+Alex McCarthy,Southampton,35 years old (03-12-1989),193cm,England,Goalkeeper
+Renato Veiga,Juventus,21 years old (29-07-2003),190cm,Portugal,"Defender (Centre, Left)"
+Kyle Walker,AC Milan,34 years old (28-05-1990),183cm,England,"Defender (Centre, Right), Midfielder (Right)"
+Cheick Doucouré,Crystal Palace,25 years old (08-01-2000),180cm,Mali,Defensive Midfielder (C)
+Harvey Elliott,Liverpool,22 years old (04-04-2003),170cm,England,"Attacking Midfielder (Centre, Right)"
+Samuel Edozie,Anderlecht,22 years old (28-01-2003),181cm,England,"Attacking Midfielder (Centre, Left, Right)"
+Hákon Valdimarsson,Brentford,23 years old (13-10-2001),188cm,Iceland,Goalkeeper
+Fábio Carvalho,Brentford,22 years old (30-08-2002),170cm,Portugal,"Attacking Midfielder (Centre, Left), Forward"
+Armel Bella-Kotchap,Southampton,23 years old (11-12-2001),190cm,Germany,Defender (Centre)
+Hamza Choudhury,Sheffield United,27 years old (01-10-1997),178cm,England,"Defender (Right), Defensive Midfielder (C)"
+Tom Cairney,Fulham,34 years old (20-01-1991),185cm,Scotland,"Midfielder (Centre, Right)"
+James Bree,Southampton,27 years old (11-12-1997),178cm,England,"Defender (Centre, Left, Right), Midfielder (Right)"
+Sean Longstaff,Newcastle,27 years old (30-10-1997),180cm,England,Defensive Midfielder (C)
+Craig Dawson,Wolves,34 years old (06-05-1990),188cm,England,"Defender (Centre, Right)"
+Lloyd Kelly,Juventus,26 years old (06-10-1998),178cm,England,"Defender (Centre, Left)"
+Victor Lindelöf,Manchester United,30 years old (17-07-1994),187cm,Sweden,"Defender (Centre, Left, Right)"
+Enes Ünal,Bournemouth,27 years old (10-05-1997),187cm,Turkey,Forward
+Kiernan Dewsbury-Hall,Chelsea,26 years old (06-09-1998),178cm,England,Midfielder (Centre)
+Ricardo Pereira,Leicester,31 years old (06-10-1993),175cm,Portugal,"Defender (Left, Right), Midfielder (Right)"
+Joe Willock,Newcastle,25 years old (20-08-1999),179cm,England,Midfielder (Centre)
+Conor Chaplin,Ipswich,28 years old (16-02-1997),168cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Danilo,Nottingham Forest,23 years old (29-04-2001),176cm,,Midfielder (Centre)
+Oleksandr Zinchenko,Arsenal,28 years old (15-12-1996),175cm,Ukraine,"Defender (Left), Midfielder (Centre, Left, Right)"
+Joachim Andersen,Fulham,28 years old (31-05-1996),192cm,Denmark,Defender (Centre)
+Oscar Bobb,Manchester City,21 years old (12-07-2003),174cm,Norway,Attacking Midfielder (Right)
+Kasey McAteer,Leicester,23 years old (22-11-2001),177cm,England,"Attacking Midfielder (Centre, Left, Right)"
+George Hirst,Ipswich,26 years old (15-02-1999),191cm,England,Forward
+Solly March,Brighton,30 years old (20-07-1994),180cm,England,"Midfielder (Centre, Left, Right)"
+Jay Robinson,Southampton,18 years old (15-03-2007),176cm,England,Forward
+Rico Henry,Brentford,27 years old (08-07-1997),170cm,England,"Defender (Left), Midfielder (Left)"
+Rasmus Højlund,Manchester United,22 years old (04-02-2003),191cm,Denmark,Forward
+Kalvin Phillips,Ipswich,29 years old (02-12-1995),178cm,England,"Defender (Centre), Defensive Midfielder (C)"
+Armando Broja,Everton,23 years old (10-09-2001),191cm,Albania,Forward
+Gonçalo Guedes,Wolves,28 years old (29-11-1996),179cm,Portugal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Lewis Miley,Newcastle,18 years old (01-05-2006),185cm,England,Midfielder (Centre)
+Diego Carlos,Fenerbahce,32 years old (15-03-1993),186cm,Brazil,Defender (Centre)
+Wes Burns,Ipswich,30 years old (23-11-1994),173cm,Wales,"Defender (Right), Midfielder (Left, Right)"
+Nathan Patterson,Everton,23 years old (16-10-2001),189cm,Scotland,"Defender (Right), Midfielder (Right)"
+Brajan Gruda,Brighton,20 years old (31-05-2004),178cm,Germany,"Attacking Midfielder (Centre, Right)"
+Adam Lallana,Southampton,36 years old (10-05-1988),172cm,England,"Midfielder (Centre, Left, Right)"
+Wilson Odobert,Tottenham,20 years old (28-11-2004),182cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+Yukinari Sugawara,Southampton,24 years old (28-06-2000),179cm,Japan,"Defender (Right), Midfielder (Right)"
+Emil Krafth,Newcastle,30 years old (02-08-1994),184cm,Sweden,"Defender (Centre, Right), Midfielder (Right)"
+Evan Ferguson,West Ham,20 years old (19-10-2004),183cm,Ireland,Forward
+Jorginho,Arsenal,33 years old (20-12-1991),180cm,Italy,Defensive Midfielder (C)
+Paris Maghoma,Brentford,23 years old (08-05-2001),181cm,,Defensive Midfielder (C)
+Justin Devenny,Crystal Palace,21 years old (11-10-2003),178cm,Scotland,Midfielder
+Harry Toffolo,Nottingham Forest,29 years old (19-08-1995),183cm,England,"Defender (Left), Midfielder (Left)"
+Mykhailo Mudryk,Chelsea,24 years old (05-01-2001),175cm,Ukraine,Attacking Midfielder (Left)
+Andrés García,Aston Villa,22 years old (07-02-2003),185cm,Spain,Defender (Right)
+Ben Winterburn,Bournemouth,20 years old (04-09-2004),185cm,,Midfielder
+Mikey Moore,Tottenham,17 years old (11-08-2007),180cm,England,Attacking Midfielder (Right)
+Adam Armstrong,West Bromwich Albion,28 years old (10-02-1997),172cm,England,"Attacking Midfielder (Centre, Left, Right), Forward"
+Archie Gray,Tottenham,19 years old (12-03-2006),187cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+Andy Irving,West Ham,24 years old (13-05-2000),190cm,Scotland,Midfielder
+Kosta Nedeljkovic,RB Leipzig,19 years old (16-12-2005),184cm,,Defender (Right)
+Eric da Silva Moreira,Nottingham Forest,18 years old (03-05-2006),184cm,Germany,Forward
+Chiquinho,Mallorca,25 years old (05-02-2000),179cm,Portugal,"Attacking Midfielder (Left, Right)"
+Julio Soler,Bournemouth,20 years old (16-02-2005),170cm,Argentina,Defender
+Jack Taylor,Ipswich,26 years old (23-06-1998),185cm,England,Midfielder (Centre)
+Evan Ferguson,West Ham,20 years old (19-10-2004),183cm,Ireland,Forward
+Hwang Hee-Chan,Wolves,29 years old (26-01-1996),177cm,South Korea,"Attacking Midfielder (Centre, Left, Right), Forward"
+Maxwel Cornet,Genoa,28 years old (27-09-1996),179cm,Ivory Coast,"Defender (Left), Midfielder (Left, Right), Forward"
+Reiss Nelson,Fulham,25 years old (10-12-1999),175cm,England,"Midfielder (Left, Right)"
+Tommy Doyle,Wolves,23 years old (17-10-2001),172cm,,Midfielder (Centre)
+Oliver Skipp,Leicester,24 years old (16-09-2000),175cm,England,Defensive Midfielder (C)
+Luis Guilherme,West Ham,19 years old (09-02-2006),178cm,Brazil,Forward
+James Ward-Prowse,West Ham,30 years old (01-11-1994),173cm,England,"Midfielder (Centre, Right)"
+Ben Mee,Brentford,35 years old (21-09-1989),180cm,England,"Defender (Centre, Left)"
+Woyo Coulibaly,Leicester,25 years old (26-05-1999),188cm,France,Defender (Right)
+Cameron Archer,Southampton,23 years old (09-12-2001),181cm,England,Forward
+Will Smallbone,Southampton,25 years old (21-02-2000),183cm,Ireland,"Midfielder (Centre, Right)"
+Ryan Trevitt,Exeter,22 years old (12-03-2003),170cm,England,Midfielder (Centre)
+Patson Daka,Leicester,26 years old (09-10-1998),183cm,Zambia,Forward
+Federico Chiesa,Liverpool,27 years old (25-10-1997),175cm,Italy,"Midfielder (Centre, Left, Right), Forward"
+Jakub Moder,Feyenoord,26 years old (07-04-1999),188cm,Poland,"Midfielder (Centre, Left)"
+Miguel Almirón,Atlanta United,31 years old (10-02-1994),174cm,Paraguay,"Attacking Midfielder (Centre, Left, Right), Forward"
+Jeremy Sarmiento,Burnley,22 years old (16-06-2002),178cm,Ecuador,"Attacking Midfielder (Centre, Left)"
+Joe Lumley,Southampton,30 years old (15-02-1995),191cm,England,Goalkeeper
+Bobby De Cordova-Reid,Leicester,32 years old (02-02-1993),170cm,Jamaica,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+Willian,Fulham,36 years old (09-08-1988),175cm,Brazil,"Attacking Midfielder (Centre, Left, Right)"
+Jayden Meghoma,Preston,18 years old (28-06-2006),175cm,,"Defender (Left), Midfielder (Left)"
+Julián Araujo,Bournemouth,23 years old (13-08-2001),175cm,Mexico,"Defender (Right), Midfielder (Right)"
+Lewis Orford,West Ham,19 years old (18-02-2006),189cm,England,Midfielder
+Wataru Endo,Liverpool,32 years old (09-02-1993),178cm,Japan,Defensive Midfielder (C)
+Taiwo Awoniyi,Nottingham Forest,27 years old (12-08-1997),183cm,Nigeria,Forward
+Asher Agbinone,Gillingham,19 years old (28-09-2005),177cm,England,Midfielder
+Yunus Konak,Brentford,19 years old (10-01-2006),181cm,,Defensive Midfielder (C)
+Mason Mount,Manchester United,26 years old (10-01-1999),181cm,England,"Midfielder (Centre, Left, Right)"
+Chido Obi,Manchester United,17 years old (29-11-2007),188cm,,Forward
+Divin Mubama,Manchester City,20 years old (25-10-2004),182cm,England,Forward
+Daniel Jebbison,Bournemouth,21 years old (13-08-2003),190cm,England,Forward
+Caleb Kporha,Crystal Palace,18 years old (15-07-2006),170cm,England,Defender
+Carlos Forbs,Wolves,21 years old (19-03-2004),169cm,Portugal,"Attacking Midfielder (Left, Right)"
+Albert Grønbæk,Southampton,23 years old (23-05-2001),176cm,Denmark,"Attacking Midfielder (Centre, Left)"
+Alfie Dorrington,Aberdeen,19 years old (20-04-2005),180cm,England,Defender (Centre)
+Martial Godo,Fulham,22 years old (14-03-2003),169cm,England,"Attacking Midfielder (Left, Right)"
+Roman Dixon,Everton,20 years old (26-12-2004),175cm,England,Defender
+Ben Brereton,Sheffield United,26 years old (18-04-1999),185cm,Chile,"Attacking Midfielder (Left, Right), Forward"
+Emiliano Buendía,Bayer Leverkusen,28 years old (25-12-1996),172cm,Argentina,"Midfielder (Centre, Left, Right), Forward"
+William Osula,Newcastle,21 years old (04-08-2003),180cm,Denmark,Forward
+Jack Stephens,Southampton,31 years old (27-01-1994),185cm,England,"Defender (Centre, Left, Right)"
+Massimo Luongo,Ipswich,32 years old (25-09-1992),176cm,Australia,Midfielder (Centre)
+Odsonne Édouard,Leicester,27 years old (16-01-1998),187cm,France,"Attacking Midfielder (Left), Forward"
+Harrison Reed,Fulham,30 years old (27-01-1995),181cm,England,"Defender (Right), Midfielder (Centre, Right)"
+Kim Ji-Soo,Brentford,20 years old (24-12-2004),192cm,South Korea,Defender
+Daniel Podence,Al Shabab,29 years old (21-10-1995),165cm,Portugal,"Attacking Midfielder (Centre, Left, Right), Forward"
+Scott McTominay,Napoli,28 years old (08-12-1996),193cm,Scotland,"Defender (Centre), Midfielder (Centre)"
+Conor Coady,Leicester,32 years old (25-02-1993),185cm,England,"Defender (Centre, Right), Defensive Midfielder (C)"
+Jeffrey Schlupp,Celtic,32 years old (23-12-1992),178cm,Ghana,"Defender (Left), Midfielder (Centre, Left, Right)"
+Nathaniel Clyne,Crystal Palace,34 years old (05-04-1991),175cm,England,"Defender (Centre, Left, Right), Midfielder (Right)"
+Marc Guiu,Chelsea,19 years old (04-01-2006),187cm,,Forward
+Sam Amo-Ameyaw,Strasbourg,18 years old (18-07-2006),174cm,,Midfielder
+Eiran Cashin,Brighton,23 years old (09-11-2001),180cm,Ireland,Defender (Centre)
+Mathis Amougou,Chelsea,19 years old (18-01-2006),177cm,France,Midfielder (Centre)
+Tyrell Malacia,PSV Eindhoven,25 years old (17-08-1999),170cm,Netherlands,"Defender (Left), Midfielder (Left)"
+Jahmai Simpson-Pusey,Manchester City,19 years old (04-11-2005),187cm,,Defender
+Ronnie Edwards,Queens Park Rangers,22 years old (28-03-2003),180cm,England,Defender (Centre)
+Josh Acheampong,Chelsea,18 years old (05-05-2006),184cm,,Defender
+Alfie Pond,Wolves,21 years old (01-03-2004),191cm,England,Defender
+Boubacar Traoré,Wolves,23 years old (20-08-2001),183cm,Mali,Defensive Midfielder (C)
+Gustavo Nunes,Brentford,19 years old (20-11-2005),173cm,,Attacking Midfielder (Left)
+Jake Evans,Leicester,,,,Forward
+Jay Stansfield,Birmingham,22 years old (24-11-2002),,England,"Attacking Midfielder (Centre, Left), Forward"
+Joel Ward,Crystal Palace,35 years old (29-10-1989),188cm,England,"Defender (Centre, Left, Right), Defensive Midfielder (C), Midfielder (Right)"
+Kaelan Casey,West Ham,20 years old (28-10-2004),185cm,England,Defender
+Nasser Djiga,Wolves,22 years old (15-11-2002),187cm,Burkina Faso,Defender (Centre)
+Remy Rees-Dottin,Bournemouth,19 years old (06-03-2006),174cm,England,Forward
+Shumaira Mheuka,Chelsea,17 years old (20-10-2007),182cm,,Forward
+Vitor Reis,Manchester City,19 years old (12-01-2006),186cm,Brazil,Defender (Centre)
+Will Alves,Cardiff,19 years old (04-05-2005),192cm,,Midfielder
+Zain Silcott-Duberry,Bournemouth,19 years old (09-07-2005),183cm,England,Forward
+Will Lankshear,West Bromwich Albion,19 years old (20-04-2005),188cm,England,Forward
+Ali Al-Hamadi,Stoke,23 years old (01-03-2002),183cm,Iraq,Forward
+Ross Stewart,Southampton,28 years old (11-07-1996),188cm,Scotland,"Attacking Midfielder (Left), Forward"
+George Edmundson,Middlesbrough,27 years old (15-08-1997),190cm,England,Defender (Centre)
+Ryan Fraser,Southampton,31 years old (24-02-1994),163cm,Scotland,"Midfielder (Centre, Left, Right), Forward"
+Danny Ward,Leicester,31 years old (22-06-1993),191cm,Wales,Goalkeeper
+Odsonne Édouard,Leicester,27 years old (16-01-1998),187cm,France,"Attacking Midfielder (Left), Forward"
+Callum Wilson,Newcastle,33 years old (27-02-1992),180cm,England,Forward
+Harrison Armstrong,Derby,18 years old (19-01-2007),185cm,,Defensive Midfielder (C)
+Frank Onyeka,Augsburg,27 years old (01-01-1998),183cm,Nigeria,Defensive Midfielder (C)
+Marcus Harness,Derby,29 years old (24-02-1996),182cm,England,"Midfielder (Centre, Left, Right), Forward"
+Jaden Philogene,Ipswich,23 years old (08-02-2002),181cm,England,"Midfielder (Left, Right)"
+Jordan Ayew,Leicester,33 years old (11-09-1991),182cm,Ghana,"Attacking Midfielder (Centre, Left, Right), Forward"
+Jeremy Monga,Leicester,15 years old (10-07-2009),,,Midfielder
+Mason Holgate,West Bromwich Albion,28 years old (22-10-1996),184cm,England,"Defender (Centre, Right), Defensive Midfielder (C), Midfielder (Right)"
+Harry Clarke,Sheffield United,24 years old (02-03-2001),180cm,England,"Defender (Centre, Right), Midfielder (Right)"
+Jayden Danns,Liverpool,19 years old (16-01-2006),183cm,England,Forward
+Ben Godfrey,Ipswich,27 years old (15-01-1998),184cm,England,"Defender (Centre, Left, Right)"
+Altay Bayindir,Manchester United,27 years old (14-04-1998),198cm,Turkey,Goalkeeper

@@ -1,0 +1,626 @@
+,Name,Club,Age,Height,National,Positions
+0,Juan Musso,Atletico Madrid,30 years old (06-05-1994),191cm,Argentina,Goalkeeper
+1,Daniele Padelli,Udinese,39 years old (25-10-1985),191cm,Italy,Goalkeeper
+2,Rui Patrício,Atalanta,37 years old (15-02-1988),190cm,Portugal,Goalkeeper
+3,Bremer,Juventus,28 years old (18-03-1997),188cm,Brazil,Defender (Centre)
+4,Christos Mandas,Lazio,23 years old (17-09-2001),189cm,Greece,Goalkeeper
+5,Stefan Posch,Atalanta,27 years old (14-05-1997),190cm,Austria,"Defender (Centre, Right)"
+6,Marcus Thuram,Inter,27 years old (06-08-1997),192cm,France,"Attacking Midfielder (Left), Forward"
+7,Scott McTominay,Napoli,28 years old (08-12-1996),193cm,Scotland,"Defender (Centre), Midfielder (Centre)"
+8,Ademola Lookman,Atalanta,27 years old (20-10-1997),174cm,Nigeria,"Attacking Midfielder (Centre, Left, Right), Forward"
+9,Simone Scuffet,Napoli,28 years old (31-05-1996),193cm,Italy,Goalkeeper
+10,Nico Paz,Como,20 years old (08-09-2004),186cm,,Attacking Midfielder (Centre)
+11,Mateo Retegui,Atalanta,26 years old (29-04-1999),186cm,Italy,Forward
+12,Duván Zapata,Torino,34 years old (01-04-1991),189cm,Colombia,Forward
+13,Hakan Çalhanoglu,Inter,31 years old (08-02-1994),178cm,Turkey,"Midfielder (Centre, Left, Right), Forward"
+14,Lautaro Martínez,Inter,27 years old (22-08-1997),174cm,Argentina,Forward
+15,Khvicha Kvaratskhelia,Paris Saint-Germain,24 years old (12-02-2001),183cm,Georgia,"Attacking Midfielder (Centre, Left, Right), Forward"
+16,Pablo Marí,Fiorentina,31 years old (31-08-1993),193cm,Spain,Defender (Centre)
+17,Moise Kean,Fiorentina,25 years old (28-02-2000),183cm,Italy,"Attacking Midfielder (Left, Right), Forward"
+18,Valentín Castellanos,Lazio,26 years old (03-10-1998),178cm,Argentina,"Attacking Midfielder (Right), Forward"
+19,Mattia Zaccagni,Lazio,29 years old (16-06-1995),177cm,Italy,"Attacking Midfielder (Centre, Left), Forward"
+20,Alexis Saelemaekers,Roma,25 years old (27-06-1999),180cm,Belgium,"Midfielder (Left, Right)"
+21,Renato Veiga,Juventus,21 years old (29-07-2003),190cm,Portugal,"Defender (Centre, Left)"
+22,Rafael Leão,AC Milan,25 years old (10-06-1999),188cm,Portugal,"Attacking Midfielder (Centre, Left), Forward"
+23,Francesco Acerbi,Inter,37 years old (10-02-1988),192cm,Italy,Defender (Centre)
+24,Tijjani Reijnders,AC Milan,26 years old (29-07-1998),185cm,Netherlands,Midfielder (Centre)
+25,Alessandro Buongiorno,Napoli,25 years old (06-06-1999),190cm,Italy,Defender (Centre)
+26,Christian Pulisic,AC Milan,26 years old (18-09-1998),177cm,USA,"Midfielder (Centre, Left, Right), Forward"
+27,Assane Diao,Como,19 years old (07-09-2005),185cm,,"Attacking Midfielder (Left, Right)"
+28,Nuno Tavares,Lazio,25 years old (26-01-2000),183cm,Portugal,"Defender (Left), Midfielder (Left)"
+29,Riccardo Orsolini,Bologna,28 years old (24-01-1997),183cm,Italy,"Midfielder (Centre, Right), Forward"
+30,Oumar Solet,Udinese,25 years old (07-02-2000),192cm,France,Defender (Centre)
+31,Florian Thauvin,Udinese,32 years old (26-01-1993),179cm,France,"Midfielder (Centre, Left, Right), Forward"
+32,Raoul Bellanova,Atalanta,24 years old (17-05-2000),188cm,Italy,Midfielder (Right)
+33,Vanja Milinkovic-Savic,Torino,28 years old (20-02-1997),202cm,Serbia,Goalkeeper
+34,Nicolò Barella,Inter,28 years old (07-02-1997),175cm,Italy,Attacking Midfielder (Centre)
+35,Frank Anguissa,Napoli,29 years old (16-11-1995),184cm,Cameroon,Midfielder (Centre)
+36,Robin Gosens,Fiorentina,30 years old (05-07-1994),183cm,Germany,"Defender (Left), Midfielder (Centre, Left)"
+37,Amir Rrahmani,Napoli,31 years old (24-02-1994),192cm,Kosovo,"Defender (Centre, Left)"
+38,Marten de Roon,Atalanta,34 years old (29-03-1991),186cm,Netherlands,"Defender (Centre), Defensive Midfielder (C)"
+39,Mats Hummels,Roma,36 years old (16-12-1988),191cm,Germany,Defender (Centre)
+40,Alberto Paleari,Torino,32 years old (29-08-1992),193cm,Italy,Goalkeeper
+41,Éderson,Atalanta,25 years old (07-07-1999),183cm,Brazil,Midfielder (Centre)
+42,Federico Dimarco,Inter,27 years old (10-11-1997),175cm,Italy,"Defender (Centre, Left), Midfielder (Left)"
+43,Matías Soulé,Roma,22 years old (15-04-2003),182cm,Argentina,"Midfielder (Centre, Right), Forward"
+44,Pietro Terracciano,Fiorentina,35 years old (08-03-1990),193cm,Italy,Goalkeeper
+45,Paulo Dybala,Roma,31 years old (15-11-1993),177cm,Argentina,"Attacking Midfielder (Centre, Right), Forward"
+46,Kenan Yildiz,Juventus,19 years old (04-05-2005),185cm,Turkey,"Attacking Midfielder (Centre, Left, Right), Forward"
+47,Sebastian Walukiewicz,Torino,25 years old (05-04-2000),188cm,Poland,"Defender (Centre, Right)"
+48,Edoardo Bove,Fiorentina,22 years old (16-05-2002),179cm,Italy,"Midfielder (Centre, Left)"
+49,Milan Djuric,Parma Calcio 1913,34 years old (22-05-1990),198cm,Bosnia-Herzegovina,Forward
+50,Ardian Ismajli,Empoli,28 years old (30-09-1996),185cm,Albania,Defender (Centre)
+51,Theo Hernández,AC Milan,27 years old (06-10-1997),184cm,France,"Defender (Centre, Left), Midfielder (Left)"
+52,Giovanni Di Lorenzo,Napoli,31 years old (04-08-1993),183cm,Italy,"Defender (Centre, Left, Right), Midfielder (Right)"
+53,Dodô,Fiorentina,26 years old (17-11-1998),166cm,,"Defender (Right), Midfielder (Right)"
+54,Elia Caprile,Cagliari,23 years old (25-08-2001),191cm,Italy,Goalkeeper
+55,Strahinja Pavlovic,AC Milan,23 years old (24-05-2001),194cm,Serbia,Defender (Centre)
+56,Denzel Dumfries,Inter,29 years old (18-04-1996),188cm,Netherlands,"Defender (Right), Midfielder (Right)"
+57,Alessandro Bastoni,Inter,26 years old (13-04-1999),190cm,Italy,Defender (Centre)
+58,Berat Djimsiti,Atalanta,32 years old (19-02-1993),190cm,Albania,Defender (Centre)
+59,Emerson Royal,AC Milan,26 years old (14-01-1999),181cm,Brazil,"Defender (Centre, Left, Right), Midfielder (Right)"
+60,Nicolás Valentini,Verona,24 years old (06-04-2001),184cm,Argentina,Defender (Centre)
+61,Juan Miranda,Bologna,25 years old (19-01-2000),185cm,Spain,Defender (Left)
+62,David de Gea,Fiorentina,34 years old (07-11-1990),192cm,Spain,Goalkeeper
+63,Gabriel Strefezza,Como,28 years old (18-04-1997),168cm,Brazil,"Midfielder (Centre, Left, Right)"
+64,Manuel Locatelli,Juventus,27 years old (08-01-1998),185cm,Italy,Midfielder (Centre)
+65,Randal Kolo Muani,Juventus,26 years old (05-12-1998),187cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+66,Filip Stankovic,Venezia,23 years old (25-02-2002),187cm,Serbia,Goalkeeper
+67,Kialonda Gaspar,Lecce,27 years old (27-09-1997),193cm,,Defender (Centre)
+68,Charles De Ketelaere,Atalanta,24 years old (10-03-2001),192cm,Belgium,"Midfielder (Centre, Left, Right), Forward"
+69,Ionut Radu,Venezia,27 years old (28-05-1997),188cm,Romania,Goalkeeper
+70,Nicola Leali,Genoa,32 years old (17-02-1993),195cm,Italy,Goalkeeper
+71,Nicolò Casale,Bologna,27 years old (14-02-1998),191cm,Italy,Defender (Centre)
+72,Mile Svilar,Roma,25 years old (27-08-1999),189cm,Serbia,Goalkeeper
+73,Mërgim Vojvoda,Como,30 years old (01-02-1995),187cm,Kosovo,"Defender (Centre, Right), Midfielder (Left, Right)"
+74,Dan Ndoye,Bologna,24 years old (25-10-2000),184cm,Switzerland,"Midfielder (Left, Right)"
+75,Matteo Politano,Napoli,31 years old (03-08-1993),171cm,Italy,"Midfielder (Centre, Left, Right), Forward"
+76,Cesare Casadei,Torino,22 years old (10-01-2003),186cm,Italy,Defensive Midfielder (C)
+77,Romelu Lukaku,Napoli,31 years old (13-05-1993),191cm,Belgium,"Attacking Midfielder (Right), Forward"
+78,Guillermo Maripán,Torino,30 years old (06-05-1994),190cm,Chile,Defender (Centre)
+79,Christian Kouamé,Empoli,27 years old (06-12-1997),188cm,Ivory Coast,"Attacking Midfielder (Left, Right), Forward"
+80,Eljif Elmas,Torino,25 years old (24-09-1999),184cm,Macedonia,"Midfielder (Centre, Left, Right), Forward"
+81,Marco Carnesecchi,Atalanta,24 years old (01-07-2000),191cm,Italy,Goalkeeper
+82,Mattia Perin,Juventus,32 years old (10-11-1992),188cm,Italy,Goalkeeper
+83,Alessio Zerbin,Venezia,26 years old (03-03-1999),182cm,Italy,"Midfielder (Left, Right)"
+84,Raoul Bellanova,Atalanta,24 years old (17-05-2000),188cm,Italy,Midfielder (Right)
+85,Angeliño,Roma,28 years old (04-01-1997),175cm,Spain,"Defender (Centre, Left), Midfielder (Left)"
+86,Aarón Martín,Genoa,28 years old (22-04-1997),180cm,Spain,"Defender (Left), Midfielder (Left)"
+87,Elia Caprile,Cagliari,23 years old (25-08-2001),191cm,Italy,Goalkeeper
+88,Diego Coppola,Verona,21 years old (28-12-2003),192cm,Italy,Defender (Centre)
+89,Khéphren Thuram,Juventus,24 years old (26-03-2001),192cm,France,"Defensive Midfielder (C), Midfielder (Left)"
+90,Antonín Barák,Kasimpasa,30 years old (03-12-1994),190cm,Czech Republic,"Attacking Midfielder (Centre, Right)"
+91,Johan Vásquez,Genoa,26 years old (22-10-1998),184cm,Mexico,"Defender (Centre, Left)"
+92,Nicolás González,Juventus,27 years old (06-04-1998),180cm,Argentina,"Midfielder (Centre, Left, Right), Forward"
+93,Mario Gila,Lazio,24 years old (29-08-2000),185cm,Spain,Defender (Centre)
+94,Nicolò Rovella,Lazio,23 years old (04-12-2001),179cm,Italy,Defensive Midfielder (C)
+95,Henrikh Mkhitaryan,Inter,36 years old (21-01-1989),177cm,Armenia,"Midfielder (Centre, Left, Right), Forward"
+96,Mathías Olivera,Napoli,27 years old (31-10-1997),185cm,Uruguay,"Defender (Centre, Left), Midfielder (Left)"
+97,Nikola Krstovic,Lecce,25 years old (05-04-2000),185cm,Montenegro,"Attacking Midfielder (Left), Forward"
+98,Charalampos Lykogiannis,Bologna,31 years old (22-10-1993),190cm,Greece,"Defender (Centre, Left), Midfielder (Left)"
+99,Sam Beukema,Bologna,26 years old (17-11-1998),188cm,Netherlands,Defender (Centre)
+100,Morten Frendrup,Genoa,24 years old (07-04-2001),178cm,Denmark,"Defender (Right), Defensive Midfielder (C)"
+101,Stefan de Vrij,Inter,33 years old (05-02-1992),190cm,Netherlands,Defender (Centre)
+102,Federico Gatti,Juventus,26 years old (24-06-1998),190cm,Italy,Defender (Centre)
+103,Yerry Mina,Cagliari,30 years old (23-09-1994),195cm,Colombia,Defender (Centre)
+104,Leandro Paredes,Roma,30 years old (29-06-1994),180cm,Argentina,Defensive Midfielder (C)
+105,Luca Ranieri,Fiorentina,26 years old (23-04-1999),187cm,Italy,"Defender (Centre, Left), Midfielder (Left)"
+106,Marc Kempf,Como,30 years old (28-01-1995),186cm,Germany,Defender (Centre)
+107,Paulo Azzi,Cremonese,30 years old (15-07-1994),188cm,Brazil,"Midfielder (Left, Right)"
+108,Davide Zappacosta,Atalanta,32 years old (11-06-1992),182cm,Italy,"Defender (Left, Right), Midfielder (Left, Right)"
+109,Adam Masina,Torino,31 years old (02-01-1994),189cm,Morocco,"Defender (Centre, Left), Midfielder (Left)"
+110,Pablo Marí,Fiorentina,31 years old (31-08-1993),193cm,Spain,Defender (Centre)
+111,Sead Kolasinac,Atalanta,31 years old (20-06-1993),183cm,Bosnia-Herzegovina,"Defender (Centre, Left), Defensive Midfielder (C), Midfielder (Left)"
+112,Yann Sommer,Inter,36 years old (17-12-1988),183cm,Switzerland,Goalkeeper
+113,Fali Candé,Venezia,27 years old (24-01-1998),184cm,Guinea-Bissau,"Defender (Centre, Left), Midfielder (Left)"
+114,Josep Martínez,Inter,26 years old (27-05-1998),191cm,Spain,Goalkeeper
+115,Emil Holm,Bologna,24 years old (13-05-2000),191cm,Sweden,"Defender (Right), Midfielder (Right)"
+116,Evan Ndicka,Roma,25 years old (20-08-1999),192cm,Ivory Coast,"Defender (Centre, Left)"
+117,Jaka Bijol,Udinese,26 years old (05-02-1999),190cm,Slovenia,"Defender (Centre), Midfielder (Centre), Forward"
+118,Matteo Gabbia,AC Milan,25 years old (21-10-1999),185cm,Italy,Defender (Centre)
+119,Tiago Gabriel,Lecce,20 years old (26-12-2004),196cm,Portugal,Defender (Centre)
+120,Koni De Winter,Genoa,22 years old (12-06-2002),188cm,Belgium,"Defender (Centre, Right)"
+121,Carlos Augusto,Inter,26 years old (07-01-1999),184cm,Brazil,"Defender (Centre, Left), Midfielder (Left)"
+122,Teun Koopmeiners,Juventus,27 years old (28-02-1998),184cm,Netherlands,"Defender (Centre), Midfielder (Centre)"
+123,Tommaso Augello,Cagliari,30 years old (30-08-1994),180cm,Italy,"Defender (Left), Midfielder (Left)"
+124,David Neres,Napoli,28 years old (03-03-1997),176cm,Brazil,"Attacking Midfielder (Centre, Left, Right)"
+125,Kike Pérez,Venezia,28 years old (14-02-1997),184cm,Spain,Midfielder (Centre)
+126,Saúl Coco,Torino,26 years old (09-02-1999),187cm,Equatorial Guinea,Defender (Centre)
+127,Jens Odgaard,Bologna,26 years old (31-03-1999),188cm,Denmark,"Attacking Midfielder (Centre, Right), Forward"
+128,Stanislav Lobotka,Napoli,30 years old (25-11-1994),168cm,Slovakia,Defensive Midfielder (C)
+129,Sebastiano Esposito,Empoli,22 years old (02-07-2002),186cm,Italy,"Attacking Midfielder (Centre), Forward"
+130,Frédéric Guilbert,Lecce,30 years old (24-12-1994),178cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+131,Yacine Adli,Fiorentina,24 years old (29-07-2000),186cm,France,Midfielder (Centre)
+132,Jacob Ondrejka,Parma Calcio 1913,22 years old (02-09-2002),180cm,Sweden,Attacking Midfielder (Left)
+133,Adrián Bernabé,Parma Calcio 1913,23 years old (26-05-2001),170cm,Spain,Defensive Midfielder (C)
+134,Mattia Viti,Empoli,23 years old (24-01-2002),190cm,Italy,"Defender (Centre, Left)"
+135,Matteo Ruggeri,Atalanta,22 years old (11-07-2002),187cm,Italy,Midfielder (Left)
+136,Elseid Hysaj,Lazio,31 years old (02-02-1994),182cm,Albania,"Defender (Left, Right), Midfielder (Right)"
+137,Luca Pellegrini,Lazio,26 years old (07-03-1999),178cm,Italy,"Defender (Left), Midfielder (Left)"
+138,Isak Hien,Atalanta,26 years old (13-01-1999),191cm,Sweden,Defender (Centre)
+139,Dusan Vlahovic,Juventus,25 years old (28-01-2000),190cm,Serbia,Forward
+140,Ignace Van der Brempt,Como,23 years old (01-04-2002),187cm,Belgium,"Defender (Right), Midfielder (Right)"
+141,Mateo Pellegrino,Parma Calcio 1913,23 years old (22-10-2001),193cm,Argentina,Forward
+142,Jean Butez,Como,29 years old (08-06-1995),188cm,France,Goalkeeper
+143,Alieu Fadera,Como,23 years old (03-11-2001),182cm,Gambia,"Midfielder (Left, Right)"
+144,Rolando Mandragora,Fiorentina,27 years old (29-06-1997),183cm,Italy,Defensive Midfielder (C)
+145,Álvaro Morata,Galatasaray,32 years old (23-10-1992),190cm,Spain,"Attacking Midfielder (Centre, Left), Forward"
+146,Francisco Conceição,Juventus,22 years old (14-12-2002),170cm,,Attacking Midfielder (Right)
+147,Nikola Vlasic,Torino,27 years old (04-10-1997),179cm,Croatia,"Attacking Midfielder (Centre, Left, Right), Forward"
+148,Bryan Cristante,Roma,30 years old (03-03-1995),186cm,Italy,"Defender (Centre), Midfielder (Centre)"
+149,Alessio Romagnoli,Lazio,30 years old (12-01-1995),185cm,Italy,"Defender (Centre, Left)"
+150,Mattéo Guendouzi,Lazio,26 years old (14-04-1999),185cm,France,Midfielder (Centre)
+151,Gianluca Mancini,Roma,29 years old (17-04-1996),190cm,Italy,"Defender (Centre), Defensive Midfielder (C)"
+152,Lucas da Cunha,Como,23 years old (09-06-2001),174cm,France,"Midfielder (Centre, Right)"
+153,Artem Dovbyk,Roma,27 years old (21-06-1997),189cm,Ukraine,Forward
+154,Gustav Isaksen,Lazio,24 years old (19-04-2001),181cm,Denmark,Attacking Midfielder (Right)
+155,Mike Maignan,AC Milan,29 years old (03-07-1995),191cm,France,Goalkeeper
+156,Simone Perilli,Verona,30 years old (07-01-1995),195cm,Italy,Goalkeeper
+157,Benjamin Pavard,Inter,29 years old (28-03-1996),186cm,France,"Defender (Centre, Left, Right), Midfielder (Right)"
+158,Maxwel Cornet,Genoa,28 years old (27-09-1996),179cm,Ivory Coast,"Defender (Left), Midfielder (Left, Right), Forward"
+159,Antonino Gallo,Lecce,25 years old (05-01-2000),183cm,Italy,Defender (Left)
+160,Santiago Castro,Bologna,20 years old (18-09-2004),180cm,Argentina,Forward
+161,Alex Meret,Napoli,28 years old (22-03-1997),190cm,Italy,Goalkeeper
+162,Remo Freuler,Bologna,33 years old (15-04-1992),180cm,Switzerland,Defensive Midfielder (C)
+163,Ondrej Duda,Verona,30 years old (05-12-1994),181cm,Slovakia,"Midfielder (Centre), Forward"
+164,Enrico Delprato,Parma Calcio 1913,25 years old (10-11-1999),183cm,Italy,"Defender (Centre, Right)"
+165,Wladimiro Falcone,Lecce,30 years old (12-04-1995),195cm,Italy,Goalkeeper
+166,Boulaye Dia,Lazio,28 years old (16-11-1996),180cm,Senegal,"Attacking Midfielder (Centre, Right), Forward"
+167,Zion Suzuki,Parma Calcio 1913,22 years old (21-08-2002),190cm,Japan,Goalkeeper
+168,Timothy Weah,Juventus,25 years old (22-02-2000),183cm,USA,"Defender (Left, Right), Midfielder (Left, Right), Forward"
+169,Andrea Cambiaso,Juventus,25 years old (20-02-2000),182cm,Italy,"Defender (Left, Right), Midfielder (Left, Right)"
+170,Michele Di Gregorio,Juventus,27 years old (27-07-1997),187cm,Italy,Goalkeeper
+171,Cristiano Biraghi,Torino,32 years old (01-09-1992),185cm,Italy,"Defender (Centre, Left), Midfielder (Left)"
+172,Emanuele Valeri,Parma Calcio 1913,26 years old (07-12-1998),180cm,Italy,"Defender (Left), Midfielder (Left)"
+173,Weston McKennie,Juventus,26 years old (28-08-1998),183cm,USA,"Defender (Centre, Right), Midfielder (Centre, Left, Right)"
+174,Danilo Cataldi,Fiorentina,30 years old (06-08-1994),180cm,Italy,Midfielder (Centre)
+175,Malick Thiaw,AC Milan,23 years old (08-08-2001),191cm,Germany,Defender (Centre)
+176,Georgios Kyriakopoulos,Monza,29 years old (05-02-1996),178cm,Greece,"Defender (Left), Midfielder (Left)"
+177,Lorenzo Lucca,Udinese,24 years old (10-09-2000),201cm,Italy,Forward
+178,Youssouf Fofana,AC Milan,26 years old (10-01-1999),185cm,France,Defensive Midfielder (C)
+179,Juan Cuadrado,Atalanta,36 years old (26-05-1988),179cm,Colombia,"Defender (Right), Midfielder (Centre, Left, Right), Forward"
+180,Samuel Gigot,Lazio,31 years old (12-10-1993),187cm,France,Defender (Centre)
+181,Nikola Moro,Bologna,27 years old (12-03-1998),183cm,Croatia,Midfielder (Centre)
+182,Giorgio Altare,Sampdoria,26 years old (09-08-1998),190cm,Italy,Defender (Centre)
+183,Tino Anjorin,Empoli,23 years old (23-11-2001),185cm,England,Attacking Midfielder (Centre)
+184,Pierre Kalulu,Juventus,24 years old (05-06-2000),179cm,France,"Defender (Centre, Right)"
+185,Álex Valle,Como,21 years old (25-04-2004),178cm,Spain,Defender (Left)
+186,Razvan Sava,Udinese,22 years old (21-06-2002),195cm,Romania,Goalkeeper
+187,Yann Bisseck,Inter,24 years old (29-11-2000),196cm,Germany,Defender (Centre)
+188,Lautaro Valenti,Parma Calcio 1913,26 years old (14-01-1999),188cm,Argentina,Defender (Centre)
+189,Joel Pohjanpalo,Palermo,30 years old (13-09-1994),186cm,Finland,Forward
+190,Benjamín Domínguez,Bologna,21 years old (19-09-2003),172cm,Argentina,Attacking Midfielder (Left)
+191,Victor Nelsson,Roma,26 years old (14-10-1998),185cm,Denmark,Defender (Centre)
+192,Juan Jesus,Napoli,33 years old (10-06-1991),185cm,Brazil,"Defender (Centre, Left)"
+193,Stefano Turati,Monza,23 years old (05-09-2001),188cm,Italy,Goalkeeper
+194,Albert Gudmundsson,Fiorentina,27 years old (15-06-1997),177cm,Iceland,"Attacking Midfielder (Centre, Left, Right), Forward"
+195,Enzo Le Fée,Sunderland,25 years old (03-02-2000),170cm,France,"Midfielder (Centre, Left, Right)"
+196,Davide Calabria,Bologna,28 years old (06-12-1996),177cm,Italy,"Defender (Left, Right), Midfielder (Right)"
+197,Fikayo Tomori,AC Milan,27 years old (19-12-1997),185cm,England,"Defender (Centre, Right)"
+198,Christian Kabasele,Udinese,34 years old (24-02-1991),187cm,Belgium,Defender (Centre)
+199,Ché Adams,Torino,28 years old (13-07-1996),175cm,Scotland,"Attacking Midfielder (Centre, Left), Forward"
+200,Ruslan Malinovskyi,Genoa,31 years old (04-05-1993),181cm,Ukraine,"Midfielder (Centre, Left, Right), Forward"
+201,Jhon Lucumí,Bologna,26 years old (26-06-1998),187cm,Colombia,Defender (Centre)
+202,Alexis Saelemaekers,Roma,25 years old (27-06-1999),180cm,Belgium,"Midfielder (Left, Right)"
+203,Nicolò Cambiaghi,Bologna,24 years old (28-12-2000),173cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+204,Ismaël Bennacer,Marseille,27 years old (01-12-1997),175cm,Algeria,Midfielder (Centre)
+205,Mattia Bani,Genoa,31 years old (10-12-1993),188cm,Italy,Defender (Centre)
+206,Ange-Yoan Bonny,Parma Calcio 1913,21 years old (25-10-2003),189cm,France,Forward
+207,Daniele Ghilardi,Verona,22 years old (06-01-2003),189cm,Italy,Defender (Centre)
+208,Armando Izzo,Monza,33 years old (02-03-1992),183cm,Italy,Defender (Centre)
+209,Ivan Smolcic,Como,24 years old (17-08-2000),181cm,Croatia,Defender (Right)
+210,Federico Baschirotto,Lecce,28 years old (20-09-1996),184cm,Italy,Defender (Centre)
+211,Hans Nicolussi Caviglia,Venezia,24 years old (18-06-2000),180cm,Italy,Midfielder (Centre)
+212,Andrea Pinamonti,Genoa,25 years old (19-05-1999),188cm,Italy,Forward
+213,Zeki Çelik,Roma,28 years old (17-02-1997),180cm,Turkey,"Defender (Centre, Right), Midfielder (Right)"
+214,Manu Koné,Roma,23 years old (17-05-2001),185cm,France,Defensive Midfielder (C)
+215,Giuseppe Pezzella,Empoli,27 years old (29-11-1997),185cm,Italy,"Defender (Left), Midfielder (Left)"
+216,Alberto Dossena,Como,26 years old (13-10-1998),195cm,Italy,Defender (Centre)
+217,Lewis Ferguson,Bologna,25 years old (24-08-1999),181cm,Scotland,Midfielder (Centre)
+218,Stephan El Shaarawy,Roma,32 years old (27-10-1992),178cm,Italy,"Midfielder (Centre, Left, Right), Forward"
+219,Patrizio Masini,Genoa,24 years old (27-01-2001),182cm,Italy,Defensive Midfielder (C)
+220,Hassane Kamara,Udinese,31 years old (05-03-1994),168cm,Ivory Coast,"Defender (Left), Midfielder (Left, Right)"
+221,Jay Idzes,Venezia,24 years old (02-06-2000),184cm,Netherlands,"Defender (Centre), Defensive Midfielder (C)"
+222,Milan Badelj,Genoa,36 years old (25-02-1989),186cm,Croatia,Midfielder (Centre)
+223,Tete Morente,Lecce,28 years old (04-12-1996),180cm,Spain,"Midfielder (Centre, Left, Right)"
+224,Mario Pasalic,Atalanta,30 years old (09-02-1995),188cm,Croatia,"Midfielder (Centre, Left, Right), Forward"
+225,Roberto Piccoli,Cagliari,24 years old (27-01-2001),187cm,Italy,Forward
+226,Lucas Martínez Quarta,River Plate,28 years old (10-05-1996),183cm,Argentina,Defender (Centre)
+227,Patrick Dorgu,Manchester United,20 years old (26-10-2004),185cm,Denmark,"Defender (Left), Midfielder (Left, Right)"
+228,Álex Jiménez,AC Milan,19 years old (08-05-2005),177cm,Spain,Defender
+229,Estanis Pedrola,Bologna,21 years old (24-08-2003),185cm,Spain,Forward
+230,Lucas Beltrán,Fiorentina,24 years old (29-03-2001),174cm,Argentina,"Attacking Midfielder (Centre), Forward"
+231,Sebastiano Luperto,Cagliari,28 years old (06-09-1996),191cm,Italy,"Defender (Centre, Left)"
+232,Juan Cabal,Juventus,24 years old (08-01-2001),186cm,Colombia,Defender (Left)
+233,Martín Payero,Udinese,26 years old (11-09-1998),183cm,Argentina,Attacking Midfielder (Centre)
+234,Adam Obert,Cagliari,22 years old (23-08-2002),188cm,Slovakia,"Defender (Centre, Left)"
+235,Tommaso Pobega,Bologna,25 years old (15-07-1999),188cm,Italy,Midfielder (Centre)
+236,Giacomo Raspadori,Napoli,25 years old (18-02-2000),172cm,Italy,"Attacking Midfielder (Centre, Left), Forward"
+237,Nicolò Savona,Juventus,22 years old (19-03-2003),192cm,Italy,Defender (Right)
+238,Patrick Cutrone,Como,27 years old (03-01-1998),183cm,Italy,Forward
+239,Michael Svoboda,Venezia,26 years old (15-10-1998),195cm,Austria,Defender (Centre)
+240,Maxence Caqueret,Como,25 years old (15-02-2000),174cm,France,Midfielder (Centre)
+241,Kyle Walker,AC Milan,34 years old (28-05-1990),183cm,England,"Defender (Centre, Right), Midfielder (Right)"
+242,Philip Billing,Napoli,28 years old (11-06-1996),193cm,Denmark,"Midfielder (Centre), Forward"
+243,Leonardo Spinazzola,Napoli,32 years old (25-03-1993),186cm,Italy,"Defender (Left, Right), Midfielder (Left)"
+244,Matteo Darmian,Inter,35 years old (02-12-1989),182cm,Italy,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+245,Botond Balogh,Parma Calcio 1913,22 years old (06-06-2002),189cm,Hungary,Defender (Centre)
+246,Samuel Mbangula,Juventus,21 years old (16-01-2004),171cm,,Attacking Midfielder (Left)
+247,Sandi Lovric,Udinese,27 years old (28-03-1998),180cm,Slovenia,Midfielder (Centre)
+248,Pedro,Lazio,37 years old (28-07-1987),169cm,Spain,"Midfielder (Centre, Left, Right), Forward"
+249,Lautaro Giannetti,Udinese,31 years old (13-11-1993),184cm,Argentina,Defender (Centre)
+250,Gianluca Busio,Venezia,22 years old (28-05-2002),172cm,USA,Midfielder (Centre)
+251,Nadir Zortea,Cagliari,25 years old (19-06-1999),175cm,Italy,"Defender (Right), Midfielder (Left, Right)"
+252,Santiago Giménez,AC Milan,24 years old (18-04-2001),182cm,Mexico,Forward
+253,Maduka Okoye,Udinese,25 years old (28-08-1999),197cm,Nigeria,Goalkeeper
+254,Brenner,Udinese,25 years old (16-01-2000),175cm,Brazil,"Attacking Midfielder (Centre), Forward"
+255,Matteo Cancellieri,Parma Calcio 1913,23 years old (12-02-2002),180cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+256,Pietro Comuzzo,Fiorentina,20 years old (20-02-2005),185cm,Italy,Defender (Centre)
+257,Lazar Samardzic,Atalanta,23 years old (24-02-2002),184cm,Serbia,Attacking Midfielder (Centre)
+258,Daniel Maldini,Atalanta,23 years old (11-10-2001),188cm,Italy,"Attacking Midfielder (Centre, Left), Forward"
+259,Fabio Miretti,Genoa,21 years old (03-08-2003),179cm,Italy,"Attacking Midfielder (Centre, Left)"
+260,Dennis Man,Parma Calcio 1913,26 years old (26-08-1998),183cm,Romania,"Attacking Midfielder (Centre, Right)"
+261,Antoine Hainaut,Parma Calcio 1913,23 years old (18-02-2002),187cm,France,Defender (Right)
+262,Andrea Carboni,Monza,24 years old (04-02-2001),187cm,Italy,"Defender (Centre, Left)"
+263,Mikael Ellertsson,Venezia,23 years old (11-03-2002),182cm,,"Midfielder (Centre, Left)"
+264,Martin Frese,Verona,27 years old (04-01-1998),179cm,Denmark,Defender
+265,Hernani,Parma Calcio 1913,31 years old (27-03-1994),188cm,Brazil,"Midfielder (Centre, Left)"
+266,Jordan Zemura,Udinese,25 years old (14-11-1999),173cm,Zimbabwe,"Defender (Left), Midfielder (Left)"
+267,Andrea Colpani,Fiorentina,25 years old (11-05-1999),184cm,Italy,"Attacking Midfielder (Centre, Right)"
+268,Máximo Perrone,Como,22 years old (07-01-2003),177cm,Argentina,Defensive Midfielder (C)
+269,Jesper Karlström,Udinese,29 years old (21-06-1995),185cm,Sweden,Attacking Midfielder (Centre)
+270,Nehuén Pérez,FC Porto,24 years old (24-06-2000),185cm,Argentina,Defender (Centre)
+271,Marin Pongracic,Fiorentina,27 years old (11-09-1997),190cm,Croatia,Defender (Centre)
+272,Lorenzo Pellegrini,Roma,28 years old (19-06-1996),186cm,Italy,"Midfielder (Centre, Left)"
+273,Ruben Loftus-Cheek,AC Milan,29 years old (23-01-1996),191cm,England,"Midfielder (Centre, Left, Right)"
+274,Jesse Joronen,Venezia,32 years old (21-03-1993),197cm,Finland,Goalkeeper
+275,Borna Sosa,Torino,27 years old (21-01-1998),187cm,Croatia,"Defender (Left), Midfielder (Left)"
+276,Morten Thorsby,Genoa,28 years old (05-05-1996),188cm,Norway,"Midfielder (Centre, Left, Right)"
+277,Samuel Chukwueze,AC Milan,25 years old (22-05-1999),172cm,Nigeria,"Attacking Midfielder (Centre, Right)"
+278,Adam Marusic,Lazio,32 years old (17-10-1992),185cm,Montenegro,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+279,Devyne Rensch,Roma,22 years old (18-01-2003),181cm,Netherlands,"Defender (Centre, Left, Right), Midfielder (Right)"
+280,Hamza Rafia,Lecce,26 years old (02-04-1999),180cm,Tunisia,Attacking Midfielder (Centre)
+281,Jonathan Ikoné,Como,26 years old (02-05-1998),175cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+282,Thomas Kristensen,Udinese,23 years old (17-01-2002),198cm,Denmark,Defender (Centre)
+283,Saud Abdulhamid,Roma,25 years old (18-07-1999),171cm,Saudi Arabia,Defender
+284,Kingsley Ehizibue,Udinese,29 years old (25-05-1995),189cm,Netherlands,"Defender (Right), Midfielder (Right)"
+285,Alen Sherri,Cagliari,27 years old (15-12-1997),197cm,Albania,Goalkeeper
+286,Samuele Ricci,Torino,23 years old (21-08-2001),181cm,Italy,Midfielder (Centre)
+287,Valentino Lazaro,Torino,29 years old (24-03-1996),180cm,Austria,"Defender (Right), Midfielder (Centre, Left, Right)"
+288,Nicolas Viola,Cagliari,35 years old (12-10-1989),180cm,Italy,Midfielder (Centre)
+289,Stefan Posch,Atalanta,27 years old (14-05-1997),190cm,Austria,"Defender (Centre, Right)"
+290,Thórir Helgason,Lecce,24 years old (28-09-2000),187cm,Iceland,Attacking Midfielder (Centre)
+291,Sofyan Amrabat,Fenerbahce,28 years old (21-08-1996),183cm,Morocco,"Defender (Left), Defensive Midfielder (C)"
+292,Lorenzo De Silvestri,Bologna,36 years old (23-05-1988),186cm,Italy,"Defender (Right), Midfielder (Right)"
+293,Magnus Kofod Andersen,Venezia,25 years old (10-05-1999),176cm,Denmark,Midfielder (Centre)
+294,Casper Tengstedt,Verona,24 years old (01-06-2000),184cm,Denmark,Forward
+295,Tomás Suslov,Verona,22 years old (07-06-2002),173cm,Slovakia,"Midfielder (Centre, Left, Right)"
+296,Lloyd Kelly,Juventus,26 years old (06-10-1998),178cm,England,"Defender (Centre, Left)"
+297,Giovanni Leoni,Parma Calcio 1913,18 years old (21-12-2006),189cm,Italy,Defender (Centre)
+298,José Palomino,Cagliari,35 years old (05-01-1990),188cm,Argentina,Defender (Centre)
+299,Tammy Abraham,AC Milan,27 years old (02-10-1997),190cm,England,Forward
+300,Marko Arnautovic,Inter,36 years old (19-04-1989),192cm,Austria,"Attacking Midfielder (Centre, Left, Right), Forward"
+301,Stefano Sabelli,Genoa,32 years old (13-01-1993),176cm,Italy,"Defender (Right), Midfielder (Right)"
+302,Nicolò Fagioli,Fiorentina,24 years old (12-02-2001),178cm,Italy,Defensive Midfielder (C)
+303,Michel Aebischer,Bologna,28 years old (06-01-1997),183cm,Switzerland,"Midfielder (Centre, Left, Right)"
+304,Alessandro Zanoli,Genoa,24 years old (03-10-2000),188cm,Italy,"Defender (Right), Midfielder (Right)"
+305,Jurgen Ekkelenkamp,Udinese,25 years old (05-04-2000),188cm,Netherlands,"Midfielder (Centre, Left)"
+306,Santiago Pierotti,Lecce,24 years old (03-04-2001),189cm,Argentina,"Attacking Midfielder (Centre, Right), Forward"
+307,Valentin Mihaila,Parma Calcio 1913,25 years old (02-02-2000),173cm,Romania,Attacking Midfielder (Left)
+308,Piotr Zielinski,Inter,30 years old (20-05-1994),180cm,Poland,"Midfielder (Centre, Left, Right)"
+309,Keinan Davis,Udinese,27 years old (13-02-1998),191cm,England,Forward
+310,Liberato Cacace,Empoli,24 years old (27-09-2000),183cm,New Zealand,"Defender (Centre, Left), Midfielder (Centre, Left)"
+311,Davide Calabria,Bologna,28 years old (06-12-1996),177cm,Italy,"Defender (Left, Right), Midfielder (Right)"
+312,Michael Folorunsho,Fiorentina,27 years old (07-02-1998),190cm,Italy,"Midfielder (Centre, Right)"
+313,Davide Frattesi,Inter,25 years old (22-09-1999),178cm,Italy,Defensive Midfielder (C)
+314,Lukasz Skorupski,Bologna,33 years old (05-05-1991),187cm,Poland,Goalkeeper
+315,Gvidas Gineitis,Torino,21 years old (15-04-2004),187cm,Lithuania,Midfielder (Centre)
+316,Devis Vásquez,Empoli,26 years old (12-05-1998),195cm,Colombia,Goalkeeper
+317,Gaetano Oristanio,Venezia,22 years old (28-09-2002),175cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+318,Alberto Grassi,Empoli,30 years old (07-03-1995),183cm,Italy,Defensive Midfielder (C)
+319,Leandro Chichizola,Spezia,35 years old (27-03-1990),185cm,Argentina,Goalkeeper
+320,Matías Vecino,Lazio,33 years old (24-08-1991),187cm,Uruguay,Midfielder (Centre)
+321,Billy Gilmour,Napoli,23 years old (11-06-2001),170cm,Scotland,Defensive Midfielder (C)
+322,Vítinha,Genoa,25 years old (15-03-2000),178cm,,Forward
+323,Kacper Urbanski,Monza,20 years old (07-09-2004),183cm,Poland,"Attacking Midfielder (Centre, Left)"
+324,Luca Marianucci,Empoli,20 years old (23-07-2004),186cm,Italy,Defender (Centre)
+325,Abdou Harroui,Verona,27 years old (13-01-1998),182cm,Netherlands,"Midfielder (Centre, Left, Right)"
+326,Lorenzo Colombo,Empoli,23 years old (08-03-2002),186cm,Italy,"Attacking Midfielder (Centre), Forward"
+327,Dany Mota,Monza,26 years old (02-05-1998),180cm,Portugal,"Attacking Midfielder (Centre, Left), Forward"
+328,Emmanuel Gyasi,Empoli,31 years old (11-01-1994),181cm,Ghana,"Midfielder (Centre, Left, Right), Forward"
+329,Gabriele Zappa,Cagliari,25 years old (22-12-1999),180cm,Italy,"Defender (Centre, Right), Midfielder (Right)"
+330,Daniel Mosquera,Verona,25 years old (20-10-1999),181cm,Colombia,Forward
+331,Simon Sohm,Parma Calcio 1913,24 years old (11-04-2001),188cm,Switzerland,Midfielder (Centre)
+332,Semuel Pizzignacco,Monza,23 years old (01-09-2001),188cm,Italy,Goalkeeper
+333,Federico Ravaglia,Bologna,25 years old (11-11-1999),196cm,Italy,Goalkeeper
+334,Jacopo Fazzini,Empoli,22 years old (16-03-2003),178cm,Italy,Attacking Midfielder (Centre)
+335,João Félix,AC Milan,25 years old (10-11-1999),181cm,Portugal,"Attacking Midfielder (Centre, Left), Forward"
+336,Rafael Tolói,Atalanta,34 years old (10-10-1990),185cm,Italy,Defender (Centre)
+337,Riccardo Sottil,AC Milan,25 years old (03-06-1999),180cm,Italy,"Attacking Midfielder (Left, Right)"
+338,Nicolò Casale,Bologna,27 years old (14-02-1998),191cm,Italy,Defender (Centre)
+339,Matteo Pessina,Monza,28 years old (21-04-1997),187cm,Italy,"Midfielder (Centre, Right)"
+340,Cristiano Biraghi,Torino,32 years old (01-09-1992),185cm,Italy,"Defender (Centre, Left), Midfielder (Left)"
+341,Alessandro Vogliacco,Parma Calcio 1913,26 years old (14-09-1998),186cm,Italy,Defender (Centre)
+342,Marin Sverko,Venezia,27 years old (04-02-1998),187cm,Croatia,Defender (Centre)
+343,Ivan Provedel,Lazio,31 years old (17-03-1994),194cm,Italy,Goalkeeper
+344,Eldor Shomurodov,Roma,29 years old (29-06-1995),190cm,Uzbekistan,"Attacking Midfielder (Centre), Forward"
+345,Kristjan Asllani,Inter,23 years old (09-03-2002),175cm,Albania,Defensive Midfielder (C)
+346,Sergi Roberto,Como,33 years old (07-02-1992),178cm,Spain,"Defender (Right), Midfielder (Centre, Right)"
+347,Martin Erlic,Bologna,27 years old (24-01-1998),192cm,Croatia,Defender (Centre)
+348,Gabriel Charpentier,Parma Calcio 1913,25 years old (17-05-1999),188cm,France,Forward
+349,Lorenzo Montipò,Verona,29 years old (20-02-1996),191cm,Italy,Goalkeeper
+350,Michel Adopo,Cagliari,24 years old (19-07-2000),187cm,France,Defensive Midfielder (C)
+351,Odilon Kossounou,Atalanta,24 years old (04-01-2001),191cm,,"Defender (Centre, Right)"
+352,Mattia Felici,Cagliari,24 years old (17-04-2001),182cm,Italy,Midfielder (Left)
+353,Samuele Birindelli,Monza,25 years old (19-07-1999),175cm,Italy,"Defender (Right), Midfielder (Right)"
+354,Junior Messias,Genoa,33 years old (13-05-1991),174cm,Brazil,"Midfielder (Centre, Right), Forward"
+355,Luca Caldirola,Monza,34 years old (01-02-1991),186cm,Italy,"Defender (Centre, Left)"
+356,Manuel Lazzari,Lazio,31 years old (29-11-1993),174cm,Italy,"Defender (Right), Midfielder (Right)"
+357,Ylber Ramadani,Lecce,29 years old (12-04-1996),185cm,,Defensive Midfielder (C)
+358,Reda Belahyane,Lazio,20 years old (01-06-2004),169cm,France,Defensive Midfielder (C)
+359,Douglas Luiz,Juventus,26 years old (09-05-1998),175cm,Brazil,Midfielder (Centre)
+360,Luka Jovic,AC Milan,27 years old (23-12-1997),181cm,Serbia,Forward
+361,Jackson Tchatchoua,Verona,23 years old (14-09-2001),186cm,Cameroon,"Defender (Right), Midfielder (Left, Right)"
+362,Suat Serdar,Verona,28 years old (11-04-1997),184cm,Germany,"Midfielder (Centre, Left, Right)"
+363,Christian Kouamé,Empoli,27 years old (06-12-1997),188cm,Ivory Coast,"Attacking Midfielder (Left, Right), Forward"
+364,Pepe Reina,Como,42 years old (31-08-1982),188cm,Spain,Goalkeeper
+365,Alfred Duncan,Venezia,32 years old (10-03-1993),178cm,Ghana,Defensive Midfielder (C)
+366,Fisayo Dele-Bashiru,Lazio,24 years old (06-02-2001),176cm,Nigeria,"Midfielder (Centre, Left)"
+367,Sebastian Walukiewicz,Torino,25 years old (05-04-2000),188cm,Poland,"Defender (Centre, Right)"
+368,Mandela Keita,Parma Calcio 1913,22 years old (10-05-2002),180cm,Belgium,Defensive Midfielder (C)
+369,Tasos Douvikas,Como,25 years old (02-08-1999),186cm,Greece,"Attacking Midfielder (Right), Forward"
+370,Gaby Jean,Lecce,25 years old (19-02-2000),191cm,France,Defender (Centre)
+371,Razvan Marin,Cagliari,28 years old (23-05-1996),178cm,Romania,Midfielder (Centre)
+372,Amin Sarr,Verona,24 years old (11-03-2001),188cm,Sweden,"Attacking Midfielder (Left), Forward"
+373,Gianluca Gaetano,Cagliari,24 years old (05-05-2000),183cm,Italy,Attacking Midfielder (Centre)
+374,Yannik Engelhardt,Como,24 years old (07-02-2001),184cm,Germany,Defensive Midfielder (C)
+375,Medon Berisha,Lecce,21 years old (21-10-2003),186cm,,Attacking Midfielder (Centre)
+376,Fabiano Parisi,Fiorentina,24 years old (09-11-2000),178cm,Italy,"Defender (Left, Right), Midfielder (Left)"
+377,Niccolò Pisilli,Roma,20 years old (23-09-2004),181cm,Italy,Attacking Midfielder (Centre)
+378,Edoardo Goldaniga,Como,31 years old (02-11-1993),193cm,Italy,"Defender (Centre, Right)"
+379,Nahuel Estévez,Parma Calcio 1913,29 years old (14-11-1995),181cm,Argentina,"Defensive Midfielder (C), Midfielder (Right)"
+380,Cheikh Niasse,Verona,25 years old (19-01-2000),188cm,,Defensive Midfielder (C)
+381,Mërgim Vojvoda,Como,30 years old (01-02-1995),187cm,Kosovo,"Defender (Centre, Right), Midfielder (Left, Right)"
+382,Alessandro Vogliacco,Parma Calcio 1913,26 years old (14-09-1998),186cm,Italy,Defender (Centre)
+383,Nicola Zalewski,Inter,23 years old (23-01-2002),175cm,Poland,"Defender (Left), Midfielder (Left, Right)"
+384,Domagoj Bradaric,Verona,25 years old (10-12-1999),178cm,Croatia,"Defender (Left), Midfielder (Left)"
+385,Alan Matturro,Genoa,20 years old (11-10-2004),189cm,Uruguay,Defender (Centre)
+386,Darko Lazovic,Verona,34 years old (15-09-1990),181cm,Serbia,"Midfielder (Centre, Left, Right)"
+387,Pietro Pellegri,Empoli,24 years old (17-03-2001),196cm,Italy,Forward
+388,Karol Linetty,Torino,30 years old (02-02-1995),176cm,Poland,"Midfielder (Centre, Left, Right)"
+389,Alessandro Bianco,Monza,22 years old (01-10-2002),173cm,Italy,Midfielder (Centre)
+390,Saba Goglichidze,Empoli,20 years old (25-06-2004),193cm,Georgia,Defender (Centre)
+391,Lassana Coulibaly,Lecce,29 years old (10-04-1996),183cm,Mali,"Midfielder (Centre, Left)"
+392,Pedro Pereira,Monza,27 years old (22-01-1998),185cm,Portugal,"Defender (Centre, Right), Midfielder (Left, Right)"
+393,Arthur Atta,Udinese,22 years old (14-01-2003),189cm,France,"Attacking Midfielder (Centre, Right)"
+394,Alberto Moreno,Como,32 years old (05-07-1992),171cm,Spain,"Defender (Left), Midfielder (Left)"
+395,Youssef Maleh,Empoli,26 years old (22-08-1998),179cm,Italy,Attacking Midfielder (Centre)
+396,Yunus Musah,AC Milan,22 years old (29-11-2002),178cm,USA,"Midfielder (Centre, Right)"
+397,Alessandro Circati,Parma Calcio 1913,21 years old (10-10-2003),190cm,Italy,Defender
+398,Amir Richardson,Fiorentina,23 years old (24-01-2002),197cm,France,Defensive Midfielder (C)
+399,Alessandro Deiola,Cagliari,29 years old (01-08-1995),189cm,Italy,Defensive Midfielder (C)
+400,Patrick Ciurria,Monza,30 years old (09-02-1995),178cm,Italy,"Midfielder (Centre, Left, Right)"
+401,Danilo,Flamengo,33 years old (15-07-1991),184cm,Brazil,"Defender (Centre, Left, Right), Defensive Midfielder (C)"
+402,Pasquale Mazzocchi,Napoli,29 years old (27-07-1995),183cm,Italy,"Defender (Left, Right), Midfielder (Left, Right)"
+403,Zito Luvumbo,Cagliari,23 years old (09-03-2002),171cm,Angola,"Attacking Midfielder (Centre, Left), Forward"
+404,Marco Brescianini,Atalanta,25 years old (20-01-2000),188cm,Italy,Midfielder (Centre)
+405,Pierluigi Gollini,Genoa,30 years old (18-03-1995),194cm,Italy,Goalkeeper
+406,Balthazar Pierret,Lecce,24 years old (15-05-2000),186cm,France,Defensive Midfielder (C)
+407,Mattia Liberali,AC Milan,18 years old (06-04-2007),169cm,Italy,Forward
+408,Alessandro Marcandalli,Venezia,22 years old (25-10-2002),195cm,,Defender (Centre)
+409,Luca Mazzitelli,Sassuolo,29 years old (15-11-1995),184cm,Italy,Defensive Midfielder (C)
+410,Rafa Marín,Napoli,22 years old (19-05-2002),191cm,Spain,Defender (Centre)
+411,Liam Henderson,Empoli,29 years old (25-04-1996),183cm,Scotland,Attacking Midfielder (Centre)
+412,Anas Haj Mohamed,Parma Calcio 1913,20 years old (26-03-2005),175cm,,Forward
+413,Nicolò Zaniolo,Fiorentina,25 years old (02-07-1999),190cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+414,Joaquín Correa,Inter,30 years old (13-08-1994),189cm,Argentina,"Attacking Midfielder (Centre, Left), Forward"
+415,Giangiacomo Magnani,Palermo,29 years old (04-10-1995),190cm,Italy,Defender (Centre)
+416,Pontus Almqvist,Parma Calcio 1913,25 years old (10-07-1999),183cm,Sweden,"Attacking Midfielder (Left, Right), Forward"
+417,Noah Okafor,Napoli,24 years old (24-05-2000),185cm,Switzerland,"Attacking Midfielder (Left), Forward"
+418,Tommaso Baldanzi,Roma,22 years old (23-03-2003),176cm,Italy,"Attacking Midfielder (Centre, Right)"
+419,Fellipe Jack,Como,19 years old (12-01-2006),187cm,,Defender
+420,Filippo Terracciano,AC Milan,22 years old (08-02-2003),180cm,Italy,"Defender (Left), Midfielder (Right)"
+421,Marco Sportiello,AC Milan,32 years old (10-05-1992),192cm,Italy,Goalkeeper
+422,Anass Salah-Eddine,Roma,23 years old (18-01-2002),180cm,Netherlands,"Defender (Left), Defensive Midfielder (C)"
+423,Warren Bondo,AC Milan,21 years old (15-09-2003),177cm,France,Defensive Midfielder (C)
+424,Matías Moreno,Fiorentina,21 years old (24-09-2003),193cm,,Defender (Centre)
+425,Tyronne Ebuehi,Empoli,29 years old (16-12-1995),187cm,Nigeria,"Defender (Left, Right)"
+426,Florinel Coman,Cagliari,27 years old (10-04-1998),182cm,Romania,Attacking Midfielder (Left)
+427,Antoine Bernede,Verona,25 years old (26-05-1999),178cm,France,Midfielder (Centre)
+428,Grigoris Kastanos,Verona,27 years old (30-01-1998),176cm,Cyprus,"Midfielder (Centre, Right)"
+429,Samuel Iling-Junior,Middlesbrough,21 years old (04-10-2003),182cm,England,"Defender (Left), Midfielder (Left)"
+430,Noah Okafor,Napoli,24 years old (24-05-2000),185cm,Switzerland,"Attacking Midfielder (Left), Forward"
+431,Jean-Daniel Akpa Akpro,Monza,32 years old (11-10-1992),180cm,Ivory Coast,"Defender (Right), Midfielder (Centre, Left, Right)"
+432,Francesco Zampano,Venezia,31 years old (30-09-1993),177cm,Italy,"Defender (Right), Midfielder (Left, Right)"
+433,Pawel Dawidowicz,Verona,29 years old (20-05-1995),189cm,Poland,"Defender (Centre), Defensive Midfielder (C)"
+434,Giorgio Scalvini,Atalanta,21 years old (11-12-2003),194cm,Italy,Defender (Centre)
+435,Oussama El Azzouzi,Bologna,23 years old (29-05-2001),189cm,Netherlands,Defensive Midfielder (C)
+436,Lucas Gourna-Douath,Roma,21 years old (05-08-2003),185cm,France,Defensive Midfielder (C)
+437,Ivan Ilic,Torino,24 years old (17-03-2001),186cm,Serbia,Midfielder (Centre)
+438,Stefano Sensi,Monza,29 years old (05-08-1995),168cm,Italy,Attacking Midfielder (Centre)
+439,Isaak Touré,Udinese,22 years old (28-03-2003),206cm,,Defender (Centre)
+440,Konan N’Dri,Lecce,24 years old (27-10-2000),174cm,,"Midfielder (Left, Right), Forward"
+441,Gianluca Caprari,Monza,31 years old (30-07-1993),176cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+442,Michael Kayode,Brentford,20 years old (10-07-2004),179cm,,Defender (Right)
+443,Antoine Makoumbou,Cagliari,26 years old (18-07-1998),183cm,Congo,Defensive Midfielder (C)
+444,Patric,Lazio,32 years old (17-04-1993),184cm,Spain,"Defender (Centre, Right), Midfielder (Right)"
+445,Simone Scuffet,Napoli,28 years old (31-05-1996),193cm,Italy,Goalkeeper
+446,Cheick Conde,Venezia,24 years old (26-07-2000),185cm,Guinea,Midfielder
+447,Milan Djuric,Parma Calcio 1913,34 years old (22-05-1990),198cm,Bosnia-Herzegovina,Forward
+448,Ridgeciano Haps,Venezia,31 years old (12-06-1993),175cm,Netherlands,"Defender (Left), Midfielder (Left)"
+449,Thijs Dallinga,Bologna,24 years old (03-08-2000),180cm,Netherlands,Forward
+450,Flavius Daniliuc,Verona,24 years old (27-04-2001),188cm,Austria,"Defender (Centre, Right)"
+451,Andrea Belotti,Benfica,31 years old (20-12-1993),181cm,Italy,Forward
+452,Tijjani Noslin,Lazio,25 years old (07-07-1999),180cm,Netherlands,"Attacking Midfielder (Left, Right), Forward"
+453,Gaetano Castrovilli,Monza,28 years old (17-02-1997),176cm,Italy,"Midfielder (Centre, Left)"
+454,Woyo Coulibaly,Leicester,25 years old (26-05-1999),188cm,France,Defender (Right)
+455,Mehdi Taremi,Inter,32 years old (18-07-1992),185cm,Iran,"Attacking Midfielder (Left), Forward"
+456,Marco Silvestri,Empoli,34 years old (02-03-1991),191cm,Italy,Goalkeeper
+457,Tomás Palacios,Monza,22 years old (28-04-2003),196cm,Argentina,Defender (Centre)
+458,Caleb Ekuban,Genoa,31 years old (23-03-1994),188cm,Ghana,"Attacking Midfielder (Centre, Left, Right), Forward"
+459,Nicola Zalewski,Inter,23 years old (23-01-2002),175cm,Poland,"Defender (Left), Midfielder (Left, Right)"
+460,Enzo Ebosse,Jagiellonia Bialystok,26 years old (11-03-1999),185cm,Cameroon,Defender (Centre)
+461,Nicolò Fagioli,Fiorentina,24 years old (12-02-2001),178cm,Italy,Defensive Midfielder (C)
+462,Keita Baldé,Monza,30 years old (08-03-1995),181cm,Senegal,"Attacking Midfielder (Left, Right), Forward"
+463,Lameck Banda,Lecce,24 years old (29-01-2001),169cm,Zambia,Attacking Midfielder (Left)
+464,Leonardo Pavoletti,Cagliari,36 years old (26-11-1988),188cm,Italy,Forward
+465,Mateusz Kowalski,Parma Calcio 1913,19 years old (21-07-2005),197cm,Poland,Midfielder
+466,Drissa Camara,Parma Calcio 1913,23 years old (18-02-2002),179cm,Ivory Coast,Midfielder
+467,Antonio Sanabria,Torino,29 years old (04-03-1996),180cm,Paraguay,Forward
+468,Matteo Prati,Cagliari,21 years old (28-12-2003),183cm,,Defensive Midfielder (C)
+469,Alieu Njie,Torino,19 years old (14-05-2005),171cm,Sweden,Forward
+470,Franco Carboni,Venezia,22 years old (04-04-2003),190cm,Argentina,Defender
+471,Jonathan Ikoné,Como,26 years old (02-05-1998),175cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+472,Alberto Costa,Juventus,21 years old (29-09-2003),186cm,,Defender (Right)
+473,Danilo D'Ambrosio,Monza,36 years old (09-09-1988),180cm,Italy,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+474,Danilo Veiga,Lecce,22 years old (25-09-2002),183cm,Portugal,"Defender (Right), Midfielder (Right)"
+475,Issa Doumbia,Venezia,21 years old (16-10-2003),187cm,Italy,Midfielder (Centre)
+476,Marco Palestra,Atalanta,20 years old (03-03-2005),186cm,Italy,Midfielder
+477,Mattia De Sciglio,Empoli,32 years old (20-10-1992),182cm,Italy,"Defender (Centre, Left, Right), Midfielder (Left, Right)"
+478,Rui Modesto,Udinese,25 years old (07-10-1999),181cm,Angola,Midfielder
+479,Federico Barba,FC Sion,31 years old (01-09-1993),187cm,Italy,"Defender (Centre, Left)"
+480,Jean Onana,Genoa,25 years old (08-01-2000),189cm,Cameroon,Defensive Midfielder (C)
+481,Vasilije Adzic,Juventus,18 years old (12-05-2006),185cm,Montenegro,Midfielder
+482,Cyril Ngonge,Napoli,24 years old (26-05-2000),179cm,Belgium,"Attacking Midfielder (Centre, Right), Forward"
+483,Andy Pelmard,Las Palmas,25 years old (12-03-2000),181cm,France,"Defender (Centre, Right)"
+484,Oier Zarraga,Udinese,26 years old (04-01-1999),175cm,Spain,"Defensive Midfielder (C), Midfielder (Right)"
+485,John Yeboah,Venezia,24 years old (23-06-2000),170cm,Ecuador,"Attacking Midfielder (Right), Forward"
+486,Daniel Maldini,Atalanta,23 years old (11-10-2001),188cm,Italy,"Attacking Midfielder (Centre, Left), Forward"
+487,Reda Belahyane,Lazio,20 years old (01-06-2004),169cm,France,Defensive Midfielder (C)
+488,Jonas Rouhi,Juventus,21 years old (07-01-2004),183cm,Sweden,Defender
+489,Nicolas Haas,Empoli,29 years old (23-01-1996),178cm,Switzerland,Defensive Midfielder (C)
+490,Davide Faraoni,Verona,33 years old (25-10-1991),180cm,Italy,"Defender (Right), Midfielder (Right)"
+491,Mohamed Kaba,Lecce,23 years old (27-10-2001),185cm,France,Midfielder (Centre)
+492,Mateusz Wieteska,PAOK Thessaloniki FC,28 years old (11-02-1997),187cm,Poland,Defender (Centre)
+493,Honest Ahanor,Genoa,17 years old (23-02-2008),184cm,Italy,Defender
+494,Nicolò Zaniolo,Fiorentina,25 years old (02-07-1999),190cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+495,Antonio Candela,Real Valladolid,25 years old (27-04-2000),185cm,Italy,"Defender (Centre, Right), Midfielder (Right)"
+496,Kevin Martins,Monza,20 years old (31-01-2005),180cm,Italy,Forward
+497,Jeff Ekhator,Genoa,18 years old (11-11-2006),190cm,Italy,Forward
+498,Joël Schingtienne,Venezia,22 years old (14-08-2002),188cm,Belgium,"Defender (Centre, Right)"
+499,Alphadjo Cissè,Verona,18 years old (22-10-2006),178cm,,Forward
+500,Cher Ndour,Fiorentina,20 years old (27-07-2004),190cm,Italy,Defensive Midfielder (C)
+501,Tajon Buchanan,Villarreal,26 years old (08-02-1999),183cm,Canada,"Defender (Right), Midfielder (Centre, Left, Right)"
+502,Junior Sambia,Empoli,28 years old (07-09-1996),185cm,France,"Defender (Right), Midfielder (Centre, Left, Right)"
+503,Lior Kassa,Genoa,19 years old (27-09-2005),185cm,Israel,Midfielder
+504,Daniele Baselli,Como,33 years old (12-03-1992),182cm,Italy,Midfielder (Centre)
+505,Iker Bravo,Udinese,20 years old (13-01-2005),182cm,Spain,Forward
+506,Adrien Tameze,Torino,31 years old (04-02-1994),180cm,France,"Defender (Centre), Midfielder (Centre)"
+507,Giovanni Fabbian,Bologna,22 years old (14-01-2003),186cm,Italy,Attacking Midfielder (Centre)
+508,Gianluca Lapadula,Spezia,35 years old (07-02-1990),178cm,Peru,Forward
+509,Lorenzo Anghelè,Juventus,20 years old (26-02-2005),,,Forward
+510,Mitchel Bakker,Lille,24 years old (20-06-2000),185cm,Netherlands,"Defender (Left), Midfielder (Left, Right)"
+511,Jesper Karlsson,Lecce,26 years old (25-07-1998),171cm,Sweden,"Attacking Midfielder (Left, Right), Forward"
+512,Ola Solbakken,Empoli,26 years old (07-09-1998),189cm,Norway,"Attacking Midfielder (Centre, Right)"
+513,Marco Sala,Lecce,25 years old (04-06-1999),182cm,Italy,Defender
+514,Federico Cassa,Atalanta,19 years old (01-02-2006),176cm,,Midfielder
+515,Marcus Pedersen,Torino,24 years old (16-07-2000),184cm,Norway,"Defender (Left, Right), Midfielder (Right)"
+516,Ante Rebic,Lecce,31 years old (21-09-1993),185cm,Croatia,"Attacking Midfielder (Centre, Left, Right), Forward"
+517,Gianluca Scamacca,Atalanta,26 years old (01-01-1999),196cm,Italy,Forward
+518,Kevin Zeroli,Monza,20 years old (11-01-2005),176cm,Italy,Midfielder
+519,Tommaso Rubino,Fiorentina,18 years old (10-11-2006),170cm,,Midfielder
+520,Riccardo Sottil,AC Milan,25 years old (03-06-1999),180cm,Italy,"Attacking Midfielder (Left, Right)"
+521,Ibrahim Sulemana,Atalanta,21 years old (22-05-2003),180cm,Ghana,Defensive Midfielder (C)
+522,Gastón Pereiro,Bari,29 years old (11-06-1995),188cm,Uruguay,"Attacking Midfielder (Centre, Left, Right), Forward"
+523,Kacper Urbanski,Monza,20 years old (07-09-2004),183cm,Poland,"Attacking Midfielder (Centre, Left)"
+524,Kevin Bonifazi,Lecce,28 years old (19-05-1996),187cm,Italy,Defender (Centre)
+525,Jesper Karlsson,Lecce,26 years old (25-07-1998),171cm,Sweden,"Attacking Midfielder (Left, Right), Forward"
+526,Rémi Oudin,Sampdoria,28 years old (18-11-1996),185cm,France,"Midfielder (Centre, Left, Right), Forward"
+527,Brooke Norton-Cuffy,Genoa,21 years old (12-01-2004),181cm,England,"Defender (Right), Midfielder (Right)"
+528,Filippo Melegoni,Carrarese,26 years old (18-02-1999),186cm,Italy,"Midfielder (Centre, Right)"
+529,Emil Bohinen,Frosinone,26 years old (12-03-1999),189cm,Norway,Defensive Midfielder (C)
+530,Alessio Iovine,Como,34 years old (01-02-1991),174cm,Italy,Midfielder
+531,Mathis Lambourde,Verona,19 years old (09-01-2006),179cm,France,Forward
+532,Warren Bondo,AC Milan,21 years old (15-09-2003),177cm,France,Defensive Midfielder (C)
+533,James Abankwah,Watford,21 years old (16-01-2004),182cm,Ireland,Defender (Centre)
+534,Dani Silva,FC Midtjylland,25 years old (11-04-2000),180cm,Portugal,Defensive Midfielder (C)
+535,Francesco Camarda,AC Milan,17 years old (10-03-2008),184cm,Italy,Forward
+536,Vanja Vlahovic,Atalanta,21 years old (23-03-2004),184cm,Serbia,Forward
+537,Daniel Oyegoke,Verona,22 years old (03-01-2003),188cm,England,"Defender (Centre, Right), Midfielder (Right)"
+538,Jacopo Bacci,Empoli,19 years old (19-06-2005),173cm,Italy,Midfielder
+539,Arvid Brorsson,Monza,25 years old (08-05-1999),188cm,Sweden,Defender (Centre)
+540,Simone Verdi,Sassuolo,32 years old (12-07-1992),171cm,Italy,"Attacking Midfielder (Centre, Left, Right), Forward"
+541,Kevin Zeroli,Monza,20 years old (11-01-2005),176cm,Italy,Midfielder
+542,Mirko Maric,Venezia,29 years old (16-05-1995),188cm,Croatia,Forward
+543,Yann Karamoh,Torino,26 years old (08-07-1998),185cm,France,"Attacking Midfielder (Centre, Left, Right), Forward"
+544,Alessandro Gabrielloni,Como,30 years old (10-07-1994),178cm,Italy,Forward
+545,Bjarki Bjarkason,Venezia,24 years old (11-05-2000),180cm,Iceland,Midfielder
+546,Alexis Sánchez,Udinese,36 years old (19-12-1988),169cm,Chile,"Midfielder (Centre, Left, Right), Forward"
+547,Mathias Løvik,Parma Calcio 1913,21 years old (06-12-2003),183cm,,Defender
+548,Loum Tchaouna,Lazio,21 years old (08-09-2003),180cm,France,"Attacking Midfielder (Centre, Right), Forward"
+549,Christian Gytkjær,Venezia,34 years old (06-05-1990),185cm,Denmark,Forward
+550,Gaetano Castrovilli,Monza,28 years old (17-02-1997),176cm,Italy,"Midfielder (Centre, Left)"
+551,Alberto Manzoni,Atalanta,19 years old (25-06-2005),178cm,Italy,Midfielder
+552,Omari Forson,Monza,20 years old (20-07-2004),179cm,England,Forward
+553,Faride Alidou,Kaiserslautern,23 years old (18-07-2001),186cm,Germany,"Attacking Midfielder (Left, Right)"
+554,Roberto Gagliardini,Monza,31 years old (07-04-1994),190cm,Italy,Defensive Midfielder (C)
+555,Giovanni Simeone,Napoli,29 years old (05-07-1995),180cm,Argentina,"Attacking Midfielder (Right), Forward"
+556,Wylan Cyprien,Parma Calcio 1913,30 years old (28-01-1995),180cm,France,Midfielder (Centre)
+557,Emmanuel Ekong,Malmoe FF,22 years old (25-06-2002),176cm,Sweden,Forward
+558,Domen Crnigoj,Venezia,29 years old (18-11-1995),188cm,Slovenia,"Attacking Midfielder (Centre, Right)"
+559,Simone Pafundi,Udinese,19 years old (14-03-2006),166cm,Italy,Midfielder
+560,Dailon Livramento,Verona,23 years old (04-05-2001),185cm,,Forward
+561,Mirko Maric,Venezia,29 years old (16-05-1995),188cm,Croatia,Forward
+562,Tomás Palacios,Monza,22 years old (28-04-2003),196cm,Argentina,Defender (Centre)
+563,Yordan Osorio,Parma Calcio 1913,30 years old (10-05-1994),189cm,Venezuela,Defender (Centre)
+564,Ben Kone,Frosinone,25 years old (14-03-2000),172cm,Ivory Coast,Midfielder
+565,Sergiu Perciun,Torino,19 years old (23-04-2006),175cm,Moldova,Midfielder
+566,Ismael Konaté,Empoli,19 years old (29-03-2006),183cm,Italy,Forward
+567,Nicola Sansone,Lecce,33 years old (10-09-1991),175cm,Italy,"Attacking Midfielder (Left, Right), Forward"
+568,Adrian Benedyczak,Parma Calcio 1913,24 years old (24-11-2000),191cm,Poland,Forward
+569,Richie Sagrado,Venezia,21 years old (30-01-2004),182cm,,"Defender (Right), Midfielder (Right)"
+570,Lorenzo Venturino,Genoa,18 years old (22-06-2006),169cm,,Forward
+571,Oliver Provstgaard,Lazio,21 years old (04-06-2003),194cm,Denmark,Defender
+572,Viktor Kovalenko,Empoli,29 years old (14-02-1996),182cm,Ukraine,Midfielder (Centre)
+573,Silvere Ganvoula,Monza,28 years old (29-06-1996),191cm,Congo,Forward
+574,Ali Jasim,Almere City FC,21 years old (20-01-2004),178cm,,Midfielder
+575,Alessandro Marcandalli,Venezia,22 years old (25-10-2002),195cm,,Defender (Centre)
+576,Samuel Dahl,Benfica,22 years old (04-03-2003),174cm,Sweden,Defender
+577,Alessandro Bianco,Monza,22 years old (01-10-2002),173cm,Italy,Midfielder (Centre)
+578,Szymon Zurkowski,Empoli,27 years old (25-09-1997),185cm,Poland,Attacking Midfielder (Centre)
+579,Francesco Caputo,Empoli,37 years old (06-08-1987),181cm,Italy,Forward
+580,Marco Sala,Lecce,25 years old (04-06-1999),182cm,Italy,Defender
+581,Ben Godfrey,Ipswich,27 years old (15-01-1998),184cm,England,"Defender (Centre, Left, Right)"
+582,Filip Marchwinski,Lecce,23 years old (10-01-2002),187cm,Poland,Midfielder
+583,Oliver Abildgaard,Pisa,28 years old (10-06-1996),192cm,Denmark,Defensive Midfielder (C)
+584,Samuele Vignato,Monza,21 years old (24-02-2004),172cm,Italy,Attacking Midfielder (Centre)
+585,Daniel Fila,Venezia,22 years old (21-08-2002),,Czech Republic,Forward
+586,Nicholas Pierini,Sassuolo,26 years old (06-08-1998),176cm,Italy,Forward
+587,Ali Dembélé,Torino,21 years old (05-01-2004),185cm,France,Defender
+588,Mario Balotelli,Genoa,34 years old (12-08-1990),189cm,Italy,Forward
+589,David Ankeye,Genoa,22 years old (22-05-2002),191cm,,Forward
+590,Emil Audero,Palermo,28 years old (18-01-1997),190cm,Italy,Goalkeeper
+591,Mattia Valoti,Cremonese,31 years old (06-09-1993),187cm,Italy,"Attacking Midfielder (Centre, Left)"
+592,Davide Bartesaghi,AC Milan,19 years old (29-12-2005),193cm,Italy,Defender
+593,Michael Folorunsho,Fiorentina,27 years old (07-02-1998),190cm,Italy,"Midfielder (Centre, Right)"
+594,Andrea Petagna,Monza,29 years old (30-06-1995),190cm,Italy,Forward
+595,Junior Ajayi,Verona,20 years old (11-10-2004),183cm,Ivory Coast,Forward
+596,Aaron Ciammaglichella,Torino,20 years old (26-01-2005),180cm,Italy,Midfielder
+597,Alessio Zerbin,Venezia,26 years old (03-03-1999),182cm,Italy,"Midfielder (Left, Right)"
+598,Kingstone Mutandwa,Cagliari,22 years old (05-01-2003),180cm,Zambia,Forward
+599,Lorenzo Tosto,Empoli,19 years old (29-01-2006),188cm,,Defender
+600,Nikita Contini,Napoli,28 years old (21-05-1996),190cm,Italy,Goalkeeper
+601,Nunzio Lella,Bari,24 years old (28-07-2000),186cm,Italy,Midfielder
+602,Tammy Abraham,AC Milan,27 years old (02-10-1997),190cm,England,Forward
+603,Yllan Okou,Verona,22 years old (23-12-2002),189cm,France,Defender
+604,Antonio Raimondo,Salernitana,21 years old (18-03-2004),185cm,Italy,Forward
+605,Bob Omoregbe,AC Milan,21 years old (05-11-2003),185cm,,Forward
+606,Petar Stojanovic,Salernitana,29 years old (07-10-1995),178cm,Slovenia,"Defender (Right), Midfielder (Right)"
+607,Stefan Lekovic,Monza,21 years old (09-01-2004),192cm,Serbia,Defender
+608,Walid Cheddira,Espanyol,27 years old (22-01-1998),187cm,Morocco,Forward
+609,Mario Hermoso,Bayer Leverkusen,29 years old (18-06-1995),184cm,Spain,"Defender (Centre, Left)"
+610,Diego Pugno,Juventus,18 years old (07-07-2006),174cm,,Forward
+611,Damián Pizarro,Udinese,20 years old (28-03-2005),187cm,Chile,Forward
+612,Saad El Haddad,Venezia,19 years old (24-07-2005),175cm,Morocco,Midfielder
+613,Federico Accornero,Genoa,21 years old (05-02-2004),175cm,,Midfielder
+614,Sebastian Otoa,Genoa,20 years old (13-05-2004),188cm,,Defender
+615,Maat Caprini,Fiorentina,19 years old (11-02-2006),180cm,,Forward
+616,Arijon Ibrahimovic,Lazio,19 years old (11-12-2005),176cm,Germany,Attacking Midfielder (Left)
+617,Alberto Cerri,Salernitana,29 years old (16-04-1996),194cm,Italy,Forward
+618,Saba Sazonov,Torino,23 years old (01-02-2002),192cm,Russia,Defender (Centre)
+619,Thomas Campaniello,Empoli,17 years old (29-02-2008),180cm,Italy,Forward
+620,Rares Burnete,Lecce,21 years old (31-01-2004),185cm,Romania,Forward
+621,Valentin Gendrey,Hoffenheim,24 years old (21-06-2000),179cm,France,"Defender (Right), Midfielder (Right)"
+622,Jacopo Seghetti,Empoli,20 years old (17-02-2005),189cm,Italy,Goalkeeper
+623,Matthias Braunöder,Como,23 years old (27-03-2002),173cm,Austria,Midfielder
+624,Dele Alli,Como,29 years old (11-04-1996),188cm,England,"Midfielder (Centre, Left), Forward"
