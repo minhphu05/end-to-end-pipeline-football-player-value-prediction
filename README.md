@@ -1,6 +1,10 @@
 # ⚽ Football Player Transfer Value Prediction  
 **End-to-End Data Pipeline (2024)**
 
+![](/resource/Transfermarkt_logo.png)
+
+![](/resource/whoscored.jpeg)
+
 ## 📌 Overview
 This project builds an **end-to-end data science pipeline** to predict **football players’ transfer market value in 2024**.
 
